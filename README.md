@@ -1,16 +1,20 @@
-# Lorcana Catalog Downloader & Processor
+# Lorcana Card Data Downloader & Processor
 
 ![Last Commit](https://img.shields.io/github/last-commit/beingwortmann/lorcana-api?style=flat-square)
-![Build Status](https://img.shields.io/github/workflow/status/beingwortmann/lorcana-api/CI?style=flat-square)
 ![Check for Updates](https://github.com/beingwortmann/lorcana-api/actions/workflows/check-for-changes.yml/badge.svg)
-![License](https://img.shields.io/github/license/beingwortmann/lorcana-api?style=flat-square)
-https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+![Uses SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+### My Card Scanner/Inventory App on the Appstore (Glimmer Scan) will be using this soon. I am thankful for every possible support
+
+[![Find my App using this on the Appstore](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/no/app/glimmer-scan/id6502996383)
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://buymeacoffee.com/glimmer)
 
 ---
 
 ## Overview
 
-This project is a fan-driven tool that automatically downloads, processes, and organizes the card catalog data and images for Lorcana TCG. It retrieves the latest JSON data and images, structures them by language and resolution, updates a SQLite database, and pushes the changes via GitHub Actions. This ensures that your repository always reflects the most recent catalog update.
+This project is a fan-driven tool that automatically downloads, processes, and organizes the card catalog data and images for Lorcana TCG. It retrieves the latest JSON data and images, structures them by language and resolution, updates a SQLite database, and pushes the changes via GitHub Actions. This ensures that this repo always reflects the most recent catalog update.
 
 ---
 
@@ -24,12 +28,6 @@ This project is a fan-driven tool that automatically downloads, processes, and o
 
 - **Image Download & Organization:**  
   Retrieves card images in multiple resolutions and organizes them into language-specific directories, including special folders for foil masks.
-
-- **Scheduled & Manual Updates:**  
-  Integrated with GitHub Actions to run on a schedule as well as manually via the GitHub Actions interface.
-
-- **Dynamic Last Updated Display:**  
-  The badges at the top show the time of the last commit, giving a visual indicator of when the data was last updated.
 
 ---
 
