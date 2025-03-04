@@ -1,0 +1,27 @@
+name: Test Git Push
+
+on: [push]
+
+jobs:
+  test-git-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Configure git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: Make a dummy commit
+        run: |
+          echo "Test commit" >> testfile.txt
+          git add testfile.txt
+          git commit -m "Test commit"
+
+      - name: Push changes
+        env:
+          GIT_HTTP_TIMEOUT: 600
+        run: git push
