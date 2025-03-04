@@ -2,7 +2,9 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/beingwortmann/lorcana-api?style=flat-square)
 ![Build Status](https://img.shields.io/github/workflow/status/beingwortmann/lorcana-api/CI?style=flat-square)
+![Check for Updates](https://github.com/beingwortmann/lorcana-api/actions/workflows/check-for-changes.yml/badge.svg)
 ![License](https://img.shields.io/github/license/beingwortmann/lorcana-api?style=flat-square)
+https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 
 ---
 
