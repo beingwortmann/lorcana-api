@@ -28,3 +28,5 @@ jobs:
 
       - name: Push changes
         run: git push
+        env:
+          GIT_HTTP_TIMEOUT: 600
