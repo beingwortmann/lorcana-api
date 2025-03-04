@@ -1,0 +1,28 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # run daily at midnight
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run price update script
+        run: python3 update_prices.py
+
+      - name: Commit updated DB
+        run: |
+          git add cardsWithPrices.db merged_products_and_prices.csv
+          git commit -m "Update cardsWithPrices.db with latest price data" || echo "No changes to commit"
+          git push
