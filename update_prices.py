@@ -14,7 +14,7 @@ if response.status_code != 200:
     print(f"Error loading groups from {groups_url}: {response.status_code}")
     exit(1)
 
-# Parse the JSON response. It may be a dict with a "results" key.
+# Parse the JSON response. Expecting a dict with a "results" key.
 groups_data = response.json()
 if isinstance(groups_data, dict) and "results" in groups_data:
     groups_list = groups_data["results"]
@@ -26,13 +26,10 @@ else:
 
 groups = {}
 for group in groups_list:
-    # Expect each group to have keys: groupId, chapter, abbreviation.
-    # In your output, there is no explicit "chapter" field, so we assume that the "publishedOn" date or "name" might be used instead.
-    # For now, we use groupId as key, and we assume "chapter" is the publishedOn year, and "abbreviation" as provided.
-    # Adjust this logic if necessary.
+    # Expect each group to have keys: groupId and abbreviation.
+    # We derive 'chapter' from the publishedOn field's year (if available) or default to "0".
     if "groupId" in group and "abbreviation" in group:
         group_id = group["groupId"]
-        # Use publishedOn or a default if not available. You may modify this.
         chapter = group.get("publishedOn", "0")[:4]  # Extract year as chapter
         abbreviation = group["abbreviation"]
         groups[group_id] = {"chapter": chapter, "abbreviation": abbreviation}
@@ -71,8 +68,13 @@ if not all_rows:
     print("No CSV rows to merge! Please check the groups and CSV endpoints.")
     exit(1)
 
+# Compute the union of all keys across all rows to account for extra fields
+all_fieldnames = set()
+for row in all_rows:
+    all_fieldnames.update(row.keys())
+fieldnames = sorted(all_fieldnames)  # sorting for consistency
+
 with open(merged_csv_path, "w", newline="", encoding="utf-8") as f:
-    fieldnames = list(all_rows[0].keys())
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
     for row in all_rows:
@@ -92,12 +94,14 @@ with open(merged_csv_path, "r", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     update_count = 0
     for row in reader:
+        # Only process rows where subTypeName is "Normal"
         if row.get("subTypeName", "") != "Normal":
             continue
         cardId = row["cardId"]
         lowPrice = row.get("lowPrice", None)
         midPrice = row.get("midPrice", None)
         marketPrice = row.get("marketPrice", None)
+        # Match using cardId by normalizing language markers in card_identifier
         query = """
         SELECT id FROM cards 
         WHERE REPLACE(REPLACE(REPLACE(card_identifier, '-DE-', '-EN-'), '-FR-', '-EN-'), '-IT-', '-EN-') = ?
