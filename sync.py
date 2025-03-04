@@ -7,13 +7,11 @@ import urllib.request
 import urllib.parse
 import ssl
 
-# Ermittelt den Dateinamen für eine Karte anhand ihres "card_identifier"
 def card_filename(card):
     parts = card["card_identifier"].replace("/", "_").split(" ")
     parts.reverse()
     return f"{'-'.join(parts)}.json"
 
-# Lädt den gesamten Katalog herunter und speichert ihn in einer strukturierten Ordnerhierarchie
 def download_catalog():
     token_auth = codecs.decode(
         (
@@ -30,13 +28,13 @@ def download_catalog():
         headers={"Authorization": token_auth, "User-Agent": ""},
     )
 
-    # Zertifikatsüberprüfung funktioniert jetzt, da die entsprechenden Zertifikate installiert sind.
     with urllib.request.urlopen(token_request) as f:
         token = json.loads(f.read().decode("utf-8"))
 
     catalog_dir = pathlib.Path(__file__).parent / "catalog"
     catalog_dir.mkdir(exist_ok=True)
 
+    # Lade alle Sprachkataloge (de, en, fr, it)
     for lang in ("de", "en", "fr", "it"):
         print(f"Downloading {lang} catalog")
         catalog_auth = f"{token['token_type']} {token['access_token']}"
@@ -53,7 +51,6 @@ def download_catalog():
         cards_dir = lang_dir / "cards"
         cards_dir.mkdir(exist_ok=True)
 
-        # Durchlaufen aller Kartentypen
         for card_type in contents["cards"]:
             card_type_dir = cards_dir / card_type
             card_type_dir.mkdir(exist_ok=True)
@@ -63,13 +60,22 @@ def download_catalog():
                 with (card_type_dir / card_filename(card)).open("w", encoding="utf-8") as out:
                     json.dump(card, out, indent=2, ensure_ascii=False)
 
-        # Speichert zusätzlich den restlichen Katalog (ohne Karten)
         del contents["cards"]
         with (lang_dir / "catalog-no-cards.json").open("w", encoding="utf-8") as out:
             json.dump(contents, out, indent=2, ensure_ascii=False)
 
-# Verarbeitet die heruntergeladenen JSON-Dateien, aktualisiert die SQLite-Datenbank
-# und lädt die Bilder in der gewünschten Ordnerstruktur herunter.
+def extract_language_from_url(url):
+    """
+    Extrahiert den Sprachcode aus einer URL, z.B. aus
+    "https://api.lorcana.ravensburger.com/images/en/..."
+    wird "en" zurückgegeben.
+    """
+    parsed = urllib.parse.urlparse(url)
+    parts = parsed.path.split("/")
+    if len(parts) > 2:
+        return parts[2]
+    return None
+
 def process_catalog_and_update_db(catalog_dir, images_root, db_path):
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
@@ -87,18 +93,23 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
         image_url_2048 TEXT,
         image_url_512 TEXT,
         card_sets TEXT,
-        magic_ink_colors TEXT
+        magic_ink_colors TEXT,
+        foil_mask_url TEXT,
+        flavor_text TEXT,
+        ink_cost TEXT,
+        ink_convertible TEXT
     )
     ''')
     conn.commit()
     
+    # Durchlaufe alle Sprachordner im Katalog
     for lang_dir in catalog_dir.iterdir():
         if lang_dir.is_dir():
-            language = lang_dir.name
+            folder_language = lang_dir.name  # Fallback, falls keine URL-Sprachinfo gefunden wird.
+            print(f"Processing folder: {folder_language}")
             cards_dir = lang_dir / "cards"
             if cards_dir.exists():
                 for category_dir in cards_dir.iterdir():
-                    # Nur Unterordner actions, characters, items und locations berücksichtigen
                     if category_dir.is_dir() and category_dir.name in {"actions", "characters", "items", "locations"}:
                         category = category_dir.name
                         for json_file in category_dir.glob("*.json"):
@@ -109,7 +120,7 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
                                 print(f"Error reading {json_file}: {e}")
                                 continue
                             
-                            # Extrahiere die gewünschten Felder aus der Karte
+                            # Extrahiere die Felder
                             name = card.get("name", "")
                             subtitle = card.get("subtitle", "")
                             sort_number = card.get("sort_number", 0)
@@ -117,8 +128,11 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
                             card_identifier = card.get("card_identifier", "")
                             card_sets = json.dumps(card.get("card_sets", ""))
                             magic_ink_colors = json.dumps(card.get("magic_ink_colors", ""))
+                            foil_mask_url = card.get("foil_mask_url", "")
+                            flavor_text = card.get("flavor_text", "")
+                            ink_cost = card.get("ink_cost", "")
+                            ink_convertible = card.get("ink_convertible", "")
                             
-                            # Ermittle die Bild-URLs für die Auflösungen 2048 und 512
                             image_url_2048 = ""
                             image_url_512 = ""
                             if "image_urls" in card:
@@ -137,50 +151,80 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
                                             elif entry["height"] == 512:
                                                 image_url_512 = entry["url"]
 
-                            # Füge den Datensatz in die SQLite-Datenbank ein
+                            # Ermitteln der Sprache anhand der URLs (falls vorhanden)
+                            detected_language = None
+                            for candidate in [image_url_2048, image_url_512, foil_mask_url]:
+                                if candidate:
+                                    detected_language = extract_language_from_url(candidate)
+                                    if detected_language:
+                                        break
+                            if not detected_language:
+                                detected_language = folder_language
+
+                            # Datensatz in die DB einfügen – hier wird der ermittelte Sprachcode genutzt
                             cursor.execute('''
                                 INSERT INTO cards (
                                     language, category, name, subtitle, sort_number, rules_text, card_identifier,
-                                    image_url_2048, image_url_512, card_sets, magic_ink_colors
-                                ) VALUES (?,?,?,?,?,?,?,?,?,?,?)
-                            ''', (language, category, name, subtitle, sort_number, rules_text, card_identifier,
-                                  image_url_2048, image_url_512, card_sets, magic_ink_colors))
+                                    image_url_2048, image_url_512, card_sets, magic_ink_colors, foil_mask_url, flavor_text, ink_cost, ink_convertible
+                                ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                            ''', (detected_language, category, name, subtitle, sort_number, rules_text, card_identifier,
+                                  image_url_2048, image_url_512, card_sets, magic_ink_colors, foil_mask_url, flavor_text, ink_cost, ink_convertible))
                             conn.commit()
                             
-                            # Funktion zum Bereinigen des card_identifier (Leerzeichen und Schrägstriche ersetzen)
                             def sanitize_identifier(identifier):
                                 return identifier.replace(" ", "_").replace("/", "_")
                             
                             sanitized_identifier = sanitize_identifier(card_identifier)
                             
-                            # Für jede Auflösung das Bild herunterladen, diesmal mit einem benutzerdefinierten User-Agent
+                            # Herunterladen der Bilder für 2048 und 512 – Zielordner anhand der ermittelten Sprache
                             for res, url in [(2048, image_url_2048), (512, image_url_512)]:
                                 if url:
-                                    target_dir = images_root / language / str(res)
+                                    target_dir = images_root / detected_language / str(res)
                                     target_dir.mkdir(parents=True, exist_ok=True)
-                                    ext = os.path.splitext(url)[1]
-                                    if not ext:
-                                        ext = ".jpg"
+                                    
+                                    parsed_url = urllib.parse.urlparse(url)
+                                    ext = os.path.splitext(parsed_url.path)[1]
+                                    
                                     target_path = target_dir / f"{sanitized_identifier}{ext}"
                                     
-                                    # Erstelle einen Request mit einem modernen User-Agent (optional Referer hinzufügen)
                                     req = urllib.request.Request(
                                         url,
                                         headers={
                                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
-                                            # "Referer": "https://lorcana.ravensburger.com/"
                                         }
                                     )
                                     try:
                                         with urllib.request.urlopen(req) as response, open(target_path, 'wb') as out_file:
                                             out_file.write(response.read())
-                                        print(f"Downloaded image for {card_identifier} at resolution {res}")
+                                        print(f"Downloaded image for {card_identifier} at resolution {res} in {detected_language}")
                                     except Exception as e:
                                         print(f"Error downloading image for {card_identifier} from {url}: {e}")
+                            
+                            # Herunterladen des foil_mask-Bildes (falls vorhanden)
+                            if foil_mask_url:
+                                target_dir = images_root / detected_language / "foil_mask"
+                                target_dir.mkdir(parents=True, exist_ok=True)
+                                
+                                parsed_url = urllib.parse.urlparse(foil_mask_url)
+                                ext = os.path.splitext(parsed_url.path)[1]
+                                
+                                target_path = target_dir / f"{sanitized_identifier}{ext}"
+                                
+                                req = urllib.request.Request(
+                                    foil_mask_url,
+                                    headers={
+                                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+                                    }
+                                )
+                                try:
+                                    with urllib.request.urlopen(req) as response, open(target_path, 'wb') as out_file:
+                                        out_file.write(response.read())
+                                    print(f"Downloaded foil mask for {card_identifier} in {detected_language}")
+                                except Exception as e:
+                                    print(f"Error downloading foil mask for {card_identifier} from {foil_mask_url}: {e}")
     
     conn.close()
 
-# Hauptfunktion: Führt den Download des Katalogs und anschließende Verarbeitung (DB-Update und Bilder-Download) aus.
 def main():
     download_catalog()
     catalog_dir = pathlib.Path(__file__).parent / "catalog"
