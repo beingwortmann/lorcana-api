@@ -1,5 +1,3 @@
-name: Update Catalog and Create Release
-
 on:
   workflow_dispatch:
   schedule:
