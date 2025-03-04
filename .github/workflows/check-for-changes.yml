@@ -1,17 +1,20 @@
 on:
-  workflow_dispatch:  # Manuelle Ausführung erlauben
+  workflow_dispatch:        # Manuelle Ausführung möglich
   schedule:
-    - cron: "8 * * * *"  # Optional: auch geplante Ausführung
+    - cron: "8 * * * *"     # Optionale zeitgesteuerte Ausführung
 
 jobs:
   update-catalog:
     runs-on: ubuntu-latest
+    env:
+      GIT_HTTP_TIMEOUT: 600
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Remove existing catalog (if needed)
-        run: rm -rf catalog
+      - name: Remove existing catalog, images and DB (if needed)
+        run: |
+          rm -rf catalog Images cards.db
 
       - name: Run sync script
         run: python3 sync.py
@@ -20,14 +23,21 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git config --global http.postBuffer 524288000
+          git config --global http.postBuffer 1073741824  # 1GB
+          git config --global core.compression 9
+          git config --global http.version HTTP/1.1
 
-      - name: Commit changes
+      - name: Commit non-image changes (catalog and DB)
         run: |
-          git add .
-          git commit -m "Update catalog, database and images" || echo "No changes to commit"
+          git add catalog cards.db
+          git commit -m "Update catalog and database" || echo "No non-image changes to commit"
+          git push
 
-      - name: Push changes
-        run: git push
-        env:
-          GIT_HTTP_TIMEOUT: 600
+      - name: Commit and push images per language
+        run: |
+          for lang in de en fr it; do
+            echo "Processing language: $lang"
+            git add Images/$lang
+            git commit -m "Update images for $lang" || echo "No changes for $lang"
+            git push
+          done
