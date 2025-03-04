@@ -14,23 +14,30 @@ if response.status_code != 200:
     print(f"Error loading groups from {groups_url}: {response.status_code}")
     exit(1)
 
-# Expecting the endpoint to return JSON data (a list of group objects)
+# Parse the JSON response. It may be a dict with a "results" key.
 groups_data = response.json()
-groups = {}
-
-if isinstance(groups_data, list):
-    for group in groups_data:
-        # Expect each group to have keys: groupId, chapter, abbreviation
-        if "groupId" in group and "chapter" in group and "abbreviation" in group:
-            group_id = group["groupId"]
-            chapter = group["chapter"]
-            abbreviation = group["abbreviation"]
-            groups[group_id] = {"chapter": chapter, "abbreviation": abbreviation}
-        else:
-            print("Skipping group with missing fields:", group)
+if isinstance(groups_data, dict) and "results" in groups_data:
+    groups_list = groups_data["results"]
+elif isinstance(groups_data, list):
+    groups_list = groups_data
 else:
-    print("Unexpected format for groups data. Expected a list.")
+    print("Unexpected format for groups data. Expected a list or a dict with a 'results' key.")
     exit(1)
+
+groups = {}
+for group in groups_list:
+    # Expect each group to have keys: groupId, chapter, abbreviation.
+    # In your output, there is no explicit "chapter" field, so we assume that the "publishedOn" date or "name" might be used instead.
+    # For now, we use groupId as key, and we assume "chapter" is the publishedOn year, and "abbreviation" as provided.
+    # Adjust this logic if necessary.
+    if "groupId" in group and "abbreviation" in group:
+        group_id = group["groupId"]
+        # Use publishedOn or a default if not available. You may modify this.
+        chapter = group.get("publishedOn", "0")[:4]  # Extract year as chapter
+        abbreviation = group["abbreviation"]
+        groups[group_id] = {"chapter": chapter, "abbreviation": abbreviation}
+    else:
+        print("Skipping group with missing fields:", group)
 
 print("Loaded groups:", groups)
 
@@ -74,7 +81,6 @@ with open(merged_csv_path, "w", newline="", encoding="utf-8") as f:
 print(f"Merged CSV file written to {merged_csv_path} with {len(all_rows)} rows.")
 
 # --- Step 4: Update SQLite DB ---
-# Ensure cards.db exists, then copy it to cardsWithPrices.db
 if not os.path.exists("cards.db"):
     print("cards.db not found!")
     exit(1)
@@ -82,7 +88,6 @@ shutil.copy("cards.db", "cardsWithPrices.db")
 conn = sqlite3.connect("cardsWithPrices.db")
 cursor = conn.cursor()
 
-# Process the merged CSV and update DB rows where subTypeName is "Normal"
 with open(merged_csv_path, "r", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     update_count = 0
@@ -93,7 +98,6 @@ with open(merged_csv_path, "r", encoding="utf-8") as f:
         lowPrice = row.get("lowPrice", None)
         midPrice = row.get("midPrice", None)
         marketPrice = row.get("marketPrice", None)
-        # Normalize the card_identifier in the DB by replacing -DE-, -FR-, -IT- with -EN-
         query = """
         SELECT id FROM cards 
         WHERE REPLACE(REPLACE(REPLACE(card_identifier, '-DE-', '-EN-'), '-FR-', '-EN-'), '-IT-', '-EN-') = ?
