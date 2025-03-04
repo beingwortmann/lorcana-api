@@ -1,7 +1,7 @@
 on:
-  workflow_dispatch:        # Manuelle Ausführung möglich
+  workflow_dispatch:
   schedule:
-    - cron: "8 * * * *"     # Optionale zeitgesteuerte Ausführung
+    - cron: "8 * * * *"  # Run every hour at minute 8
 
 jobs:
   update-catalog:
@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git config --global http.postBuffer 1073741824  # 1GB
+          git config --global http.postBuffer 1073741824  # 1 GB
           git config --global core.compression 9
           git config --global http.version HTTP/1.1
 
@@ -41,3 +41,146 @@ jobs:
             git commit -m "Update images for $lang" || echo "No changes for $lang"
             git push
           done
+
+      - name: Check for new card changes
+        id: card_changes
+        run: |
+          # Get list of changed card JSON files from the last commit
+          CHANGED=$(git diff --name-only HEAD~1 HEAD | grep 'catalog/.*/cards/.*\.json' || true)
+          if [ -z "$CHANGED" ]; then
+            echo "No new card changes detected."
+            echo "::set-output name=new_cards::No new cards added."
+          else
+            echo "New cards detected:"
+            echo "$CHANGED"
+            # Extract card names using jq from the JSON files
+            NEW_CARDS=""
+            for file in $CHANGED; do
+              # If the file exists and is valid JSON, extract the "name" field
+              if [ -f "$file" ]; then
+                name=$(jq -r '.name' "$file" 2>/dev/null)
+                NEW_CARDS="$NEW_CARDS - $name\n"
+              fi
+            done
+            echo "::set-output name=new_cards::$NEW_CARDS"
+          fi
+
+      - name: Create release artifacts
+        id: create_artifacts
+        run: |
+          RELEASE_VERSION=$(date +'%Y%m%d-%H%M%S')
+          echo "Release version: $RELEASE_VERSION"
+          echo "::set-output name=version::$RELEASE_VERSION"
+          
+          # Complete bundle: entire repository minus .git and node_modules if any.
+          zip -r CompleteBundle_${RELEASE_VERSION}.zip . -x "*.git*" -x "*node_modules*"
+          
+          # Create zip for each language images
+          for lang in de en fr it; do
+            zip -r Images_${lang}_${RELEASE_VERSION}.zip Images/$lang
+          done
+          
+          # Create zip for each image size across all languages (2048 and 512)
+          for res in 2048 512; do
+            mkdir -p tmp_images_${res}
+            for lang in de en fr it; do
+              if [ -d "Images/$lang/$res" ]; then
+                cp -r Images/$lang/$res tmp_images_${res}/$lang
+              fi
+            done
+            zip -r Images_all_${res}_${RELEASE_VERSION}.zip tmp_images_${res}
+            rm -rf tmp_images_${res}
+          done
+
+          # Create zip for all foil_mask images across languages
+          mkdir -p tmp_images_foil_mask
+          for lang in de en fr it; do
+            if [ -d "Images/$lang/foil_mask" ]; then
+              cp -r Images/$lang/foil_mask tmp_images_foil_mask/$lang
+            fi
+          done
+          zip -r Images_all_foil_mask_${RELEASE_VERSION}.zip tmp_images_foil_mask
+          rm -rf tmp_images_foil_mask
+
+          # Create zip for English low-res images and the database
+          zip -r EN_LowRes_DB_${RELEASE_VERSION}.zip Images/en/512 cards.db
+
+          # Create zip for just the database
+          zip -r Database_${RELEASE_VERSION}.zip cards.db
+
+      - name: Create GitHub Release
+        uses: actions/create-release@v1
+        id: create_release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.create_artifacts.outputs.version }}
+          release_name: "Release ${{ steps.create_artifacts.outputs.version }}"
+          body: |
+            **Release Summary:**
+            - **Complete Bundle:** Contains the full catalog, images, and database.
+            - **Per-Language Images:** Separate packages for images per language.
+            - **Per-Size Images:** Packages for images across all languages by resolution.
+            - **EN Low-Res + DB:** English images at low resolution combined with the database.
+            - **Database:** Database only.
+            
+            **New Cards Added:**
+            ${{ steps.card_changes.outputs.new_cards }}
+            
+            This release was automatically generated because new cards have been made available.
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset - Complete Bundle
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: CompleteBundle_${{ steps.create_artifacts.outputs.version }}.zip
+          asset_name: CompleteBundle_${{ steps.create_artifacts.outputs.version }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload Release Assets - Per-Language Images
+        run: |
+          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
+          for lang in de en fr it; do
+            echo "Uploading Images_${lang}_${RELEASE_VERSION}.zip"
+            gh release upload $RELEASE_VERSION Images_${lang}_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release Assets - Per-Size Images (2048 & 512)
+        run: |
+          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
+          for res in 2048 512; do
+            echo "Uploading Images_all_${res}_${RELEASE_VERSION}.zip"
+            gh release upload $RELEASE_VERSION Images_all_${res}_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release Asset - All Foil Masks
+        run: |
+          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
+          echo "Uploading Images_all_foil_mask_${RELEASE_VERSION}.zip"
+          gh release upload $RELEASE_VERSION Images_all_foil_mask_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release Asset - EN LowRes + DB
+        run: |
+          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
+          echo "Uploading EN_LowRes_DB_${RELEASE_VERSION}.zip"
+          gh release upload $RELEASE_VERSION EN_LowRes_DB_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release Asset - Database Only
+        run: |
+          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
+          echo "Uploading Database_${RELEASE_VERSION}.zip"
+          gh release upload $RELEASE_VERSION Database_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
