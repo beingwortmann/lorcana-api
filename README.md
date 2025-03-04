@@ -43,7 +43,9 @@ This project is a fan-driven tool that automatically downloads, processes, and o
    
 2. **Install Python 3.x (if not already installed).**
 
-3. **Run the Script:**
+3. **Replace the "LORCANA_SECRET_TOKEN" in the script with your Token or define it in the Github Actions Repository secrets**
+
+4. **Run the Script:**
    
    ```bash
    python3 sync.py
