@@ -7,14 +7,14 @@ import urllib.request
 import urllib.parse
 import ssl
 
-# --- Bestehende Funktionalität: Katalog downloaden ---
+# Ermittelt den Dateinamen für eine Karte anhand ihres "card_identifier"
 def card_filename(card):
     parts = card["card_identifier"].replace("/", "_").split(" ")
     parts.reverse()
     return f"{'-'.join(parts)}.json"
 
+# Lädt den gesamten Katalog herunter und speichert ihn in einer strukturierten Ordnerhierarchie
 def download_catalog():
-    # Authentifizierung holen
     token_auth = codecs.decode(
         (
             b"42617369632062473979593246755953316863476b74636d56685a447046646b4a724d7a4a6"
@@ -30,7 +30,7 @@ def download_catalog():
         headers={"Authorization": token_auth, "User-Agent": ""},
     )
 
-    # Hier wird der SSL-Context verwendet, der die Zertifikate überprüft (da du nun die Zertifikate installiert hast)
+    # Zertifikatsüberprüfung funktioniert jetzt, da die entsprechenden Zertifikate installiert sind.
     with urllib.request.urlopen(token_request) as f:
         token = json.loads(f.read().decode("utf-8"))
 
@@ -53,7 +53,7 @@ def download_catalog():
         cards_dir = lang_dir / "cards"
         cards_dir.mkdir(exist_ok=True)
 
-        # Iteriere über alle Kartentypen (z. B. actions, characters, etc.)
+        # Durchlaufen aller Kartentypen
         for card_type in contents["cards"]:
             card_type_dir = cards_dir / card_type
             card_type_dir.mkdir(exist_ok=True)
@@ -63,18 +63,17 @@ def download_catalog():
                 with (card_type_dir / card_filename(card)).open("w", encoding="utf-8") as out:
                     json.dump(card, out, indent=2, ensure_ascii=False)
 
-        # Speichere zusätzlich den restlichen Katalog (ohne Karten)
+        # Speichert zusätzlich den restlichen Katalog (ohne Karten)
         del contents["cards"]
         with (lang_dir / "catalog-no-cards.json").open("w", encoding="utf-8") as out:
             json.dump(contents, out, indent=2, ensure_ascii=False)
 
-# --- Neue Funktionalität: Datenbank-Update und Bilder-Download ---
+# Verarbeitet die heruntergeladenen JSON-Dateien, aktualisiert die SQLite-Datenbank
+# und lädt die Bilder in der gewünschten Ordnerstruktur herunter.
 def process_catalog_and_update_db(catalog_dir, images_root, db_path):
-    # Verbinde zur SQLite-Datenbank (wird angelegt, falls noch nicht vorhanden)
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
     
-    # Erstelle Tabelle, falls sie noch nicht existiert
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS cards (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -93,14 +92,13 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
     ''')
     conn.commit()
     
-    # Durchlaufe alle Sprachordner im katalog-Verzeichnis
     for lang_dir in catalog_dir.iterdir():
         if lang_dir.is_dir():
             language = lang_dir.name
             cards_dir = lang_dir / "cards"
             if cards_dir.exists():
                 for category_dir in cards_dir.iterdir():
-                    # Nur die Unterordner actions, characters, items und locations berücksichtigen
+                    # Nur Unterordner actions, characters, items und locations berücksichtigen
                     if category_dir.is_dir() and category_dir.name in {"actions", "characters", "items", "locations"}:
                         category = category_dir.name
                         for json_file in category_dir.glob("*.json"):
@@ -111,21 +109,19 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
                                 print(f"Error reading {json_file}: {e}")
                                 continue
                             
-                            # Extrahiere die gewünschten Felder
+                            # Extrahiere die gewünschten Felder aus der Karte
                             name = card.get("name", "")
                             subtitle = card.get("subtitle", "")
                             sort_number = card.get("sort_number", 0)
                             rules_text = card.get("rules_text", "")
                             card_identifier = card.get("card_identifier", "")
-                            # card_sets und magic_ink_colors werden als JSON-Strings gespeichert
                             card_sets = json.dumps(card.get("card_sets", ""))
                             magic_ink_colors = json.dumps(card.get("magic_ink_colors", ""))
                             
-                            # Ermittle die URLs für die Bildauflösungen 2048 und 512
+                            # Ermittle die Bild-URLs für die Auflösungen 2048 und 512
                             image_url_2048 = ""
                             image_url_512 = ""
                             if "image_urls" in card:
-                                # Falls image_urls als Liste vorliegt:
                                 if isinstance(card["image_urls"], list):
                                     for entry in card["image_urls"]:
                                         if isinstance(entry, dict) and "height" in entry and "url" in entry:
@@ -133,7 +129,6 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
                                                 image_url_2048 = entry["url"]
                                             elif entry["height"] == 512:
                                                 image_url_512 = entry["url"]
-                                # Alternativ, falls image_urls als Dictionary vorliegt:
                                 elif isinstance(card["image_urls"], dict):
                                     for key, entry in card["image_urls"].items():
                                         if isinstance(entry, dict) and "height" in entry and "url" in entry:
@@ -142,7 +137,7 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
                                             elif entry["height"] == 512:
                                                 image_url_512 = entry["url"]
 
-                            # Datensatz in die Datenbank einfügen
+                            # Füge den Datensatz in die SQLite-Datenbank ein
                             cursor.execute('''
                                 INSERT INTO cards (
                                     language, category, name, subtitle, sort_number, rules_text, card_identifier,
@@ -152,37 +147,42 @@ def process_catalog_and_update_db(catalog_dir, images_root, db_path):
                                   image_url_2048, image_url_512, card_sets, magic_ink_colors))
                             conn.commit()
                             
-                            # --- Bilder herunterladen ---
+                            # Funktion zum Bereinigen des card_identifier (Leerzeichen und Schrägstriche ersetzen)
                             def sanitize_identifier(identifier):
                                 return identifier.replace(" ", "_").replace("/", "_")
                             
                             sanitized_identifier = sanitize_identifier(card_identifier)
                             
-                            # Für jede Auflösung das Bild herunterladen
+                            # Für jede Auflösung das Bild herunterladen, diesmal mit einem benutzerdefinierten User-Agent
                             for res, url in [(2048, image_url_2048), (512, image_url_512)]:
                                 if url:
-                                    # Zielordner: Images/{language}/{resolution}/
                                     target_dir = images_root / language / str(res)
                                     target_dir.mkdir(parents=True, exist_ok=True)
-                                    # Versuche, die Dateiendung aus der URL zu ermitteln, ansonsten .jpg
                                     ext = os.path.splitext(url)[1]
                                     if not ext:
                                         ext = ".jpg"
                                     target_path = target_dir / f"{sanitized_identifier}{ext}"
+                                    
+                                    # Erstelle einen Request mit einem modernen User-Agent (optional Referer hinzufügen)
+                                    req = urllib.request.Request(
+                                        url,
+                                        headers={
+                                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+                                            # "Referer": "https://lorcana.ravensburger.com/"
+                                        }
+                                    )
                                     try:
-                                        urllib.request.urlretrieve(url, target_path)
+                                        with urllib.request.urlopen(req) as response, open(target_path, 'wb') as out_file:
+                                            out_file.write(response.read())
                                         print(f"Downloaded image for {card_identifier} at resolution {res}")
                                     except Exception as e:
                                         print(f"Error downloading image for {card_identifier} from {url}: {e}")
     
     conn.close()
 
-# --- Hauptfunktion, die beide Prozesse (Download und Processing) kombiniert ---
+# Hauptfunktion: Führt den Download des Katalogs und anschließende Verarbeitung (DB-Update und Bilder-Download) aus.
 def main():
-    # 1. Katalog herunterladen
     download_catalog()
-    
-    # 2. Anschließend die JSONs verarbeiten, in die Datenbank schreiben und die Bilder herunterladen
     catalog_dir = pathlib.Path(__file__).parent / "catalog"
     images_root = pathlib.Path(__file__).parent / "Images"
     db_path = pathlib.Path(__file__).parent / "cards.db"
