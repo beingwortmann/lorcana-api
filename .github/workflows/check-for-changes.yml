@@ -1,3 +1,5 @@
+name: Update Catalog and Create Release
+
 on:
   workflow_dispatch:
   schedule:
@@ -72,8 +74,7 @@ jobs:
           echo "Release version: $RELEASE_VERSION"
           echo "::set-output name=version::$RELEASE_VERSION"
           
-          # Complete bundle: entire repository minus .git and node_modules if any.
-          zip -r CompleteBundle_${RELEASE_VERSION}.zip . -x "*.git*" -x "*node_modules*"
+          # Removed Complete Bundle due to GitHub's 2GB limit.
           
           # Create zip for each language images
           for lang in de en fr it; do
@@ -118,9 +119,12 @@ jobs:
           release_name: "Release ${{ steps.create_artifacts.outputs.version }}"
           body: |
             **Release Summary:**
-            - **Complete Bundle:** Contains the full catalog, images, and database.
+            Due to the 2GB limit on GitHub, the complete bundle is not provided as a release asset.
+            Please use the GitHub-provided source code release attachment to download the full repository.
+            The following release assets are provided:
             - **Per-Language Images:** Separate packages for images per language.
             - **Per-Size Images:** Packages for images across all languages by resolution.
+            - **All Foil Masks:** A package containing all foil mask images across languages.
             - **EN Low-Res + DB:** English images at low resolution combined with the database.
             - **Database:** Database only.
             
@@ -130,16 +134,6 @@ jobs:
             This release was automatically generated because new cards have been made available.
           draft: false
           prerelease: false
-
-      - name: Upload Release Asset - Complete Bundle
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: CompleteBundle_${{ steps.create_artifacts.outputs.version }}.zip
-          asset_name: CompleteBundle_${{ steps.create_artifacts.outputs.version }}.zip
-          asset_content_type: application/zip
 
       - name: Upload Release Assets - Per-Language Images
         run: |
