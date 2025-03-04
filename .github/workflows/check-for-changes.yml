@@ -17,6 +17,8 @@ jobs:
           rm -rf catalog Images cards.db
 
       - name: Run sync script
+        env:
+          LORCANA_SECRET_TOKEN: ${{ secrets.LORCANA_SECRET_TOKEN }}
         run: python3 sync.py
 
       - name: Configure Git
