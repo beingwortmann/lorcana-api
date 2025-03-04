@@ -13,15 +13,7 @@ def card_filename(card):
     return f"{'-'.join(parts)}.json"
 
 def download_catalog():
-    token_auth = codecs.decode(
-        (
-            b"42617369632062473979593246755953316863476b74636d56685a447046646b4a724d7a4a6"
-            b"b5157746b4d7a6c756457743551564e494d4863325832464a63565a456348704a656e567253"
-            b"306c7863446c424e58526c6232633552334a6b51314a484d55464261445653656e644d64455"
-            b"26b596c527063326b3354484a5957446c325930466b535449345330393664773d3d"
-        ),
-        "hex",
-    ).decode()
+    token_auth = os.environ['LORCANA_TOKEN']
     token_request = urllib.request.Request(
         "https://sso.ravensburger.de/token",
         data=urllib.parse.urlencode({"grant_type": "client_credentials"}).encode(),
