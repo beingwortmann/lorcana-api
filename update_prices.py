@@ -51,7 +51,7 @@ for group_id, info in groups.items():
     for row in reader:
         count += 1
         extNumber = row.get("extNumber", "").strip()
-        # Generate card_identifier using the extNumber, literal "EN", and abbreviation.
+        # Generate the new card_identifier as: "<extNumber> EN <abbreviation>"
         generated_identifier = f"{extNumber} EN {info['abbreviation']}"
         row["card_identifier"] = generated_identifier
         row["chapter"] = info["chapter"]
@@ -95,8 +95,9 @@ for col in ["lowPrice", "midPrice", "marketPrice"]:
     except sqlite3.OperationalError as e:
         print(f"Column {col} may already exist: {e}")
 
-# Build a mapping from normalized card_identifier to DB id.
-# Normalization: from the DB card_identifier, split by whitespace and use first and last tokens.
+# Build a mapping from normalized card_identifier to a list of DB ids.
+# Normalization: split the DB card_identifier by whitespace and use the first token (extNumber)
+# and the last token (abbreviation) to form a key "extNumber|abbreviation".
 db_mapping = {}
 cursor.execute("SELECT id, card_identifier FROM cards")
 for row in cursor.fetchall():
@@ -105,7 +106,9 @@ for row in cursor.fetchall():
         parts = db_card_identifier.split()
         if len(parts) >= 3:
             normalized = f"{parts[0]}|{parts[-1]}"
-            db_mapping[normalized] = db_id
+            if normalized not in db_mapping:
+                db_mapping[normalized] = []
+            db_mapping[normalized].append(db_id)
 
 print("DB mapping (normalized card_identifier):", db_mapping)
 
@@ -115,6 +118,7 @@ unmatched_count = 0
 with open(merged_csv_path, "r", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     for row in reader:
+        # Only process rows where subTypeName is "Normal"
         if row.get("subTypeName", "") != "Normal":
             continue
         csv_card_identifier = row["card_identifier"]
@@ -123,17 +127,17 @@ with open(merged_csv_path, "r", encoding="utf-8") as f:
             continue
         normalized_csv = f"{parts[0]}|{parts[-1]}"
         if normalized_csv in db_mapping:
-            card_db_id = db_mapping[normalized_csv]
-            lowPrice = row.get("lowPrice", None)
-            midPrice = row.get("midPrice", None)
-            marketPrice = row.get("marketPrice", None)
-            cursor.execute("""
-            UPDATE cards
-            SET lowPrice = ?, midPrice = ?, marketPrice = ?
-            WHERE id = ?
-            """, (lowPrice, midPrice, marketPrice, card_db_id))
-            conn.commit()
-            update_count += 1
+            for card_db_id in db_mapping[normalized_csv]:
+                lowPrice = row.get("lowPrice", None)
+                midPrice = row.get("midPrice", None)
+                marketPrice = row.get("marketPrice", None)
+                cursor.execute("""
+                UPDATE cards
+                SET lowPrice = ?, midPrice = ?, marketPrice = ?
+                WHERE id = ?
+                """, (lowPrice, midPrice, marketPrice, card_db_id))
+                conn.commit()
+                update_count += 1
         else:
             if unmatched_count < 5:
                 print(f"No match found in DB for normalized card_identifier: {normalized_csv}")
