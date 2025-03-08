@@ -8,6 +8,8 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      GIT_HTTP_TIMEOUT: 600
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v4
@@ -23,9 +25,16 @@ jobs:
       - name: Run DB converter
         run: python3 scripts/convert_db.py
 
+      - name: Copy DB files to repository root
+        run: |
+          cp scripts/cards_database_original_Scheme.sqlite .
+          cp scripts/cards_database.sqlite .
+
+      - name: Remove any previous output directory
+        run: rm -rf output
+
       - name: Prepare output directory
         run: |
-          rm -rf output
           mkdir output
           cp -r catalog output/
           cp -r Thumbnails output/
