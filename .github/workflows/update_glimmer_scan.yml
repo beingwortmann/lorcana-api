@@ -1,7 +1,9 @@
+name: Sync Glimmer.Scan-Compatible
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "8 * * * *"  # Run every hour at minute 8
+    - cron: "8 * * * *"  # Jede Stunde zur Minute 8
 
 jobs:
   update-catalog:
@@ -9,17 +11,16 @@ jobs:
     env:
       GIT_HTTP_TIMEOUT: 600
     steps:
-      - name: Checkout repository (glimmer.scan-compatible branch)
+      - name: Checkout glimmer.scan-compatible branch
         uses: actions/checkout@v4
         with:
           ref: glimmer.scan-compatible
-          fetch-depth: 0
 
-      - name: Remove generated files (catalog, Thumbnails, DB)
+      - name: Remove existing catalog, Thumbnails and DB
         run: |
-          rm -rf catalog Thumbnails cards_database.sqlite
+          rm -rf catalog Thumbnails cards.db
 
-      - name: Run sync script
+      - name: Run sync script for glimmer.scan-compatible
         env:
           LORCANA_SECRET_TOKEN: ${{ secrets.LORCANA_SECRET_TOKEN }}
         run: python3 sync.py
@@ -28,69 +29,12 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git config --global http.postBuffer 1073741824  # 1 GB
-          git config --global core.compression 9
-          git config --global http.version HTTP/1.1
+          git config --global http.postBuffer 1073741824
 
-      - name: Commit and push changes in glimmer.scan-compatible branch
+      - name: Commit changes
         run: |
           git reset --hard
           git pull --rebase
-          git add catalog Thumbnails cards_database.sqlite
-          git commit -m "Update catalog, database, and Thumbnails" || echo "No changes to commit"
-          git push
-
-      - name: Create release artifacts
-        id: create_artifacts
-        run: |
-          RELEASE_VERSION=$(date +'%Y%m%d-%H%M%S')
-          echo "Release version: $RELEASE_VERSION"
-          echo "::set-output name=version::$RELEASE_VERSION"
-          
-          # Zip the catalog folder
-          zip -r Catalog_${RELEASE_VERSION}.zip catalog
-          
-          # Zip the Thumbnails folder (only English images are downloaded by sync.py)
-          zip -r Thumbnails_${RELEASE_VERSION}.zip Thumbnails
-          
-          # Zip the new database file
-          zip -r Database_${RELEASE_VERSION}.zip cards_database.sqlite
-
-      - name: Create GitHub Release
-        uses: actions/create-release@v1
-        id: create_release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ steps.create_artifacts.outputs.version }}
-          release_name: "Release ${{ steps.create_artifacts.outputs.version }} (glimmer.scan-compatible)"
-          body: |
-            **Release Summary:**
-            - **Catalog:** Latest catalog data.
-            - **Thumbnails:** English card images (height 512) from the Thumbnails folder.
-            - **Database:** The updated SQLite database (cards_database.sqlite).
-            
-            This release was automatically generated in the glimmer.scan-compatible branch.
-          draft: false
-          prerelease: false
-
-      - name: Upload Release Asset - Catalog
-        run: |
-          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
-          gh release upload $RELEASE_VERSION Catalog_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Release Asset - Thumbnails
-        run: |
-          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
-          gh release upload $RELEASE_VERSION Thumbnails_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Release Asset - Database
-        run: |
-          RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
-          gh release upload $RELEASE_VERSION Database_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git add catalog Thumbnails cards.db
+          git commit -m "Update catalog, DB and thumbnails" || echo "No changes to commit"
+          git push origin glimmer.scan-compatible
