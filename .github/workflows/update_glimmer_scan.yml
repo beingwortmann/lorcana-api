@@ -38,11 +38,12 @@ jobs:
         run: |
           git reset --hard
           git pull --rebase
-          # Entferne ggf. bereits getrackte Datenbankdateien
-          git rm -f cards_database.sqlite cards_database_original_Scheme.sqlite || true
+          # Entferne ggf. bereits getrackte DB-Dateien (ignoriert, wenn sie nicht existieren)
+          git rm -f --ignore-unmatch cards_database.sqlite cards_database_original_Scheme.sqlite
           # Füge alle relevanten Dateien hinzu
           git add catalog Thumbnails
           git add -f cards_database.sqlite cards_database_original_Scheme.sqlite
           git commit -m "Update catalog, DB and thumbnails" || echo "No changes to commit"
           git push origin glimmer.scan-compatible
+
 
