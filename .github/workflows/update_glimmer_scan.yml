@@ -1,4 +1,4 @@
-name: Sync Glimmer.Scan-Compatible
+name: Publish Glimmer.Scan-Compatible Build
 
 on:
   workflow_dispatch:
@@ -6,45 +6,37 @@ on:
     - cron: "38 * * * *"  # Jede Stunde zur Minute 38
 
 jobs:
-  update-catalog:
+  publish:
     runs-on: ubuntu-latest
-    env:
-      GIT_HTTP_TIMEOUT: 600
     steps:
-      - name: Checkout glimmer.scan-compatible branch
+      - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: glimmer.scan-compatible
-
-      - name: Remove existing DB files from repo
-        run: |
-          # Entferne getrackte DB-Dateien (fehlerfrei, falls nicht vorhanden)
-          git rm -f --ignore-unmatch cards_database.sqlite cards_database_original_Scheme.sqlite || true
-          # Lösche die Dateien aus dem Dateisystem
-          rm -f cards_database.sqlite cards_database_original_Scheme.sqlite
-
-      - name: Remove existing catalog and Thumbnails directories
-        run: rm -rf catalog Thumbnails
+          ref: main
 
       - name: Run sync script
         env:
           LORCANA_SECRET_TOKEN: ${{ secrets.LORCANA_SECRET_TOKEN }}
-        run: python3 sync.py
+        run: |
+          python3 scripts/syncGlimmer.py
 
       - name: Run DB converter
-        run: python3 convert_db.py
+        run: python3 scripts/convert_db.py
 
-      - name: Configure Git
+      - name: Prepare output directory
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git config --global http.postBuffer 1073741824
+          rm -rf output
+          mkdir output
+          cp -r catalog output/
+          cp -r Thumbnails output/
+          cp cards_database.sqlite output/
+          cp cards_database_original_Scheme.sqlite output/
 
-      - name: Commit and push changes
-        run: |
-          git reset --hard
-          git pull --rebase
-          git add catalog Thumbnails
-          git add -f cards_database.sqlite cards_database_original_Scheme.sqlite
-          git commit -m "Update catalog, DB and thumbnails" || echo "No changes to commit"
-          git push origin glimmer.scan-compatible
+      - name: Publish output to glimmer.scan-compatible branch
+        uses: s0/git-publish-subdir-action@develop
+        with:
+          folder: output
+          branch: glimmer.scan-compatible
+          repo: ${{ github.repository }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update catalog, DB and thumbnails: ${{ github.sha }}"
