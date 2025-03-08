@@ -1,4 +1,4 @@
-name: Sync Glimmer.Scan-Compatible
+name: Update Glimmer Scan DB/Images
 
 on:
   workflow_dispatch:
