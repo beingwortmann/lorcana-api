@@ -128,6 +128,7 @@ def convert_database(new_db_path, old_schema_db_path):
     tgt_conn.close()
 
 if __name__ == "__main__":
-    new_db = "cards_database_original_Scheme.sqlite"
-    old_schema_db = "cards_database.sqlite"
+    base_dir = pathlib.Path(__file__).parent
+    new_db = base_dir / "cards_database_original_Scheme.sqlite"
+    old_schema_db = base_dir / "cards_database.sqlite"
     convert_database(new_db, old_schema_db)
