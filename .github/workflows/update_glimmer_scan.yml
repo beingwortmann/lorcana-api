@@ -3,7 +3,7 @@ name: Sync Glimmer.Scan-Compatible
 on:
   workflow_dispatch:
   schedule:
-    - cron: "38 * * * *"  # Jede Stunde zur Minute 8
+    - cron: "38 * * * *"  # Jede Stunde zur Minute 38
 
 jobs:
   update-catalog:
@@ -16,9 +16,15 @@ jobs:
         with:
           ref: glimmer.scan-compatible
 
-      - name: Remove existing catalog, Thumbnails and DB files
+      - name: Remove existing DB files from repo
         run: |
-          rm -rf catalog Thumbnails cards_database_original_Scheme.sqlite cards_database.sqlite
+          # Entferne getrackte DB-Dateien (fehlerfrei, falls nicht vorhanden)
+          git rm -f --ignore-unmatch cards_database.sqlite cards_database_original_Scheme.sqlite || true
+          # Lösche die Dateien aus dem Dateisystem
+          rm -f cards_database.sqlite cards_database_original_Scheme.sqlite
+
+      - name: Remove existing catalog and Thumbnails directories
+        run: rm -rf catalog Thumbnails
 
       - name: Run sync script
         env:
@@ -34,16 +40,11 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global http.postBuffer 1073741824
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git reset --hard
           git pull --rebase
-          # Entferne ggf. bereits getrackte DB-Dateien (ignoriert, wenn sie nicht existieren)
-          git rm -f --ignore-unmatch cards_database.sqlite cards_database_original_Scheme.sqlite
-          # Füge alle relevanten Dateien hinzu
           git add catalog Thumbnails
           git add -f cards_database.sqlite cards_database_original_Scheme.sqlite
           git commit -m "Update catalog, DB and thumbnails" || echo "No changes to commit"
           git push origin glimmer.scan-compatible
-
-
