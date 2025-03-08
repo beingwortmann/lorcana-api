@@ -1,9 +1,9 @@
-name: Update Glimmer Scan DB/Images
+name: Sync Glimmer.Scan-Compatible
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "8 * * * *"  # Jede Stunde zur Minute 8
+    - cron: "38 * * * *"  # Jede Stunde zur Minute 38
 
 jobs:
   update-catalog:
@@ -16,14 +16,17 @@ jobs:
         with:
           ref: glimmer.scan-compatible
 
-      - name: Remove existing catalog, Thumbnails and DB
+      - name: Remove existing catalog, Thumbnails and DB files
         run: |
-          rm -rf catalog Thumbnails cards_database.sqlite
+          rm -rf catalog Thumbnails cards_database_original_Scheme.sqlite cards_database.sqlite
 
       - name: Run sync script for glimmer.scan-compatible
         env:
           LORCANA_SECRET_TOKEN: ${{ secrets.LORCANA_SECRET_TOKEN }}
         run: python3 sync.py
+
+      - name: Run DB converter
+        run: python3 convert_db.py
 
       - name: Configure Git
         run: |
