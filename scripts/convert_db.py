@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import sqlite3
+import pathlib
 
 def convert_database(new_db_path, old_schema_db_path):
     # Verbindung zur Quell-Datenbank (neues Schema) herstellen
