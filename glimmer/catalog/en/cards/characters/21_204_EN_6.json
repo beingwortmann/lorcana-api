@@ -1,0 +1,40 @@
+{
+  "name": "Kanga",
+  "subtitle": "Nurturing Mother",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Gianluca Barone",
+  "deck_building_id": "60b997fd5e49d37c9accc8253365dcc6f385e43a",
+  "culture_invariant_id": 1220,
+  "sort_number": 1218,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "My, you’ve had an awfully big adventure. Now it’s time to rest.",
+  "rules_text": "SAFE AND SOUND Whenever this character quests, another chosen character of yours can't be challenged until the start of your next turn.",
+  "card_identifier": "21/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=72fa0807f22a596c965ca75c69da2e9b923f9d47493366fc8640dab8b6af1de4"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=e7d9f74ca7c2e5d380dc9417a93914d651111de07a97c37365c86336c8374de3"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=6a79674003cd9d97fbff6b1a80c3fb46094944ac764a0834cc69221d6b216fed",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Principe Naveen",
+  "subtitle": "Primo Ufficiale di Vedetta",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Francesco Colucci",
+  "deck_building_id": "c0abf4ad2073b023e3021c1547836aab812568ff",
+  "culture_invariant_id": 1208,
+  "sort_number": 1206,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 3 (Puoi pagare 3 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Principe Naveen.) Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "9/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=be6e223c71de666e0d6f8e36587b90a138927512e117e19b41e0bd3c6493f327"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=2788a579c09cb844e4cf8af6e333066f3cd57199460ec8d39f5b861deef6d1ef"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=06884a3c1f023a3a60b73147e6e2de5f6907fe4f1df583508c85d60d72fa613d",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

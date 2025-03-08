@@ -1,0 +1,42 @@
+{
+  "name": "Markowski",
+  "subtitle": "Soldato Spaziale",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "ead46bfd3bf059ae7fe97fb6163a498b70b7e8a7",
+  "culture_invariant_id": 1312,
+  "sort_number": 1310,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Ci mancava solo questa — un nuovo posto dove combattere scarafoidi.",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "113/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=41eefc17e42d8b9280d8d1b7a6931f12ca93285e90dd0d0b9ecc2976c217c52f"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=9c66ebac11b809c07980e730bfd57255b946863b6ed34678bcc02f540195dd89"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=cdc1ea80ff0993aaa930c65593d40b0558a37dc33534ba1c1d13414eb815cdc7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

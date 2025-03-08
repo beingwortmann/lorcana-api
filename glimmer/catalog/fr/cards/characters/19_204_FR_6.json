@@ -1,0 +1,42 @@
+{
+  "name": "Nani",
+  "subtitle": "Sœur bienveillante",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Carmine Pucci",
+  "deck_building_id": "badb6313c16d779154ca8614bade62b8ebaaafee",
+  "culture_invariant_id": 1218,
+  "sort_number": 1216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.) JE SUIS SINCÈREMENT DÉSOLÉE 2 — Choisissez un personnage qui subit -1 jusqu'au début de votre prochain tour.",
+  "card_identifier": "19/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=b7537ce8b977462265dca74c4ea9b9113ff4997ca33d72a10a07e72f2b0595e1"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=a6208d51406afb13907d25e235c7a6509083b8350494a8cd5fee2d41300e40b2"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c2751f42c2059673189891cdc59a1aeda811d9c54c97975d8e0f7d5f68c92bf3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

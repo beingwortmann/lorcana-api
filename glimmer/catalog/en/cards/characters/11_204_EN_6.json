@@ -1,0 +1,39 @@
+{
+  "name": "Chief Bogo",
+  "subtitle": "Gazelle Fan",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Cristian Romero",
+  "deck_building_id": "9df5299f05ee9034bd55228067385a123cb15a75",
+  "culture_invariant_id": 1210,
+  "sort_number": 1208,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "YOU LIKE GAZELLE TOO? While you have a character named Gazelle in play, this character gains Singer 6. (This character counts as cost 6 to sing songs.)",
+  "card_identifier": "11/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=d7235cc468d42275552bccc047b562b73df265e587eeb66f3bc698991740f26a"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=322fd17c75e3828bcefc6180796c25d6712afdd78dd8909a81fdd2da5e405ede"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/17ba0791499db908433b80f37c5fbc89b870084b.jpg?checksum=ca07f9f5a1e58bfb5311feac848476242271b4c6fa5c4075a8b38c9e4aae51fd",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

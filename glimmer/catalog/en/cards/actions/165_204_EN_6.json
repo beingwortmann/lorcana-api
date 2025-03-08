@@ -1,0 +1,33 @@
+{
+  "name": "Prepare Your Bot",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Ian MacDonald",
+  "deck_building_id": "3fc04fcbbbf9a961ececd00cd38396d95d1e1f9f",
+  "culture_invariant_id": 1364,
+  "sort_number": 1362,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Choose one: • Ready chosen item. • Ready chosen Robot character. They can't quest for the rest of this turn.",
+  "card_identifier": "165/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=5a799cb80581ed62d9cf5a109b8580621ec7499352541abb7df7a678d0cce6ec"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=745f044fa22476a302a7c9c2e4102ec1590ebc2f4b27cefd229c05d3f910680c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/74cbd2c215c2c13c4b6110ada96de8891b355dda.jpg?checksum=d0f9e1e5ace8d231300e04e2d9e08be23ed920c1cfec8675dd22884b067274c5",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

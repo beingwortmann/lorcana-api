@@ -1,0 +1,42 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Groupe d'abordage",
+  "strength": 5,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Saulo Nate",
+  "deck_building_id": "1b4a8518d45c24ba97ec36484731e8b55c085d5b",
+  "culture_invariant_id": 1303,
+  "sort_number": 1301,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Pirate"
+  ],
+  "flavor_text": "Vaiana: Tu crois qu’ils nous ont vus?%Maui: Ils nous ont vus.",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "104/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=faa041656aa7665b4414665f74098dea105f08735a9db61ce816b025f1b7d0bb"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=2e8155c7cb71cfee5573bbc989b2fcfdbaf4f268478e6acf6b46451981b8771a"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=a6d1dcff7d5645f9f1a0cf26c6b6c0df0229c20cf3c1bab5295cd42befeb3cdc",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

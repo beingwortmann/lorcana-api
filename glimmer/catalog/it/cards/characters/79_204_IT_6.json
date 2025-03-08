@@ -1,0 +1,43 @@
+{
+  "name": "Basil",
+  "subtitle": "Topo Ipnotizzato",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alice Pisoni",
+  "deck_building_id": "f404642244e838db87343396d53a98cc355ec34e",
+  "culture_invariant_id": 1278,
+  "sort_number": 1276,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Detective"
+  ],
+  "flavor_text": "Hmm. Impronte di un grosso... gufo? Con gocce d'acqua? Di certo una qualche minaccia volatile ha attraversato il Mare di Azzurrite e si è dileguata con la corona!",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "79/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=615eeb064cabc54a9628c17f8365465507639d2654487d26fda399d683222546"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=a866505b4b71cf12ae81db44aa956ad519f9b570bf6849717d1c46851249e55c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=a9113404dbbca7fa658b85063abfd429f6924ecb628e62db9c0908cb69853519",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

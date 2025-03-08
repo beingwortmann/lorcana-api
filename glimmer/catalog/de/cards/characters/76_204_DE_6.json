@@ -1,0 +1,40 @@
+{
+  "name": "Tootles",
+  "subtitle": "Verwunschenes Kind",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Taraneh",
+  "deck_building_id": "206cb5dd9b005f75a17ff692982bd3e009e51812",
+  "culture_invariant_id": 1275,
+  "sort_number": 1273,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Jedes der verwunschenen Kinder hat ein Lieblingsversteck.",
+  "rules_text": "",
+  "card_identifier": "76/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=f3d2f28c010d2ec16b0ea420844f3a2acf27cd69bebacf6b5b742f5d15340fb7"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=402cefa6e593f1020cc19a6b2a327a9d024c574340b0efb476952bfb2a7f59a7"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=12e1c3e7becdc2cdf064cf0d650c13021aaadcee08ca920f73a5d55b3e8f8325",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

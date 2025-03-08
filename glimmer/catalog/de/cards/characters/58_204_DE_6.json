@@ -1,0 +1,40 @@
+{
+  "name": "Peter Pan",
+  "subtitle": "Schattenfänger",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "dfc8163cdbc129a82ce2ec3503e80504beae6599",
+  "culture_invariant_id": 1257,
+  "sort_number": 1255,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Diesmal entkommst du mir nicht!",
+  "rules_text": "HAB DICH! Jedes Mal während deines Zuges, wenn eine Karte in deinen Tintenvorrat gelegt wird, erschöpfe einen gegnerischen Charakter deiner Wahl.",
+  "card_identifier": "58/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=8b9cd0c80deed458614f2e882f10402886e07b6bee6301e0896093390dbab5da"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=b9b78f399925318939c7ca6bf6007278393c24fd33d090f7164a0da4ba289bc8"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=c8b0ce3bd07413eba2cdefd74e5aaf78b345e2be420fab771a1cb1fa93cd4b67",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

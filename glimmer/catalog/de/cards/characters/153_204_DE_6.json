@@ -1,0 +1,41 @@
+{
+  "name": "Tadashi Hamada",
+  "subtitle": "Erfinder von Baymax",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "993aaea8ad85362fb36241b749ab1bd73d13fdc7",
+  "culture_invariant_id": 1352,
+  "sort_number": 1350,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "Erfinder"
+  ],
+  "flavor_text": "Ich werd dich nicht aufgeben. Du verstehst das noch nicht, aber die Menschen brauchen dich.",
+  "rules_text": "ZURÜCK AN DIE ARBEIT Dieser Charakter erhält +1 und +1 für jeden Gegenstand, den du im Spiel hast.",
+  "card_identifier": "153/204 DE 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=d62125923b9e7069a1f5c55baa8ebdb490173f113b7650b1c088dd796e454825"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=4d1d22516237a7ae0cf0e0eefcc4d0f52b4cd8e3dc0586e8a557d7c40b1bd560"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/a6f16ab483da9847d431a822e6c85e144dc54f30.jpg?checksum=a2c3d10a6bacee8182ddd7d3ba7e6a48a599612bba1975101633be5940e85445",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

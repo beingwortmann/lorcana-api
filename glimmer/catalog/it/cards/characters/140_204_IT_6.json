@@ -1,0 +1,43 @@
+{
+  "name": "Scheggia Hackwrench",
+  "subtitle": "Brillante Nostroma",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Alex Accorsi",
+  "deck_building_id": "0b66351b877ceea82545c1ad0fa5559e4ca44113",
+  "culture_invariant_id": 1339,
+  "sort_number": 1337,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Scheggia Hackwrench.) ESPERTA DI MECCANICA Mentre hai in gioco 3 o più oggetti, paga 1 in meno per giocare i personaggi Inventore.",
+  "card_identifier": "140/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=581bbd7bb87b08a1d92a53fb11bd3706aab8173ea4d08c919696120a5127fc22"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=fb15f048e9bd1362eb4f8d08623da63bccfc3141756d99d9bc28e9cc0eb727a6"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=46041e1683b794a4471ef95c8a9623e050f28f464ace89d2b4b56f0acb5e5475",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ]
+}

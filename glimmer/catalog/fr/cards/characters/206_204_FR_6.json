@@ -1,0 +1,42 @@
+{
+  "name": "Tiana",
+  "subtitle": "Propriétaire de restaurant",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Casey Robin",
+  "deck_building_id": "17a9503bd48a90ee1ab532c11add850dbfa48460",
+  "culture_invariant_id": 1405,
+  "sort_number": 1403,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "RÉSERVATION SPÉCIALE Tant que ce personnage est épuisé, chaque fois que l'un de vos personnages est défié, le personnage qui défie subit -3 pour le reste de ce tour à moins que son propriétaire ne paie 3.",
+  "card_identifier": "206/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=0abd9eb6d6809c6edaef0d60125071ebbbea11378c6872877e9deebf421cd412"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=e94015c85a8bb6a15756ccc038c66ff5f679ad94e1784587093fa1daa1c2dcfc"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/4afa8f9e90756f0f919a124a1dfbba19be004edc.jpg?checksum=8e6265a805d0e5613a366a476c6f3d5b96f55c9ee9f23d62794d74c68d4f1cd8",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

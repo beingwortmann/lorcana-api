@@ -1,0 +1,41 @@
+{
+  "name": "Gantu",
+  "subtitle": "Capitaine tête de mule",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 4,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Luis Huerta",
+  "deck_building_id": "de1dc7e183d6fd495d31f00169f15c86b7f0e656",
+  "culture_invariant_id": 1388,
+  "sort_number": 1386,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Alien",
+    "Capitaine"
+  ],
+  "flavor_text": "La force du nombre est surcotée. J’ai plus confiance en ma propre force.",
+  "rules_text": "",
+  "card_identifier": "189/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=57362462afc7a5456b683717d3c121cfc9788b0297dcc4630993f4b031546f4b"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=a6231dddcfa5ada9981a3ff0f6400d553641d3459f4714023edae5ff8cfe6fbe"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/e54183e2a040e6c09e61eb22d542e3d57074b351.jpg?checksum=7f0aff080c3cf5376ac2cb2d5a5f9c9123da43a762f6774d452ad7053c6a60d3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

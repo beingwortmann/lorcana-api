@@ -1,0 +1,44 @@
+{
+  "name": "Scar",
+  "subtitle": "Lion tempétueux",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Peter Brockhammer",
+  "deck_building_id": "6dbd6b03dc064b8f9f8f15ddaa470e7b5632a534",
+  "culture_invariant_id": 1246,
+  "sort_number": 1244,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge",
+    "Offensif"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) Offensif +3 (Lorsqu'il défie, ce personnage gagne +3.)",
+  "card_identifier": "47/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=6fa1af4ba64ad96f352cab90159ce0610bdb62fa4ce946df7a33d306c1a8f8ee"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=09aefd8975aa531259d5dce5b121e61c2e1d188a4e79ea26289518516f6b3337"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=f63631648a555fa06e2fed08908143b85981aff62e1118732f7b66403c0bae2b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

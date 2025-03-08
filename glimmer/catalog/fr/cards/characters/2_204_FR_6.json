@@ -1,0 +1,40 @@
+{
+  "name": "Lilo",
+  "subtitle": "Reine de l’évasion",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 2,
+  "author": "Grzegorz Krysiński",
+  "deck_building_id": "84622499364f41f7265a750bae22792b349b212d",
+  "culture_invariant_id": 1201,
+  "sort_number": 1199,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Vous ne m'empêcherez pas de m'amuser!",
+  "rules_text": "PAS D’AUTRE ENDROIT OÙ JE PRÉFÉRERAIS ÊTRE Au début de votre tour, si cette carte est dans votre défausse, vous pouvez la jouer et elle entre en jeu épuisée.",
+  "card_identifier": "2/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=ae36beb47735b24d7fdf1bc818c3ecb20b2d292a0e580ba171ba1aed1f090da5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=ceb3fa6945579c0f89ae56460363f3e682822ac09ae84df95a8c4e536cce3109"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=1dab5761f96cf759d113b18922fed52b85660ab9cc0f7020a063483d8b74680b",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

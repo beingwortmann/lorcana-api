@@ -1,0 +1,37 @@
+{
+  "name": "Fairy Ship",
+  "subtitle": "Royal Vessel",
+  "willpower": 4,
+  "quest_value": 1,
+  "move_cost": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kristen Kaluba",
+  "deck_building_id": "2709b95e28630f85924df28a795aa4ccc559ba84",
+  "culture_invariant_id": 1267,
+  "sort_number": 1265,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Legends say that whenever something goes missing, it’s been taken to build the fairy ships of the Azurite Sea.",
+  "rules_text": "",
+  "card_identifier": "68/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=58f96116248b48aeb3bf73c126cebf4421d168fc7d683ac26d369dbb4497860c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=da205975bf33af50bb095a1e0175d623a7620c538aed57f8246ab39dcb4b01b1"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=8d9e4bc81879454d7fa26079066516effb4196fe49a4c63647e9626082a5f2b4",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

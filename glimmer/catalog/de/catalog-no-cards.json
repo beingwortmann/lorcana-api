@@ -1,0 +1,527 @@
+{
+  "application_shared_properties": {
+    "current_app_version": "2025.1",
+    "minimum_app_version": "2025.1"
+  },
+  "card_sets": [
+    {
+      "name": "Das erste Kapitel",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=5601d8bc-c2ff-4a6d-ad1a-293d7edc7644",
+      "id": 1,
+      "sort_number": 1,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Aufstieg der Flutgestalten",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set2/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=4ff1e30a-7d16-4cf9-92f6-125c08d4c51a",
+      "id": 2,
+      "sort_number": 2,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Die Tintenlande",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set3/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=d8f0847f-506d-47d8-aedf-2f64d9afd77c",
+      "id": 3,
+      "sort_number": 3,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Ursulas Rückkehr",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set4/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=eb3a31cd-eaac-40a1-9345-eaa84f48e4d7",
+      "id": 4,
+      "sort_number": 4,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Himmelsleuchten",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set5/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=b1735edf-d5af-43f9-990a-9b814ea3e799",
+      "id": 5,
+      "sort_number": 6,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Azurblaues Meer",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set6/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=c750d2c2-e052-4a95-9ff5-645d6334d2c1",
+      "id": 6,
+      "sort_number": 8,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Archazias Insel",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set7/thumbnails/8777efb97a9a111bf4cc033fed2e648da1a34c8e.png?checksum=2e9b2432-b104-4ecc-b27b-293b1096e895",
+      "id": 7,
+      "sort_number": 9,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Die Luminari Chroniken Gefahr aus der Tiefe",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=bfb10b96-c2bf-4265-bcda-2953e4768069",
+      "id": 8,
+      "sort_number": 5,
+      "type": "QUEST"
+    },
+    {
+      "name": "Der Einstieg",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/gateway1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=3776688f-001a-4fc4-a27f-788fc0573e08",
+      "id": 9,
+      "sort_number": 7,
+      "type": "QUEST"
+    }
+  ],
+  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
+  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
+  "special_rarities": [
+    {
+      "name": "Promo",
+      "type": "PROMO",
+      "id": 1
+    },
+    {
+      "name": "D23",
+      "type": "D23",
+      "id": 2
+    },
+    {
+      "name": "Disney 100",
+      "type": "D100",
+      "id": 3
+    },
+    {
+      "name": "Challenge",
+      "type": "CHALLENGE",
+      "id": 4
+    },
+    {
+      "name": "Die Luminari Chroniken",
+      "type": "QUEST",
+      "id": 5
+    }
+  ],
+  "news": [
+    {
+      "title": "App-Update",
+      "subtitle": "Erfahre mehr",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/02_/2025-2-app-update",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=37a6a1e9c36c285b8c1d532cf7a4268bb37f53fc15ade59e759ff5b223e971ad"
+    },
+    {
+      "title": "Anna Stosik",
+      "subtitle": "Verzauberte Karten",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/02_/2025-2-19_card-interview",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=86374aee7430313063d056f404bed7cd924a9b5a11f3024a754d72c2d18ab04a"
+    },
+    {
+      "title": "Archazias Insel",
+      "subtitle": "Erfahre mehr",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=6a0a6946221849385d73091d50de3797078cf37ad010ae714d213d2c53ea85b6"
+    },
+    {
+      "title": "Neue Geschichten!",
+      "subtitle": "Lies die Geschichten",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/story/azurite",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
+    },
+    {
+      "title": "Neues Set…",
+      "subtitle": "Azurblaues Meer",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/product/azurite-sea",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
+    },
+    {
+      "title": "Himmels-Leuchten",
+      "subtitle": "Lies die Geschichten",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/story/shimmering",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=49f1e1216f1368bb0d1b1fdbfd5d3864df5a5897fa6758c4ccd898f6d3acceaf"
+    },
+    {
+      "title": "Ursulas Rückkehr",
+      "subtitle": "Lies die Geschichten",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/story/ursula",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+    },
+    {
+      "title": "Artist Spotlight",
+      "subtitle": "Nicholas Ky",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/artist_spotlight_s5_nicolas-ky",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
+    },
+    {
+      "title": "ERRATA UPDATE",
+      "subtitle": "Set Himmelsleuchten",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/july2024-errata",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=49f1e1216f1368bb0d1b1fdbfd5d3864df5a5897fa6758c4ccd898f6d3acceaf"
+    },
+    {
+      "title": "Neues Set",
+      "subtitle": "Ursulas Rückkehr",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/product/ursulas-return",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
+    },
+    {
+      "title": "Neue Karten",
+      "subtitle": "Karten-Vorschau",
+      "target_type": "SearchResults",
+      "target_object": {
+        "expansions": [
+          "Die Tintenlande"
+        ]
+      },
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
+    },
+    {
+      "title": "VERZAUBERT",
+      "subtitle": "Neue Seltenheit",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/enchanted-reveal",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=8c62b293a57ac82714328b21be5af6a4b8f627106bdda6ec2d4a57f5b0851faf"
+    },
+    {
+      "title": "TEASER",
+      "subtitle": "Es beginnt...",
+      "target_type": "WebPage",
+      "target_object": "https://youtu.be/5TWrdjFVRiQ",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=79c978e47e2354c2d055252a14c4b42e1e81cd345c3a6353de3d84529795f40d"
+    },
+    {
+      "title": "MACH MIT!",
+      "subtitle": "Turnier Events",
+      "target_type": "WebPage",
+      "target_object": "https://melee.gg/Lorcana",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=5331b81a9df3f6046b50b686d7b7aec4f10b514fea1c9bf0d47b555a96eaa8bd"
+    }
+  ],
+  "search_filters": {
+    "item_subtypes": [],
+    "action_subtypes": [
+      {
+        "term_in_search_filter": "Lied",
+        "terms_on_card": [
+          "Lied",
+          "Song"
+        ]
+      }
+    ],
+    "location_subtypes": [],
+    "character_subtypes": [
+      {
+        "term_in_search_filter": "Sagengestalt",
+        "terms_on_card": [
+          "Sagengestalt",
+          "Storyborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Traumgestalt",
+        "terms_on_card": [
+          "Traumgestalt",
+          "Dreamborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Flutgestalt",
+        "terms_on_card": [
+          "Flutgestalt",
+          "Floodborn"
+        ]
+      },
+      {
+        "term_in_search_filter": "Alien"
+      },
+      {
+        "term_in_search_filter": "Besen",
+        "terms_on_card": [
+          "Besen",
+          "Broom"
+        ]
+      },
+      {
+        "term_in_search_filter": "Detektiv",
+        "terms_on_card": [
+          "Detektiv",
+          "Detective"
+        ]
+      },
+      {
+        "term_in_search_filter": "Drache",
+        "terms_on_card": [
+          "Drache",
+          "Dragon"
+        ]
+      },
+      {
+        "term_in_search_filter": "Erfinder/-in",
+        "terms_on_card": [
+          "Erfinder",
+          "Erfinderin",
+          "Inventor"
+        ]
+      },
+      {
+        "term_in_search_filter": "Fee",
+        "terms_on_card": [
+          "Fee",
+          "Fairy"
+        ]
+      },
+      {
+        "term_in_search_filter": "Gottheit",
+        "terms_on_card": [
+          "Gottheit",
+          "Deity"
+        ]
+      },
+      {
+        "term_in_search_filter": "Held/-in",
+        "terms_on_card": [
+          "Held",
+          "Heldin",
+          "Hero"
+        ]
+      },
+      {
+        "term_in_search_filter": "Hyäne",
+        "terms_on_card": [
+          "Hyäne",
+          "Hyena"
+        ]
+      },
+      {
+        "term_in_search_filter": "Illusion"
+      },
+      {
+        "term_in_search_filter": "Kapitän/-in",
+        "terms_on_card": [
+          "Kapitän",
+          "Kapitänin",
+          "Captain"
+        ]
+      },
+      {
+        "term_in_search_filter": "König",
+        "terms_on_card": [
+          "König",
+          "King"
+        ]
+      },
+      {
+        "term_in_search_filter": "Königin",
+        "terms_on_card": [
+          "Königin",
+          "Queen"
+        ]
+      },
+      {
+        "term_in_search_filter": "Madrigal"
+      },
+      {
+        "term_in_search_filter": "Magier/-in",
+        "terms_on_card": [
+          "Magier",
+          "Magierin",
+          "Sorcerer"
+        ]
+      },
+      {
+        "term_in_search_filter": "Mentor/-in",
+        "terms_on_card": [
+          "Mentor",
+          "Mentorin"
+        ]
+      },
+      {
+        "term_in_search_filter": "Musketier",
+        "terms_on_card": [
+          "Musketier",
+          "Musketeer"
+        ]
+      },
+      {
+        "term_in_search_filter": "Pirat",
+        "terms_on_card": [
+          "Pirat",
+          "Pirate"
+        ]
+      },
+      {
+        "term_in_search_filter": "Prinz",
+        "terms_on_card": [
+          "Prinz",
+          "Prince"
+        ]
+      },
+      {
+        "term_in_search_filter": "Prinzessin",
+        "terms_on_card": [
+          "Prinzessin",
+          "Princess"
+        ]
+      },
+      {
+        "term_in_search_filter": "Rennfahrer",
+        "terms_on_card": [
+          "Rennfahrer",
+          "Racer"
+        ]
+      },
+      {
+        "term_in_search_filter": "Ritter/-in",
+        "terms_on_card": [
+          "Ritter",
+          "Ritterin",
+          "Knight"
+        ]
+      },
+      {
+        "term_in_search_filter": "Roboter",
+        "terms_on_card": [
+          "Roboter",
+          "Robot"
+        ]
+      },
+      {
+        "term_in_search_filter": "Schurke/<br>Schurkin",
+        "terms_on_card": [
+          "Schurke",
+          "Schurkin",
+          "Villain"
+        ]
+      },
+      {
+        "term_in_search_filter": "Sieben Zwerge",
+        "terms_on_card": [
+          "Sieben Zwerge",
+          "Seven Dwarfs"
+        ]
+      },
+      {
+        "term_in_search_filter": "Tigger"
+      },
+      {
+        "term_in_search_filter": "Titan"
+      },
+      {
+        "term_in_search_filter": "Verbündete/-r",
+        "terms_on_card": [
+          "Verbündeter",
+          "Verbündete",
+          "Ally"
+        ]
+      },
+      {
+        "term_in_search_filter": "Verstrickt",
+        "terms_on_card": [
+          "Verstrickt",
+          "Entangled"
+        ]
+      },
+      {
+        "term_in_search_filter": "Welpe",
+        "terms_on_card": [
+          "Welpe",
+          "Puppy"
+        ]
+      }
+    ],
+    "character_abilities": [
+      {
+        "term_in_search_filter": "Behütet",
+        "terms_on_card": [
+          "Behütet",
+          "Ward"
+        ]
+      },
+      {
+        "term_in_search_filter": "Beschützen",
+        "terms_on_card": [
+          "Beschützen",
+          "Bodyguard"
+        ]
+      },
+      {
+        "term_in_search_filter": "Gestaltwandel",
+        "terms_on_card": [
+          "Gestaltwandel",
+          "Shift"
+        ]
+      },
+      {
+        "term_in_search_filter": "Herausfordern",
+        "terms_on_card": [
+          "Herausfordern",
+          "Challenger"
+        ]
+      },
+      {
+        "term_in_search_filter": "Impulsiv",
+        "terms_on_card": [
+          "Impulsiv",
+          "Reckless"
+        ]
+      },
+      {
+        "term_in_search_filter": "Rasant",
+        "terms_on_card": [
+          "Rasant",
+          "Rush"
+        ]
+      },
+      {
+        "term_in_search_filter": "Robust",
+        "terms_on_card": [
+          "Robust",
+          "Resist"
+        ]
+      },
+      {
+        "term_in_search_filter": "Singen",
+        "terms_on_card": [
+          "Singen",
+          "Singer"
+        ]
+      },
+      {
+        "term_in_search_filter": "Unterstützen",
+        "terms_on_card": [
+          "Unterstützen",
+          "Support"
+        ]
+      },
+      {
+        "term_in_search_filter": "Verschwinden",
+        "terms_on_card": [
+          "Verschwinden",
+          "Vanish"
+        ]
+      },
+      {
+        "term_in_search_filter": "Wendig",
+        "terms_on_card": [
+          "Wendig",
+          "Evasive"
+        ]
+      }
+    ],
+    "item_abilities": [],
+    "action_abilities": [
+      {
+        "term_in_search_filter": "Gemeinsam singen",
+        "terms_on_card": [
+          "Gemeinsam singen",
+          "Sing Together"
+        ]
+      }
+    ],
+    "location_abilities": []
+  }
+}

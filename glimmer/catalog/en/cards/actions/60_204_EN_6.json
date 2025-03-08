@@ -1,0 +1,35 @@
+{
+  "name": "A Very Merry Unbirthday",
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Geoffrey Boudout",
+  "deck_building_id": "bec1b79d300150cdb92902404916f10483de4dbd",
+  "culture_invariant_id": 1259,
+  "sort_number": 1257,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "Now blow the candle out, my dear And make your wish come true",
+  "rules_text": "(A character with cost 1 or more can to sing this song for free.) Each opponent puts the top 2 cards of their deck into their discard.",
+  "card_identifier": "60/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=7be075c424efe54ae26ce52f053e6b0fd865af0b5736c04a15bd55f3fa5fe7a5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=cd9da179ddcce7d1698195474c778d14232e1ae9d5a8babc1a0b1a09c2f7fd2c"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=ac55382624e6d46aa96d6c8c5a446328435ddd9f5219c1246a6e607d5f993baf",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ]
+}

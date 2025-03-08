@@ -1,0 +1,43 @@
+{
+  "name": "Paperina",
+  "subtitle": "Capitana Pirata",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "81bb233190edd5db1df45cfb55355201fc429a34",
+  "culture_invariant_id": 1410,
+  "sort_number": 1408,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "",
+  "rules_text": "LIDI LONTANI Ogni volta che uno dei tuoi personaggi Pirata va all'avventura mentre si trova in un luogo, pesca una carta.",
+  "card_identifier": "211/204 IT 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=883c4b38e44da554c336d8a84c93f248687b90e904f52af9a512caf9f908a962"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=871c1278d8a69d79233bc6b8266e5799b5021908d19120de12704803a501518f"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=0a967f2087d17503f181d169ca1ab3e17c2c928cbe6706267da95b8d56547c02",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ]
+}

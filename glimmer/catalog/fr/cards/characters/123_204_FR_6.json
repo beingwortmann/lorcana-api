@@ -1,0 +1,43 @@
+{
+  "name": "Dingo",
+  "subtitle": "Gaffeur volant",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "c2cae8618c5864d48ef0976fe51bceeccce58b3f",
+  "culture_invariant_id": 1322,
+  "sort_number": 1320,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Charge",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Accrochez-vous!",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "123/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=8614a8199266b343c5cd401b5f220b866faf851b4071bf787f35aafaee692518"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=c590112dcc956b4db8f4b41aa227a3123937a0b30bd13fab19700cf4c483b542"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/40bd001563085fc35165329ea1ff5c5ecbdbbeef.jpg?checksum=3e14507a6f0175f4c02dd6db63bdfd0f4a0ec9ed82f91ed26e093615011ab38a",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

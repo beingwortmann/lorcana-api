@@ -1,0 +1,42 @@
+{
+  "name": "Markowski",
+  "subtitle": "Space Trooper",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Kevin Sidharta",
+  "deck_building_id": "ead46bfd3bf059ae7fe97fb6163a498b70b7e8a7",
+  "culture_invariant_id": 1312,
+  "sort_number": 1310,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Just what we needed—a new place to fight bugs.",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "113/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=6995080a8d4f65719b334bd097743d23e06fc24b9ff3274865273c86df539918"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=c4eeda4292fd8ffe3101104f4d090f9ba70d330f8094105b8acf0855c77aa2ce"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/e993215bfdaa515f6ea00fafc1918f549119f993.jpg?checksum=cdc1ea80ff0993aaa930c65593d40b0558a37dc33534ba1c1d13414eb815cdc7",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ]
+}

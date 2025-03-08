@@ -1,0 +1,42 @@
+{
+  "name": "Nani",
+  "subtitle": "Caring Sister",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Carmine Pucci",
+  "deck_building_id": "badb6313c16d779154ca8614bade62b8ebaaafee",
+  "culture_invariant_id": 1218,
+  "sort_number": 1216,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Support"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Support (Whenever this character quests, you may add their to another chosen character's this turn.) I AM SO SORRY 2 — Chosen character gets -1 until the start of your next turn.",
+  "card_identifier": "19/204 EN 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=32028d47ccff23b754cf6b2ff3fd462a40bafd9df85d02e231f1babe4876c9e5"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=26c0c703b5a57006eed8fdfcffbd22f2ea4330105191cfccb31d8d7423935460"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=c2751f42c2059673189891cdc59a1aeda811d9c54c97975d8e0f7d5f68c92bf3",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Kakamora",
+  "subtitle": "Spécialiste de la longue portée",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "854ac978a94ec987ff018655c529e3e0c8c5aaa7",
+  "culture_invariant_id": 1370,
+  "sort_number": 1368,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Pirate"
+  ],
+  "flavor_text": "Ils sont très doués pour créer des problèmes.%—Maui",
+  "rules_text": "TU PEUX M’AIDER ? Lorsque vous jouez ce personnage, si vous avez un autre personnage Pirate en jeu, vous pouvez choisir un personnage ou un lieu et lui infliger 1 dommage.",
+  "card_identifier": "171/204 FR 6",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=a20f8dd219e37bb5ba20286a2d0084f907661044d39d06fea6b782eda49f4e89"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4c573014adc7e28e73ff84e5aa8e167de6da14bdf0a8c2fb07ec99c33003c363"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/94940e534aedd3f6d9bb77c6322f6641dbb7432a.jpg?checksum=4f02da37b5dd544592e471f3f9fac57080e53ddd5f79c6e30b23bd25a941fef2",
+  "card_sets": [
+    6
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Vaiana",
+  "subtitle": "Adventurer of Land and Sea",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Anna Stosik",
+  "deck_building_id": "moana-vaiana",
+  "culture_invariant_id": 1663,
+  "sort_number": 1655,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "Vaiana receives a call from the ancestors to sail to new skies and reconnect people across the entire ocean.",
+  "rules_text": "",
+  "card_identifier": "26/P2 EN 7",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=53cee1a6b314a84ec56a07c8caf256335c129682411f2a1e82da348413ec1e3c"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=0b0aa9ebf38fdeb356e5dab72c9790f3a276da1333bfb832fb851b48715ff189"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=a55b2f5b38ea933eba64794b1e1c889cb199be84555aa8ef2a40f47cc9b35b99",
+  "special_rarity_id": 1,
+  "foil_type": "Silver",
+  "card_sets": [
+    7
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Moana"
+  ]
+}
