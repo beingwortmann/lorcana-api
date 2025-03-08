@@ -19,8 +19,7 @@ jobs:
       - name: Run sync script
         env:
           LORCANA_SECRET_TOKEN: ${{ secrets.LORCANA_SECRET_TOKEN }}
-        run: |
-          python3 scripts/syncGlimmer.py
+        run: python3 scripts/syncGlimmer.py
 
       - name: Run DB converter
         run: python3 scripts/convert_db.py
@@ -30,10 +29,15 @@ jobs:
           cp scripts/cards_database_original_Scheme.sqlite .
           cp scripts/cards_database.sqlite .
 
-      - name: Remove any previous output directory
-        run: rm -rf output
+      - name: Clean glimmer.scan-compatible branch
+        run: |
+          git checkout glimmer.scan-compatible
+          git rm -r --ignore-unmatch .
+          git clean -fdx
+          git commit -am "Clean branch" || echo "Nothing to clean"
+          git push origin glimmer.scan-compatible
 
-      - name: Prepare output directory
+      - name: Copy output files to output folder
         run: |
           mkdir output
           cp -r catalog output/
