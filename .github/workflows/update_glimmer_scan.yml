@@ -1,4 +1,4 @@
-name: Publish Glimmer.Scan-Compatible Build
+name: Sync Glimmer.Scan-Compatible
 
 on:
   workflow_dispatch:
@@ -6,15 +6,24 @@ on:
     - cron: "38 * * * *"  # Jede Stunde zur Minute 38
 
 jobs:
-  publish:
+  update-catalog:
     runs-on: ubuntu-latest
     env:
       GIT_HTTP_TIMEOUT: 600
     steps:
-      - name: Checkout main branch
+      - name: Checkout glimmer.scan-compatible branch
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: glimmer.scan-compatible
+          fetch-depth: 0
+
+      - name: Clean glimmer.scan-compatible branch
+        run: |
+          echo "Cleaning branch..."
+          git rm -r --ignore-unmatch .
+          git clean -fdx
+          git commit -am "Clean branch" || echo "Nothing to clean"
+          git push origin glimmer.scan-compatible --force
 
       - name: Run sync script
         env:
@@ -24,32 +33,9 @@ jobs:
       - name: Run DB converter
         run: python3 scripts/convert_db.py
 
-      - name: Copy DB files to repository root
+      - name: Commit new files
         run: |
-          cp scripts/cards_database_original_Scheme.sqlite .
-          cp scripts/cards_database.sqlite .
-
-      - name: Clean glimmer.scan-compatible branch
-        run: |
-          git checkout glimmer.scan-compatible
-          git rm -r --ignore-unmatch .
-          git clean -fdx
-          git commit -am "Clean branch" || echo "Nothing to clean"
+          git add catalog Thumbnails
+          git add -f cards_database.sqlite cards_database_original_Scheme.sqlite
+          git commit -m "Update catalog, DB and thumbnails" || echo "No changes to commit"
           git push origin glimmer.scan-compatible
-
-      - name: Copy output files to output folder
-        run: |
-          mkdir output
-          cp -r catalog output/
-          cp -r Thumbnails output/
-          cp cards_database.sqlite output/
-          cp cards_database_original_Scheme.sqlite output/
-
-      - name: Publish output to glimmer.scan-compatible branch
-        uses: s0/git-publish-subdir-action@develop
-        with:
-          folder: output
-          branch: glimmer.scan-compatible
-          repo: ${{ github.repository }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          message: "Update catalog, DB and thumbnails: ${{ github.sha }}"
