@@ -1,4 +1,4 @@
-name: Sync Glimmer.Scan-Compatible
+name: Sync Glimmer Data
 
 on:
   workflow_dispatch:
@@ -6,36 +6,39 @@ on:
     - cron: "38 * * * *"  # Jede Stunde zur Minute 38
 
 jobs:
-  update-catalog:
+  update-data:
     runs-on: ubuntu-latest
     env:
       GIT_HTTP_TIMEOUT: 600
     steps:
-      - name: Checkout glimmer.scan-compatible branch
+      - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: glimmer.scan-compatible
-          fetch-depth: 0
+          ref: main
 
-      - name: Clean glimmer.scan-compatible branch
+      - name: Remove existing data in glimmer folder
         run: |
-          echo "Cleaning branch..."
-          git rm -r --ignore-unmatch .
-          git clean -fdx
-          git commit -am "Clean branch" || echo "Nothing to clean"
-          git push origin glimmer.scan-compatible --force
+          rm -rf glimmer/catalog glimmer/Thumbnails glimmer/cards_database.sqlite glimmer/cards_database_original_Scheme.sqlite
 
       - name: Run sync script
         env:
           LORCANA_SECRET_TOKEN: ${{ secrets.LORCANA_SECRET_TOKEN }}
-        run: python3 scripts/syncGlimmer.py
+        run: python3 glimmer/syncGlimmer.py
 
       - name: Run DB converter
-        run: python3 scripts/convert_db.py
+        run: python3 glimmer/convert_db.py
 
-      - name: Commit new files
+      - name: Configure Git
         run: |
-          git add catalog Thumbnails
-          git add -f cards_database.sqlite cards_database_original_Scheme.sqlite
-          git commit -m "Update catalog, DB and thumbnails" || echo "No changes to commit"
-          git push origin glimmer.scan-compatible
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config --global http.postBuffer 1073741824
+
+      - name: Commit and push changes in glimmer folder
+        run: |
+          git reset --hard
+          git pull --rebase
+          git add glimmer/catalog glimmer/Thumbnails
+          git add -f glimmer/cards_database.sqlite glimmer/cards_database_original_Scheme.sqlite
+          git commit -m "Update Glimmer data" || echo "No changes to commit"
+          git push origin main
