@@ -18,7 +18,7 @@ jobs:
 
       - name: Remove existing catalog, Thumbnails and DB
         run: |
-          rm -rf catalog Thumbnails cards.db
+          rm -rf catalog Thumbnails cards_database.sqlite
 
       - name: Run sync script for glimmer.scan-compatible
         env:
@@ -35,6 +35,6 @@ jobs:
         run: |
           git reset --hard
           git pull --rebase
-          git add catalog Thumbnails cards.db
+          git add catalog Thumbnails cards_database.sqlite
           git commit -m "Update catalog, DB and thumbnails" || echo "No changes to commit"
           git push origin glimmer.scan-compatible
