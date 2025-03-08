@@ -31,6 +31,7 @@ jobs:
 
       - name: Commit non-image changes (catalog and DB)
         run: |
+          git reset --hard
           git pull --rebase
           git add catalog cards.db
           git commit -m "Update catalog and database" || echo "No non-image changes to commit"
@@ -40,6 +41,7 @@ jobs:
         run: |
           for lang in de en fr it; do
             echo "Processing language: $lang"
+            git reset --hard
             git pull --rebase
             git add Images/$lang
             git commit -m "Update images for $lang" || echo "No changes for $lang"
