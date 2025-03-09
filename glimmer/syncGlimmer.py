@@ -105,7 +105,7 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                 continue
             for category_dir in cards_dir.iterdir():
                 if category_dir.is_dir() and category_dir.name in {"actions", "characters", "items", "locations"}:
-                    card_type = category_dir.name  # Dieses Feld wird als "type" in die DB übernommen
+                    card_type = category_dir.name  # Wird als "type" in die DB übernommen
                     for json_file in category_dir.glob("*.json"):
                         try:
                             with json_file.open("r", encoding="utf-8") as f:
@@ -114,16 +114,7 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                             print(f"Error reading {json_file}: {e}")
                             continue
                         
-                        # Verarbeitung des magic_ink_colors-Felds:
-                        colors_raw = card.get("magic_ink_colors", "")
-                        if isinstance(colors_raw, list):
-                            # Jedes Element wird formatiert: erster Buchstabe groß, Rest klein; dann mit " / " verbinden
-                            magic_ink_colors = " / ".join([str(color).capitalize() for color in colors_raw])
-                        elif isinstance(colors_raw, str):
-                            magic_ink_colors = colors_raw.capitalize()
-                        else:
-                            magic_ink_colors = ""
-                        
+                        magic_ink_colors = json.dumps(card.get("magic_ink_colors", ""))
                         ink_convertible = 1 if card.get("ink_convertible", False) else 0
                         rarity = card.get("rarity", "")
                         typ = card_type
@@ -181,12 +172,14 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                         ''', (magic_ink_colors, ink_convertible, rarity, typ, card_identifier, card_sets, num, author, name_field, subtitle_field, ink_cost, quest_value, strength, willpower, flavor_text, rules_text, image_url, fullName))
                         conn.commit()
                         
+                        # Prüfe anhand des card_identifier, ob nach dem Slash ein Buchstabe folgt.
+                        parts = card_identifier.split("/")
+                        if len(parts) > 1 and parts[1] and not parts[1][0].isdigit():
+                            print(f"Skipping thumbnail download for {card_identifier} due to letter in identifier.")
                         # Falls Sprache EN und ein Bild-Link vorhanden ist, lade das Thumbnail herunter
-                        if language == "en" and image_url:
+                        elif language == "en" and image_url:
                             try:
-                                # Kapitel aus dem card_identifier extrahieren:
                                 chapter = extract_chapter(card_identifier)
-                                # Ersetze ggf. den Kapitelwert durch "0", falls er Buchstaben enthält
                                 if not chapter.isdigit():
                                     chapter = "0"
                                 parsed = urllib.parse.urlparse(image_url)
@@ -203,9 +196,47 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                                 )
                                 with urllib.request.urlopen(req) as response, open(target_path, "wb") as out_file:
                                     out_file.write(response.read())
-                                print(f"Downloaded image for {card_identifier} as {image_filename}")
+                                print(f"Downloaded thumbnail for {card_identifier} as {image_filename}")
                             except Exception as e:
-                                print(f"Error downloading image for {card_identifier} from {image_url}: {e}")
+                                print(f"Error downloading thumbnail for {card_identifier} from {image_url}: {e}")
+                        
+                        # Download high resolution image (2048) in den Ordner ThumbnailsHighRes
+                        # Ermittele den High-Res Link
+                        image_url_high = ""
+                        if isinstance(image_urls, list):
+                            for entry in image_urls:
+                                if isinstance(entry, dict) and entry.get("height") == 2048:
+                                    image_url_high = entry.get("url", "")
+                                    break
+                        elif isinstance(image_urls, dict):
+                            for key, entry in image_urls.items():
+                                if isinstance(entry, dict) and entry.get("height") == 2048:
+                                    image_url_high = entry.get("url", "")
+                                    break
+                        high_res_dir = pathlib.Path(__file__).parent / "ThumbnailsHighRes"
+                        if len(parts) > 1 and parts[1] and not parts[1][0].isdigit():
+                            print(f"Skipping high res download for {card_identifier} due to letter in identifier.")
+                        elif language == "en" and image_url_high:
+                            try:
+                                chapter = extract_chapter(card_identifier)
+                                if not chapter.isdigit():
+                                    chapter = "0"
+                                parsed = urllib.parse.urlparse(image_url_high)
+                                path_parts = parsed.path.split("/")
+                                last_component = path_parts[-1]
+                                image_id = os.path.splitext(last_component)[0]
+                                image_filename = f"{chapter}_{image_id}.jpg"
+                                high_res_dir.mkdir(parents=True, exist_ok=True)
+                                target_path = high_res_dir / image_filename
+                                req = urllib.request.Request(
+                                    image_url_high,
+                                    headers={"User-Agent": "Mozilla/5.0"}
+                                )
+                                with urllib.request.urlopen(req) as response, open(target_path, "wb") as out_file:
+                                    out_file.write(response.read())
+                                print(f"Downloaded high res image for {card_identifier} as {image_filename}")
+                            except Exception as e:
+                                print(f"Error downloading high res image for {card_identifier} from {image_url_high}: {e}")
     conn.close()
 
 def main():
