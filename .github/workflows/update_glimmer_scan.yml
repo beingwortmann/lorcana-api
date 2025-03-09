@@ -1,4 +1,4 @@
-name: Sync Glimmer Data
+name: Sync Glimmer
 
 on:
   workflow_dispatch:
@@ -6,24 +6,28 @@ on:
     - cron: "38 * * * *"  # Jede Stunde zur Minute 38
 
 jobs:
-  update-data:
+  update-glimmer:
     runs-on: ubuntu-latest
     env:
       GIT_HTTP_TIMEOUT: 600
     steps:
-      - name: Checkout main branch
+      - name: Checkout Repository (Main Branch)
         uses: actions/checkout@v4
         with:
           ref: main
 
-      - name: Remove existing data in glimmer folder
+      - name: Clean glimmer folder
         run: |
-          rm -rf glimmer/catalog glimmer/Thumbnails glimmer/cards_database.sqlite glimmer/cards_database_original_Scheme.sqlite
-
+          cd glimmer
+          echo "Lösche alle Dateien und Ordner außer syncGlimmer.py und convert_db.py ..."
+          # Löscht alle Dateien und Ordner im aktuellen Verzeichnis, außer der beiden Scripts
+          find . -maxdepth 1 ! -name '.' ! -name 'syncGlimmer.py' ! -name 'convert_db.py' -exec rm -rf {} +
+          cd ..
+      
       - name: Run sync script
+        run: python3 glimmer/syncGlimmer.py
         env:
           LORCANA_SECRET_TOKEN: ${{ secrets.LORCANA_SECRET_TOKEN }}
-        run: python3 glimmer/syncGlimmer.py
 
       - name: Run DB converter
         run: python3 glimmer/convert_db.py
@@ -34,11 +38,8 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global http.postBuffer 1073741824
 
-      - name: Commit and push changes in glimmer folder
+      - name: Commit and push changes
         run: |
-          git reset --hard
-          git pull --rebase
-          git add glimmer/catalog glimmer/Thumbnails
-          git add -f glimmer/cards_database.sqlite glimmer/cards_database_original_Scheme.sqlite
-          git commit -m "Update Glimmer data" || echo "No changes to commit"
+          git add glimmer
+          git commit -m "Update glimmer: catalog, DB and thumbnails" || echo "No changes to commit"
           git push origin main
