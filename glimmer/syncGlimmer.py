@@ -114,7 +114,14 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                             print(f"Error reading {json_file}: {e}")
                             continue
                         
-                        magic_ink_colors = json.dumps(card.get("magic_ink_colors", ""))
+                        # Hier: Extrahiere die Farbe und formatiere sie:
+                        raw_colors = card.get("magic_ink_colors", "")
+                        if isinstance(raw_colors, list):
+                            processed_colors = " / ".join([str(c).capitalize() for c in raw_colors])
+                        else:
+                            processed_colors = str(raw_colors).capitalize()
+                        magic_ink_colors = processed_colors
+                        
                         ink_convertible = 1 if card.get("ink_convertible", False) else 0
                         rarity = card.get("rarity", "")
                         typ = card_type
@@ -201,7 +208,6 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                                 print(f"Error downloading thumbnail for {card_identifier} from {image_url}: {e}")
                         
                         # Download high resolution image (2048) in den Ordner ThumbnailsHighRes
-                        # Ermittele den High-Res Link
                         image_url_high = ""
                         if isinstance(image_urls, list):
                             for entry in image_urls:
