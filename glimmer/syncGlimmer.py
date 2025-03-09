@@ -114,7 +114,7 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                             print(f"Error reading {json_file}: {e}")
                             continue
                         
-                        # Hier: Extrahiere die Farbe und formatiere sie:
+                        # Farbe aus Array extrahieren und formatieren:
                         raw_colors = card.get("magic_ink_colors", "")
                         if isinstance(raw_colors, list):
                             processed_colors = " / ".join([str(c).capitalize() for c in raw_colors])
@@ -170,7 +170,8 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                                 if isinstance(entry, dict) and entry.get("height") == 512:
                                     image_url = entry.get("url", "")
                                     break
-                        fullName = f"{name_field} - {subtitle_field}"
+                        # Falls subtitle leer ist, lasse den " - " weg.
+                        fullName = name_field if not subtitle_field.strip() else f"{name_field} - {subtitle_field}"
                         
                         cursor.execute('''
                         INSERT INTO cards (
