@@ -1,75 +1,73 @@
 {
   "application_shared_properties": {
-    "current_app_version": "2025.1",
+    "current_app_version": "2025.1.1",
     "minimum_app_version": "2025.1"
   },
   "card_sets": [
     {
       "name": "Das erste Kapitel",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=af9273fa-3dc6-4309-b074-511bb9db02ca",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=cb5daefe-96c8-4fe6-be12-9f4e36e4c5bb",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Aufstieg der Flutgestalten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set2/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=384ba8e3-6a38-4472-9ce4-16704b382ad0",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set2/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=ba17f189-ad36-4a7a-aa05-e9e3ffd52edc",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Die Tintenlande",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set3/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=ba901e9d-db7f-4711-a9e2-2e1b9cf7e30c",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set3/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=60a6234f-960f-400a-b4db-38c5ffd22256",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Ursulas Rückkehr",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set4/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=42074ee6-5b7b-4245-8490-b573d639d4a8",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set4/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=7de46153-21ef-4a56-9c8b-e0ce2d29dede",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Himmelsleuchten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set5/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=c07eafc1-0946-4a78-9786-25bf0f46545c",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set5/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=e22f6dbd-1ded-4e9c-a0da-1cee54a3cec4",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Azurblaues Meer",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set6/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=2c1318d7-52a8-49dc-9881-1808293a9138",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set6/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=a2ee0aaa-6c4e-4a04-a79e-0c47235f8e18",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "Archazias Insel",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set7/thumbnails/8777efb97a9a111bf4cc033fed2e648da1a34c8e.png?checksum=5597e57b-b52a-4023-8822-6b1005859675",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set7/thumbnails/8777efb97a9a111bf4cc033fed2e648da1a34c8e.png?checksum=dd626ca6-a236-4e95-bdcf-ef3a684ba963",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
       "name": "Die Luminari Chroniken Gefahr aus der Tiefe",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=c8f803d9-6d89-4526-8525-740f1fabfa47",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=9d6af212-9246-4cf2-ad51-281f68e51c8d",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Der Einstieg",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/gateway1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=ec7a198f-238f-40a7-adfb-1148ec1fb4a3",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/gateway1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=7b8947ec-1a36-435a-a6d0-b1a1e94889e1",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
     }
   ],
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
   "special_rarities": [
     {
       "name": "Promo",
@@ -523,5 +521,7 @@
       }
     ],
     "location_abilities": []
-  }
+  },
+  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
+  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c"
 }

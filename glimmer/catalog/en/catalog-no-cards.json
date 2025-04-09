@@ -1,75 +1,73 @@
 {
   "application_shared_properties": {
-    "current_app_version": "2025.1",
+    "current_app_version": "2025.1.1",
     "minimum_app_version": "2025.1"
   },
   "card_sets": [
     {
       "name": "The First Chapter",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=711d1c13-5485-4f0e-9c1b-70af0d683020",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=596258cf-4477-4c24-bf5a-0b294a8fd4b4",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Rise of the Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set2/thumbnails/cbd0a4989c1cf0161a8e85276ede1f4e92322b49.png?checksum=baf835da-052f-4968-b220-87219fdfe4c8",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set2/thumbnails/cbd0a4989c1cf0161a8e85276ede1f4e92322b49.png?checksum=367cf75e-f2b0-45c4-9b17-26d465903245",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Into the Inklands",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set3/thumbnails/56fa945edb2310c3b4797ea856f0d32711186616.png?checksum=a31e0c56-5c31-48d2-9443-942f1251e94a",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set3/thumbnails/56fa945edb2310c3b4797ea856f0d32711186616.png?checksum=6eab8333-fce5-4b69-9216-f78289249562",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Ursula's Return",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set4/thumbnails/d7a5abb696bf6dfd0e824386bfa452d0c4ad2a8f.png?checksum=18f71498-6a6d-46c5-b9f3-511bf026025b",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set4/thumbnails/d7a5abb696bf6dfd0e824386bfa452d0c4ad2a8f.png?checksum=70269a51-68df-4cb7-9f94-49b871e85d65",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Shimmering Skies",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set5/thumbnails/a4f8b4e794b8dcf9b9801afbfa6688102f7f6e26.png?checksum=06696046-67e6-4913-8715-82abd0210b3d",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set5/thumbnails/a4f8b4e794b8dcf9b9801afbfa6688102f7f6e26.png?checksum=4abc7afb-9fa1-4deb-b394-78b2aa089096",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Azurite Sea",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set6/thumbnails/b17f1314b1f8e58387b5f1c0057c999a5222fd4f.png?checksum=f41115cc-c8b6-47e0-9dc1-1dca1250c104",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set6/thumbnails/b17f1314b1f8e58387b5f1c0057c999a5222fd4f.png?checksum=cd8b4b6c-7705-4fc1-94fd-961eebb58245",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "Archazia’s Island",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set7/thumbnails/d369e19b70b7552a57e3c440c71e8d3d9751e797.png?checksum=437b88a2-1924-4445-9c11-3ab0ebe11a00",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/set7/thumbnails/d369e19b70b7552a57e3c440c71e8d3d9751e797.png?checksum=8be80ea1-9c15-4e46-8ff8-38125c8a350d",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
       "name": "Illumineer's Quest Deep Trouble",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quest1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=ef1bb69e-35f1-44a0-a527-2cf84c6ed0a0",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/quest1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=2bb50962-b8d1-4a6f-b40f-31adcc0ce1f2",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Gateway",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/gateway1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=6ef28514-980e-41f1-9dab-9abe08a4215f",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/en/gateway1/thumbnails/86f8e519dc2e4640450491d31e0739ef51aea0e2.png?checksum=4ef51f20-6bc9-497b-a9c8-3a712de54d06",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
     }
   ],
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
   "special_rarities": [
     {
       "name": "Promo",
@@ -348,5 +346,7 @@
       }
     ],
     "location_abilities": []
-  }
+  },
+  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
+  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c"
 }

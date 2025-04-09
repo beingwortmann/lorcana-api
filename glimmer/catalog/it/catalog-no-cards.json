@@ -1,75 +1,73 @@
 {
   "application_shared_properties": {
-    "current_app_version": "2025.1",
+    "current_app_version": "2025.1.1",
     "minimum_app_version": "2025.1"
   },
   "card_sets": [
     {
       "name": "The First Chapter",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=a997cb6b-0295-4d80-b895-dd338d5a4fac",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=9ff1a4f5-2825-442a-9fd7-155f830bbc82",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Rise of the Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set2/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=ebbcc90d-9604-459b-bf9a-1b210a53c6a8",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set2/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=2d3fe5eb-00fe-4c7a-a5af-9c05be8180a4",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Nelle Terre d'Inchiostro",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set3/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=5d3ef0ea-2855-471a-8a46-d84cfc3aea6b",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set3/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=d238a80f-8dde-4fae-8ba1-565707cf6a01",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Il Ritorno di Ursula",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set4/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=02dbdd02-f746-46d0-b99b-b56001d70279",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set4/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=dc78efb1-b896-4104-a1da-e42c9f11ad06",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Cieli Scintillanti",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set5/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=e95f14cd-f474-4761-bf10-d7951d92d677",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set5/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=ee14b2f9-9646-4a06-a6b8-00a549ac6015",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Mare Di Azzurrite",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set6/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=7ed03305-942b-4980-9e50-361672043b73",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set6/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=11c4d435-e8ae-4c38-9e14-b2b72f4d8d47",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "L’isola Di Archazia",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=7aaad5bd-d34d-4a4d-b463-7bb9c855fe2f",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=5e824f38-931b-4e49-b1b6-11a28b3d81a8",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
       "name": "Avventura degli Illuminatori Problemi negli Abissi",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=a4aaca6c-bdcc-43ef-b70e-26ccfa961324",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=84f7526a-440e-432a-8712-93834f055622",
       "id": 8,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
       "name": "Preludio",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/gateway1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=8695ca8a-e636-4715-ab64-a1e386b999a6",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/gateway1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=036bc004-a699-43db-9550-173775dd78e0",
       "id": 9,
       "sort_number": 7,
       "type": "QUEST"
     }
   ],
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c",
   "special_rarities": [
     {
       "name": "Promo",
@@ -510,5 +508,7 @@
       }
     ],
     "location_abilities": []
-  }
+  },
+  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
+  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c"
 }
