@@ -1,0 +1,43 @@
+{
+  "name": "Capitan Libeccio",
+  "subtitle": "Narratore Stravagante",
+  "strength": 0,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "2fe3c2368d9375dae2898ac0160a32854bd5601b",
+  "culture_invariant_id": 1790,
+  "sort_number": 1788,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "E così mi trovavo nella caverna sotto al palazzo, quando improvvisamente ha iniziato a piovere sabbia. Mi sono fermato forse? No! Che vuoi che sia un po' di sabbia?",
+  "rules_text": "STRAORDINARIA SITUAZIONE Questo personaggio riceve +1 per ogni singolo danno su di esso.",
+  "card_identifier": "126/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/126_43b34e0f695a32e7c5478a38ad0cf8bd8ef62d49.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/126_e6b1b54cae124c87c772284171a3ab6d22bbce91.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/126_2a215dcb1c9d9537754a7c3c0ec3881c0344ec95.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Alice nel Paese delle Meraviglie",
+    "Alice in Wonderland"
+  ]
+}

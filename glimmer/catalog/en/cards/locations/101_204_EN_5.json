@@ -15,23 +15,26 @@
   "abilities": [],
   "subtypes": [],
   "flavor_text": "",
-  "rules_text": "FOREST HOME Your characters named Robin Hood may move here for free. FAMILIAR TERRAIN Characters gain Ward and \", 1 — Deal 2 Sample 1 Sample 2 Sample 3 damage to chosen damaged character\" while here. (Opponents can't choose them except to challenge.)",
+  "rules_text": "FOREST HOME Your characters named Robin Hood may move here for free. FAMILIAR TERRAIN Characters gain Ward and \", 1 — Deal 2 damage to chosen damaged character\" while here. (Opponents can't choose them except to challenge.)",
   "card_identifier": "101/204 EN 5",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=0271059074b1eddca0e3891844c6779ea2f7c8bd8475847d2b6652767c0bd0b8"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/101_1b2a370b64cd68c52f62054e72018f335fd64e47.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=75f061da5445359a240f9d5f570e4454b9e47125c5c1371249388486b103a35f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/101_9b8c0fcc232daf128172a1c2ba87107b2b3ca712.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=3db4fb02b9fd6d0a7167f58a2e58cc67081579e8648929d67b3180f68b97988f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/101_6b9f52a39732825d227ff052373cefa6a96fce34.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
   ]
 }

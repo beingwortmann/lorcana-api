@@ -1,0 +1,44 @@
+{
+  "name": "Lumiere",
+  "subtitle": "Agile Candelabro",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "ca3d3126f63f27a418bd6fd3c21085291bd498d6",
+  "culture_invariant_id": 1792,
+  "sort_number": 1790,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Sacrebleu! Non è questo il modo di trattare un ospite nel tuo palazzo!",
+  "rules_text": "PASSO RAPIDO Mentre hai una carta oggetto nei tuoi scarti, questo personaggio ottiene Sfuggente. (Solo altri personaggi con Sfuggente possono sfidarlo.)",
+  "card_identifier": "128/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/128_fae34cebe1cf2aa6c7f4412dcbcfe00917904b74.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/128_56a5f39b5df5da15041540e3bcae985b94e79f29.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/128_2bfc0ef3d234709136544c34fccc3332db6f4705.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "La bella e la bestia",
+    "Beauty and the Beast"
+  ]
+}

@@ -20,18 +20,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=8dd899d050e5d6ef871c025b45447313212de9613a0e4179cfa3a659f118f866"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/69_8cafe3610da9bb0b8567b750a47703b0e3809b09.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=c52c637b56b947d450ff1fef24d6112d45545066d1db69929d1188ff89b1df9f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/69_f907a1a77c3f39882c3c3905d8a0165a2b19bf3a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb.jpg?checksum=77aaae9ce3ba8f071de75f14adee2c2f6bebe1bfb8419c7992dc48f610b9e0c0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/69_54825dffd281708d60d8d611a6f57e787d260e3f.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog",
+    "Küss den Frosch"
   ]
 }

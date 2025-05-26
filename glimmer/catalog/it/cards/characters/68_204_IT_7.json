@@ -27,19 +27,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=679c3cbae12275ea5c404b6a7e24ca6a9d5b6c58851d3cf791272afee32009dc"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/68_19e010cbdcf1f6e12f4881f489ecd63ea3afe8c4.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=5b9b79f747d02248e9f552dee884e4887362148067aedf4372dfb4d8f99f242e"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/68_2e635dc51776d01791f4aeca28b572af157b4c22.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b4c96d80854dd27e76d8cc9e21960eebda52e962.jpg?checksum=8c134c3ec1a91b36fd9585e9da2e88bc0676b2dd692a0cd6a4f9315a29af8d2a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/68_adbb03e0a485a390ff4e5235f972091079152933.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST",
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Le follie dell'imperatore"
   ]
 }

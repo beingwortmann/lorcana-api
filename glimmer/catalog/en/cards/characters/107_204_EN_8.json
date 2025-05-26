@@ -1,0 +1,48 @@
+{
+  "name": "Go Go Tomago",
+  "subtitle": "Cutting Edge",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Beno Meli",
+  "deck_building_id": "cdc3c66cf9a3541d7db1be9979f16c88c14c6113",
+  "culture_invariant_id": 1771,
+  "sort_number": 1770,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive",
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Go Go Tomago.) Evasive (Only characters with Evasive can challenge this character.)  ZERO RESISTANCE When you play this character, if you used Shift to play her, you may put chosen character into their player's inkwell facedown and exerted.",
+  "card_identifier": "107/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/107_df39c0c74fba4299f8fdfc78002d161dccf091fb.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/107_bce840a5394d894842f2493b3708a6855fc30c64.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/107_4075dac10fd8aed2adfa54ebb73d4afeaa82d335.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

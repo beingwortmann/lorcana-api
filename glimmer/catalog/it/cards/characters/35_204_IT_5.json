@@ -27,18 +27,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=a853840916f573c6ef34d53d94c63855ab62a35d0e339fd024ab195b642024ed"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/35_714873210851448ccf6ee3048433c887bf936e54.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=624205a22d6ce08ebc0ee09efbedda27f9d17f55f51fba8cbd5712286e426f96"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/35_6d8bcf58bdd7c4d04972aa8e04504752246b401d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/972a67c48192728a34979d9a35164c1295401b71.jpg?checksum=c6887e51a7abae3e20fc826f9c69e82c6d134baba27146dd867ec04dd5c9aaf3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/35_2c1480fd014f01f28aa7291dcdc7ff379172bcf6.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Sleeping Beauty",
+    "La bella addormentata nel bosco"
   ]
 }

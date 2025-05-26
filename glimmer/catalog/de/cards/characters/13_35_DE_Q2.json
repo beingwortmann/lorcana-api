@@ -1,0 +1,41 @@
+{
+  "name": "Gigantische Kobra",
+  "subtitle": "Schlängelnde Statue",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Diego Machuca",
+  "deck_building_id": "513a10ee9fdb722093e88d7b3e36b8478d1bc612",
+  "culture_invariant_id": 1908,
+  "sort_number": 1908,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Koloss"
+  ],
+  "flavor_text": "Seht die Wunder der wahren Macht! Sogar den Stein kann ich beherrschen!%–Dschafar",
+  "rules_text": "DER SCHATTEN DER SCHLANGE Wenn Dschafar diesen Charakter ausspielt, fügt er jedem gegnerischen erschöpften Charakter 3 Schaden zu.",
+  "card_identifier": "13/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/13_0fb5667d8ac271016d4b55c515bc200a722f6a20.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/13_54f9b2abb03fbaac2e23342ca9f817339bc21f9d.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Lorcana"
+  ]
+}

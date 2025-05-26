@@ -1,0 +1,44 @@
+{
+  "name": "Mirabel Madrigal",
+  "subtitle": "Curious Child",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Arianna Rea",
+  "deck_building_id": "a39249e29acf0c0edfe7e329190ab01462b8a5be",
+  "culture_invariant_id": 1674,
+  "sort_number": 1673,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Madrigal"
+  ],
+  "flavor_text": "Whatever gift awaits will be just as special as you. —Alma Madrigal",
+  "rules_text": "YOU ARE A WONDER When you play this character, you may reveal a song card in your hand to gain 1 lore.",
+  "card_identifier": "10/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/10_8904112535cbbf463890309a17e7203e576604d3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/10_16beabc881c3c3be62b6dfe5dfbe0c934e2050f2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/10_260846abb71616537657d973d357655cbbe8d754.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Encanto"
+  ]
+}

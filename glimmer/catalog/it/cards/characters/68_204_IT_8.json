@@ -1,0 +1,46 @@
+{
+  "name": "Yzma",
+  "subtitle": "Nervosa",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Julien Vandois",
+  "deck_building_id": "12eeb86e37f64546133910be1f491f5bd01ae282",
+  "culture_invariant_id": 1732,
+  "sort_number": 1730,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "MA PERCHÉ DOBBIAMO AVERE DUE LEVE? Quando giochi questo personaggio, se hai una carta chiamata Abbassa la Leva! nei tuoi scarti, puoi cercare nel tuo mazzo una carta chiamata L'Altra Leva! e rivelare quella carta a tutti i giocatori. Aggiungi quella carta alla tua mano e rimescola il tuo mazzo.",
+  "card_identifier": "68/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/68_6e85e52904ea94c5c34a18309b589d204ceda262.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/68_47a68a3ac1834c47f7d3200a2a65cd8bf1bad442.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/68_2896ea34607210ccfb431e8b42094941b55a48bc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Le follie dell'imperatore"
+  ]
+}

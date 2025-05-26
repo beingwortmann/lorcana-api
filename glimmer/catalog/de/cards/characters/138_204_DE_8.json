@@ -1,0 +1,45 @@
+{
+  "name": "Le Fou",
+  "subtitle": "Kuchendieb",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "8e79bca168af9ababf4c78ca6193a25f88168742",
+  "culture_invariant_id": 1802,
+  "sort_number": 1800,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Le Fou, manchmal kriegst auch du ein Stück vom Kuchen ab.%–Gaston",
+  "rules_text": "ALLES FÜR MICH , Verbanne einen deiner Gegenstände – Eine gegnerische Person deiner Wahl verliert 1 Legende und du sammelst 1 Legende.",
+  "card_identifier": "138/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/138_c31a95dee7ac99b09bfee8387403a225bf0e9e90.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/138_b39833e865c6ab06dfe6ac28231cde2fa88edc60.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/138_c181a067de19fdb8d0f416b03f596d7e5c3e04ed.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Die Schöne und das Biest",
+    "Beauty and the Beast"
+  ]
+}

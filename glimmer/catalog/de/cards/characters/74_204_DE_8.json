@@ -1,0 +1,46 @@
+{
+  "name": "Dschafar",
+  "subtitle": "Hoher Sultan von Lorcana",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Cristian Romero",
+  "deck_building_id": "50e1c204657b785ab5879cee057fe3009115fd88",
+  "culture_invariant_id": 1738,
+  "sort_number": 1736,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Schurke",
+    "König",
+    "Magier"
+  ],
+  "flavor_text": "",
+  "rules_text": "DUNKLE MACHT Jedes Mal, wenn dieser Charakter erkundet, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab. Wenn du so eine Illusions-Charakterkarte abgeworfen hast, darfst du sie kostenlos ausspielen.",
+  "card_identifier": "74/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/74_ab668013924afcdb9abfc6520b849d5d94057e85.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/74_32631dc13969c19362303519e730a54281bb8e48.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/74_7536705c966bfbfe1438a847e65e2cbf6019ae7f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

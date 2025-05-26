@@ -1,0 +1,44 @@
+{
+  "name": "Biagio",
+  "subtitle": "Guardiano Attento",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Edu Francisco",
+  "deck_building_id": "387626e5bd66b83cacd57f2c76f83f9a8e014257",
+  "culture_invariant_id": 1751,
+  "sort_number": 1749,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Un solo sguardo alle minuscole tracce e il suo istinto protettivo prese il sopravvento.",
+  "rules_text": "COME POSSO ENTRARE? Quando giochi questo personaggio, un personaggio a tua scelta ottiene Protetto fino all'inizio del tuo prossimo turno. (Gli avversari non possono sceglierlo se non per sfidarlo.)",
+  "card_identifier": "87/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/87_14ec64635e1cb35f5ea81a20d86c946001796bbf.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/87_66be72037497343614fd319930b2eccbe7764f79.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/87_63f9992d329ad1d72f813739a127c12f223ab14a.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lilli e il vagabondo",
+    "Lady and the Tramp"
+  ]
+}

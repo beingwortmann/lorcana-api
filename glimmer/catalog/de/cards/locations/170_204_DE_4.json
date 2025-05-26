@@ -20,18 +20,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=30c1e79ea0bd10c29440ec4151abf4c6d96fab25010c171c9f05d045bb1cfa21"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/170_c9069f361ddb919461a334c8481fb84e7abe8a15.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=090bb2fbd6a9f900cfb2cddb749b88ffce5cf12cf4658057daae888d59405c5e"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/170_81295d3f30ec7f445bdcabad0d67f28ae1557e02.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/717b2f3d8816830549097908c134e1729c516542.jpg?checksum=df840a1028970110d65f0d92f9867bb6c2a5495e557dda1379f04285099ca91e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/170_36212258f2dc3a9f110ad79a77b4c4608e180741.jpg",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Mulan"
   ]
 }

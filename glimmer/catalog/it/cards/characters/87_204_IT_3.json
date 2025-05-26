@@ -25,18 +25,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=bb2fe157beb6b3ee66abcb44dd2c7a1e4aa363b436b00927ffa817d4a714e7a1"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/87_d758b89ffc2139e7ad314744758cc3fa8d04138c.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=9a2344b458cac6e7edb9eed60b5a236146bd73bf33586ca5dcdbadb50439e800"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/87_c1c1f0cbda2d7c4662684e36b4fd88b4104f735b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=f6f45327d6188ddbab1bbfbdda7c948025378e0724ab82a512a6ce7536d0f33f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/87_66f2619eea8a1d57dc64ed5f5105829cffbad6aa.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
   ]
 }

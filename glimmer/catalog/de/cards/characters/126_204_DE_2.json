@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=a5c195fe585db57a3686f6b9a05980e04bfe75eadafd84ff8ceb364d4f7bf606"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/126_66d5373ea2c7873a196330f656d98c506165aca1.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=77aa184315822d0c0c52c24a98372d829a5d1caf4b9e76eb162bb1b34e4d4536"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/126_e40173525c4f5aa622c63dbf0d61b2965c93e530.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=c0020b3695265b67df62e895f97f316b3419b09362f7d4633ffb7071792feddd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/126_64c284419e9114f6955e6771f9f54fbd42c79883.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Jungle Book",
+    "Dschungelbuch"
   ]
 }

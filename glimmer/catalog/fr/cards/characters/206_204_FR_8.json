@@ -1,0 +1,49 @@
+{
+  "name": "Ralph la Casse",
+  "subtitle": "Gros bêta",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Sam Nielson",
+  "deck_building_id": "c3d8abe27b7eb16bd2601664dd5ab481885277c1",
+  "culture_invariant_id": 1870,
+  "sort_number": 1868,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Pilote"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 5 (Vous pouvez payer 5 pour jouer ce personnage sur l'un de vos personnages Ralph la Casse.) DE NOUVEAU DANS LA COURSE Lorsque vous jouez ce personnage et chaque fois qu'il est envoyé à l'aventure, vous pouvez renvoyer dans votre main une carte Personnage Pilote de votre défausse coûtant 6 ou moins. Si vous le faites, gagnez 1 éclat de Lore.",
+  "card_identifier": "206/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/206_4f685add52ac42c3b95dfc89576d252dfe5c3dd3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/206_8f10602dc67116de34df03648d9736db5c8bf15b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/206_1b676564346801248f42201a403ab9a694e1e4b7.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Les Mondes de Ralph"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Forest Duel",
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Viv Tanner",
+  "deck_building_id": "8a8fd5b953941634d5c3675e46824ff56ce8b084",
+  "culture_invariant_id": 1741,
+  "sort_number": 1740,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Fight with honor, win with dignity.",
+  "rules_text": "Your characters gain Challenger +2 and \"When this character is banished in a challenge, return this card to your hand\" this turn. (They get +2 while challenging.)",
+  "card_identifier": "77/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/77_4f676de3b01ac5e09bff758f970da3adc20e2751.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/77_b338a1e94680176a9483e8a5b7ac0e13e3775679.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/77_ebd543871656cd66eaedc641c6ff9e71cb9726be.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

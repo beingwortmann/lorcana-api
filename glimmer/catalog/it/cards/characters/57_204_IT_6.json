@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=ad612dd1b417959ed8bdc40e51c00e5375fa7168faad1b487a6e9c37b60801da"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/57_f1bae837e6ef8ada3856ac10bfa64f5e979109ba.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=f31eeeab1f9fd06aa9264aa42d734064f795862a28bd09dff69b48e803f9810c"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/57_57198903b6cb8125f4621e414efbdb1e75f1a167.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=06a5fd9d6ce8db9e98938389ec236039c2c7a488b2eb20cf201d439a37348a02",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/57_47bef7ae5999440229ab4c888fa459a49ef9ac4b.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog",
+    "La Principessa e il Ranocchio"
   ]
 }

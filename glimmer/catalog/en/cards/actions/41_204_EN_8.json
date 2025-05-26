@@ -1,0 +1,37 @@
+{
+  "name": "Only So Much Room",
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Therese Vildefall",
+  "deck_building_id": "898aeafea2572b546272d33c7c03c94339016961",
+  "culture_invariant_id": 1705,
+  "sort_number": 1704,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Home wreckers! That’s what they are! —Tramp",
+  "rules_text": "Return chosen character with 2 or less to their player's hand. Return a character card from your discard to your hand.",
+  "card_identifier": "41/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/41_004db87f51a8fcaa39fadf4653178ba08934f74d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/41_34470d6ac29e1e2b0b2dc3b19d1e7c1acd8565d1.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/41_d2d35df8fe299a4e5819a4611e9eddd5beccbd13.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp"
+  ]
+}

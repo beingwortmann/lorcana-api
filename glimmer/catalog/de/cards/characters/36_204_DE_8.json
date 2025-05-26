@@ -1,0 +1,42 @@
+{
+  "name": "Joey",
+  "subtitle": "Blaue Taube",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "French Carlomagno",
+  "deck_building_id": "469bd055268daba9556ab80313749cc2a456877f",
+  "culture_invariant_id": 1700,
+  "sort_number": 1698,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Wenn du Hilfe brauchst, ist der alte Joey zur Stelle.",
+  "rules_text": "ICH HAB GENAU DAS RICHTIGE Jedes Mal, wenn dieser Charakter erkundet, darfst du bis zu 1 Schaden von jedem deiner Charaktere mit Beschützen entfernen.",
+  "card_identifier": "36/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/36_c5b1dfa3e81a7937171e78cd13498effc479c5c6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/36_f6da90982df8103bd77d93293dfe275d15dfc88f.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/36_b42d5b629af90df3c915d7413287ff5146c9379e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Bolt"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Hüter des Schatzes",
+  "subtitle": "Illusionärer Beschützer",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "65a7b79d2f66d824342ef5448373ac59b596d26f",
+  "culture_invariant_id": 1900,
+  "sort_number": 1900,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Illusion"
+  ],
+  "flavor_text": "Oh je, haben sich die Regeln geändert? Wie furchtbar traurig … für dich.%–Dschafar",
+  "rules_text": "STRÖMENDER SAND Luminari können keine Fähigkeiten von Kampfplätzen nutzen.",
+  "card_identifier": "5/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/5_892aaed5bdefa0719abadc048a3a68b7342a1fbc.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/5_18ff730f0dce235183dafbb617880780a5532195.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

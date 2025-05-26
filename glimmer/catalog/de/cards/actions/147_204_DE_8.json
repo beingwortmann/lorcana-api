@@ -1,0 +1,41 @@
+{
+  "name": "Für immer und immer",
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "cc60de718fd85aa22601a84ebf20bf07de590a8e",
+  "culture_invariant_id": 1811,
+  "sort_number": 1809,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gemeinsam singen 8 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 8 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Mache alle deine Charaktere bereit. Sie erhalten in diesem Zug keinen Schaden durch Herausforderungen und können nicht mehr erkunden.",
+  "card_identifier": "147/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/147_2bba5d69edac7a886efb2717183ffe2e912daaed.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/147_a716039949e93b4f0a7f86e3745f1e25e888fa8e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/147_a0e26cab6771633b732fb166274c288848911a59.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Brother Bear",
+    "Bärenbrüder"
+  ]
+}

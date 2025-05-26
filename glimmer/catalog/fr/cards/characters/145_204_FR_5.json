@@ -25,18 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=36b7ee719bdc3852ddb52e84d86bd8a4c9e5ce293556ea954a3a99da329e80b8"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/145_fcbd4c7c5d9678b1645588cb45ba6e127078fdae.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=0aaabe33558ffd8f9b9d0e1d81491c881371ef450e5d5c7965fa8b7eeb3451ec"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/145_2d5d484f1fedd25db1be528bf402eb24e8b4429a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f.jpg?checksum=22b455ac4dbd8467dbbd7d2413160542ac0a45b8df18e405fa35cc9cf70e3005",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/145_40ab8a4e7b86d61bd9f127ad1bea892c709e4b7f.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Robin des Bois",
+    "Robin Hood"
   ]
 }

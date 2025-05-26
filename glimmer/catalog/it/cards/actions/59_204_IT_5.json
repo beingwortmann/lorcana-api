@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=45e6acfee88c0679ba14ac1a8ecd59e664b537b6fdef5d917fc29a2a5c97984e"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/59_c90985e93c0bd80afc34baa124b93bc1e483bb8f.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=42f8f045225cda4df3db9177884914bcc75a2195dce090933a35d8b3355960d8"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/59_5ce6691d904c8d092bbe10896c3148c0d40a56d2.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=3ceb112f20cac1cacddd82da14b008715b135a538ea19ba51180367fd5b29582",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/59_2fa42a80a5e408b0d805454b8dca35fca0362443.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
   ]
 }

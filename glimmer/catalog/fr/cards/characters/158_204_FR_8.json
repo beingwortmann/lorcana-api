@@ -1,0 +1,46 @@
+{
+  "name": "Wasabi",
+  "subtitle": "Toujours prêt",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Jules Dubost",
+  "deck_building_id": "25e61d810205cf763e55f3f76c58fe35a4785e2a",
+  "culture_invariant_id": 1822,
+  "sort_number": 1820,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Soutien"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "D'accord, donc le plan consiste à ‘laisser Wasabi surveiller nos arrières’ pendant que nous volons la couronne. Bon à savoir.",
+  "rules_text": "Soutien (Lorsque ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "158/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/158_f6fe4e8e6b722500e0a32042de92af209124912f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/158_fec270f221725835b4c83b5da3f67dac8952d5f0.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/158_b3457a7345a908494f05ae496f26ba8f4644bacb.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

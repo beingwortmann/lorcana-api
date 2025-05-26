@@ -25,18 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=e6ae3b721a717920f5c38077fe671957a709c6a70473da2afad5231d5eecec76"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/88_091f676c8a43ba466c23ce1d286fd0810ee11b07.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=653adaddd8f268d808d2a820216d0149327995722a38b986babdcca56e13c544"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/88_bea3229303c561b6f8d32e0cccf46d6f2ddabd34.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=e3a3ff6920af3ec073c7d2793ebea3f7f97a6d0a348f2b5ff666bb08d5daefc8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/88_82b61c554832829c397da2d89f5d42a8f660abef.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Aristocats",
+    "Gli Aristogatti"
   ]
 }

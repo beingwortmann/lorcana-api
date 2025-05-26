@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=d7f76cad8bef50a377796e48661657c0194ec8086e70673544deb8a4b3c6e32e"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/9_19cd83a819704f909a297aeb743e75423af34ce9.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=1d43cf88a3135659a2009f667d320b96b9a3aac666db8c775060a9cd674cecae"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/9_4eefed1497b888216495a5ef2837b81d34d085ae.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=e50200ffeef1fee03699c1998d47d3ec116729e8c2d2b0d4b01278e82ec538a0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/9_e1971dce61dd3183356dad1080d542193d223663.jpg",
   "special_rarity_id": 4,
   "foil_type": "Tempest",
   "card_sets": [
@@ -39,5 +39,8 @@
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
   ]
 }

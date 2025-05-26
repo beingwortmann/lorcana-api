@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=039ccd7a1ad934aba4cebbe020af19a8cfe95eb7503c7a8b9da81854d9c8df8e"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/154_2a4bf4a81f61ac928b1b6eacdb7d9cbdc83992dc.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=f41a692f0a071160c16f8654fbcca335e4dac5510fdd9bfea6a15bb1d028883c"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/154_95b5ad81f07d1070258b7ffc595a00758f3a5ab6.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=80a5869faf2f522358812aff74d3e7d29afd3ef3a4ee1647b6803c73489350a5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/154_5e844fae5648fbbf389468ebf2e39e84f4634304.jpg",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Little Mermaid",
+    "Arielle die Meerjungfrau"
   ]
 }

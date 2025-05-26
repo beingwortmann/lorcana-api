@@ -1,0 +1,46 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Protecteur vigilant",
+  "strength": 1,
+  "willpower": 9,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Marcel Berg",
+  "deck_building_id": "37c91d4c1e7468929e01ddc735e84693e87bfe36",
+  "culture_invariant_id": 1889,
+  "sort_number": 1891,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.) PASSAGE SÛR Chaque fois que l'un de vos personnages Allié est envoyé à l'aventure, vous pouvez retirer jusqu'à 2 dommages de ce personnage-ci.",
+  "card_identifier": "29/P2 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/29_a578bf18b549ab419de2046c7a59d9be32263598.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/29_25f1018d08e0a205fc958ce76b48e18bdf889492.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo2/masks/1468x2048/29_62523754fcd369a5bdc0a22552a9db7e2b5b8e94.jpg",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

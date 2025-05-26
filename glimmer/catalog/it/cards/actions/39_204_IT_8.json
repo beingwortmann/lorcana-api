@@ -1,0 +1,38 @@
+{
+  "name": "Drift Candito",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "a0153cbf8a3efb1e35d6007278e22a7c7006135b",
+  "culture_invariant_id": 1703,
+  "sort_number": 1701,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Questo surriscalderà il tuo motore come una borsa di caramelle alla cannella, quindi farai meglio a vincere in fretta!%—Vanellope von Schweetz",
+  "rules_text": "Pesca una carta. Un tuo personaggio a tua scelta riceve +5 per questo turno. Alla fine del tuo turno, esilialo.",
+  "card_identifier": "39/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/39_187625b16d97f590d2ddbf457fd0ae577f491776.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/39_3bdcbce28f3d5a5c03e9b48f23e05416fc788674.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/39_9ffb9d277a1573e254b36346179526e7302c1da0.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Ralph Spaccatutto"
+  ]
+}

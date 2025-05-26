@@ -1,0 +1,42 @@
+{
+  "name": "Die Sorgen bleiben dir immer fern",
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Ian MacDonald",
+  "deck_building_id": "41430a33d61146dd95a179122a74a0b04e5c2502",
+  "culture_invariant_id": 1872,
+  "sort_number": 1870,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gemeinsam singen 9 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 9 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Nimm bis zu 3 Charakterkarten aus deinem Ablagestapel zurück auf deine Hand. Du zahlst 2 weniger für den nächsten Charakter, den du in diesem Zug ausspielst.",
+  "card_identifier": "208/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/208_47b87ba217620cb4099c8cd7b9a4ce88b6b1a7a9.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/208_c5a3462da966a11f58802d7c3c99d8370664bc2e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/208_816f3e2e3f9e42a81d59e2542c3d74bf2f9c979d.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Lion King",
+    "Der König der Löwen"
+  ]
+}

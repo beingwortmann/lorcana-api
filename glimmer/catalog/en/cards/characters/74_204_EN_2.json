@@ -22,18 +22,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=acbe414dd1270de290626bfa79fadaae0df63decbfeecb97fa96a6bbeb3a8987"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/74_b2da32a63fb8cbdaf63c7b4203e41142e8a85b97.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=01ace7da752bf00138e0ec2820e7f40c4a77892ed59e407422025dc3c8c11540"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/74_2ddedcf89e5f2f356f72f45cd0c7ec50e6af1028.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=91b157cfa4cf608bc8db09753a817c9420a8134a8fbb40d66475fed5cc8991dd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/74_31ec8d6a6abbb99e28dc71cbcf859d989037b732.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland"
   ]
 }

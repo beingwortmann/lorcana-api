@@ -16,18 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=089938826d434789e74c6f8e7abbb13c6dd266bab38a6a4151e4bb25270d5cc5"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/148_ba830fb7b9b3ee6a5d308bd6cabc0f9db50d8a17.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=5e332d368ba6f9c3191b8a3528e17d964cb5d305b261bc4f3701d1c6df3e1e23"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/148_803f34b787475abff9036c3cf3c110725c139a84.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=8baea8cd03b7c216770365efea2ddae879518c87a450881f631f2024514ba713",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/148_e3bfde3c1652dfcb4d1f561b1f48ce518c4539e3.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Ralph reichts",
+    "Wreck It Ralph"
   ]
 }

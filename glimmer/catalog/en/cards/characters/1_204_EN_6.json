@@ -24,18 +24,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=0ef14ebb540c8de6b39807bd2707fa46a7ecc2deb17b74856177823ca4fdbb21"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/1_9414b0800f056cef77d5bc36272a739f7fa62f8f.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=98bf7f4ccf80a7de4e5ac88cdbbbcdc2a13965baa02f1e3f0f07e364b12082e4"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/1_4a16d7fb0ff76e2a77c71d1f98d44d6708ff51d3.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=e5cee829e3f8af3f85685ac63142d08a6dae17b82b1e0f4cf6f932f39a26de1a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/1_29ee95514befeafb13161bd13e3901c322951981.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Winnie the Pooh"
   ]
 }

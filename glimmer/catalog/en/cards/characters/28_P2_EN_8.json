@@ -1,0 +1,43 @@
+{
+  "name": "Lady",
+  "subtitle": "Decisive Dog",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Therese Vildefall",
+  "deck_building_id": "106ec8559ac405ebee11dd588931147b5cc81ebd",
+  "culture_invariant_id": 1888,
+  "sort_number": 1891,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "PACK OF HER OWN Whenever you play a character, this character gets +1 this turn. TAKE THE LEAD While this character has 3 or more, she gets +2.",
+  "card_identifier": "28/P2 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/28_9c0c593a80eb3042b590d75d0d56f8226068168c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/28_a4635bb53ad10b73553ef4307bf645208f2d25d7.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/28_c5bb05d72523cffbfe3fe0519f63a2cdf2c78cad.jpg",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ]
+}

@@ -24,19 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=bcab24ca24c4d9fe3c9ffaf786249e4924632cbef9d8ade3c401bcc403861e8d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/217_2fd0a79f18347b88f5fb974b284f2619a3481770.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=e882ec8404cb0d2051a76ec4f0e27997b41013966ac3ba7b28a8dd6c2f6857ea"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/217_6cc661e63abfdfb882ac108783367ab57b68a91b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=e6908359a1345140f3593fce6b29e5050c9947e3007a169f5b6f69ebe28b49fe",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/217_f5c1ac1c8b9270d43a0702abcaf9b62afda291a2.jpg",
   "foil_type": "VerticalWave",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lion King"
   ]
 }

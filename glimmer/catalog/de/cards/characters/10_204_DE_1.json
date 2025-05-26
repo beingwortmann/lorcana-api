@@ -31,18 +31,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=1fc4e2b8df0908d5a646462802373b3e768b4d960ae700995a1cca9c74c8d70b"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/1468x2048/10_6312d4d86e30a4e4ac9a72b940c33f61f146cc37.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=bf9c4cc1657a77ce69277f03cbe3d92858cdf00a72299b7555d9da4f29b6f18c"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/367x512/10_c2de3be525a2149aac706553cbf7f437220f704d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set1/masks/1468x2048/b1d5781111d84f7b3fe45a0852e59758cd7a87e5.jpg?checksum=9f4e34f8de4a048ad5a097a61a152fe9d6e89f76351f770ac9fb85df893c621e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set1/masks/1468x2048/10_d9d5f43df7588cedf9218a71642ae0f53884f0ca.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Rapunzel"
   ]
 }

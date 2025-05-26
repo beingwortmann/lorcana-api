@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=01016852f9da2d8af5372cb24c75544f2819fdf7764f867eaa350f4fcda8f9ac"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/5_c5b57b097491d0a086fb60c6b61e14c352a3dda1.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=ff36bb05813b38e954d1dd1def10b56ab8b2b40081b92e5e90b27e3c4112cb43"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/5_0aae1d7c906b21078a5414275fcaade58a77474c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4.jpg?checksum=4d0c9bb1565478e49575af9ff5a75c6df6977543a24bdef4ccee2d09702d1f0b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/5_5a9b4d91d6c07ed9d077e61a280d6eb1e829a8c9.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Brother Bear",
+    "Bärenbrüder"
   ]
 }

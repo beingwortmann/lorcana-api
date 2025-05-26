@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=a348aab97f5c3c5d7188d88dc658d9d42003bb0ff526e6be70bcb2991d0d43c7"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/155_471f7189395c02a64dcb9eecde2feda4e028143b.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=d9c9094d6c5bd39be9d4cd3bce53d37c0fc38f57947ba8c91868a54b9a7265b7"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/155_fb2d8cad116f79f7dbea1f03cb9344cc74176d73.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=235dd9fab591df9657bb4371968544d7ed0b88ee0d38a843dc1dea9cd6776e10",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/155_1e2268d2855fb306b845b7069c0f031a34106db2.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6",
+    "Baymax - Riesiges Robowabohu"
   ]
 }

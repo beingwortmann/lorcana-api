@@ -1,0 +1,46 @@
+{
+  "name": "Anna",
+  "subtitle": "Sorella Fiduciosa",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Samanta Erdini",
+  "deck_building_id": "1ffe5d75cdbe8dc9ae8605c307ef56ffb430460e",
+  "culture_invariant_id": 1821,
+  "sort_number": 1819,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Regina"
+  ],
+  "flavor_text": "",
+  "rules_text": "INSIEME POSSIAMO FARCELA Quando giochi questo personaggio, se hai in gioco un personaggio chiamato Elsa, puoi aggiungere la prima carta del tuo mazzo al tuo calamaio, a faccia in giù e impegnata.",
+  "card_identifier": "157/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/157_ff66fa1ee3f7956a624b27eb86c5c2a86b71e099.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/157_ca13c179307c7ed0c337b4617699623aa2ceb4d0.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/157_0f2f45d7403dcea06cb932560687ea1826a83deb.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen - Il regno di ghiaccio",
+    "Frozen"
+  ]
+}

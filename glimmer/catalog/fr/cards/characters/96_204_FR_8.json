@@ -1,0 +1,43 @@
+{
+  "name": "Napoléon",
+  "subtitle": "Limier futé",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Mariana Moreno",
+  "deck_building_id": "97e349325526ee080e4cd0b8549f1eab65031668",
+  "culture_invariant_id": 1760,
+  "sort_number": 1758,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Tout le monde sait que sans rations, toute opération est vouée à l'échec. Et c'est pour ça que je suis plus gradé que toi, Lafayette. Car je garde une vue d'ensemble.",
+  "rules_text": "",
+  "card_identifier": "96/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/96_5e589c2e6857663c6525aeb80e5f6cfde8dc221b.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/96_d007635149f14d6c1ab10a4b12017b37c85197dd.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/96_9730626d9fdc3f903b9d7a0289c27533ffed0a07.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Aristocats",
+    "Les Aristochats"
+  ]
+}

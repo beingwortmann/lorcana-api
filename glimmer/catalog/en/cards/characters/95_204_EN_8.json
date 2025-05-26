@@ -1,0 +1,43 @@
+{
+  "name": "Louis",
+  "subtitle": "Endearing Alligator",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "3deba3fa35df22e54afa3d89cb4eb78070c41c2a",
+  "culture_invariant_id": 1759,
+  "sort_number": 1758,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "SENSITIVE SOUL This character enters play exerted. FRIENDLIER THAN HE LOOKS When you play this character, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "95/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/95_5b907a5ac16f71de91ebd0308d132565feaba67c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/95_16c803565aff96c79f296c1530658b6e4a00519f.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/95_0f1ab9821b2bf7be6b18029ee8ff34b6ffbe1a4a.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog"
+  ]
+}

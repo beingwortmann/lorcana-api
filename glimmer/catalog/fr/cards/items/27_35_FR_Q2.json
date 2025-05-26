@@ -1,0 +1,35 @@
+{
+  "name": "Sablier géant",
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Veronica Di Lorenzo / Livio Cacciatore",
+  "deck_building_id": "d5b212400e7f397a0c3907212c1ea0caf886b394",
+  "culture_invariant_id": 1922,
+  "sort_number": 1922,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Il faut savoir consacrer du temps à ses amis.%—Jafar",
+  "rules_text": "LE SABLE MONTE — Jafar inflige 1 dommage à chaque personnage adverse.",
+  "card_identifier": "27/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/27_357d79c0f6e31c3b5edd377ddde564722249c96c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/27_72224d486dd5b2cd45b8fcbcdce54550ae267db5.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

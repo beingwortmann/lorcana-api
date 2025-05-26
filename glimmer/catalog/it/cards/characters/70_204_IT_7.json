@@ -25,18 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=46a7ecf1e45a5803a5ad97c4a138c85c1c88929b88e665235f6964fd947d4548"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/70_4cc8bd880407aebab47acfb337f3b4d560399dfe.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=cc62f3bd4c30eb87a470e6baf014c2534972c1fbcc553ecc762e1e3ebab6baf9"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/70_460f4c537e1c5917e6e3e22af2b3403713963574.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=29edef9179aab1bcb5ad85d520eafe31beaa09ffd1f5cdfd3d65ac0fd623d2f2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/70_a4bdebd8622fc1dad1f04eda029ac5df28e8282f.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Koda, fratello orso",
+    "Brother Bear"
   ]
 }

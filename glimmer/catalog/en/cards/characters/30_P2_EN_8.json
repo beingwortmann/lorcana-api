@@ -1,0 +1,45 @@
+{
+  "name": "Patch",
+  "subtitle": "Playful Pup",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "f8f789eb2731caf4efdb21cc3438d0dc6b1ab4cf",
+  "culture_invariant_id": 1890,
+  "sort_number": 1893,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Ward"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Puppy"
+  ],
+  "flavor_text": "Sand sure was more fun than it looked!",
+  "rules_text": "Ward (Opponents can't choose this character except to challenge.) PUPPY BARKING While you have another Puppy character in play, this character gets +1.",
+  "card_identifier": "30/P2 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/30_83296ddc56e3c1a15012bc20c5e7686b115bc188.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/30_0ecdc5364b3bf61dc7864b30dc5f515dd43eaee6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/30_7df0ec5424722b61523ccd887339e4c9550399f4.jpg",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Whisky",
+  "subtitle": "Zio Premuroso",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "9c55a800d6a784ae7201366f10c1d17a618ac0f9",
+  "culture_invariant_id": 1776,
+  "sort_number": 1774,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Mettetevi comodi, cucciolotti, e lasciate che zio Whisky vi racconti la storia di alcuni Illuminatori e di una folle avventura...",
+  "rules_text": "VOCE DELL'ESPERIENZA Quando giochi questo personaggio, se hai in gioco 3 o più altri personaggi, ottieni 2 leggenda.",
+  "card_identifier": "112/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/112_46dc51e3a3e7376129f65695630f98ab4af69f6e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/112_9783e10c5d689f1a0270e4cfd2ac2349027d8f68.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/112_da64f4a211221c271aae25147f9c4a435f125ce1.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lilli e il vagabondo",
+    "Lady and the Tramp"
+  ]
+}

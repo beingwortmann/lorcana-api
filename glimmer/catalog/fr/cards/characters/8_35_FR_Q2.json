@@ -1,0 +1,43 @@
+{
+  "name": "Le Sultan",
+  "subtitle": "Souverain spectral",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Grace Woo",
+  "deck_building_id": "20965cf4be3499004c16d78f4abdeae9e3f6a7c6",
+  "culture_invariant_id": 1903,
+  "sort_number": 1903,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Allié",
+    "Roi",
+    "Illusion"
+  ],
+  "flavor_text": "Désormais, c'est lui qui s'incline devant MOI !%—Jafar",
+  "rules_text": "PRÊTER ALLÉGEANCE Lorsque Jafar joue ce personnage, chaque Illumineur défausse une carte.",
+  "card_identifier": "8/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/8_b32e1a93cca009e860480d71f8f92a25e53f9af7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/8_74847031d6b69b4ea97a61ece45a9daaeea7ff6e.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

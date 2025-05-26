@@ -25,18 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=376cd9e45bbd6b21695b83f822ed2806061a1c2126edbf807a454abd56cec723"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/119_59f7e17407d6d571e583457429ed92b797eba35a.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=543516aca1b949f9991245d52d6f0f4cb1d75d6bb30a15cb6bc85f11a1b1a34c"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/119_02dd30ba08eaef32e0bf6623cdc6b683041cb1d5.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=217b9277fcafe6bcdc5a75c896de29738d7477dde9156d0c2d78a89c42d13395",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/119_57ad03454d3bb21f15ce37215a1a415e381d2c41.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Peter Pan",
+    "Le avventure di Peter Pan"
   ]
 }

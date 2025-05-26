@@ -1,0 +1,44 @@
+{
+  "name": "Groviera",
+  "subtitle": "Esperto di Serrature",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Anderson Mahanski",
+  "deck_building_id": "38c386f04ca83b839df9771bde54ab7161d9c001",
+  "culture_invariant_id": 1836,
+  "sort_number": 1834,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "A Jafar non verrà mai in mente che gli stiamo nascondendo la leggenda proprio nella sua stessa cassaforte! Che emozione!",
+  "rules_text": "METTERE AL SICURO Ogni volta che questo personaggio va all'avventura, puoi aggiungere un oggetto a tua scelta al calamaio del suo giocatore, a faccia in giù e impegnato.",
+  "card_identifier": "172/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/172_dda3ef272e012e6486818daaf8165be0f5dff395.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/172_bd3874601d0a29445e7838b569a9d6b2f618c016.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/172_283d94bfb16f8e4943a42c66db641548cdf1f6ae.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats",
+    "Gli Aristogatti"
+  ]
+}

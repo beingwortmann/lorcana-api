@@ -26,19 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=33044ea3f638ddb7c855d20a97bf03bd88f25b976874b76be13896ae2d3f446c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/211_8bad3b4f993c9cf97de416126d826d1343414eba.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=94787dab4984846f78db3199f23130b7d7573705d98f4219fb69c3b3ae5faa59"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/211_6b5dad24b5f6cf09ca1025d3eff49b236472dd05.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/1b4a364f76e9fa8073516100ed65590c50a6d5e9.jpg?checksum=fdf248719fa64097b176ca4d949a5c0d8469db0fddfb608d97f67fdf9dde94a8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/211_cf14ca1a5158ebdcdb3d60ea5880144c7233c6bb.jpg",
   "foil_type": "Lava",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Sleeping Beauty"
   ]
 }

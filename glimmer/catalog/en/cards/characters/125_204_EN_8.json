@@ -1,0 +1,44 @@
+{
+  "name": "Brutus",
+  "subtitle": "Fearsome Crocodile",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Teresita Q. / SCG",
+  "deck_building_id": "01e730b5e5ab7138fbadd2610b5ad30a92c6e5e5",
+  "culture_invariant_id": 1789,
+  "sort_number": 1788,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He's identical to Nero in cruelty and classiness.",
+  "rules_text": "SPITEFUL During your turn, when this character is banished, if one of your characters was damaged this turn, gain 2 lore.",
+  "card_identifier": "125/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/125_8cd1999b818f23bba5fe456d743b65059401af4f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/125_bf6b247b67d6e97bf9f48800769ff892856299e4.jpg"
+    }
+  ],
+  "foil_detail_url": "https://api.lorcana.ravensburger.com/images/en/set8/foil-detail/1468x2048/125_2a3129d2b8d8aee76b1d7925f3814ded2de9bbe6.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/125_091d42010b85733b563a05da2668ac5d94dbd120.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Rescuers"
+  ]
+}

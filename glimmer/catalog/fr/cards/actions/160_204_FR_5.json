@@ -16,18 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=7fc49e1b0205b958a20adede9108bcb2b1ca910a11daf4c7308bcd2c83e3635e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/160_74ba161c416b44f8efd3d9932d48fa26b3f819d1.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=da8db3e3615a5a5adc19a3a1ea64d8a2c70d918b39026c0e556edf59b0aa62c0"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/160_4a47770da83fdd3059cf8b8ff8c055f656dd5011.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/be057d4ca44c10a0fc1dfcffd99cce1490291dc7.jpg?checksum=980bcb73aec7f65250570f50ca17c19d8c1780c929d62869187fe30bb161aba8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/160_1fab815bcad593ec06b4a9ff6d3455ae87dc8c5e.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "Merlin l'Enchanteur"
   ]
 }

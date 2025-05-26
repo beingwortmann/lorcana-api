@@ -1,0 +1,44 @@
+{
+  "name": "Colonel",
+  "subtitle": "Alter Hütehund",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "e3655a27dae1da92cf77d60d195ea2b3b71bc4cd",
+  "culture_invariant_id": 1681,
+  "sort_number": 1679,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Seine Ausbildung war bei der Infiltration des Palastes von unschätzbarem Wert.",
+  "rules_text": "WIR SIND IN DER ÜBERZAHL Solange du mindestens 3 Welpen im Spiel hast, erhält dieser Charakter +2 und +2.",
+  "card_identifier": "17/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/17_22097a1188fec8c65c1c457e3f4c1b77962630b7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/17_fa59fb427324000c85017f0c85ac7fccd6dc18e6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/17_53068d1a942b79b1aaf13d8593e5da079de5cbb4.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "101 Dalmatiner"
+  ]
+}

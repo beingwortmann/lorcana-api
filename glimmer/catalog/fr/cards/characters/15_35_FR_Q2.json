@@ -1,0 +1,42 @@
+{
+  "name": "Abu",
+  "subtitle": "Apparition impertinente",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Shutianyi Li",
+  "deck_building_id": "f21f71375d4ca22962086c28a961e09c1a92a594",
+  "culture_invariant_id": 1910,
+  "sort_number": 1910,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Allié",
+    "Illusion"
+  ],
+  "flavor_text": "Bien sûr qu'il est agaçant. Merci de l'avoir remarqué. Je voulais cette illusion aussi fidèle que possible.%—Jafar",
+  "rules_text": "",
+  "card_identifier": "15/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/15_9129727bf3ef1f231ee960bedc9d86f881e45c33.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/15_ddd88b1b7116075da3275ed235a985049e952c46.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

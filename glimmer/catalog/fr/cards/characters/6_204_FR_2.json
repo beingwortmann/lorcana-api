@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=21b99b71c5cd4d72db7b94338f3e4ca6051a789a0563639ca02d3fda444fc03b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/6_248474c321ebb384ba51ba7aff10c20800a58d83.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=026955e0fbcb03e8d7cf3667e3df221a04baeab1e1e63bbcb647b445364952d0"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/6_b4cb2b117b47f96c5568799c10e0144e5249daba.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=9e4ab2fe68bcff2091c480df067fadaae6eccc2af31b549d71057faaf3e9108b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/6_06e73001e58fa56c9b6c3900fe7422c9658d8a3d.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Blanche-Neige et les Sept Nains",
+    "Snow White"
   ]
 }

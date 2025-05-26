@@ -16,18 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=d0c9f9f855de9368e248b8cef9006c169b6593f13418a1df32b33f99d11ce141"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/152_20b3a686064de23116acf039e9e5a67e305433e7.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=e2089d757c5ee0c85e63dd8e9556ff1c0f61a78fec61c74eb3e301e8c8fca762"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/152_27c8ae8ef64e00f49a80937989a4713078c94d60.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=a9bfd6a648807b5d32dca6a86fee14465cbe46f81214070141dde0934d8edf00",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/152_942e840bdd57d7198708dc250928e9525d0267f3.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Rescuers",
+    "Bernhard und Bianca - Die Mäusepolizei"
   ]
 }

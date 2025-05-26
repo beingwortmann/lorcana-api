@@ -1,0 +1,43 @@
+{
+  "name": "Gene",
+  "subtitle": "Abitante di Belposto",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "509735c520ba2565357da084b01feb2f43038387",
+  "culture_invariant_id": 1677,
+  "sort_number": 1675,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "Vincere una medaglia è molto bello. Far tremare Gene è ancora meglio.%—Ralph Spaccatutto",
+  "rules_text": "IMMAGINO TU L'ABBIA GUADAGNATA Ogni volta che questo personaggio va all'avventura, puoi rimuovere fino a 2 danni da un personaggio a tua scelta.",
+  "card_identifier": "13/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/13_3840a1ea671b62cdc7cccb89c46bce5eb792098f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/13_d667d6d8657f4e6226403f7a61bf6be237b787f3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/13_089224d32f9ea05c94b4101c01f65251c95ce848.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Ralph Spaccatutto"
+  ]
+}

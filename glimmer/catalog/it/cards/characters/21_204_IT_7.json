@@ -23,19 +23,24 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=152c8f0febb81895413f19fab1f3f2bf1402dbbe6f88d7e4597b90a2bf04289a"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/21_a8233ac90ceae95fef11548c0b78b15c83ff299d.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=d93a8e934584827d68cba311a3ffecc3b892c28f7c1761e38a4f5e1710e77b80"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/21_178c2a41f768123fecc90ea04ac048054c8df7a8.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=e93a59056963b480ada82ca286c9c14067eefc0cbb0bec0e02a82ca8807e1417",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/21_157d93f34bd4cc05962130a05e5ab3874db4d4e8.jpg",
   "card_sets": [
-    7
+    7,
+    10
   ],
   "magic_ink_colors": [
     "AMBER",
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Bolt - Un eroe a quattro zampe",
+    "Bolt"
   ]
 }

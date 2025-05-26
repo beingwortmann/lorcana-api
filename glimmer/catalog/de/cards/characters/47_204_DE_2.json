@@ -27,18 +27,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=b4bfbfe892b2b6155e873f29eabda50c387509ae56db2089d84cadbe0bbf369b"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/47_941e82e60157f8909b0ecb6b1f04a4b928d3dc0f.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=5ce2ba63efe76210027e7838a92298908f6682bba2fb1c145813226c6783eda0"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/47_261b50a750ea4a4ac564404746a0e45832d9ef8c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/827bfc458708f0b442009c9c9836f7e4b65557fb.jpg?checksum=17bc8ceab2687c8c49149f0958d4e1e7928c7b28f233e53fb8d4cefcb55ea2c1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/47_74d3ba4d203c6ca15639731934df1343f07695fd.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "Die Hexe und der Zauberer"
   ]
 }

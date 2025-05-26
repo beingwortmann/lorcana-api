@@ -1,0 +1,46 @@
+{
+  "name": "Elsa",
+  "subtitle": "Fierce Protector",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hedvig H-S",
+  "deck_building_id": "775c816a0fe0858fa844bcd9f89cadaf3aff5d14",
+  "culture_invariant_id": 1724,
+  "sort_number": 1723,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Queen",
+    "Sorcerer"
+  ],
+  "flavor_text": "I have to protect my sister. You're not going anywhere!",
+  "rules_text": "ICE OVER 1 , Choose and discard a card — Exert chosen opposing character.",
+  "card_identifier": "60/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/60_7b15000c8441a16a5078f04ec514d1d304b3aad6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/60_d9691687994d00c1cdb939692df5f2b190344a9a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/60_1ff72b0783981ce8e7e20954d2bff1c51e790471.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Frozen"
+  ]
+}

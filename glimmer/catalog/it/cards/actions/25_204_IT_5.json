@@ -18,18 +18,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=79c8ea90a79d7b81ff5d412f4f6f79369daa3d80412ef3f3a91c1eccba0e2707"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/1468x2048/25_fb1388a2c82681b973b84f90e218867b46950251.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=1c018a2ec46b36be2116815f3d5d816353f576e0bd67f29f3e600e6fbee4f09b"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set5/cards/367x512/25_d8e05fbacf6d1fca3626a80a779bc1cd9821eff0.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/f6e1126cedebf23e1463aee73f9df08783640400.jpg?checksum=980dd78339a426f128fda18796a90cc8da33563d64d80960f684c4a6c398aee4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set5/masks/1468x2048/25_726f2bb3ce313729211db72140d8a6c0b256f4ea.jpg",
   "card_sets": [
-    5
+    5,
+    10
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Zootropolis",
+    "Zootopia"
   ]
 }

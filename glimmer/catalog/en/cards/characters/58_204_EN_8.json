@@ -1,0 +1,44 @@
+{
+  "name": "Poe De Spell",
+  "subtitle": "Magica's Brother",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "0a598d3837a9b3e9b7680b12d5be8e4b2f5f202e",
+  "culture_invariant_id": 1722,
+  "sort_number": 1721,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Sorcerer"
+  ],
+  "flavor_text": "Sister, dear, if we turn all the townspeople into frogs, who will give us our gold and turnips?",
+  "rules_text": "",
+  "card_identifier": "58/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/58_07056688954432acb51b30be595eb7c7b5b38f65.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/58_f21c143e1d443a4ee1de0b81ffb16639381eb581.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/58_bed75186e0ee19d108907af0d1dfc41e83fbf1ed.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Ducktales"
+  ]
+}

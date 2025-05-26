@@ -24,18 +24,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=bd8393ba7ef3e882aab2e55c6eed173a49ba3a04fab21bab91aa902a227d30fa"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/78_ced1c7bceddea367d0684b0dd210760293a03e22.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=cb2ae28cf3f952d27929b62a3d8216df08db4a09688cd96d3578bf1946269bcc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/78_532b1d366b0bf9b5f204b2b8454fb6937e3d88f4.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/eb4ac3033e8ab3591e0fcefa8c26ce3fd36d5a0f.jpg?checksum=76e20358882ac82c662a339948b5f4d2e6831d0e47d6e0f7dfa5ae1fe7769793",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/78_abb5858094f220a293333f5e34a25714493881c6.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Encanto"
   ]
 }

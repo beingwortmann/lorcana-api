@@ -1,0 +1,48 @@
+{
+  "name": "Ratigan",
+  "subtitle": "Génie cupide",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "33748d6ee65b52b4bdc850aff7d2e12b9ce0276c",
+  "culture_invariant_id": 1831,
+  "sort_number": 1829,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) LE TEMPS PRESSE À la fin de votre tour, si vous n'avez placé aucune carte dans votre réserve d'encre ce tour-ci, bannissez ce personnage.",
+  "card_identifier": "167/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/167_d4f1ccd891ea27a5f94b05afc48ddeb668d8a556.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/167_39501fca73b0c205f4fcc6ede8e1d9dbab6e9f6e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/167_2622d429e1963af03e770591ddbd3af94c1eeeb1.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/gloss/1468x2048/167_e85d22eb311b207aac25a987c79918200ee09dc1.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Basil, Détective Privé",
+    "Great Mouse Detective"
+  ]
+}

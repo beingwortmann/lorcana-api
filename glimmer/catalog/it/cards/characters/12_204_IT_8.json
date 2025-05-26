@@ -1,0 +1,46 @@
+{
+  "name": "Gianni Caro",
+  "subtitle": "Marito Adorato",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Kendall Hale",
+  "deck_building_id": "2cd509bc3d4a9b911eb07cec23d5037de65bf673",
+  "culture_invariant_id": 1676,
+  "sort_number": 1674,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "La famiglia è la famiglia, a prescindere da tutto.",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "12/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/12_a0d0992313bf30c518e471e841b856591202e628.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/12_1a27d31d4951ef37ddda5224f94e5cc90cd3a8b9.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/12_44ac2d9fb6dd482c102063356f4d74fea7ef3eb0.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Lilli e il vagabondo",
+    "Lady and the Tramp"
+  ]
+}

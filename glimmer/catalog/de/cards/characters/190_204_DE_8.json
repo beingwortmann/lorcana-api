@@ -1,0 +1,43 @@
+{
+  "name": "Toby Schildkröte",
+  "subtitle": "Vorsichtiger Freund",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Irish Chua",
+  "deck_building_id": "ceee5141d95bd0a4e22bf7d9d0353bf2e3c36418",
+  "culture_invariant_id": 1854,
+  "sort_number": 1852,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Dieser Ort ist gruseliger als Prinz John.",
+  "rules_text": "HARTE SCHALE Solange dieser Charakter erschöpft ist, erhält er Robust +1. (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "190/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/190_67c05f7a983bdf9093fe9a2407b41b5f0bae1ef5.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/190_99dcb1cf8818a61ad9b05d43b98c355a1ac613ab.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/190_d93e4a65148d05597cea8ca2672dde8607d92bf8.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
+  ]
+}

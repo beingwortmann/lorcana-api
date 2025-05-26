@@ -1,0 +1,44 @@
+{
+  "name": "Dino",
+  "subtitle": "Ein Sechzehntel Wolf",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ellie Horie",
+  "deck_building_id": "aba2fe21e52c96d75ace0d3a6000001b8db2f5b5",
+  "culture_invariant_id": 1679,
+  "sort_number": 1677,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Gefahr ist meine Leibspeise.",
+  "rules_text": "LEISES JAULEN Wenn du diesen Charakter ausspielst, erhält ein gegnerischer Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -1.",
+  "card_identifier": "15/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/15_de94cbd36d7b207526c51358c0c40a631572c25a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/15_24cf4cdb3ed54d17871197be51c8530e0d3d2996.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/15_b918d9514346a8b41e0f2bf6899659e6b68ba9fe.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Bolt"
+  ]
+}

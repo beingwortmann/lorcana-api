@@ -1,0 +1,49 @@
+{
+  "name": "Capitaine Crochet",
+  "subtitle": "Le roi des pirates",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "d5b15fd6dd19340f237112bdc1e581bdaa0a13ea",
+  "culture_invariant_id": 1773,
+  "sort_number": 1771,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Roi",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Capitaine Crochet.) DONNEZ TOUT CE QUE VOUS AVEZ! Une fois durant votre tour, lorsqu'un personnage adverse subit un dommage ou plus, vos personnages Pirate gagnent +2 et Résistance +2 pour le reste de ce tour. (Les dommages qui leur sont infligés sont réduits de 2.)",
+  "card_identifier": "109/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/109_84aac963824f4a7534c32d356d6b8cdef7128c97.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/109_eddbf0c9e394644c67f5750785d4858d809e6555.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/109_1efc529218f2d4ceb4d4d2dbc0c6e6c42bd42158.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Peter Pan"
+  ]
+}

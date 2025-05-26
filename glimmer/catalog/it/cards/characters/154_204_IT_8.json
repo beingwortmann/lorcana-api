@@ -1,0 +1,45 @@
+{
+  "name": "Ser Pilade",
+  "subtitle": "Cavaliere Esperto",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Rudy Hill",
+  "deck_building_id": "175a1ce711b1cd4735cd50baf660818ce2375922",
+  "culture_invariant_id": 1818,
+  "sort_number": 1816,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cavaliere"
+  ],
+  "flavor_text": "Insieme, giovani, prevarremo!",
+  "rules_text": "CODICE D'ONORE Ogni volta che questo personaggio va all'avventura, i tuoi altri personaggi ottengono Aiutante per questo turno. (Ogni volta che vanno all’avventura, puoi aggiungere la loro alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "154/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/154_354e6cb2c2d69029cd7706e0bf86935ed24bf152.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/154_ac012ef65f7c5d4ccb5c7b760488ea695bbf8f93.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/154_8c189054647ef1a452dcc52e948934f8a8f42f92.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "La Spada Nella Roccia"
+  ]
+}

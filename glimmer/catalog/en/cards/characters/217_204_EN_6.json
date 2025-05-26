@@ -26,19 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=e69a579c1adca8d357da6baa355d631ee417398e9e0e0176c1c06472cc1304e4"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/217_875a97f6f9d100cb876b696c9f34aa8bd0bfa380.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=b8780b75495644116d367fd687939b0920c85464666e6eebf9d18b7f4b1b60a8"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/217_86eb6684baec69400d41b54652a9c3741474fa1e.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=6fefacf7bfd796e3c319924d64f529af968dae9df3827680b4c4aeb1ab99cf09",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/217_b83fce1412faf156152bcc24a8d484043bcdabb5.jpg",
   "foil_type": "VerticalWave",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Rescue Rangers"
   ]
 }

@@ -18,19 +18,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=9f5f2690e027810bc496fb1ea8812469b9f59c58b6bc4432f2f1d9a69fc90e7d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/31_fc76ae8036f0c53bc76028523bfb4428b0cd6e7b.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=e1958acbe37f445497fbf4d81e1463e88cf5aac1cb472ff6718faee5cffb2984"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/31_4a35e43ba1a1e998597bef92b1a0b188132dfb38.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=a4f69eb888596b3ee0e007a2fac7c2df45edf3e4e08cc913f219dd8fcdb5f1b7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/31_8ebd134c826ef787fa2ff1b5a581201e726d8815.jpg",
   "card_sets": [
     2,
-    9
+    11
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Basil, Détective Privé",
+    "Great Mouse Detective"
   ]
 }

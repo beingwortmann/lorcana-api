@@ -1,0 +1,38 @@
+{
+  "name": "Cristal atlante",
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Greez",
+  "deck_building_id": "fe914af5333fd24dcec411e67a9a6c5f596db9df",
+  "culture_invariant_id": 1844,
+  "sort_number": 1842,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "LUMIÈRE PROTECTRICE , 2 — Choisissez un personnage qui gagne Résistance +2 et Soutien jusqu'au début de votre prochain tour. (Les dommages qui lui sont infligés sont réduits de 2. Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez ajouter sa à celle d'un autre personnage au choix pour le reste de ce tour.)",
+  "card_identifier": "180/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/180_164ec57884e7a09ca9c28f37bcaec7fdcb2161aa.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/180_c91d96ba58e7b5f74142f6efa04c4f509bca8763.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/180_5407b836acb2bdd17bc03d9dfae33e44815df445.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Atlantide",
+    "Atlantis"
+  ]
+}

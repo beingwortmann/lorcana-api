@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=1e72bf649a4ee93d8427a4196606f75f632116607587f9f5781395a5b6a2d965"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/155_d0f4b11a7d868177b6402e36e203cdfea2fb6599.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=f8023059abc7705d7f1364fd212c45515b751998385ecabaf410adeddde2d68d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/155_ac23280b9b148fb945e598ad704d29fe9cce3aef.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/9d8974baddfc0e53300829f37e5fc88b0f5ce61b.jpg?checksum=a32d16d1aff9cd49b4f86fb917b4cfa941cfd162a2dfa96980473130d4bd2772",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/155_d5be2b5f6673ecb0351fcfc184caf3e239dc7845.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "La Reine des Neiges",
+    "Frozen"
   ]
 }

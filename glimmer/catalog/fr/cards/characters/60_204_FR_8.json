@@ -1,0 +1,47 @@
+{
+  "name": "Elsa",
+  "subtitle": "Protectrice farouche",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Hedvig H-S",
+  "deck_building_id": "775c816a0fe0858fa844bcd9f89cadaf3aff5d14",
+  "culture_invariant_id": 1724,
+  "sort_number": 1722,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Reine",
+    "Mage"
+  ],
+  "flavor_text": "Je dois protéger ma sœur. Tu n'iras nulle part !",
+  "rules_text": "GLACIATION 1 , défaussez une carte — Choisissez un personnage adverse et épuisez-le.",
+  "card_identifier": "60/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/60_38f1796656d2c9b7505aa452c28223d381b45852.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/60_3e5f654a89dc140fd9a0f84e03984b34666f3277.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/60_5f94f872b026f96927c6d587e8182df03945e773.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "La Reine des Neiges",
+    "Frozen"
+  ]
+}

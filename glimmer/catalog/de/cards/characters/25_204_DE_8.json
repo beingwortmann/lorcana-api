@@ -1,0 +1,47 @@
+{
+  "name": "Patch",
+  "subtitle": "Verspielter Welpe",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "f8f789eb2731caf4efdb21cc3438d0dc6b1ab4cf",
+  "culture_invariant_id": 1689,
+  "sort_number": 1687,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Welpe"
+  ],
+  "flavor_text": "Im Sand machte es mehr Spaß, als er dachte!",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) WELPENBELLEN Solange du mindestens einen weiteren Welpen im Spiel hast, erhält dieser Charakter +1.",
+  "card_identifier": "25/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/25_b9ccc8f908bc534dc47f42877142eb0349000342.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/25_c2c08fc9b86836766ea99b45334ca754576f562d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/25_14b2bc0346cd2809d9c2bd3834e59d1295da8ecd.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "101 Dalmatiner"
+  ]
+}

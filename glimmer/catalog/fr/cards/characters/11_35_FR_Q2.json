@@ -1,0 +1,44 @@
+{
+  "name": "Iago",
+  "subtitle": "Chercheur de Couronne",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Eva Widermann",
+  "deck_building_id": "5ca4199d5412d6f8f33b07f6b210be95b2f63582",
+  "culture_invariant_id": 1906,
+  "sort_number": 1906,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) JE TE TIENS! Chaque fois que ce personnage est envoyé à l'aventure, Jafar vole la Couronne reforgée.",
+  "card_identifier": "11/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/11_35c8dcbb39b3e0bb97e899b7ca07a1ba1af10624.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/11_a6c278aca58b3f6ca732ac74c93885693eff5eb3.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Lilo",
+  "subtitle": "Faisant du raffut",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "Grace Tran",
+  "deck_building_id": "ecb4f04c3bd04d5b7ad76abd0228dedf39ef4610",
+  "culture_invariant_id": 1881,
+  "sort_number": 1879,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "L'HEURE DU PIÉTINEMENT! Durant votre tour, vous pouvez jouer ce personnage gratuitement si vous avez joué 3 actions ou plus lors de ce tour. ROAAAR! Lorsque vous jouez ce personnage, choisissez un personnage et redressez-le. Ce personnage ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "217/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/217_60e4569d5f93b835d5abc1ca16bcc6f198efad69.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/217_ca22d3cf3fa39341a1a3d7a1c75fddfca4541cdc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/217_ebfc1905bdc07e522778f22062e86eaaaab70d96.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Lilo et Stitch",
+    "Lilo and Stitch"
+  ]
+}

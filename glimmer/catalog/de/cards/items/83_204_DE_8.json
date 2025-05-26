@@ -1,0 +1,36 @@
+{
+  "name": "Skarabäus",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "f664f18da2600606537df66ca9d9663d72b4a7b8",
+  "culture_invariant_id": 1747,
+  "sort_number": 1745,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Wenn wir einen fangen können, können wir ihn vielleicht neu kalibrieren, damit er uns hilft, Dschafars Illusionen loszuwerden!%–Venturo, ein Luminari",
+  "rules_text": "DURCHSUCHT DEN SAND , 2 – Nimm eine Illusions-Charakterkarte aus deinem Ablagestapel zurück auf deine Hand.",
+  "card_identifier": "83/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/83_1680cbee1eb0ea9ce71691c9e3e3eea85b8346a9.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/83_d360029be691eee7c025b5e067953d8ab702b0df.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/83_5cf97e0f7f1a05ef3e8696af14f1bacd1f13ad50.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

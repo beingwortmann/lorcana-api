@@ -1,0 +1,36 @@
+{
+  "name": "Quick Shot",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Diego Machuca",
+  "deck_building_id": "b7869c5472bc41c5832262ed91df5e977a88dd47",
+  "culture_invariant_id": 1867,
+  "sort_number": 1866,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Deal 1 damage to chosen character. Draw a card.",
+  "card_identifier": "203/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/203_d79ef46d125fda5bb31afd13fe6a80a784a48fe4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/203_c2fc9b1f4191b6672814f7c7f39fc075ac1d6140.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/203_b714798f0f028cf37e2ac0f21f07958b062ffb34.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Lilo and Stitch"
+  ]
+}

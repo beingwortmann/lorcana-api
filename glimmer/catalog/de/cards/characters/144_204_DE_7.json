@@ -1,5 +1,5 @@
 {
-  "name": "Kay",
+  "name": "Sir Kay",
   "subtitle": "Widerspenstiger Ritter",
   "strength": 2,
   "willpower": 2,
@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=3e097007941b9d08f857ab96967f4742ad5d0683f86f7dbab8423f6e22db7689"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/144_9ff2ee014a19473ca7082af3f38f2ac8f0b05693.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=863361e2507cb379c6a1c4e8293237fb25f2d7581c8ba8aa0260cdcc160e7cd4"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/144_aa52d2c08d1a82c60822e933df30a48c0727671a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/7320828c9153b2a9848d6bc45d3544236b22fc48.jpg?checksum=4e11d3413e045ec29ff181774e0a1977906cf0ca848d32d18734063d9fec0692",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/144_2fece5d396d149bd1dbdeffe493f6dc91bf4f0e1.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "Die Hexe und der Zauberer"
   ]
 }

@@ -16,18 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=08ef5847a23be0212545b6bb7027ba8ff687c4176b2a9953612095d39afe5500"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/1468x2048/101_e5582478fcf603e723c3335f1ce6638a2046a808.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/367x512/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=f1757652411ddb052cbff046e6225c8de69748bcabb457b29cd3e74d83c76516"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/367x512/101_9f4590da368ddff54685dc7d9eb01da7f373bdcb.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set1/masks/1468x2048/dbc0f004854457f59fb16ab863a3a1722cef553f.jpg?checksum=b8679bd40cb1c0af018b931648346749e6d362005cc62382b6ccb1d466abc2e8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set1/masks/1468x2048/101_d2f277cc0868fa612c2e09276396863fb83acde6.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog",
+    "La Princesse et la Grenouille"
   ]
 }

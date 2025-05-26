@@ -24,20 +24,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=86f50c992f33d057395dbcfaac62e887100e00501ed595a54c7a54461c99bf01"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/58_bd8060f915b9c5260ad659742cc61667382e29a7.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/667be543b02294b7624119adc3a725473df39885.jpg?checksum=cf6316f37bd9049e0b6df8794c5bf9b0ba4a210b2508ff6b3047402710d58326"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/58_32fdd8a9deed59b503beee604bb949b3e6e4e9fe.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=97d79e969306ee40d7f00a2b2671da925c4ab2762d9154e533299c082d4648e8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/58_66e01012efd5b8868a660724301b30d1be501a9b.jpg",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/gloss/1468x2048/667be543b02294b7624119adc3a725473df39885.jpg?checksum=651992dc55cbc253f7ab5c7251ea26490bfb08a23c4b18b9db12c68ea81dea14",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/gloss/1468x2048/58_1a0f75710e49dc8da50ffce394bf842f24137b2d.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Encanto"
   ]
 }

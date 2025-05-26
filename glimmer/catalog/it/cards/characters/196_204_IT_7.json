@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=f33d254515bb31c3103ee945be626ee6144f764918de3390470f1ce1ce1f1827"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/196_11a56dbfe96da9fa1b7501fbfed2bfad9756f411.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=f5bb1cace4fb0089e94715ff89ac1bd1e74ae9f8ff8569732ac5f70b7a9cf2fc"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/196_4449481afbd535ad7d8d14a0c0deddb6a049f43f.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=65658966aec12dd9759e1fc2d695340c8775bfb01405e5da7ebf7a5abcfaf13c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/196_4e2e18e0a7d57e8a48f1c0a1541b89f8ef80c28b.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Lion King",
+    "Il re leone"
   ]
 }

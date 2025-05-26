@@ -1,0 +1,44 @@
+{
+  "name": "Anita Radcliffe",
+  "subtitle": "Hundeliebhaberin",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Carmine Pucci",
+  "deck_building_id": "4230300eaeb78b87c38720c57b3d4dbe9b489baa",
+  "culture_invariant_id": 1819,
+  "sort_number": 1817,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "ICH KÜMMERE MICH UM DICH Wenn du diesen Charakter ausspielst, darfst du einem Welpen deiner Wahl bis zu Beginn deines nächsten Zuges Robust +1 geben. (Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 1.)",
+  "card_identifier": "155/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/155_725caa65f5eb5c149675ef8cb785b5abe57fb75f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/155_c1265cebc95e86b405241c607354709ce21fe9db.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/155_601af87c2c13e595e5fb55956ac3e422034c495d.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "101 Dalmatiner"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Poe De Sortilège",
+  "subtitle": "Frère de Miss Tick",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kamil Murzyn",
+  "deck_building_id": "0a598d3837a9b3e9b7680b12d5be8e4b2f5f202e",
+  "culture_invariant_id": 1722,
+  "sort_number": 1720,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Mage"
+  ],
+  "flavor_text": "Ma sœur chérie, si on transforme tous les habitants en grenouille, qui va récolter les navets et nous apporter de l’or ?",
+  "rules_text": "",
+  "card_identifier": "58/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/58_b5fcb5a5b69ed25dd1ac71db4e95140507e4715d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/58_aa44fc589f8b220faa3d5761c08ab18408990ce3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/58_d4f40ed56384d25985c2018a31768806aa4e3dc6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Ducktales",
+    "La Bande à Picsou"
+  ]
+}

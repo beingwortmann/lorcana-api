@@ -1,0 +1,45 @@
+{
+  "name": "Yelena",
+  "subtitle": "Capo dei Northuldri",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "9d1ce7675bbc9d3acf0c5fad0896029f068795e6",
+  "culture_invariant_id": 1719,
+  "sort_number": 1717,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "CI FIDIAMO SOLO DELLA NATURA Quando giochi questo personaggio, un personaggio a tua scelta ottiene Sfidante +2 per questo turno. (Riceve +2 mentre sta sfidando.)",
+  "card_identifier": "55/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/55_47be37d2038ea6614d57acbd0b58ab23bf870ace.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/55_719b98a8c122a055baee1a76a2d929d81315a9db.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/55_2e937d64072fcf0ed063574ee2bedcd4ae4799ee.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Frozen - Il regno di ghiaccio",
+    "Frozen"
+  ]
+}

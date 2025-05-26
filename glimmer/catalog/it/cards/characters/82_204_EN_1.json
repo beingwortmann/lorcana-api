@@ -26,18 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=39a82f947f615205ef2feda2685485f971df6b8d6b9260612fe0adbaad68e7a8"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/82_ff58999b1abf7e708e4b4020ff3630e4ec145f7e.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=ca2724706b8db02d623b711a39672de475714d1185bc4b48013e60e254a4d488"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/82_e0ec173baa1f46ddc0b073ff61fac23ccf83f0f5.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=003a62db372e1c49c672b673f5a58d774e94f818048006a5eaef9f56e2471009",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/82_da8033fff48e7a78b70d3fb2511a543d41ea0d26.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Treasure Planet",
+    "Il Pianeta del Tesoro - Treasure Planet"
   ]
 }

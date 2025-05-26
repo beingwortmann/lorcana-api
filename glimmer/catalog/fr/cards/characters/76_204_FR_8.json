@@ -1,0 +1,43 @@
+{
+  "name": "Fleur",
+  "subtitle": "Mouffette timide",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Sandra Rios",
+  "deck_building_id": "64bcc8dbec56c1a40e869de72bbf82705d067936",
+  "culture_invariant_id": 1740,
+  "sort_number": 1738,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Sa nature douce surpasse toutes les fleurs de la prairie.",
+  "rules_text": "À LA RECHERCHE D'AMIS Chaque fois que vous jouez un autre personnage, regardez la carte du dessus de votre pioche. Placez-la sur ou sous votre pioche.",
+  "card_identifier": "76/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/76_6c9ea86516bb55cdfc40a23e314b99e843dca559.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/76_93d3b2c4c9a2f2666f40b4bb00ba79fa5b1d35fa.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/76_87c210f5be7e479d418e5f7dd10fd7c300c47c61.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

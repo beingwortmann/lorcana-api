@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=cf8f350e9997468e5511c63e202283afdeda102d9da3e9e23760aa29fc076ced"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/201_7ece21fc3110df09cdba9502d75dbaaded5ff30a.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=01d46c475aa3db5f605021da924abe307800a25d8b5c509513cff18463063d23"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/201_8938ef488a104563471064f0b3020972a367b7b3.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/7f03f3f2febc46f3fa832d98251b0c98f64bc19b.jpg?checksum=21586004acafbef8b33a39658302035414df3da2d72604e099e099b9bdbff0a7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/201_5b97b93ef0625f35c8a7d0f94d7682f9d6205ba6.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Atlantis"
   ]
 }

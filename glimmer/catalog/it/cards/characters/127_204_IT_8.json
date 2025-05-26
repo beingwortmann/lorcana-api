@@ -1,0 +1,44 @@
+{
+  "name": "Alice",
+  "subtitle": "Coraggiosa Custode della Chiave",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "162b1048dfcb2afc70a5bd30eee1680b2da51299",
+  "culture_invariant_id": 1791,
+  "sort_number": 1789,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Oh cielo, questi scarabei sono terribilmente vicini! Dobbiamo trovare l'uscita!",
+  "rules_text": "DA QUESTA PARTE Quando giochi questo personaggio, puoi preparare un tuo personaggio danneggiato a tua scelta. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "127/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/127_eb8ed6568b4884ee244de41d0c4c0ddcbf36be3f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/127_6052326e31d37f34b928cc94f1606e7c40f2b006.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/127_d0ca25cbd3da2b5cfba0e41a3fabb0bab25f22df.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Alice nel Paese delle Meraviglie",
+    "Alice in Wonderland"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Abu",
+  "subtitle": "Pachiderma Illusorio",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Grace Tran",
+  "deck_building_id": "fc278a703770bc359b9bcfe2f95aeb009697b0a3",
+  "culture_invariant_id": 1714,
+  "sort_number": 1712,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Svanire"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Illusione"
+  ],
+  "flavor_text": "",
+  "rules_text": "Svanire (Quando un avversario sceglie questo personaggio per un'azione, esilialo.) PROBOSCIDE AFFERRANTE Ogni volta che questo personaggio va all'avventura, ottieni leggenda pari al di un personaggio avversario a tua scelta.",
+  "card_identifier": "50/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/50_af3b0ee99613fd4b99be1b44a836e09982053d51.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/50_c02080c44918ffd77cc3add70f48385bf539d807.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/50_925fb804eaecde5877f062d0b7dd7e111e3e8cb6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

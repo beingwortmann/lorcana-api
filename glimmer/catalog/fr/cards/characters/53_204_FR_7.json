@@ -23,19 +23,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=7291f05f33cbf3308f42519ac2e7beaaa5d91e4918cecc01c09980c8b96d7be5"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/53_07605aff486270bea6654929fc434052aaabd339.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=12a87a80c1cf6df04a47a00d3a23819490edaa5800256bdf1f020eb69dfb9f4d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/53_7e50178d905a0bc0092993e0e5a1531b75af60d8.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/c5b76da3e608d34edb07244cd9b875ee86906328.jpg?checksum=cf6f6199a256e227b0566a70237eb013f910dcaf4e5c340ab349f78d6b7e492e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/53_472c72c95677818981cb767c15d75b6ee41d36a1.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST",
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Les Aventures de Bernard et Bianca",
+    "Rescuers"
   ]
 }

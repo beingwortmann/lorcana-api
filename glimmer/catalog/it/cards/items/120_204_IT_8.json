@@ -1,0 +1,38 @@
+{
+  "name": "Collare Ingioiellato",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "a55f40c14f531761828d5025ffb3cade2560095f",
+  "culture_invariant_id": 1784,
+  "sort_number": 1782,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Archazia ha creato molte cose meravigliose, ma nessuna è bella come questa.",
+  "rules_text": "BENVENUTA STRAVAGANZA Ogni volta che uno dei tuoi personaggi viene sfidato, puoi aggiungere la prima carta del tuo mazzo al tuo calamaio, a faccia in giù e impegnata.",
+  "card_identifier": "120/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/120_60d351f1ac6b173ae02abd09635674194dd53bab.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/120_471aebcc0898b9ab74720e9830234807af7ee1c4.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/120_73047392482928c40e27e2876076500a2591f841.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats",
+    "Gli Aristogatti"
+  ]
+}

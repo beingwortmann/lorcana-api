@@ -1,0 +1,46 @@
+{
+  "name": "Stitch",
+  "subtitle": "Esperimento 626",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Natalie Dombois",
+  "deck_building_id": "2b044feacd5a7ab8653f088ab25e14b039ea379c",
+  "culture_invariant_id": 1884,
+  "sort_number": 1882,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Alieno"
+  ],
+  "flavor_text": "",
+  "rules_text": "CHE LINGUAGGIO SCONCIO Quando giochi questo personaggio, ogni avversario aggiunge la prima carta del suo mazzo al suo calamaio, a faccia in giù e impegnata. MODALITÀ FURTIVA All'inizio del tuo turno, se questa carta si trova nei tuoi scarti, puoi scegliere e scartare una carta con per giocare questo personaggio gratis ed entra in gioco impegnato.",
+  "card_identifier": "220/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/220_d2f00acff7305a38c155135bfe268db927adc27d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/220_b0abaf9aaad0a9091e749eac4852538696da7777.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/220_78305ccbcb4f90f3296f136840c2e2b009b18935.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lilo & Stitch",
+    "Lilo and Stitch"
+  ]
+}

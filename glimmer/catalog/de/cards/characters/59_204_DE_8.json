@@ -1,0 +1,45 @@
+{
+  "name": "Madame Mim",
+  "subtitle": "Böses im Sinn",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "48ab1e66dd5e1b7f7458eee04c72e72552cb3222",
+  "culture_invariant_id": 1723,
+  "sort_number": 1721,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "Magier"
+  ],
+  "flavor_text": "Sie denken, sie kennen meine Tricks … Oh, der hier wird wunderbar bösartig!",
+  "rules_text": "",
+  "card_identifier": "59/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/59_21c218c2f5723ff5cc828ee553e7c405f4c8840a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/59_7509cdbf72dce97cf21a98be9d7ca89caed81833.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/59_a98569ebb6ebb15255d138c53552eb7a3a7601ce.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "Die Hexe und der Zauberer"
+  ]
+}

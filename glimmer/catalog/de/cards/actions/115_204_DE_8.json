@@ -1,0 +1,40 @@
+{
+  "name": "Alles Böse biss dabei ins Gras",
+  "rarity": "UNCOMMON",
+  "ink_cost": 8,
+  "author": "Edu Francisco",
+  "deck_building_id": "5c657945db38e14571f723706bbcd7ec55085acb",
+  "culture_invariant_id": 1779,
+  "sort_number": 1777,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gemeinsam singen"
+  ],
+  "subtypes": [
+    "Lied"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gemeinsam singen 8 (Du kannst beliebig viele deiner Charaktere oder Charaktere deiner Teammitglieder, die zusammen 8 oder mehr kosten, , damit sie dieses Lied kostenlos singen.) Schicke bis zu 2 Charaktere deiner Wahl mit je 3 oder weniger auf die zugehörige Hand zurück.",
+  "card_identifier": "115/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/115_a6a9d69a27c6657db93e08db140830616d1e8f96.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/115_3c3160063714685c7f14239e3cd085c126634900.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/115_f0738339a09e81eed584e02edd31f2cf9385dc3e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Hercules"
+  ]
+}

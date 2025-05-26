@@ -24,18 +24,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=5cbc821ed32a322187fe359f97f146ace2dd1eff3fd5c2e588c5427b2cfc9e4d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/93_26ee27560e7becbe88a27995a5b48c7c3f7fb759.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=0ba20af18fbf0cfab83825dacd564616f56b4f10cdb4cb11c18db8de04862d8f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/93_3dda624f48c1f813e6e3d0ffd7d9706ed4c7fcf6.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/08a35293e09f508494096c1c1b3819edb9df50db.jpg?checksum=750b3e88210b30033554c96e5c737369858096945bd62be597db71049e8c1090",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/93_cfdd1e3b7627f70d65718f1afb3ce01150ede33d.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Great Mouse Detective"
   ]
 }

@@ -24,18 +24,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=956a4143fac54dc5aeac0505adedf4f6b222ea5a243d317922a311a80a27ef80"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/106_9c788d1d105dfe1bdfdfd9d7ad07dbb6e02b775a.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=21d2ec800b47ae9a16d2b5f4c90406c37ed0dac16279a22b3a8be53e0c89bfe1"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/106_8b2618b4520d97bfe446c20f8df4854c100fa42b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg?checksum=420da180cadb848ea9d259a9e6f18f65c4d4585458120c80235f4ebcd0a9cb5b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/106_54e599d6ab61b9c02bbac8f313bf15cb89ad6865.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians"
   ]
 }

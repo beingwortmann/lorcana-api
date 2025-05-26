@@ -1,0 +1,44 @@
+{
+  "name": "Olaf",
+  "subtitle": "Recapping the Story",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matt Chapman",
+  "deck_building_id": "37b8f2d0cca58cc4b2d0a2be27faafff33e16815",
+  "culture_invariant_id": 1820,
+  "sort_number": 1819,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "It began with two sisters. One born with magical powers, and one born powerless. Their love of snowmen, infinite.",
+  "rules_text": "ENDLESS TALE When you play this character, chosen opposing character gets -1 this turn.",
+  "card_identifier": "156/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/156_3a643876deb8cd4f0b8311fa4f2b61f12507d453.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/156_76746afef58108c1909efa92249b1d6d7e7ea1aa.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/156_e4a00844a5a4cb64baa9428d1863dbeb5a8650af.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen"
+  ]
+}

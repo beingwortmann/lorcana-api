@@ -1,0 +1,45 @@
+{
+  "name": "Fifi",
+  "subtitle": "Adorable frimeur",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "5e50b28dd46474c11749a046ee80e2cced3baca1",
+  "culture_invariant_id": 1666,
+  "sort_number": 1664,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Des serpents? Qui tirent des lasers? Dans un repaire souterrain secret? Aucun problème!",
+  "rules_text": "",
+  "card_identifier": "2/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/2_0cd33af00b577872dab914a15d6eacc4a3a2d149.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/2_5c6afa8d76ddc4506cb02b25f0b98f69bac6c151.jpg"
+    }
+  ],
+  "foil_detail_url": "https://api.lorcana.ravensburger.com/images/fr/set8/foil-detail/1468x2048/2_8efe37594c8bfc84e5e06aa745ef35111c79619e.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/2_28d52adb30cbfe163c1e8d2ff38135f1c251f450.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Ducktales",
+    "La Bande à Picsou"
+  ]
+}

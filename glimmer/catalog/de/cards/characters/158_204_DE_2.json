@@ -23,19 +23,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=b811b210e1caa64fdb0c25063e965751226c9fd55bdef5dd5597161f7a931c20"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/158_269d8e44462b7b73c407d0a42b67706d9a1c0e22.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=e8b3d2c057b4d9017e18f7054365b001af3cb31e772f24bd5402efbfa9da6ff1"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/158_932161d2969779dff9fc96a5b9f7829157d1d876.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=2239d85195f5ab486a58586b058f884bc75604dcb714f09d82d0801671e4bb05",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/158_2e40e57518e5126a7d8f3c48999094ce9601f401.jpg",
   "card_sets": [
     2,
-    9
+    11
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Winnie the Pooh",
+    "Winnie Puuh"
   ]
 }

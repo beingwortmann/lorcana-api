@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=8377c3b49f1bfff891c794e67437033d31c949350ee8576a5869fe1a08518617"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/24_4f66b123406d90992a0910aa1030ad5120fe3119.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=c9b254593a88be2419d94cbb73e5f7610976c0ab196b91ede8e41a1d9f67a520"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/24_df5c01edefacece284ca967a2a9929d8186eaa59.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/4d134bc072212ace2df385dae143139da74ec0ef.jpg?checksum=f330df7ea9dd54620384bb1d5e6c48898404e1d2728120603f5e86f4b39d137f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/24_2eafa098d0f9f56a17384220f44429e751f9ca9a.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Schneewittchen und die sieben Zwerge",
+    "Snow White"
   ]
 }

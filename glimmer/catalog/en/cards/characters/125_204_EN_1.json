@@ -24,19 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=25952ee7df1065e5070a095a0bea8c81fa548925a8b8fd1ea8699977df4527a3"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/125_3c3fa7276cfa922f5618d6a243c8ff02fba5317e.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=089a0252bc27bff8b7286a30ee3804d18cc034b41c97a42e214b2fe0743d4845"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/125_cd6696683f2fc64fee5d45411cd9a4d2d2a66eae.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg?checksum=46c81eac0f71efef808093857affced40312388c5d503af03beec49a2125b617",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/125_3903c1ddc5316bd332dd0ae4919e958f0bf93928.jpg",
   "card_sets": [
     1,
-    9
+    11
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Lilo and Stitch"
   ]
 }

@@ -23,19 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=422c850a80d5cbd150eb72ca9bfa914070408fa18da9eadd545bdbfb4b0536df"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/52_7e9540637acafca34aed67534d4a38860eec857d.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=a35b94cc17314651a183bcb40e2fbcb4deb9446082fa7f7c140baaf66e8f0165"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/52_23c80d526ff9f9d65bd0eaa00e30d71090173ec7.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=f8c290bc5ad854e7fed5ab9a232d4577370c39603efdbc92576e49ad248696f7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/52_ec81174a433bfca05dada50d5f9c9a1b42bdff03.jpg",
   "card_sets": [
     1,
-    9
+    11
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Frozen"
   ]
 }

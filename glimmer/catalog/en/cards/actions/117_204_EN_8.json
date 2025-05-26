@@ -1,0 +1,37 @@
+{
+  "name": "Undermine",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Luigi Aimè",
+  "deck_building_id": "7ecd02fc2b52fa45baec4adfd9a638d543b1d8de",
+  "culture_invariant_id": 1781,
+  "sort_number": 1780,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "It's a real shame I didn't even get a chance to study it.",
+  "rules_text": "Chosen opponent chooses and discards a card. Chosen character gets +2 this turn.",
+  "card_identifier": "117/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/117_9674c713f088e9b661cac2aa6d86cc6403465a5f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/117_5e430ca85661f0cb0a35c8174a9d0b0a8fa41cc6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/117_b3e652ec20b61eb94a515ee6cec6a3545e70f86f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Atlantis"
+  ]
+}

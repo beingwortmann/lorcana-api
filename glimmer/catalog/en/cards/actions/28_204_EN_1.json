@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=4ce20872f5ccec76224cd1b3cf3e2818f28f5b6b29b7c0bfbf863fdeed81b4f7"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/28_1786bdf612ccfb44590532cf9af3497c5e4913de.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=e4ce2d23bd6b2c3b475112031be1b8ec660e293a472a640ac8a63b8d9600a703"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/28_242abac12b3665283979d0e98fb915a00ee1eb4b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=3a3da9375c1624fd5799f04900c1c86cb47256ba6d2330a116fe467a8f57b4db",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/28_125bf5aa92bddd90fcd682056a5d50656f1643b2.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Tangled"
   ]
 }

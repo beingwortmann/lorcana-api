@@ -1,0 +1,45 @@
+{
+  "name": "Olaf",
+  "subtitle": "Fasst die Geschichte zusammen",
+  "strength": 2,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Matt Chapman",
+  "deck_building_id": "37b8f2d0cca58cc4b2d0a2be27faafff33e16815",
+  "culture_invariant_id": 1820,
+  "sort_number": 1818,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Alles begann mit zwei Schwestern. Die eine geboren mit Zauberkräften, die andere ist pupsnormal. Ihre Liebe zu Schneemännern, gigantisch.",
+  "rules_text": "UNENDLICHE ERZÄHLUNG Wenn du diesen Charakter ausspielst, erhält ein gegnerischer Charakter deiner Wahl in diesem Zug -1.",
+  "card_identifier": "156/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/156_d80a9ac422c9103710fb7b7f39e8dbfed5792387.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/156_b6f612fdc3aa46b5df9d8a1e66dc702d5cee56a2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/156_c24013eb0c4d743640f6daf1ec93cd54fd39bb44.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen",
+    "Die Eiskönigin"
+  ]
+}

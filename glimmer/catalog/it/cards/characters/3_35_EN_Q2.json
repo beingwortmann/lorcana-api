@@ -1,0 +1,44 @@
+{
+  "name": "Iago",
+  "subtitle": "Raucous Lookout",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Diogo Saito",
+  "deck_building_id": "b081c292d8abac744d8c40e1029f55dd2aad5d61",
+  "culture_invariant_id": 1898,
+  "sort_number": 1898,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (An opposing character who challenges one of Jafar's characters must choose one with Bodyguard if able.) JAFAR'S SENTRY This character enters play exerted. SOUND THE ALARM While this character is exerted, Jafar's locations can’t be challenged.",
+  "card_identifier": "3/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/3_2cd5ac0c6d89323bca3ac753323603290a7d3413.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/3_ee26590339fe118db35a49d4ca4c25bbda7e643f.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

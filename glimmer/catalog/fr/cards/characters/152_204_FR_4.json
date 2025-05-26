@@ -26,18 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=1c846246688cc65b60a095d03401967d64d7eea8516e97e9f7522cc6ed22434e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/152_69f8e4b31aafa1200f10fee282c3ac9693406410.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=4d7f09c0e4686868fa2c092f1920d6e20817b6547fd13b75bdec880a5ff7b93d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/152_e481a95abdcb430d5f741bfb5336ac4920f1dce4.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=0005a978102f6548b810fae4dbb85c2dd9bdcd559a000e5681afad5a82b5e076",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/152_8584bbb5ba69bdcce832178bd12208e922992909.jpg",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "La Belle au bois dormant",
+    "Sleeping Beauty"
   ]
 }

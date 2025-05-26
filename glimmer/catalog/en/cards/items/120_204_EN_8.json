@@ -1,0 +1,37 @@
+{
+  "name": "Jeweled Collar",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "a55f40c14f531761828d5025ffb3cade2560095f",
+  "culture_invariant_id": 1784,
+  "sort_number": 1783,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Archazia created many wondrous things, but none as beautiful as this.",
+  "rules_text": "WELCOME EXTRAVAGANCE Whenever one of your characters is challenged, you may put the top card of your deck into your inkwell facedown and exerted.",
+  "card_identifier": "120/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/120_f9ab6bf84bd022d4309b8e647cf16923d3a12afa.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/120_39bae8a0e1b77a956ae323f6833280f45ece35b0.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/120_5b002b731c9a9f5f60ba4ae8f72355ed6be16e5a.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats"
+  ]
+}

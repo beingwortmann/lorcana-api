@@ -25,18 +25,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=526447423558d8f06cea76d5b098e854223b9e29427bf4f0f3335cde6399972a"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/70_91202027305e5b5c2649772917333b1d0f66fabd.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=44bbdd4765bebdcc4269f72bc081f1dbd107187ea4272e3505ba35fc3436e0bf"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/70_11a6c15d4daa81988becb619476bd852837239dd.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/b7103ca278a75cad8f7d065acda0c2e80da0b7dc.jpg?checksum=a9d888133789db724d82facb97a476c1c4a696444b607deb2cc22120b724aa52",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/70_d0d7e5f2c28bca9cc307139e6433088c4ee660ff.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Brother Bear"
   ]
 }

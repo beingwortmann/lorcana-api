@@ -29,18 +29,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=53f7caa528466b3e7850120336df650faa795d8b6250479c891923b3f1f36d83"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/1468x2048/74_5e4e17c6a8bced32b6e143b2e7104f029a1a085f.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=abc0ab5315dd5c565d19c178b7afd57bf8d75cd996fc159309c2fb03c32cb176"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/367x512/74_2447da867eb14b5c7bff7549b8886fdb0675a8f4.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set1/masks/1468x2048/1f1362ea41d1bc65be321c0a378a20159f9a26d0.jpg?checksum=b8e3df720c206a08c1c8a08b02e9ef311b99a7abd2971140cfbe66eeb9bcfd65",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set1/masks/1468x2048/74_8fafa165bd0abb241b9255293ecd469a47bc7670.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Raiponce"
   ]
 }

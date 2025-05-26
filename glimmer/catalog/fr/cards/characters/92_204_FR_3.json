@@ -25,18 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=ebe95d5595a71ca3e765fdf950fc099bd71af4ee2187c13f60f0587baaa581be"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/92_07aa548eb3ff9559b2b8e9430ed44023b74744cf.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=4fb5eba1b0d420dd137081f75c70b137f486ce927ecf9fe16324d41fe0e208f4"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/92_dd419d22de49037d8e43a4d0f6c2c73f01cb249b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=5d73dac7efc2195059c8cd2bab6df68b4a35a23c3f2ea006adbc940ab5579cd8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/92_e18232e6c1e9d0aeb8c725653ceb9490bb2537cf.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Talespin",
+    "Super Baloo"
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "name": "Jeder hat eine Schwäche",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Linh Dang",
+  "deck_building_id": "04dc42a3175874e14d93a425a5c83f81f4275812",
+  "culture_invariant_id": 1746,
+  "sort_number": 1744,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Verschiebe je 1 Schadensmarker von jedem deiner beschädigten Charaktere zu einem gegnerischen Charakter deiner Wahl. Ziehe 1 Karte für jeden Schadensmarker, den du auf diese Weise verschoben hast.",
+  "card_identifier": "82/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/82_5616c6283cf8325fc74b81ff4a3bef2c4f22cc73.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/82_34d26f7bd4c5c6ace02eacef7bd1cb6b293ba369.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/82_114f9784352e613517d4b31f195158f7a9fd6be1.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Hercules"
+  ]
+}

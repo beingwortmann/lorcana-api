@@ -18,14 +18,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=254e719ad04ba81e8beeb55a27d55f9b942057b86837026b99bfebe3df2b69dd"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/2_e2146eb707e1996e2ae87ecd5ce44a7edcc61a0b.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=7626da744f03dd642b99b1c357536851d75a24be6ec13242a848e3843a882d83"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/2_1850bf05181960cfe7baeb54a0464b0dfe8fb4df.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/da4b9237bacccdf19c0760cab7aec4a8359010b0.jpg?checksum=a78cd9fc9813a5707684309c333764d0c72ef7a38bd992e5c5f3cba4687aec4b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/2_47b22e348f3f9dd3f12f24358645cb512acf86f5.jpg",
   "special_rarity_id": 4,
   "foil_type": "Tempest",
   "card_sets": [
@@ -33,5 +33,9 @@
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen - Il regno di ghiaccio",
+    "Frozen"
   ]
 }

@@ -16,20 +16,24 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=4c32842facf85f8efa38816512284ed5fa6729c8377d49873b3dfb15d2bc35ad"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/66_e47d1ee2d7d42e44f3b1ed162cd5bee0c54324ab.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=9f18b9d3db85a2f8091bcf018e601bddf068e5e0b31ee169e777d5ea8dd36ea9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/66_54c57d2375d1458e25b34f432c697b151440659d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=4793f60193ff1093d36c1ac7ecc5c859651c6e8ca950d2510a54c0661c9e80fc",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/66_a28f0c5066765517269f35324d6dbbc9e69fb8b7.jpg",
   "card_sets": [
     4,
-    8,
-    9
+    9,
+    11
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Little Mermaid",
+    "La Petite Sirène"
   ]
 }

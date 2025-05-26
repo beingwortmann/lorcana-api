@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f2379201c98ae6552ba2c9aa535afb5b577f9354de6aaed905acfcbcb73341d2"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/152_f941917e1d7a10cbfcc0d65ee8985556eb6fb9d8.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=f63b428f286ff624d7ff018322c9b015763a4ea2a768dfa56eebd8cf27974a1c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/152_a365f6b392b777b45537621649776a0128693438.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/ac2646028f5b8b9bbf7a967f4ac71b8866135211.jpg?checksum=77c6fcd94542ebb117c5f0506ddd4fce14c460508109793e3459a5b65aa7515f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/152_b9bcd8845ddd49701ced19a9acb95aef42b831a4.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Rescuers"
   ]
 }

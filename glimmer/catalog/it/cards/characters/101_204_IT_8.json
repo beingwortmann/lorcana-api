@@ -1,0 +1,49 @@
+{
+  "name": "Rapunzel",
+  "subtitle": "Scalatrice d'Alta Quota",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Alice Pisoni",
+  "deck_building_id": "d96ca6b70852fff25f38145aaf2d764a4e530e4f",
+  "culture_invariant_id": 1765,
+  "sort_number": 1763,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) AVVOLTO Ogni volta che questo personaggio va all'avventura, un personaggio avversario a tua scelta non può andare all'avventura durante il suo prossimo turno.",
+  "card_identifier": "101/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/101_45318f259a9986decd79fc4ae93b801b4db8ead7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/101_a3323c9c8e750acf7c7661763d32de05af8ed8fc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/101_b9d26449c2b34bf7741435bbeb8d808aa027e281.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/gloss/1468x2048/101_fbd50d98044f2363a9dec8bbe553f1504e062405.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Rapunzel - L'intreccio della torre"
+  ]
+}

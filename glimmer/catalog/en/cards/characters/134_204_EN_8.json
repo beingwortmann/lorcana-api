@@ -1,0 +1,43 @@
+{
+  "name": "Thumper",
+  "subtitle": "Young Bunny",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "18380961ea65710ae50b2e4dec656d96cb63f860",
+  "culture_invariant_id": 1798,
+  "sort_number": 1797,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "C'mon! Let's show that mean old high sultan what’s what.",
+  "rules_text": "YOU CAN DO IT! — Chosen character gets +3 this turn.",
+  "card_identifier": "134/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/134_12a485f10892a5d7623888b33e72a21c42acaf69.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/134_8a31b4d3d1de372d28527029b10adcb3ea443175.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/134_fe0baccbc85de1d1f8fd31631e449293a6fdf498.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

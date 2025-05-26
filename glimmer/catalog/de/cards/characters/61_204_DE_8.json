@@ -1,0 +1,47 @@
+{
+  "name": "Pinocchio",
+  "subtitle": "An Fäden geknüpft",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Hedvig H-S",
+  "deck_building_id": "d1396676855ab97c647e729d53fd35c6e0ab3eda",
+  "culture_invariant_id": 1725,
+  "sort_number": 1723,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) ICH MUSS GANZ LEISE SEIN Einmal während deines Zuges, wenn du diesen Charakter bereit machst, darfst du 1 Karte ziehen.",
+  "card_identifier": "61/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/61_4fa30480f568db7b2fc4c3b8566cee5cfa054a42.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/61_b8e40b9ce91d3f40cffc39a98cac3fc1cd320aa4.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/61_3a5790add7ee92e86f216fffc182a84eb6d46e7a.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/gloss/1468x2048/61_e8ef51a382ebd123f56a5bf9144275cd13725d6d.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

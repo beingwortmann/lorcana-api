@@ -1,0 +1,36 @@
+{
+  "name": "Batifolage",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Omar Lozano",
+  "deck_building_id": "8796f4cb21d5e4fb185646eae3e02d2b25ce1fc6",
+  "culture_invariant_id": 1814,
+  "sort_number": 1812,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Un phénomène mystérieux qui vous fait vous sentir invincible et vulnérable à la fois.",
+  "rules_text": "Choisissez un personnage qui gagne Insaisissable jusqu'au début de votre prochain tour. (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "150/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/150_4ae1c0d026105789c5ccd157b051ec6595809921.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/150_5ba8b1c9c614d2be462706ee6276424feb714df5.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/150_53dedd6f17877f2693e918ca3b58ad91cebc19a1.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

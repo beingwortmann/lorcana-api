@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=e7e3ae581d9b2e4906678965c22cb2a9ae88b6fedf5ab0218aaf11d3ac8f9ed3"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/92_c30120dcf26241f38f6ad4b568baeb3fd94dedb3.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=64530ff901b044b05bccdb22f2439f5e1d30aba1fb7bacd9c07722c774839a6f"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/92_66c4aaf54cb9ae62756dffe8475ce9f2c6a15bf0.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=c743e35694bf06f79df7b40822e175fa6b34e9907618f90b7646a1de03b1f626",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/92_40a310aacc62b76fde77feef41a1c45016a35847.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Jungle Book",
+    "Le Livre de la Jungle"
   ]
 }

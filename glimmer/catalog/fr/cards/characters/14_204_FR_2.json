@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=5f7a2113823e63ea698e4ab68c69fef55715af48b55ca77e4cd62431b8c60a15"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/1468x2048/14_bf54ad6b0f957301c0c8e1dddf0db16d16186c34.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=2ae9e3ec9ba709072ce9d83cd1663a6c0cad00bf956657dc2062acbee17a2e2b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set2/cards/367x512/14_ef5f83539f853e8f1a1ee2aad424644d034e8b2d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=cb7ff7df800f3601621da9eee5aee9dbc1eca9a6dfedb72c2fe2b94a08607276",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set2/masks/1468x2048/14_8faba6a7d8131e19c19dd709f00b42259fe6818b.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Lion King",
+    "Le Roi Lion"
   ]
 }

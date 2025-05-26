@@ -20,18 +20,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=c0835f1f16dcd45fbc23a0260ae7387b63d5b7099d287239e6adc97acef45b4d"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/102_37028fb2dcca3b89c4dc0a00bae6c4bdf5c6d641.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=8bc7e24298397241b75b52a8a88dd275eac0afe8f784e66b2a89df88794771b9"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/102_1fae192850f9e640dab500826df9cd40be1ae897.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/c8306ae139ac98f432932286151dc0ec55580eca.jpg?checksum=e208e3d64825168f40576be1ef52a7d4b0afcc456895630d3e29d9c73c02aeac",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/102_ddb9de38ede54b6217f6d5f49f7313c8e5b081a6.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Ein Königreich für ein Lama"
   ]
 }

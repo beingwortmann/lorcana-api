@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=1ab31b06a5e1a21d57dc7bef2b75e4f9a4b1de3494eeb719e6fa0d1d9ffbe3ff"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/7_3324f1eaf672e4cfd71506a956b5098fea2364e4.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=2e491090fa455319bff5805b80d28395102d334727fd6b2404b1962c3c14d6f2"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/7_211f13ae71c966797d140785b7fe93b9a80a12f4.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=b2a6f6071885baebb340e1240ce594277bdb2a8827f687e991efa5888596f497",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/7_12346af1f9f2b7bdf94a7898148cb08f80934cda.jpg",
   "special_rarity_id": 4,
   "foil_type": "Tempest",
   "card_sets": [
@@ -35,5 +35,9 @@
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "La Reine des Neiges",
+    "Frozen"
   ]
 }

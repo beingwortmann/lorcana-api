@@ -24,18 +24,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=c1ab36de02e7b023f807249126424f534cacc9b988ad48ff0d8a426a896d785b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/56_5db0242957fb2420ab0feaecd201bc5b2d14f785.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=c24210174036a6775424bd618a902954cf194ed1d3e73f61e5b98ec81096c72f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/56_bd1caff35af2c754e8a58418165b565566627e60.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/54ceb91256e8190e474aa752a6e0650a2df5ba37.jpg?checksum=f0724210d953b417c0f5514b5cf8c8eaf00399299c854d52d9c4c81557f628b5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/56_354da0198e86fc926f77cbedfc3074329451b59c.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone"
   ]
 }

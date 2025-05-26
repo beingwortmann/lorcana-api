@@ -1,0 +1,45 @@
+{
+  "name": "Alma Madrigal",
+  "subtitle": "Akzeptierende Großmutter",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "e9f25b54329962c4e6a6b6b1c3fdd15db57fab7d",
+  "culture_invariant_id": 1698,
+  "sort_number": 1696,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Mentor",
+    "Madrigal"
+  ],
+  "flavor_text": "Ich war so streng, das tut mir leid.",
+  "rules_text": "DAS WUNDER, DAS SEID IHR Einmal während deines Zuges, wenn einer oder mehrere deiner Charaktere ein Lied singen, darfst du jene Charaktere bereit machen.",
+  "card_identifier": "34/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/34_012f2b000e485222504282c8dd95a30e1bdd8794.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/34_68725c7bcc270ce29c3126a85bc19b4222f9fe5c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/34_9e840256637b2d12d9b012e4328ed2bb3fc2c7e4.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Encanto"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Peggy",
+  "subtitle": "Madre Determinata",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Brian Weisz",
+  "deck_building_id": "9849851df328fe0b986033d99e6d4ab4ed054ed8",
+  "culture_invariant_id": 1691,
+  "sort_number": 1689,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Peggy.) PRESTO, NASCONDETEVI TUTTI Quando giochi questo personaggio, puoi aggiungere al tuo calamaio tutte le carte personaggio Cucciolo dai tuoi scarti, a faccia in giù e impegnate.",
+  "card_identifier": "27/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/27_3ecd6b6d9d7c5170314242f79c4795333fa759c4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/27_fd0dd206dbc0a9da3ec9a2b3a17fa0772c8222d6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/27_7dee26663e05957d14820fc8046d15af61951550.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "La carica dei 101"
+  ]
+}

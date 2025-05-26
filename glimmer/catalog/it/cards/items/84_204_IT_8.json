@@ -1,0 +1,39 @@
+{
+  "name": "Spuntoni di Ghiaccio",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Priya Kakati",
+  "deck_building_id": "4848962185abb4d5b4c61baa3a86c31313853f72",
+  "culture_invariant_id": 1748,
+  "sort_number": 1746,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "STAI FERMO Quando giochi questo oggetto, impegna un personaggio avversario a tua scelta. È BLOCCATO , 1 — Impegna un oggetto avversario a tua scelta. Non si può preparare all'inizio del suo prossimo turno.",
+  "card_identifier": "84/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/84_612c5fd6fc3e35b3fafe1f4b1b40493f3c8d8374.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/84_b9b39cb4bc25a534f56273cc2b99558aaf8d4bd2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/84_b2cbbf0f90474d21c0a5b67b0fe1516633cc7fff.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen - Il regno di ghiaccio",
+    "Frozen"
+  ]
+}

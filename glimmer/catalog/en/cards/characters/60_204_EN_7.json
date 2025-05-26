@@ -23,18 +23,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=68f8e80f4f09c2eed404a233f2f90a3cff008cc452763cfebbf2064995cfe697"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/60_9b9749a4041570ea68f15d80e3f0c76c1a96fc94.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=dd15933bd3b7d2ca4e7e04b772b0aa285ad983a553c5e1e095423c41f5b34e86"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/60_424ab44e284a0152d6a94052f967e21fc7197495.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=2caf2b12eaab25d503316774150ee27eeb40b48bd4e8b0f941fbd5d2951fbdcd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/60_e8990471d18707f824d2a756dcc8fcbdff0d7630.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove"
   ]
 }

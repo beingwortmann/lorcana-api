@@ -16,19 +16,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=e3e8fd087933e3d4f1f8ffe6a0136b52d9dcf5f77babf42bac9e13d7ea143f75"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/218_15ff664453448ce0cad3c4809341b46a0b64f3d7.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=19dbb175ec82b7fda63c7b37925aed1569bbeff5ea3ec4dfa97a8eaf60096b9d"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/218_c8a6eb76d4e39c0d6049c4721bd1f59da6015583.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/3d5bdf107de596ce77e8ce48a61b585f52bbb61d.jpg?checksum=654dd8c4d9824ec22f1e0adddb837bd2d90ce25d2d36db81f3e69f77dfa3ecfb",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/218_1be3ea490490330ff17cca16ff36619d9a9b1e3b.jpg",
   "foil_type": "VerticalWave",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Le avventure di Bianca e Bernie",
+    "Rescuers"
   ]
 }

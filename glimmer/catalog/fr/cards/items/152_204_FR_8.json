@@ -1,0 +1,36 @@
+{
+  "name": "L’épée de Shan-Yu",
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Domenico Russo",
+  "deck_building_id": "f53cefd9fc2611fc223d96dff8640a4eeaf9068d",
+  "culture_invariant_id": 1816,
+  "sort_number": 1814,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Je sais ce qu’elle représente pour vous.%—L’Empereur",
+  "rules_text": "UNE ARME DIGNE DE CE NOM , l'un de vos personnages — Choisissez un personnage et redressez-le. Ce personnage ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "152/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/152_ee1acaa4e079e3334de4c1c9190d5901f0432e6e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/152_e423cbb30404935f2452e511a71b26702b1e6b5c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/152_19d059b2abb98f33bd2cc80b4ade358b8a6d3f3e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

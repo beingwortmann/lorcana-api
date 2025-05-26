@@ -1,0 +1,44 @@
+{
+  "name": "Mrs. Bric",
+  "subtitle": "Prima Governante",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Julie Vu",
+  "deck_building_id": "2dd0dfa5cece069d35c5263852b8fca5400530e7",
+  "culture_invariant_id": 1825,
+  "sort_number": 1823,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Suvvia, non preoccuparti del trambusto, cara. Sistemeremo tutto in un batter d'occhio.",
+  "rules_text": "PULIZIA , esilia uno dei tuoi oggetti — Pesca una carta.",
+  "card_identifier": "161/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/161_86a3cb40282c8f03cf029013e120cf1fba9f147d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/161_99fad37f3f5c5ae8e9183ce5e41a4adf7f58f4c7.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/161_dc10eb1ce522fd031887cf729d97c5ac0728243e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "La bella e la bestia",
+    "Beauty and the Beast"
+  ]
+}

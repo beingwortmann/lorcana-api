@@ -25,19 +25,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=d21cecc3bcc13ea4e7fff4aad8b94308c8262343ffc2b950bdb696098bf228f7"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/28_1f456f68c99b4b1844aabbb7d41db8698d30d45b.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=e6cbc6db1f9fb3661ddf44657e881dd3201dcf5b290127c6934c3088e3c3b3cc"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/28_186d7ee447ffc24256b0cb1a442cf8d6571419a6.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=c15a4dd5d70291c703f2dce3d7b932c6ed60b7e671c9c94f95e13f87e05269f6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/28_cfc0274c10d8d1523f2a1a24d132a6136893a3fb.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMBER",
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Susi und Strolch",
+    "Lady and the Tramp"
   ]
 }

@@ -18,18 +18,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=00b9a5c4303f8f93c769a8a5cdc6069c320dc8f1441d2cd40174c8b643de6fe1"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/95_3e66c8ddf2d3fccf1e2faf7f102a3f79d2317f5d.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=70b0b974b9d4c6730cae607e017558732aae8fc71a161734fd407fa3e49213d9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/95_a977b90d96b8666c676ce5eb05c0c296d7768d24.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=a4fd416bd91c7d6681392ae679ec56a8558885bf000a764994e3ef465af514d9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/95_420757ba2ea7c514898a6fa5085c1fde812c70ce.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Winnie l’ourson",
+    "Winnie the Pooh"
   ]
 }

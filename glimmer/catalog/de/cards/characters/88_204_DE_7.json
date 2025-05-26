@@ -25,18 +25,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=abfa5c8ffa569155f98f1c2754b9236f7a0ba1de911d6dffdd54709d39f03451"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/88_fefb650e1f74d0b1a09b4bb8858afb4c041474d2.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=058452e348c11da8d5931f4a321d55f5acfcf65358251bd8167b39ba51cb683f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/88_8919593a51cd1e016339913388125c96d2d0a6ab.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=8c5b73b2fe8fd94b1c85ab0f42565956ac2b142902b2fa1975a587828e0324ad",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/88_cd0bcf8905502cf91c93dade1775015b979cba71.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Aristocats"
   ]
 }

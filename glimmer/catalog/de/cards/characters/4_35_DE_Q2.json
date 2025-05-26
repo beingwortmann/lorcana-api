@@ -1,0 +1,45 @@
+{
+  "name": "Rasul",
+  "subtitle": "Unnachgiebiger Wächter",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Omar Lozano",
+  "deck_building_id": "f1edb60f8a642b04fc517ad1b23bb54404b2a611",
+  "culture_invariant_id": 1899,
+  "sort_number": 1899,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter",
+    "Kapitän"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Gegnerische Charaktere müssen beim Herausfordern von Dschafars Charakteren zuerst seine Charaktere mit Beschützen wählen, wenn möglich.) DSCHAFARS WÄCHTER Dieser Charakter kommt erschöpft ins Spiel.",
+  "card_identifier": "4/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/4_e1efa657badabc0e1f5fa2986690922289040901.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/4_92fef0c45dd9e2aa203b5aa4a5d13b1cb258db41.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

@@ -24,19 +24,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=7b4955b372c2c828367ad5d1c775b32e43073b803f5c8ac756d7a9f7876c20f5"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/1468x2048/49_42361a83da3290dcf7151fffcdd5f33cc60abce1.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=f429598b9ec065595205ccfa967ecdcafc4cb5e1c9f7c4ee7dd1f0b10e0fecbb"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/367x512/49_508b4ef2ca9024c96e15b5e18908bc542136c853.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set2/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=475997a2a494d6459f664886544da369fd83db611119b257768e7a13d1462983",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set2/masks/1468x2048/49_bf049031099aa50fa1d600d6b26f9ebc863e6f8e.jpg",
   "card_sets": [
     2,
-    9
+    11
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "La Spada Nella Roccia"
   ]
 }

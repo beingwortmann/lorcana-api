@@ -1,0 +1,44 @@
+{
+  "name": "Toby la Tortue",
+  "subtitle": "Ami prudent",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Irish Chua",
+  "deck_building_id": "ceee5141d95bd0a4e22bf7d9d0353bf2e3c36418",
+  "culture_invariant_id": 1854,
+  "sort_number": 1852,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Cet endroit est encore plus terrifiant que le Prince Jean.",
+  "rules_text": "CARAPACE SOLIDE Tant que ce personnage est épuisé, il gagne Résistance +1. (Les dommages qui lui sont infligés sont réduits de 1.)",
+  "card_identifier": "190/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/190_8667cafd0ebc363f8533f06e084434f08d2a65e0.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/190_337756f3e4d24e86df141d8c4047000ea1ec43bb.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/190_e03f7b8657b64d2dc51b6684855da3b2049aa9fa.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Robin des Bois",
+    "Robin Hood"
+  ]
+}

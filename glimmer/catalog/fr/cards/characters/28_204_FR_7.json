@@ -25,19 +25,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=8254b120450572c531b399e1ca3365825b4258b83133852d4cb78b4a168edefc"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/28_922aea09df74e1f177a3f80e462e6711d8bc2e73.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=c286c42278a6120a75d91783be465fa9857beb65f3094f397b832bef79cf8c5e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/28_fda4c28133f8ba912cf0631726a5214698de7854.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/0a57cb53ba59c46fc4b692527a38a87c78d84028.jpg?checksum=51a70f23b8126910f2a831a7ef8f1b9cf72b8cf8c7aea15205e24f00a33dd308",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/28_0c448639d5d3f5762c8ebf0ad4dd9fc0725d6204.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMBER",
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp",
+    "La Belle et le Clochard"
   ]
 }

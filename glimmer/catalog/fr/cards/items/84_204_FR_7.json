@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=77ac39a4d154ad2adf33e6b18fb98e4512f9f0ddf3a70fee36530211eac38295"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/84_3b3a0225ce562e69a2b62c34a9b78b3c9f23c793.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=6580fb11109bef32c16d28ef6fd2477de66d69488622de3e04d86e55623fa0ce"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/84_d62701777bbf28f2519a85399fe2c7a69043191d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=c8a4924e8e1dbb0c5d347e5548166ea14a07f21fb610e298bab77109bbb61d03",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/84_ea844b8e5bb082b7e250adfca12b9498538a03b0.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Lorcana"
   ]
 }

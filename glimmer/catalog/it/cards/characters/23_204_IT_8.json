@@ -1,0 +1,47 @@
+{
+  "name": "Re Candito",
+  "subtitle": "Incubo di Sugar Rush",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Joseph Buenning",
+  "deck_building_id": "d2cab8910ba9c6d3110900d1d62e58c1914b862a",
+  "culture_invariant_id": 1687,
+  "sort_number": 1685,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Re",
+    "Pilota"
+  ],
+  "flavor_text": "",
+  "rules_text": "NUOVI CONCORRENTI Quando questo personaggio viene esiliato, puoi riprendere in mano un'altra carta personaggio Pilota dai tuoi scarti.",
+  "card_identifier": "23/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/23_e9c4c5e0796bad059259ddcda14008569decc9fa.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/23_795022657350e852579a168041f33a577a634c2e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/23_6c298e8855d4c98ca1495635926dcd049db57d55.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Ralph Spaccatutto"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Faux pas destructeur",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Diogo Saito",
+  "deck_building_id": "668838ce2eec5b2cee8e3ed273c21c3a536386e4",
+  "culture_invariant_id": 1914,
+  "sort_number": 1914,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Les lieux de Jafar perdent Hors d'atteinte jusqu'au début de son prochain tour. Les Illumineurs peuvent choisir et bannir l'un des lieux de Jafar.",
+  "card_identifier": "19/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/19_f8ca7f3be029efb62d957408a9263320c018b215.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/19_f50dd3250966b76f21d58e1e519fade0c79ac959.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

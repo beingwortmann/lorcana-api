@@ -1,0 +1,44 @@
+{
+  "name": "Tick Duck",
+  "subtitle": "Verlässlicher Anführer",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "bbdba91561e90d592503aba60cb421e17a31341a",
+  "culture_invariant_id": 1667,
+  "sort_number": 1665,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Vergesst die magischen Schlangen. Da ist der Weg aus der Falle!",
+  "rules_text": "ICH KENNE DEN WEG Jedes Mal, wenn dieser Charakter erkundet, zahlst du 1 weniger für den nächsten Charakter, den du in diesem Zug ausspielst.",
+  "card_identifier": "3/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/3_c2b890fcdae4b948b7a412656762a4062ac18976.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/3_30e82b0d37727d5c8891489f5738194041fa5f26.jpg"
+    }
+  ],
+  "foil_detail_url": "https://api.lorcana.ravensburger.com/images/de/set8/foil-detail/1468x2048/3_0e3d7e426cec809ab31a7938e4dfff41f1b47c55.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/3_1886fa7164c5ecd4b095f4b92a4330135025d3a7.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Ducktales"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Alice",
+  "subtitle": "Ungeschickt wie immer",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Arianna Rea",
+  "deck_building_id": "4ebbac71024f902baab0a404f68a139bfc927b05",
+  "culture_invariant_id": 1768,
+  "sort_number": 1766,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 3 (Du kannst 3 zahlen, um diesen Charakter auf einen deiner Alice-Charaktere auszuspielen.) UNFALLGEFÄHRDET Jedes Mal, wenn dieser Charakter erkundet, lege 1 Schadensmarker auf alle anderen Charaktere.",
+  "card_identifier": "104/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/104_2a7f0cdfd82c2c2e91b702b0d1cad4e0863a81e0.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/104_05f6bac61a73bc5ba67bd7d5474626ecf935f444.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/104_8d29cf268a0884f40c43cd330664db08fa5928a8.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland",
+    "Alice im Wunderland"
+  ]
+}

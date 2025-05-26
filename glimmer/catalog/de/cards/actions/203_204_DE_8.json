@@ -1,0 +1,37 @@
+{
+  "name": "Schneller Schuss",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Diego Machuca",
+  "deck_building_id": "b7869c5472bc41c5832262ed91df5e977a88dd47",
+  "culture_invariant_id": 1867,
+  "sort_number": 1865,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Füge einem Charakter deiner Wahl 1 Schaden zu. Ziehe 1 Karte.",
+  "card_identifier": "203/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/203_6c569e3e3ce2f7dcde6ff785d71edf8593a22192.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/203_32f4a3f0a68b322e41b5b7e7b781bbc2a9b8ec39.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/203_af9253d56fab176bf1a888958b5252729c9574b8.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Lilo and Stitch",
+    "Lilo und Stitch"
+  ]
+}

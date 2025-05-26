@@ -1,0 +1,37 @@
+{
+  "name": "Televisore",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "5b45cb0bebfa4d4f18e8a0e2778ff4f77a31480b",
+  "culture_invariant_id": 1842,
+  "sort_number": 1840,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Lo show di Fulmine era una delle cose che mettevano d'accordo tutti i cuccioli.",
+  "rules_text": "È GIÀ INIZIATO? , 1 — Guarda la prima carta del tuo mazzo. Se è una carta personaggio Cucciolo, puoi rivelarla e aggiungerla alla tua mano. Altrimenti, mettila in fondo al tuo mazzo.",
+  "card_identifier": "178/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/178_3343e0b51c4d5327297234eb942ecfc105f0a114.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/178_a9c1c9489154b5645eb153dfd06c3015068693d3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/178_d77deeb22f6b3816c05b229b09f4e20363bfd3c0.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "La carica dei 101"
+  ]
+}

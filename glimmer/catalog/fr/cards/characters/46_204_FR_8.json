@@ -1,0 +1,46 @@
+{
+  "name": "Druun",
+  "subtitle": "Fléau vorace",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Alex Accorsi",
+  "deck_building_id": "2bb33b315b146bb97dcb0790b7c5819a986519d6",
+  "culture_invariant_id": 1710,
+  "sort_number": 1708,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Offensif"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Il a toujours existé. Il attendait dans l’ombre un moment de faiblesse pour attaquer.%—Sisu",
+  "rules_text": "Offensif +4 (Lorsqu'il défie, ce personnage gagne +4.)",
+  "card_identifier": "46/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/46_b5d170beae3f6e81a4cfb6c224916acab11d44ba.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/46_22cade4787a6e5b8c5afb341916b7ec360ae79b5.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/46_d5cd5d1c3cd0f239d572790fd91ad463c1c143c4.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Raya et le Dernier Dragon",
+    "Raya and the Last Dragon"
+  ]
+}

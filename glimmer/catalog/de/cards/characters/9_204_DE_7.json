@@ -25,18 +25,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=396abbf1f03044c7e297bcb6ef8d66c076de75297624e57ae9e86a81cca910be"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/9_8cada5edd7bad772f6bbd4dc68175f63fbd329ea.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=1ee7c2cf5110895fb785816043dcdf2b27e0bd3ad30748a7b8fe0de407d92d5a"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/9_59ded13729d43db389ddb176badd4354dc9299c8.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=194918aef0c863b037e68a8080c6bcda3833343ef4b15cfe97188e1752db54f5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/9_c283d42c00bc5fd1c21d8154e7b7984b2b98b67f.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Bolt"
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "name": "Le gardien du Trésor",
+  "subtitle": "Apparition protectrice",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Stefano Zanchi",
+  "deck_building_id": "65a7b79d2f66d824342ef5448373ac59b596d26f",
+  "culture_invariant_id": 1900,
+  "sort_number": 1900,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Illusion"
+  ],
+  "flavor_text": "Quel dommage, est-ce que les règles ont changé? C'est affreusement regrettable... pour vous.%—Jafar",
+  "rules_text": "SABLES MOUVANTS Les Illumineurs ne peuvent pas utiliser les capacités des champs de bataille.",
+  "card_identifier": "5/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/5_0d7f8b1f8eb01d1e289cfdab746063d7f61e9614.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/5_bd30259ee46528d3b458053e9533d41e7d71d73b.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

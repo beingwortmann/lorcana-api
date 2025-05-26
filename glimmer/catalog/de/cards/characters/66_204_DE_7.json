@@ -26,19 +26,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=f2bafd04b56ec0da7ab78b2cfcfe32b2a9a73ac5ea66f3222cd70ec7abe930bd"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/66_1d3720a781427795785262b02bd7e7aa2f5f4f0a.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=12ab99d6c4b7a2034fd0c2b6a8125c2b2a9f9a7b746c448b894e070df1cf3013"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/66_3b0328611fe174fd061fd4a743aa10c5a8733e24.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=445d98a90cb57822dc040454868a7823cc4d836a949df3ea41d49873a22ff7c5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/66_60b4833e87fcb8003462bda5a2d9b63b75fbdf72.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST",
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Dornröschen",
+    "Sleeping Beauty"
   ]
 }

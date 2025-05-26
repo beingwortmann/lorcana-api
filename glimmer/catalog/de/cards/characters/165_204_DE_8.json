@@ -1,0 +1,44 @@
+{
+  "name": "Nani",
+  "subtitle": "Diebisches Superhirn",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Alex Accorsi",
+  "deck_building_id": "2f18349b85491e5971a0a7786eb658f2610a58ae",
+  "culture_invariant_id": 1829,
+  "sort_number": 1827,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "HALTE DICH AN DEN PLAN – Ein anderer Charakter deiner Wahl erhält in diesem Zug Robust +2. (Reduziere jeglichen Schaden, der dem Charakter zugefügt wird, um 2.) ES LIEGT AN DIR, LILO Deine Lilo-Charaktere erhalten Unterstützen. (Jedes Mal, wenn die Charaktere erkunden, darfst du ihre in diesem Zug zur eines anderen Charakters deiner Wahl addieren.)",
+  "card_identifier": "165/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/165_b6143c7babd04b5b2cb5c359408ef18371f3fb06.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/165_93191c8146a57ff3bf9e1ba5a7e2a2299243c1eb.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/165_85d053eaa2d74765fd288e6cd899747de1fc20ee.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lilo and Stitch",
+    "Lilo und Stitch"
+  ]
+}

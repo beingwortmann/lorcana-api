@@ -16,19 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=7922a55a2001331185482a84c6dd74fe6913931a865d7e42eb289670f7ae9f6c"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/215_b2e4c428f1aab5f17aaf31028f9944bde929bbf3.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=bbb294ffe97a97fbe7161fdbf74236bef18732dde8b72316fd19fd72f729e889"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/215_a667ab2d218908ec81459dfc59ce11365a708504.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/828f720439cefaeb3acc7a7babce0a28abaa07a3.jpg?checksum=ddf564d8f9ed4cad328fc69c4b93abe96a1227a7359ceb89aa8486330b0d0404",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/215_2f12160154449f5ff497e7db4823aef9bd48caa8.jpg",
   "foil_type": "VerticalWave",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Hercules"
   ]
 }

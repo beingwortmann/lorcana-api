@@ -25,18 +25,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=2013f2ad7bc1cac0996cfaf4133f1abe56c10993029b549d681d999bb0d87461"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/9_ca22b8df0a821b5a574802af6cbf303beb770c97.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=28aa06baaf692ea9325a1370a7c0215ce4d6c62766333203b146eb51680205da"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/9_02492b50a26a90b2e0ab7e40fc6ffecb01f27533.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=04678c0a66a63fa5c3afa53070c02be1d6197a065a6b784b9e0ac2d2d0f276bd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/9_bba044c54e4158093f5385c91efcbaa0a15c5075.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph"
   ]
 }

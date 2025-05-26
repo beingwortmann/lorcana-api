@@ -23,19 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=c6273c53386313d3e161782eb98fb456167a41d841826f7f12b7faeaaadcb974"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/132_e9b7f016e71b96996de1500aec88c74653fedb00.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=953ea90bb52dc935d358234af7433753a83df275f983fff811d459961c39215f"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/132_d761d7ad1903aa687916e1fe0247c853a543776a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg?checksum=add5c2d13fce74524b59d8502537cf2f96614c0bfb75a436f39e53af693f3d42",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/132_31ec2e533b9321916d9d0a7c163f66712d5e7c0a.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY",
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Ducktales"
   ]
 }

@@ -27,19 +27,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=acd220c2dbc1b1ae009c0c83b821e0121a5e70f75ad0dcdff45ad60057bc0dee"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/208_da3ae283c1cc2088235395204270d2b85ee34fb1.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=07a5fe9be5d9730f41428d2e7ec2695f7566a61b938bdc8d4f973a1877cc4006"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/208_7bbe8bd9eed1780b0b1e02d4cdd4bfd460df54f2.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/baab34018148392463ef4c49b5a924409cf5f7b0.jpg?checksum=87b638e38e9377e3b8e54a902554047eb72b615efde48bf1426ab9f85411bd2a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/208_e0835998a70f657c97f14bce413e15f256db715e.jpg",
   "foil_type": "Lava",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Little Mermaid"
   ]
 }

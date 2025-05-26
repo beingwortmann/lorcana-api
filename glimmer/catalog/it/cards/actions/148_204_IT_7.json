@@ -16,18 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=1536682fd97be67c61113acd1c9512bd5c1f2b2e707f71236ea6a33ecdcfa0a3"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/148_dfda52c4e4ca116b935b0117eafaf1c24efc8356.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=9faf1a5d028d4c6f57b4b1b1b395d11e03c594e4a34e97e826b3fb0ba72c60db"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/148_4a549e7302dc068b47e9442eae9739dcf61c2734.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/536fb6934062440c464ca2eef82b0be8e6b36cc8.jpg?checksum=8751b219cd4a67c0e49373c2e4c45594ef14ffb4b8a1dbec5f7834a7355a8e28",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/148_ce4937647a76467e914dbfab88440de7a34b58fd.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Ralph Spaccatutto"
   ]
 }

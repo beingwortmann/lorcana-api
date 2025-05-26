@@ -1,0 +1,47 @@
+{
+  "name": "Ryder",
+  "subtitle": "Infiltratore dal Piede Lesto",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "92a8bffc338852c3c4d649bd891f34fb5462730e",
+  "culture_invariant_id": 1720,
+  "sort_number": 1718,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Cavolo, che problemi ha questo gran sultano? Non poteva mettere delle scale come una persona normale?",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "56/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/56_1871ee97ba1e325f24a1d87e60c819594e104d5b.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/56_bd46e240c205e4ec427fc7fb5b69aa6e0877018a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/56_ee47472a59eb5fdbfb3145e4735a4df54745e9de.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Frozen - Il regno di ghiaccio",
+    "Frozen"
+  ]
+}

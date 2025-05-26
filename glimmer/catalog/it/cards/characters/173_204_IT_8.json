@@ -1,0 +1,45 @@
+{
+  "name": "Jumba Jookiba",
+  "subtitle": "Scenziato Critico",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "aa046bb8f74eef728b325aef9bbcd61e8e6eedc4",
+  "culture_invariant_id": 1837,
+  "sort_number": 1835,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alieno",
+    "Inventore"
+  ],
+  "flavor_text": "Questa cosuccia è molto più rozza di quello che io potevo creare. Ma se tu avevi fretta in sviluppo, allora ha senso.",
+  "rules_text": "",
+  "card_identifier": "173/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/173_13a9dd3ae15c60cf7f812b532aad107ad514eab1.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/173_9beef30e3236f7d6f6eddb3f07adee1f38c477b0.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/173_7e81f4c00b27e2fccbd16d6aaccfd45dc87433b7.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lilo & Stitch",
+    "Lilo and Stitch"
+  ]
+}

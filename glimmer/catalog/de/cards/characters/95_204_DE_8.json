@@ -1,0 +1,44 @@
+{
+  "name": "Louis",
+  "subtitle": "Liebenswerter Alligator",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "3deba3fa35df22e54afa3d89cb4eb78070c41c2a",
+  "culture_invariant_id": 1759,
+  "sort_number": 1757,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "SENSIBLE SEELE Dieser Charakter kommt erschöpft ins Spiel. FREUNDLICHER, ALS ER AUSSIEHT Wenn du diesen Charakter ausspielst, erhält ein gegnerischer Charakter deiner Wahl in seinem nächsten Zug Impulsiv. (Der Charakter kann nicht erkunden und muss herausfordern, wenn möglich.)",
+  "card_identifier": "95/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/95_7435564c21f4a05a8602749b63100c800bef34fd.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/95_94dd9b69ca49de9dccc5bc10e6370bc7c00f7e3f.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/95_a8c089a2cd67047068319115c7d2caf8d945225a.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog",
+    "Küss den Frosch"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Pics de glace",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Priya Kakati",
+  "deck_building_id": "4848962185abb4d5b4c61baa3a86c31313853f72",
+  "culture_invariant_id": 1748,
+  "sort_number": 1746,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "NE BOUGEZ PLUS Lorsque vous jouez cet objet, choisissez un personnage adverse et épuisez-le. C'EST COINCÉ , 1 — Choisissez un objet adverse et épuisez-le. Il ne se redresse pas au début du prochain tour de son propriétaire.",
+  "card_identifier": "84/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/84_0637e6c3ee08b53b22ebad6dfbf09937da21f2ff.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/84_72fe295b1a440483c0fe56d0d311baf51089cf14.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/84_f36e7b290673d9ed9da70dd7998b02fe448c47f8.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "La Reine des Neiges",
+    "Frozen"
+  ]
+}

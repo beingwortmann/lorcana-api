@@ -31,18 +31,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=04e8d7307f1d548434ca22e812cca58ccfb259b625ab821b3ab1d3ae2cf030ea"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/1468x2048/49_597732b29aad1f13aa2fc848b35423ad5f88a4ce.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=7e2897c152f405875b68361668e611de66f36776dc03603e4e743a7a5a05a49d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set3/cards/367x512/49_e2d0245664dde6d4b362f347efa2c4bd79b04639.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/2e01e17467891f7c933dbaa00e1459d23db3fe4f.jpg?checksum=0736aa7b7b3782eccb044232d6d857cd7c89ece22a25e89d73ea1db3d801d146",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set3/masks/1468x2048/49_0043e8a6b25d062a63157be7d573c138367e9505.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Ducktales",
+    "La Bande à Picsou"
   ]
 }

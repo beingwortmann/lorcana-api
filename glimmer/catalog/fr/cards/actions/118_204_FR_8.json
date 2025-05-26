@@ -1,0 +1,37 @@
+{
+  "name": "Sur la planche !",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Alibeth Zermeno",
+  "deck_building_id": "3d359a0a02dc0bf5f086f4d17147df8470c977e0",
+  "culture_invariant_id": 1782,
+  "sort_number": 1780,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "C'est à ce moment précis que Jean décida que l'aventure avait assez duré.",
+  "rules_text": "Vos personnages Pirate gagnent \" — Choisissez un personnage avec un dommage ou plus et bannissez-le.\" pour le reste de ce tour.",
+  "card_identifier": "118/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/118_c50260b30d0db6935a553b14e66021bfae9028b2.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/118_3f5b04399df767855e9a8e94bee9b8c70f811c5b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/118_41484c9b09326fa9f5a4cde7eba3165ff8abede2.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Peter Pan"
+  ]
+}

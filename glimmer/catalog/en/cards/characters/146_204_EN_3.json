@@ -24,18 +24,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=d9bb9e49c44fbe3c094fd85506fb31d36b25f8908a15e5a0ae1daa177c997791"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/146_7eb166337b604d99c87645decc7be83093392807.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=c7fda723685f6372f20f26681148758c2289a2e7556a0db6eba429033360d5ee"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/146_626c974ece81dc333548365bffd6e2f8781a083c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=c8ae43d0c1a25470c0a0eb88e8116907efa4d6bb8c3bc2d0c79545ad8126cc21",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/146_81a85df1fbff889a584ecb46af4f78cb373c518e.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Talespin"
   ]
 }

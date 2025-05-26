@@ -2,7 +2,7 @@
   "name": "Königlicher Wutanfall",
   "rarity": "RARE",
   "ink_cost": 4,
-  "author": "Michela Cacciatore / Giulia Riva",
+  "author": "Michela Cacciatore / Giulia Priori",
   "deck_building_id": "211fa6f2c714f9c7c38c603759096a5a87b2f7c3",
   "culture_invariant_id": 1117,
   "sort_number": 1125,
@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=9895c203ab1e543e4bd25cb956ffe132cfb4d7ad2d89b47ae822cf4caa988316"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/1468x2048/161_75fa20029a17fbe69bbb36b7e1460793696be393.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=ce0cfcf353558b44aaf0abda4ada2d0feae818f1188f1d6e23e1aa8cb57b1e12"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set5/cards/367x512/161_6c59556904800e63df5cb97b5657a1f74c2e17fa.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=e86848936ae7e5818cf501022cb1b0a1f705ce86a759711d87dc4008f8eeb1a0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set5/masks/1468x2048/161_46886dd4bc629e835d2dd71a04339f847d1f7952.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
   ]
 }

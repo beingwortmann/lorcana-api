@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=610b707c43f8aa170cda1c98de1aee422198287b49bca574bb950790de357cda"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/1468x2048/158_9729e1575fff695d3d28c4f23dd6003711ad0ace.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=45d92133f338571b3982b87b26ee38b55fc88035e4f2222376611efe79d900e4"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set1/cards/367x512/158_1e40c7f5d78564d2f950f4a3edc7a805ebe97260.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set1/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=efc95fe7f36f8039f7dc2726edf9eefdbf454623c14d5ac0930038cf9503046f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set1/masks/1468x2048/158_3f7a6d34980fb86ba048d450978eb201a23b30aa.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lion King",
+    "Der König der Löwen"
   ]
 }

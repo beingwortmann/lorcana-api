@@ -1,0 +1,47 @@
+{
+  "name": "Rolly",
+  "subtitle": "Cucciolo Cicciottello",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "361d17f8907a7fc635693768011f4bff4f343ac9",
+  "culture_invariant_id": 1690,
+  "sort_number": 1688,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Aiutante"
+  ],
+  "subtypes": [
+    "Classico",
+    "Cucciolo"
+  ],
+  "flavor_text": "",
+  "rules_text": "Aiutante (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.) SCENATE ADORABILI Quando giochi questo personaggio, puoi aggiungere al tuo calamaio una carta personaggio dai tuoi scarti, a faccia in giù e impegnata.",
+  "card_identifier": "26/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/26_05a232e92c77dcda6e27d717418cdfeaef78dbaf.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/26_0d6c1e287ef51bdf733120e8497f0378a024a409.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/26_c95f12d9ddcdadbe1536b8f0bc123eba43b15472.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "La carica dei 101"
+  ]
+}

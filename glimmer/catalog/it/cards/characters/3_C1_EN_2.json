@@ -28,14 +28,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=a6c871a2312afd744afb7039e1889403e94fed425d9db128495d29cc3523327d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/3_7cfc69a3eefd2016514e90f05c0f64fd17b549fb.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=795c39ef3062ecb27e60e5acd0a6e9177c53bab2cc73f8d9e94f3de5b5e8c628"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/3_6100d3eee2d07d7ff86b7b3f1de10424acf73e36.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/77de68daecd823babbb58edb1c8e14d7106e83bb.jpg?checksum=5c797cc4a48c6d763176038e80f0fa73014129b3e48f9b9cc2b70c2c65b58796",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/3_53be80a90ef162a320400c27df8838786226e8ee.jpg",
   "special_rarity_id": 4,
   "foil_type": "Tempest",
   "card_sets": [
@@ -43,5 +43,9 @@
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Cenerentola",
+    "Cinderella"
   ]
 }

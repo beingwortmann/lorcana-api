@@ -1,0 +1,41 @@
+{
+  "name": "Gargantuan Cobra",
+  "subtitle": "Slithering Statue",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Diego Machuca",
+  "deck_building_id": "513a10ee9fdb722093e88d7b3e36b8478d1bc612",
+  "culture_invariant_id": 1908,
+  "sort_number": 1908,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Colossus"
+  ],
+  "flavor_text": "Behold the wonders of true power! Even the stone is mine to command!%—Jafar",
+  "rules_text": "SERPENT’S SHADOW When Jafar plays this character, he deals 3 damage to each opposing exerted character.",
+  "card_identifier": "13/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/13_5b097e785c1634e153d7db1c82fe7f36ff68caee.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/13_1168435d2bf316a60201f2272d6ba5e97a1e939f.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Lorcana"
+  ]
+}

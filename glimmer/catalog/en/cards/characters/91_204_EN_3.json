@@ -24,23 +24,26 @@
     "Sorcerer"
   ],
   "flavor_text": "I don't want much—just the most powerful lore!",
-  "rules_text": "WHAT A DEAL Whenever this character sings a song, you may play that song again from your discard for free, then put it on the bottom of your deck.",
+  "rules_text": "WHAT A DEAL Whenever this character sings a song, you may play that song again from your discard for free. If you do, put that card on the bottom of your deck instead of into your discard.",
   "card_identifier": "91/204 EN 3",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=4cc40bc3f03a7fbe7cff6ed5eb4a4f87d9d3d00cd6c823d14650bd6ca475b285"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/91_18ac0619af9350bae55674a7f27cc5f9e912ec75.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=37f2ad77832faef0fa9b9ee86ef6b4784b6b381272f589a54b765d5e9fcbaa5e"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/91_28ea07becfe881bf4cc2d3e157667112fb8cd94e.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=a0b1cfc28b4d2541feb3608640875cb37984ff7ca4ad8c23598cbaa114aec4a0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/91_0cf188a82f27931df7108fdf48311f2df4b1b8d8.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Little Mermaid"
   ]
 }

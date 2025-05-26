@@ -2,7 +2,7 @@
   "name": "Royal Tantrum",
   "rarity": "RARE",
   "ink_cost": 4,
-  "author": "Michela Cacciatore / Giulia Riva",
+  "author": "Michela Cacciatore / Giulia Priori",
   "deck_building_id": "211fa6f2c714f9c7c38c603759096a5a87b2f7c3",
   "culture_invariant_id": 1117,
   "sort_number": 1125,
@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=2660e3dc18030b539782d06b43b0a9ef5419ade6a7a0c646921d4b10cb91d11f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/1468x2048/161_b889f54721eba02e59e5c41f4061dc3a9929141c.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=cad28c0ce15337ecf174d0b960ba65aab63ce0916adc4929c52962a4dc548ee0"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set5/cards/367x512/161_130a9d6f3825b01b2d2bb00c8873f31924f21108.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/0159a99ed28b0581890608d24ada9decc4874197.jpg?checksum=e86848936ae7e5818cf501022cb1b0a1f705ce86a759711d87dc4008f8eeb1a0",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set5/masks/1468x2048/161_46886dd4bc629e835d2dd71a04339f847d1f7952.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
   ]
 }

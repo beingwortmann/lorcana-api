@@ -1,0 +1,44 @@
+{
+  "name": "Darling",
+  "subtitle": "Geliebte Ehefrau",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Jake Murphy",
+  "deck_building_id": "c79b2be577f57d10e268462d5266900613098ea1",
+  "culture_invariant_id": 1680,
+  "sort_number": 1678,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Ich könnte mir gar nicht vorstellen, dass jemand ihren Platz in unseren Herzen einnehmen könnte.",
+  "rules_text": "WIE SÜSS Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl in diesem Zug +2.",
+  "card_identifier": "16/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/16_aa7452252ef172b9646e5b0ab56e1f7165b661f1.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/16_0bca51750e7a8fe2b4920f63d459d61189c3bbaf.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/16_c2159a2e34428b2db272858ed59af03c2a18a88c.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Susi und Strolch",
+    "Lady and the Tramp"
+  ]
+}

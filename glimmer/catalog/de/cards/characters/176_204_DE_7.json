@@ -24,19 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=9f600fad333235cb55d25a7dd18e32a4f895d89f16d29b395a28cd36ef5a9d18"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/176_901b108eb06db5d3c3d1502cff7408bc1db85f2b.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=838925140afa3afc69441511557dedc7b81094ee2005f72b81a524dc2efce7cf"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/176_976a69af7d2fce9f452e5570889e135ad96a97ea.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/5c8f5ac0b7ad23c110793ad1fcf4d3c8d41344d5.jpg?checksum=08793dad0b3cdee5f6a3eb809d99da58314e17ce53a7c0800b34942b9a70364d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/176_ecf8f11ff4a32b88bcf6e1c75cb2d5df5b04c322.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "SAPPHIRE",
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
   ]
 }

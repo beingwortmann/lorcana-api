@@ -1,0 +1,48 @@
+{
+  "name": "The Sultan",
+  "subtitle": "Royal Apparition",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Max Ulichney",
+  "deck_building_id": "55f69fe83954df53e85b4424654b817eb81e9f0b",
+  "culture_invariant_id": 1737,
+  "sort_number": 1736,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Vanish"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "King",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Vanish (When an opponent chooses this character for an action, banish them.) COMMANDING PRESENCE Whenever one of your Illusion characters quests, exert chosen opposing character.",
+  "card_identifier": "73/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/73_83b3589488f2a62af73e94fb219fdff0ef73a1f6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/73_306f9a361678060b09aa98f4d1ffbff57286a2ac.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/73_39d8ca4e405da14d507db1c5e82445654052770e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

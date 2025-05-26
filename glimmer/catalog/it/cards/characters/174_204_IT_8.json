@@ -1,0 +1,44 @@
+{
+  "name": "Geppetto",
+  "subtitle": "Abile Artigiano",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Malia Ewart",
+  "deck_building_id": "a73496316fa073149d81e6831fb59c5170aa9689",
+  "culture_invariant_id": 1838,
+  "sort_number": 1836,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Inventore"
+  ],
+  "flavor_text": "Tutto ciò che intaglia è un'opera d'arte.",
+  "rules_text": "IN CERCA DI ISPIRAZIONE Ogni volta che questo personaggio va all'avventura, puoi scegliere e scartare un qualsiasi numero di carte oggetto per ottenere 1 leggenda per ogni carta oggetto scartata in questo modo.",
+  "card_identifier": "174/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/174_815dbfa239ac9d3b6ab5722e6ec7a35b41b0067f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/174_1a3614ddf94dc3a70cd4748b5b3b809145d52ace.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/174_4f759f7557ec125b9de63e106de46a80317e07c9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

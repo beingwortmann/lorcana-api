@@ -1,0 +1,44 @@
+{
+  "name": "Chaca",
+  "subtitle": "Junior Chipmunk",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "5113f29625a5b98f1bd2d747f5ea18e0086cabe0",
+  "culture_invariant_id": 1752,
+  "sort_number": 1750,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "UNTER GLEICHGESINNTEN Wenn du diesen Charakter ausspielst und einen Tipo-Charakter im Spiel hast, erhält ein gegnerischer Charakter deiner Wahl in seinem nächsten Zug Impulsiv. (Der Charakter kann nicht erkunden und muss herausfordern, wenn möglich.)",
+  "card_identifier": "88/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/88_5809eda27c349770eabea6a1b6ad4eb64e35369f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/88_64c10beccf00a77bfaea1358b499570a2bd36edb.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/88_d714940ec86bfb19780d534a7e558c84786bdda6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Ein Königreich für ein Lama"
+  ]
+}

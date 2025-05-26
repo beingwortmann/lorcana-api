@@ -1,73 +1,89 @@
 {
   "application_shared_properties": {
-    "current_app_version": "2025.1.1",
-    "minimum_app_version": "2025.1"
+    "current_app_version": "2025.2",
+    "minimum_app_version": "2025.1.1"
   },
   "card_sets": [
     {
       "name": "Premier Chapitre",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set1/thumbnails/7b1a1f568de5433ff2b6674432a3180829215045.png?checksum=2472769a-e068-4b16-88d1-3740312ef557",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set1/thumbnails/e48cb04997b7d6c7ccc681e020271747775c6df56be5f46ac6bfd481a31452f5.png",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "L'Ascension des Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set2/thumbnails/fbe266af1a375f543b22b85a05de2bfdd2c64375.png?checksum=aef843c5-b8c8-42e3-a85e-f61479e81d2b",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set2/thumbnails/28b832b6400732a23e357ea2b01c978fefd8b87e2b793f5d82e23831bf37f6e2.png",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Les Terres d'Encres",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set3/thumbnails/71ce97e1e37d7aa0f45a311c4ca8cdee97140fa7.png?checksum=b6c3fb5a-64d7-4c6d-a6af-094608e5c590",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set3/thumbnails/dc39c0a6c01bbb155031e73ceb0f93bc8ba629729f68ce4ae31498b07cf105ac.png",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Le retour d’Ursula",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set4/thumbnails/c616fc79e561c8fc76b4eceb27b5202fd616030f.png?checksum=0cd62869-f545-44e1-8912-5643d293ef38",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set4/thumbnails/5717a94f2215056efa3c29641554da987b98e879ad9f80d77565ffeb2e7206af.png",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Ciel Scintillant",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set5/thumbnails/6d51cccf85aeca3702ad3432c77549678c5761d4.png?checksum=dbe80ac8-e377-4f0e-9e11-d7f63f8a6208",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set5/thumbnails/71ad2d012acab58cf717989094e6919ada5cdb347529c5f256b62d1658ea70a5.png",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "La Mer Azurite",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set6/thumbnails/c859a4389f8d39421211d9631f1c54a15a53a2b7.png?checksum=b04d55a4-e643-4a40-ae52-2c6445361fa8",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set6/thumbnails/12ecf697685e933c1caf7a830360982a2db605ad582c13b21ddb126293d5e84d.png",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "L’ile d' Archazia",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set7/thumbnails/fa54f25c2f323bf9d13392575717ec59d7d51f28.png?checksum=4c8fb334-54a4-4bfb-bd64-0c35838c41b5",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set7/thumbnails/2bbbb4f8793b864398733951f9e597df5afb9e43334eca53598f3ba8600dbc38.png",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
-      "name": "Quête des Illumineurs - Menace des profondeurs",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/quest1/thumbnails/7b1a1f568de5433ff2b6674432a3180829215045.png?checksum=5c747348-30e0-4f38-967c-5aac3bab70bd",
+      "name": "Le Règne de Jafar",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/set8/thumbnails/430de5b990c3415ae0d138d41c33eec2f64d57e6befe2364ddf4ca246815cf82.png",
       "id": 8,
+      "sort_number": 10,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Menace des profondeurs – Quête des Illumineurs",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/quest1/thumbnails/208c6dde446d436417afbfa8a9f53c12539c040932ae1a0030631ba47b6f6606.png",
+      "id": 9,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
+      "name": "Vol au Palais – Quête des Illumineurs",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/quest2/thumbnails/f1b6a5dfb5510f8fa4a89977e46715a2af94bfaeca5abcd4b444eb9804781fc4.png",
+      "id": 10,
+      "sort_number": 11,
+      "type": "QUEST"
+    },
+    {
       "name": "Prélude",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/gateway1/thumbnails/7b1a1f568de5433ff2b6674432a3180829215045.png?checksum=82bb7eb5-1dbd-4283-9c4d-90fdc87f4e9c",
-      "id": 9,
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/fr/gateway1/thumbnails/913d7cf8122ca8608d813a9bdc9bbdd433b225832b89dc4d39cc39345ca3c3ee.png",
+      "id": 11,
       "sort_number": 7,
       "type": "QUEST"
     }
   ],
+  "hero_graphic_phone_image_url": "",
+  "hero_graphic_tablet_image_url": "",
   "special_rarities": [
     {
       "name": "Promo",
@@ -85,7 +101,7 @@
       "id": 3
     },
     {
-      "name": "Challenge",
+      "name": "Play",
       "type": "CHALLENGE",
       "id": 4
     },
@@ -97,116 +113,53 @@
   ],
   "news": [
     {
-      "title": "Mise à jour",
-      "subtitle": "En apprendre plus",
+      "title": "Note",
+      "subtitle": "des développeurs",
       "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/02_/2025-2-app-update",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/be461a0cd1fda052a69c3fd94f8cf5f6f86afa34.jpg?checksum=37a6a1e9c36c285b8c1d532cf7a4268bb37f53fc15ade59e759ff5b223e971ad"
+      "target_object": "https://www.disneylorcana.com/fr-FR/news/2025/05/2025-5_game-dev-digest",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/524e05dc77239f3a15dab766aaa59a9e432efde7.jpg"
     },
     {
       "title": "Anna Stosik",
       "subtitle": "Cartes Enchantées",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/fr-FR/news_/2025_/02_/2025-2-19_card-interview",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg?checksum=86374aee7430313063d056f404bed7cd924a9b5a11f3024a754d72c2d18ab04a"
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/8e63fd3e77796b102589b1ba1e4441c7982e4132.jpg"
     },
     {
       "title": "L’Île d’Archazia",
       "subtitle": "En apprendre plus",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/fr-FR/",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg?checksum=6a0a6946221849385d73091d50de3797078cf37ad010ae714d213d2c53ea85b6"
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/4cd66dfabbd964f8c6c4414b07cdb45dae692e19.jpg"
     },
     {
       "title": "Nouvelles Histoires",
       "subtitle": "Lire les histoires",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/fr-FR/story/azurite",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
-    },
-    {
-      "title": "Nouveau Set…",
-      "subtitle": "La Mer Azurite",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/product/azurite-sea",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/b888b29826bb53dc531437e723738383d8339b56.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
-    },
-    {
-      "title": "Nouvelles histoires",
-      "subtitle": "Lire maintenant",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/story/shimmering",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/d54ad009d179ae346683cfc3603979bc99339ef7.jpg?checksum=cb3828b24560a480749d279d1de6c411701dc851a6fec1a1cae82034cd99861d"
-    },
-    {
-      "title": "Nouvelles histoires",
-      "subtitle": "Lire maintenant",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/story/ursula",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/c097638f92de80ba8d6c696b26e6e601a5f61eb7.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
-    },
-    {
-      "title": "Mise à jour",
-      "subtitle": "En apprendre plus",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/set5-cards-revealed",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/59129aacfb6cebbe2c52f30ef3424209f7252e82.jpg?checksum=7aa5630e1e28daee4880d2619d7c9552fdb46771b27e606d2ada4255b2d8f210"
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/e62d7f1eb43d87c202d2f164ba61297e71be80f4.jpg"
     },
     {
       "title": "APERÇU D'ARTISTE",
       "subtitle": "Nicholas Ky",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/fr-FR/news_/artist_spotlight_s5_nicolas-ky",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
-    },
-    {
-      "title": "MISE À JOUR ERRATA",
-      "subtitle": "Ciel Scintillant",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/july2024-errata",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/9109c85a45b703f87f1413a405549a2cea9ab556.jpg?checksum=cb3828b24560a480749d279d1de6c411701dc851a6fec1a1cae82034cd99861d"
-    },
-    {
-      "title": "Nouveau set",
-      "subtitle": "Retour d’Ursula",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/product/ursulas-return",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/fb644351560d8296fe6da332236b1f8d61b2828a.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
-    },
-    {
-      "title": "Révélation",
-      "subtitle": "Terres d’Encres",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/s3-announcement-1",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/b6692ea5df920cad691c20319a6fffd7a4a766b8.jpg?checksum=53c05ca9abf48ca3415ff8d42ec2c64cd9c3919d8a233b11a01011d24c3cdb07"
-    },
-    {
-      "title": "Floodborn",
-      "subtitle": "Lancement",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/fr-FR/news_/s2mass_release",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/7719a1c782a1ba91c031a682a0a2f8658209adbf.jpg?checksum=57b1e09e91ee7a7d6d7df0a18b4caa90db15f3a61ba5d712b361e982252beafe"
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg"
     },
     {
       "title": "ENCHANTÉES",
       "subtitle": "Nouvelle rareté",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/fr-FR/news_/enchanted-reveal",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg?checksum=8c62b293a57ac82714328b21be5af6a4b8f627106bdda6ec2d4a57f5b0851faf"
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/9e6a55b6b4563e652a23be9d623ca5055c356940.jpg"
     },
     {
       "title": "TEASER",
       "subtitle": "Il commence",
       "target_type": "WebPage",
       "target_object": "https://youtu.be/z99p62zgyWE",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/f1abd670358e036c31296e66b3b66c382ac00812.jpg?checksum=4e1dc1736798746c6128f98bbb7654fcd90a2b4ea44f8a455a37a7f587ab8ea1"
-    },
-    {
-      "title": "Inscris-toi",
-      "subtitle": "Événements ",
-      "target_type": "WebPage",
-      "target_object": "https://melee.gg/Lorcana",
-      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/902ba3cda1883801594b6e1b452790cc53948fda.jpg?checksum=5331b81a9df3f6046b50b686d7b7aec4f10b514fea1c9bf0d47b555a96eaa8bd"
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/f1abd670358e036c31296e66b3b66c382ac00812.jpg"
     }
   ],
   "search_filters": {
@@ -220,7 +173,11 @@
         ]
       }
     ],
-    "location_subtypes": [],
+    "location_subtypes": [
+      {
+        "term_in_search_filter": "Obstacle"
+      }
+    ],
     "character_subtypes": [
       {
         "term_in_search_filter": "Storyborn"
@@ -267,6 +224,13 @@
         "terms_on_card": [
           "Chiot",
           "Puppy"
+        ]
+      },
+      {
+        "term_in_search_filter": "Colosse",
+        "terms_on_card": [
+          "Colosse",
+          "Colossus"
         ]
       },
       {
@@ -495,8 +459,21 @@
         ]
       }
     ],
-    "location_abilities": []
-  },
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c"
+    "location_abilities": [
+      {
+        "term_in_search_filter": "Hors d'atteinte",
+        "terms_on_card": [
+          "Hors d'atteinte",
+          "Ward"
+        ]
+      },
+      {
+        "term_in_search_filter": "Résistance",
+        "terms_on_card": [
+          "Résistance",
+          "Resist"
+        ]
+      }
+    ]
+  }
 }

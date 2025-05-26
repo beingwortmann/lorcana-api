@@ -1,0 +1,46 @@
+{
+  "name": "Madre Gothel",
+  "subtitle": "Che Sa Cosa È Meglio",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Joel DuQue",
+  "deck_building_id": "dec10104b65a50c0342904a30cb954c857f8035e",
+  "culture_invariant_id": 1734,
+  "sort_number": 1732,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "GUARDA COS'HAI FATTO Quando giochi questo personaggio, puoi infliggere 2 danni a un tuo altro personaggio a tua scelta per dare a quel personaggio Sfidante +1 e \"Quando questo personaggio viene esiliato in una sfida, riprendi in mano questa carta” per questo turno. (Riceve +1 mentre sta sfidando.)",
+  "card_identifier": "70/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/70_e60e29c8fbf1b689232808f34a239eb0afe8e05a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/70_75b2b8f99cbf18f55d7c023c2ec9cf37a497f4d6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/70_32bfd87f91fdd6c0d795c88a058a3bdd2319bf33.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Rapunzel - L'intreccio della torre"
+  ]
+}

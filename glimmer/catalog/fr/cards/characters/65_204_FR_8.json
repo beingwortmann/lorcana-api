@@ -1,0 +1,45 @@
+{
+  "name": "Néron",
+  "subtitle": "Redoutable crocodile",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Teresita Q. / SCG",
+  "deck_building_id": "286d7ab0e04b6c6591e24e7e4aefd5e0fd472e86",
+  "culture_invariant_id": 1729,
+  "sort_number": 1727,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Il est identique à Brutus en termes de tempérament et de dentition.",
+  "rules_text": "ET MESQUIN — Déplacez 1 dommage de ce personnage-ci sur un personnage adverse de votre choix.",
+  "card_identifier": "65/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/65_b6cfd34ff20e86926c06eef8df166f4b5f7e2935.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/65_2b33d00823dfcb4871312394586f5c0617a97a96.jpg"
+    }
+  ],
+  "foil_detail_url": "https://api.lorcana.ravensburger.com/images/fr/set8/foil-detail/1468x2048/65_267da77608af8281ff70bbed63f51895a6840981.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/65_4dfeaeb114f01b5ebb45fda90fc88497eda62918.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Les Aventures de Bernard et Bianca",
+    "Rescuers"
+  ]
+}

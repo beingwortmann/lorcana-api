@@ -1,0 +1,35 @@
+{
+  "name": "Séisme arcanique",
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "46e5e916f27135819de17ac3aed108aff3b64569",
+  "culture_invariant_id": 1917,
+  "sort_number": 1917,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Votre plan est en train de s'effondrer. Tentez donc de ne pas lâcher prise !%—Jafar",
+  "rules_text": "Jafar épuise tous les personnages adverses. Ils ne se redressent pas au début de leur prochain tour.",
+  "card_identifier": "22/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/22_c63e43a82a15bf1671be9b5628085e5c5f987e3a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/22_7aef112f839848c78709e6e3229900eebd73a23d.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

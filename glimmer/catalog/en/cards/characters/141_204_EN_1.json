@@ -25,19 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=2625bee0c8c1a4d2bbe18cd9256dd4ddd4307ff7d7dbe57b437e595b21c767d5"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/141_37051de1a6cd8f6635f97c2162c7eb12349352b7.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=cb408acc3ac2f9d35841cdcef7b872f92b02c24cae9bdbc41d2745a754969766"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/141_01f907eb0b4905c47e9d6a4dd796c9241c4e2bba.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=d1afd07d7c0be738e9e5593b34117120095d3382a7cda064b9ec9960b60a57db",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/141_2abd6cba25494efc83361c7bbd137d211831b9df.jpg",
   "card_sets": [
     1,
-    9
+    11
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Beauty and the Beast"
   ]
 }

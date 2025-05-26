@@ -1,0 +1,48 @@
+{
+  "name": "Vanellope von Schweetz",
+  "subtitle": "Velocista Grintosa",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "French Carlomagno",
+  "deck_building_id": "f688dbd85d7d9d0deb20a991bf4299135b286ae0",
+  "culture_invariant_id": 1788,
+  "sort_number": 1786,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa",
+    "Pilota"
+  ],
+  "flavor_text": "Posso affrontare ogni tuo trucchetto... Aspetta, quelli sono <serpenti laser>? Questa è la pista più bella del mondo!",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)",
+  "card_identifier": "124/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/124_0c24f611e2bb1c966bd622e2fe25f552d77a963d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/124_c6c485c9ba2e374b5982fe441e1feb269efba3db.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/124_b4539e178d1ef9e5b437d39c665c4e04c11eb65c.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Ralph Spaccatutto"
+  ]
+}

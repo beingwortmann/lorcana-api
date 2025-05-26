@@ -1,0 +1,47 @@
+{
+  "name": "Raya",
+  "subtitle": "Experte en infiltration",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Dustin Panzino",
+  "deck_building_id": "838c6c1f78294dbbac1010c0b8d58757bc6192b6",
+  "culture_invariant_id": 1764,
+  "sort_number": 1762,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "TACTIQUE PEU CONVENTIONNELLE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez payer 2 pour choisir un autre personnage et le redresser.",
+  "card_identifier": "100/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/100_d86d7221f9dd8eaeb69e79011391cd0ddca42c16.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/100_fbacd366842ad9b40baba066c18e7b6702da053e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/100_a0229c035ebd36e2d3587174cf2584f2223eef11.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/gloss/1468x2048/100_b436585ea78b6862efd6403e630ca85a8edf5fe9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Raya et le Dernier Dragon",
+    "Raya and the Last Dragon"
+  ]
+}

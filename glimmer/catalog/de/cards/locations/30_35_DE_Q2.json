@@ -1,0 +1,43 @@
+{
+  "name": "Königliche Waffenkammer",
+  "subtitle": "Stark bewacht",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Veronica Di Lorenzo",
+  "deck_building_id": "e4e96ce2469b9e97d0b438d3932369829cbc38a4",
+  "culture_invariant_id": 1925,
+  "sort_number": 1925,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Robust"
+  ],
+  "subtypes": [
+    "Hindernis"
+  ],
+  "flavor_text": "",
+  "rules_text": "Robust +1 (Reduziere jeglichen Schaden, der diesem Ort zugefügt wird, um 1.)",
+  "card_identifier": "30/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/30_d7d1b868b6e77ea9b8ecc8c4c1f987746272d36f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/30_7761c53ba8a04ea09d45b1ccc468cb95415566f2.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

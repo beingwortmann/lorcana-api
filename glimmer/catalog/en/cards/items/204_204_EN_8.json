@@ -1,0 +1,36 @@
+{
+  "name": "Hamster Ball",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Alex Accorsi",
+  "deck_building_id": "e6ae8927db279459b45121c140306a0e025a5c26",
+  "culture_invariant_id": 1868,
+  "sort_number": 1867,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "ROLL WITH THE PUNCHES , 1 — Chosen character with no damage gains Resist +2 until the start of your next turn. (Damage dealt to them is reduced by 2.)",
+  "card_identifier": "204/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/204_958b1104387b7f9c0c548865fca2dd43e3d840d6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/204_64e3d34193d1806be5f3fb3821e370292f19c88c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/204_6c854c9777bdd3c156c5e343a7cb4419e500ca9e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Bolt"
+  ]
+}

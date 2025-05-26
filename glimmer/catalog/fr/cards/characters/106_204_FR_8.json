@@ -1,0 +1,45 @@
+{
+  "name": "Hiro Hamada",
+  "subtitle": "Penseur intuitif",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Kendall Hale",
+  "deck_building_id": "b2bfe44966d9b017ebefa67ca35d9d63b6f31262",
+  "culture_invariant_id": 1770,
+  "sort_number": 1768,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "",
+  "rules_text": "VOYEZ LES CHOSES SOUS UN AUTRE ANGLE — Choisissez un personnage Floodborn et redressez-le.",
+  "card_identifier": "106/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/106_c6b6be16eb1925f6036ec4e7c97bdd2a15f9225c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/106_833c9ec4a7dd8f0c02726d76d5d9aac22517cd2e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/106_3c4ee5df54dc83ebbf9bc85c3ed1ee97e384d5f9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Lady",
+  "subtitle": "Chienne décidée",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Therese Vildefall",
+  "deck_building_id": "106ec8559ac405ebee11dd588931147b5cc81ebd",
+  "culture_invariant_id": 1697,
+  "sort_number": 1695,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "SA MEUTE À ELLE Chaque fois que vous jouez un personnage, ce personnage-ci gagne +1 pour le reste de ce tour. PRENDRE L'INITIATIVE Tant que ce personnage a 3 ou plus, il gagne +2.",
+  "card_identifier": "33/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/33_2f06db30a19a2af37027036e267988dde2524337.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/33_686bf10ae9c1bfc05cd3f3da0042a8c0fc00d4fc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/33_7167a43bcc09a9a0644aa87f9254a9108d21bdf5.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp",
+    "La Belle et le Clochard"
+  ]
+}

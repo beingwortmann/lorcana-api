@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=6a78c665fab30a62e8559d4b0f95011b619fa252a052e2f9c7f382c0361ebdc7"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/1468x2048/146_2ab1c6050a6ac6c5955943b5eb4334d6149b1540.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=47e94329fcb34b995c33a5b8b5c34ed5cd09965c59e356982914586c33065482"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set3/cards/367x512/146_d98a0c0a66ce014b82dac588b7c3f53ff32ed05c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/3fcfb99ec010d4a8ba364f43169465d91ca39ada.jpg?checksum=c8ae43d0c1a25470c0a0eb88e8116907efa4d6bb8c3bc2d0c79545ad8126cc21",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set3/masks/1468x2048/146_81a85df1fbff889a584ecb46af4f78cb373c518e.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Käpt'n Balu und seine tollkühne Crew",
+    "Talespin"
   ]
 }

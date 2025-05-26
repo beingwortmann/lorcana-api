@@ -1,0 +1,41 @@
+{
+  "name": "Dans un autre monde",
+  "rarity": "SUPER",
+  "ink_cost": 3,
+  "author": "Maria Dresden",
+  "deck_building_id": "b506d722beed28386dc44ada619ef650102342b8",
+  "culture_invariant_id": 1745,
+  "sort_number": 1743,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Chanson"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Vous pouvez un personnage coûtant 3 ou plus pour chanter cette chanson gratuitement.) Choisissez un personnage épuisé et placez-le dans la réserve d'encre de son propriétaire, face cachée et épuisé.",
+  "card_identifier": "81/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/81_65f81085f8e7ea90f232f02509eb06fb7b5066a0.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/81_4da0d0a866143856d84ec648b3c08c56f26e4395.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/81_de7de1f90bd7c4bbe6ce232125f06e95e3619c86.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "La Reine des Neiges",
+    "Frozen"
+  ]
+}

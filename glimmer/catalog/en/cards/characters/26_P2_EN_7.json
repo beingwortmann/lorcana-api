@@ -9,7 +9,7 @@
   "author": "Anna Stosik",
   "deck_building_id": "moana-vaiana",
   "culture_invariant_id": 1663,
-  "sort_number": 1655,
+  "sort_number": 1657,
   "additional_info": [],
   "ink_convertible": true,
   "abilities": [],
@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=53cee1a6b314a84ec56a07c8caf256335c129682411f2a1e82da348413ec1e3c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/26vaiana_3986b15cc2a2ce5e29a2fb937acbf3c8db9a0321.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=0b0aa9ebf38fdeb356e5dab72c9790f3a276da1333bfb832fb851b48715ff189"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/26vaiana_3b810693bd58b5f343586238d5030921207632c5.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/0db39597ca131de9663874da14c13eae776c53ab.jpg?checksum=a55b2f5b38ea933eba64794b1e1c889cb199be84555aa8ef2a40f47cc9b35b99",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/26vaiana_79ba88188d1bcb03c0b8fdee16eb78c7ec46167b.jpg",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [
@@ -41,6 +41,7 @@
     "SAPPHIRE"
   ],
   "searchable_keywords": [
-    "Moana"
+    "Moana",
+    "Vaiana"
   ]
 }

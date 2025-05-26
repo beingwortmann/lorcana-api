@@ -1,0 +1,49 @@
+{
+  "name": "Go Go Tomago",
+  "subtitle": "Messerscharf",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Beno Meli",
+  "deck_building_id": "cdc3c66cf9a3541d7db1be9979f16c88c14c6113",
+  "culture_invariant_id": 1771,
+  "sort_number": 1769,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel",
+    "Wendig"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Erfinder"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Go-Go-Tomago-Charaktere auszuspielen.) Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) NULL WIDERSTAND Wenn du diesen Charakter mithilfe von Gestaltwandel ausspielst, darfst du einen Charakter deiner Wahl verdeckt und erschöpft in den zugehörigen Tintenvorrat legen.",
+  "card_identifier": "107/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/107_196b9da677dd4d8c840bee040040914ca2b28078.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/107_2ba4a8d0b1c5db82f89e428c1c886508caef5893.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/107_7f1df0c089bf7dd72c74f3a77586f6ce6c556436.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6",
+    "Baymax - Riesiges Robowabohu"
+  ]
+}

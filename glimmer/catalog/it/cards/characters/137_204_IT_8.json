@@ -1,0 +1,46 @@
+{
+  "name": "Lilo",
+  "subtitle": "Che Scatena un Putiferio",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Julien Vandois",
+  "deck_building_id": "ecb4f04c3bd04d5b7ad76abd0228dedf39ef4610",
+  "culture_invariant_id": 1801,
+  "sort_number": 1799,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "È TEMPO DI CALPESTARE! Durante il tuo turno, se hai giocato 3 o più azioni in questo turno, puoi giocare questo personaggio gratis. ROOOAR! Quando giochi questo personaggio, prepara un personaggio a tua scelta. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "137/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/137_99d95ac2beae4509b7d0ca28174866dc9cd35988.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/137_4aee07e9c173894a69073c8fdeb3010ed3448eac.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/137_a4f64daea0d9184fbf9005e371e1bf080ab3d85c.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/gloss/1468x2048/137_511311c061c9c62d1e692fa5ca08964a4eb3f11f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Lilo & Stitch",
+    "Lilo and Stitch"
+  ]
+}

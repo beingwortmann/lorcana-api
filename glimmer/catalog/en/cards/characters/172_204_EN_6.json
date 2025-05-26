@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=7aa5c3f495c21626f59eedab6da06ebea8a2e77bef3669f57edbdb2f4592477a"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/172_e9d7159f91ef6bb9db8f667e8080d733785f0226.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a63ce8a18fea10e32ddc7b9c9848fb088d3bb9037183a531702a72859e5d93e3"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/172_d22fb35a1636ecdf206c75bfeb14e9c28802ce2d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/c1aa04bf421e5b38c3d18933e9994d3f289def65.jpg?checksum=a42d3e9c7bb0ca233f25e8fdfa1345f8f4696a081790c676d7712eba1fe05fe3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/172_c3863037a05017c68c9f5e57df100c2921d7be82.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Moana",
+    "Vaiana"
   ]
 }

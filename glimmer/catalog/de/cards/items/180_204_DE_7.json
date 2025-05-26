@@ -10,24 +10,28 @@
   "ink_convertible": true,
   "abilities": [],
   "subtypes": [],
-  "flavor_text": "Akku auf 100 %. Bereit für den Einsatz!–Hiro",
+  "flavor_text": "Akku auf 100 %. Bereit für den Einsatz!—Hiro Hamada",
   "rules_text": "ENERGIEWANDLER Jedes Mal, wenn du mithilfe von Gestaltwandel eine Flutgestalt ausspielst, darfst du 1 Karte ziehen.",
   "card_identifier": "180/204 DE 7",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=8a5d9f979e05befbcd32ef4cb56c47540a6351fc4e9bb256816ddfc47cf35af7"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/180_a4c75dd690b37e4f3f1bc9ff18f96a8d893a54ca.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=99013b1e68a74c6ae1f1c01f0815dfd5656be715f8b843a97f06ef6609e7676a"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/180_8cb1278607ad763852da0069e728e206ee7e8611.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b.jpg?checksum=2b8f6e023cebf3ab302aa5a967c7ac729dd61b2d6ccb668c6a3a51263479b78b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/180_8741ecd57e615e7e592d85f64522e9ef0b6d15fa.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6",
+    "Baymax - Riesiges Robowabohu"
   ]
 }

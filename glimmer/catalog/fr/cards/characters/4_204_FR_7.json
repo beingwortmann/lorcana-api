@@ -25,19 +25,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=234bf8cf68b5df671ef7a626d84017f2766d89f2395ac41a02e6b604c09894a7"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/4_80e9f29de9827b87ff9c88c8f0826baa4ba4e253.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=efb553e4a99fe8b1adf2ca7597d6cd45cebcfdfaa2eaf3fdfe97df1ec8c6d7c9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/4_776b76a4f2abe2bd3df16aabedb3a21fcb3c149a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=dac0e4d47865ee6804f0fdfe15b4785bda0622772c852912bed452751c4a40d4",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/4_ede81ae07db8d504c7c361a0c29eb1ea93f8a2fd.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMBER",
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Volt, star malgré lui",
+    "Bolt"
   ]
 }

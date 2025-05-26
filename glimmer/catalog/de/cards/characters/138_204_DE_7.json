@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=2e57630c8e482c1171ff38e97eff2f1f76d4ce6c3e84fa890de2b6d86e283bff"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/138_0f456622dfe505c54b651be6572c58860372beac.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=88ebfa9fc38459efcdeaf72d27e0fb820bcf78c2bbc85c7e0262d628f136760a"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/138_a8f5997a4d262699829a42d9da4a5bb63a566bdd.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=db566f2aea96b1783478d104842fdaf72748602c1bdd59ac3f2d088c2b59b438",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/138_be68fb6b301bddc31ef994469906590a0c8985c8.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Die Schöne und das Biest",
+    "Beauty and the Beast"
   ]
 }

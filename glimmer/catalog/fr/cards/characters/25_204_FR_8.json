@@ -1,0 +1,47 @@
+{
+  "name": "Patch",
+  "subtitle": "Chiot joueur",
+  "strength": 0,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "f8f789eb2731caf4efdb21cc3438d0dc6b1ab4cf",
+  "culture_invariant_id": 1689,
+  "sort_number": 1687,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Hors d'atteinte"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Chiot"
+  ],
+  "flavor_text": "Le sable était bien plus amusant qu'il n'y paraissait!",
+  "rules_text": "Hors d'atteinte (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.) ABOIEMENTS DE CHIOT Tant que vous avez un autre personnage Chiot en jeu, ce personnage-ci gagne +1.",
+  "card_identifier": "25/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/25_8fd817876b461c7c6a9d08f4343f9cc0a7c121a8.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/25_9853b472903295c9b3fe1b51f934f59658f4e964.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/25_af883a3213f52cc266c75042e0469e7af75d0f0b.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "Les 101 Dalmatiens"
+  ]
+}

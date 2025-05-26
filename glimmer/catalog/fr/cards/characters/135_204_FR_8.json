@@ -1,0 +1,45 @@
+{
+  "name": "Ralph la Casse",
+  "subtitle": "Copilote envahissant",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Joseph Buenning",
+  "deck_building_id": "ae782ba1f03c05a7094ed54d408df2ffaf9627ec",
+  "culture_invariant_id": 1799,
+  "sort_number": 1797,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Pilote"
+  ],
+  "flavor_text": "Faisons crisser les pneus, petite !%—Ralph la Casse",
+  "rules_text": "CHARGÉ À BLOC Lorsque vous jouez ce personnage, choisissez un personnage Pilote qui gagne +4 pour le reste de ce tour.",
+  "card_identifier": "135/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/135_bddd0d83658c4efaec0f555adbca0bdd54ccdff7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/135_3d586411296fc0450430eba70c0ec1aa4eb6d66b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/135_df806a5fd89ae26ad8b03b736cef4500f9fd87ec.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Les Mondes de Ralph"
+  ]
+}

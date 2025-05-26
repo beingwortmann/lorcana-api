@@ -1,0 +1,43 @@
+{
+  "name": "Antonio's Jaguar",
+  "subtitle": "Faithful Companion",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Denny Minonne",
+  "deck_building_id": "2bd3ff14879c7e1662527fb1bad60bcf2c1c5e4d",
+  "culture_invariant_id": 1695,
+  "sort_number": 1694,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He knows the way through. Just try to keep up! —Antonio",
+  "rules_text": "YOU WANT TO GO WHERE? When you play this character, if you have a character named Antonio Madrigal in play, gain 1 lore.",
+  "card_identifier": "31/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/31_2212f4811076b4f8ea17f6741ac3326f6be9e7f3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/31_16cb2c51afbfc11839f9c65c302bee4ac1c00c54.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/31_f576595cd96f926fd86bbed024c55a97d5a3ee96.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Encanto"
+  ]
+}

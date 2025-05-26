@@ -16,18 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=2aecaeeafac7cca27a6ff36054bb221997df8413a2545f14af8572f24e7f8719"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/196_2665cef32218f4f60accfde55730037fef80705f.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=30f3780b1a3521f3e45fdf9f5b2d0abae38e935e1da2ab17defeb8b66e43fff9"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/196_2b29287058ffbe2328ae58d6ce65d0b10808827a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771.jpg?checksum=2ed47854d67d2c45aa6330d6561665d724e3460908d2a2f70ff2a656132e3421",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/196_adabf8a2c976989bfda15e4397517a179facc96e.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "La bella e la bestia",
+    "Beauty and the Beast"
   ]
 }

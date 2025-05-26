@@ -1,0 +1,35 @@
+{
+  "name": "Cataclysmic Cyclone",
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Douglas De La Hoz",
+  "deck_building_id": "f271b39d14fabd7d429ab5e196ab1470fbb5c31e",
+  "culture_invariant_id": 1918,
+  "sort_number": 1918,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Now <this> will really blow you away!%—Jafar",
+  "rules_text": "Each Illumineer chooses one of their characters, items, or locations. Then, Jafar banishes all other opposing characters, items, and locations.",
+  "card_identifier": "23/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/23_23017c96ee2dc17d9ffd8a1beefa760b56b2b79f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/23_716c1d04212b0164e4543603311c4c9394e2b844.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Lorcana"
+  ]
+}

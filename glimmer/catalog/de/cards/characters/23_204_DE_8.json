@@ -1,0 +1,47 @@
+{
+  "name": "King Candy",
+  "subtitle": "Sugar-Rush-Albtraum",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Joseph Buenning",
+  "deck_building_id": "d2cab8910ba9c6d3110900d1d62e58c1914b862a",
+  "culture_invariant_id": 1687,
+  "sort_number": 1685,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke",
+    "König",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "EIN NEUER FAHRER Wenn dieser Charakter verbannt wird, darfst du eine andere Rennfahrer-Charakterkarte aus deinem Ablagestapel zurück auf deine Hand nehmen.",
+  "card_identifier": "23/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/23_408021577469aab1a62ebcac59c1dc1908869922.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/23_e49e3c7aaa5de2266e33be7cefae987fafdcc37b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/23_1888b62938fe2050777ea29c8539aa5b49714bb4.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Ralph reichts",
+    "Wreck It Ralph"
+  ]
+}

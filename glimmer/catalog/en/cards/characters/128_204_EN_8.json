@@ -1,0 +1,43 @@
+{
+  "name": "Lumiere",
+  "subtitle": "Nimble Candelabra",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "ca3d3126f63f27a418bd6fd3c21085291bd498d6",
+  "culture_invariant_id": 1792,
+  "sort_number": 1791,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Sacrebleu! This is no way to treat a guest in your palace!",
+  "rules_text": "QUICK-STEP While you have an item card in your discard, this character gains Evasive. (Only characters with Evasive can challenge them.)",
+  "card_identifier": "128/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/128_7968de639d8a4f5cf383de3c8c1f2d65b99cf016.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/128_7e8a238ad51315d2c448f3d1e566b21d76912d9d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/128_c6d13cb21fb8f6f7ec6d8fc59299a4e94021be1f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Beauty and the Beast"
+  ]
+}

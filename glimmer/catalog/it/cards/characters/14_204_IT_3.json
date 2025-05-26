@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=c90da4a3e64e9364760e59865d450dfc3bed87fb317140582c37f2266b47a453"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/14_bb88e6ca7c3845d44a9dd3257c2384cd0f69052e.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=860a4aac3c010942674520fc435325adbb9081f25e9711fb0817fd72373550d0"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/14_a3b7c7929b98786cc67e9990a3eba3374e4611de.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=00371f403b99643f1b46ed324209b0209cd842a0fc6dcfa39ae0309adf8eb2a1",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/14_9c1a42dab2cbc85694bb8c4e5a75022304fc7736.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "La carica dei 101"
   ]
 }

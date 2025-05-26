@@ -26,19 +26,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=3f7d8a89510039fa4dc3ba5d2d616aa257793936143b99fab270e75d07f0598a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/217_baeea0cc543d5abadf39d8790c34afd31b3ecf60.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=334f2db73849c093751a4e15a4c7377ad17372504a4b5bf16b3ccd545994081b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/217_ae17b095b1e9a9a3bfdcda22a70ae0629774a8a1.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/49e3d046636e06b2d82ee046db8e6eb9a2e11e16.jpg?checksum=39e89a9e301c3de3e65695b00aa6523479e84fa51678ca2e1b73ff33e10898a5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/217_4cab87a5dff8d23f67d0d1d6556f8deeefd26fc3.jpg",
   "foil_type": "VerticalWave",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Tic et Tac, les rangers du risque",
+    "Rescue Rangers"
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "name": "Lady",
+  "subtitle": "Chienne de famille",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Erika Wiseman",
+  "deck_building_id": "6321f91ab33afe4ddca12636c0eb4a49d69bf917",
+  "culture_invariant_id": 1675,
+  "sort_number": 1673,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Lady est vraiment plus heureuse en compagnie de ceux qu'elle aime.",
+  "rules_text": "QUELQU'UN DONT ON DOIT S'OCCUPER Lorsque vous jouez ce personnage, vous pouvez jouer gratuitement un personnage coûtant 2 ou moins.",
+  "card_identifier": "11/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/11_798a79091866410ddeb852262e2ab7ab64edf330.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/11_28527f12b8e6580d84734e884327f757ceb51a0c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/11_4a3d9933b25a976ba24338e4ab0ea438fcaa0411.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp",
+    "La Belle et le Clochard"
+  ]
+}

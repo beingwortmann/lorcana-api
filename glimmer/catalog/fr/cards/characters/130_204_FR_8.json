@@ -1,0 +1,44 @@
+{
+  "name": "Mushu",
+  "subtitle": "Dragon jacasseur",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "9dbaa3dffdbc156936656131874c3454e8bb1e64",
+  "culture_invariant_id": 1794,
+  "sort_number": 1792,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié",
+    "Dragon"
+  ],
+  "flavor_text": "Bouge, bouge, bouge! Pas le temps de t'expliquer. Enfin si, un peu, alors écoute-moi...",
+  "rules_text": "EN AVANT POUR LA GRANDE AVENTURE — Choisissez un personnage qui gagne Charge pour le reste de ce tour. (Ce personnage peut défier le tour où il est joué.)",
+  "card_identifier": "130/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/130_65fa40e8d88f8908929949a264decb445043d814.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/130_d36fe16f3abb64e67d6e9692656095de798270c2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/130_2a925ccb4e46d1a13efd5e06727e06c97f1d02bd.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

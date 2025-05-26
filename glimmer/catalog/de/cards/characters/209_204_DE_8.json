@@ -1,0 +1,45 @@
+{
+  "name": "Bambi",
+  "subtitle": "Kleiner Prinz",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Aubrey Archer",
+  "deck_building_id": "2d8b5c712524adb131cbf2e2a8bbd3c786353691",
+  "culture_invariant_id": 1873,
+  "sort_number": 1871,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "SAG HALLO Wenn du diesen Charakter ausspielst, sammelst du 1 Legende. SEHR SCHÜCHTERN Jedes Mal, wenn eine gegnerische Person einen Charakter ausspielt, nimm diesen Charakter zurück auf deine Hand.",
+  "card_identifier": "209/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/209_5cd8505befe7fe88c07401b56d7bc3a09f132f49.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/209_e7399cfe3b298785454bfd0b456589ad47eeb066.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/209_db6633c7d75ebcb643b3445ad1a942b98cab6130.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

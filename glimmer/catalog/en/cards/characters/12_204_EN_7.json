@@ -28,19 +28,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=4ee7dceffba73ac90cda1867c48858fbcba874782c07fab32613a2707ae2fc12"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/12_069ad9ce365d2035d13611543061a90d20b9a1ed.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=cacff4de75499bd76f75607c1025f65cb737c73034943086977f8dbdb4aff395"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/12_cb30af2cf06585486519e3a1839fa8dc81eb1039.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/7b52009b64fd0a2a49e6d8a939753077792b0554.jpg?checksum=100dece24c8195b009d94d9ba6b87865ac33fb470f94db66c72a1f9f65392ac6",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/12_ce52839db59b1649838483c57571f9381327266b.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMBER",
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Peter Pan"
   ]
 }

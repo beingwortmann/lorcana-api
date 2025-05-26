@@ -1,0 +1,44 @@
+{
+  "name": "Mr. Snoops",
+  "subtitle": "Partenaire trahi",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "noc4urne",
+  "deck_building_id": "c5af45307091a364a0c0be72ecc5b3cf644ead92",
+  "culture_invariant_id": 1807,
+  "sort_number": 1805,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Tu ne peux pas me faire ça, sale voleuse! Nous avions un accord!",
+  "rules_text": "VOUS NE M’ESCROQUEREZ PAS ! Durant votre tour, lorsque ce personnage est banni, vous pouvez piocher une carte.",
+  "card_identifier": "143/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/143_7816ad66a146ba508801d37cd8d95a0d8a1111c6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/143_a418a307fcc3a13b6d7dff5ce0b0616fbab23ce2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/143_122c4fe10d33084883bfcd1920e7095498a12d51.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Les Aventures de Bernard et Bianca",
+    "Rescuers"
+  ]
+}

@@ -23,18 +23,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=85be30303d46798cdbd3074ef5b93b55235054d2f55b8f9397110aaf3f397347"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/77_d25005b71288b680117aaae6405bc5ae87f0588b.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=e1b768bea075dbd2fa7afe4ceb216b7c17f7775b80b0b4a8abc9c388ba5f596d"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/77_a3ed9e39020c694d44c627c8d906d0bb791d7827.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=a3dec45c4757f4a4fa9c855ad263eecd1afe21423407412a9f5a77f1d8f8e70e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/77_b0f991fcd528e6b96a054489a33a1cdd2b743598.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Atlantis"
   ]
 }

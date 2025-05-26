@@ -26,19 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=379ef8e10d2482319e1ebe69d48af6511664d035864596a42fde4d8043f46c4c"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/104_c4adb971ab6c34bf7ae23ad992fdbf195d3a85f5.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=d5b33adfae82be528b0556cfbc0eea7d2fc104bcd0fbf6008e756f57f12d4829"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/104_d256386065adb2fe7db276c11c0372a7b11e0312.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03.jpg?checksum=ffafe25fa7e836081bb58af88d0a725905d949845ca90abea58dc9811f16f7d2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/104_4409101089540a53c62ddab34f622561d7a67931.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD",
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
   ]
 }

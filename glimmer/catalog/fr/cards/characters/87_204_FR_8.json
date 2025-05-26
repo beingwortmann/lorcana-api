@@ -1,0 +1,44 @@
+{
+  "name": "Clochard",
+  "subtitle": "Gardien observateur",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Edu Francisco",
+  "deck_building_id": "387626e5bd66b83cacd57f2c76f83f9a8e014257",
+  "culture_invariant_id": 1751,
+  "sort_number": 1749,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Un simple coup d'œil sur les petites traces et son instinct protecteur se réveilla.",
+  "rules_text": "COMMENT ON Y VA ? Lorsque vous jouez ce personnage, choisissez un personnage qui gagne Hors d'atteinte jusqu'au début de votre prochain tour. (Les adversaires ne peuvent pas choisir ce personnage, hormis pour un défi.)",
+  "card_identifier": "87/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/87_c2d951b6909a0c343f81df5b6920e6dc79acf225.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/87_4c7dbc62d479fd03e50ee320fb3205658adcdb04.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/87_46f12304520c8736ba68fb2e52a9c549367f7219.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp",
+    "La Belle et le Clochard"
+  ]
+}

@@ -1,73 +1,89 @@
 {
   "application_shared_properties": {
-    "current_app_version": "2025.1.1",
-    "minimum_app_version": "2025.1"
+    "current_app_version": "2025.2",
+    "minimum_app_version": "2025.1.1"
   },
   "card_sets": [
     {
       "name": "Das erste Kapitel",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=cb5daefe-96c8-4fe6-be12-9f4e36e4c5bb",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set1/thumbnails/a64c28599b368c2bc95c727d8de1ac2132e33c577685e52ee98eda35a2fc82e6.png",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Aufstieg der Flutgestalten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set2/thumbnails/a3ff09569a210e73dfe190afb4027cd6d84d77d9.png?checksum=ba17f189-ad36-4a7a-aa05-e9e3ffd52edc",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set2/thumbnails/7efd52896a6fb35c4a75199398adf3172d9defa0e16ea176a287d1075ad8d043.png",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Die Tintenlande",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set3/thumbnails/99dd700ba1da0214e1d5f4a93bf96c34f817d117.png?checksum=60a6234f-960f-400a-b4db-38c5ffd22256",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set3/thumbnails/81780ecb33e4a57db04390ce6ef4d2db5b5bb20c509f4f3d047303f14b537f88.png",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Ursulas Rückkehr",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set4/thumbnails/0a17b9c6a0b9f538d0e487837a8bac3f3377f7ee.png?checksum=7de46153-21ef-4a56-9c8b-e0ce2d29dede",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set4/thumbnails/fc926f6bb808e752123cc6320301f4664ab2f9ca7a9b91c0b0429816273ed5ca.png",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Himmelsleuchten",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set5/thumbnails/cc4a77dbf6847f4d5a74a7cdd132b959636bf85e.png?checksum=e22f6dbd-1ded-4e9c-a0da-1cee54a3cec4",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set5/thumbnails/276b06dec1c933cc7b9595ca7ab5ae8605413807f53d4b161a4e1258a5c7becb.png",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Azurblaues Meer",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set6/thumbnails/e097c82b6098e295c18b308975c5e8f642f67c53.png?checksum=a2ee0aaa-6c4e-4a04-a79e-0c47235f8e18",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set6/thumbnails/5d47a08366d4f78aa3ff02e1ffb7c29329afb247482299cfd3780f5f92c411d1.png",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "Archazias Insel",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set7/thumbnails/8777efb97a9a111bf4cc033fed2e648da1a34c8e.png?checksum=dd626ca6-a236-4e95-bdcf-ef3a684ba963",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set7/thumbnails/a45bdfe75811ede1737fbadb9575651a8a2a6dd685f7f17e6f74b9395c4db6a0.png",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
-      "name": "Die Luminari Chroniken Gefahr aus der Tiefe",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=9d6af212-9246-4cf2-ad51-281f68e51c8d",
+      "name": "Domäne von Dschafar",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/set8/thumbnails/df044dab9c0b0a3d985060918f48b9e98025bc521087fca447b6200b3d12e526.png",
       "id": 8,
+      "sort_number": 10,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Gefahr aus der Tiefe – Die Luminari Chroniken",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest1/thumbnails/bdcd2db82b293b23042f38993feba1a675ca929fb8db7de23e34318891dcb21a.png",
+      "id": 9,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
+      "name": "Überfall auf den Palast – Die Luminari Chroniken",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/quest2/thumbnails/f1b6a5dfb5510f8fa4a89977e46715a2af94bfaeca5abcd4b444eb9804781fc4.png",
+      "id": 10,
+      "sort_number": 11,
+      "type": "QUEST"
+    },
+    {
       "name": "Der Einstieg",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/gateway1/thumbnails/d902169f330d2c45be253b4417c8bed20b907141.png?checksum=7b8947ec-1a36-435a-a6d0-b1a1e94889e1",
-      "id": 9,
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/de/gateway1/thumbnails/749ad55788a4f15cec937b06bfb3cfce2112b844c5c3efee99bca8bc8cfb5b09.png",
+      "id": 11,
       "sort_number": 7,
       "type": "QUEST"
     }
   ],
+  "hero_graphic_phone_image_url": "",
+  "hero_graphic_tablet_image_url": "",
   "special_rarities": [
     {
       "name": "Promo",
@@ -85,7 +101,7 @@
       "id": 3
     },
     {
-      "name": "Challenge",
+      "name": "Play",
       "type": "CHALLENGE",
       "id": 4
     },
@@ -97,106 +113,46 @@
   ],
   "news": [
     {
-      "title": "App-Update",
-      "subtitle": "Erfahre mehr",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/02_/2025-2-app-update",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/7d7116e23efef7292cad5e6f033d9a962708228c.jpg?checksum=37a6a1e9c36c285b8c1d532cf7a4268bb37f53fc15ade59e759ff5b223e971ad"
-    },
-    {
       "title": "Anna Stosik",
       "subtitle": "Verzauberte Karten",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/02_/2025-2-19_card-interview",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg?checksum=86374aee7430313063d056f404bed7cd924a9b5a11f3024a754d72c2d18ab04a"
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/215bb47da8fac3342b858ac3db09b033c6c46e0b.jpg"
     },
     {
       "title": "Archazias Insel",
       "subtitle": "Erfahre mehr",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg?checksum=6a0a6946221849385d73091d50de3797078cf37ad010ae714d213d2c53ea85b6"
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/2d0c8af807ef45ac17cafb2973d866ba8f38caa9.jpg"
     },
     {
       "title": "Neue Geschichten!",
       "subtitle": "Lies die Geschichten",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/story/azurite",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
-    },
-    {
-      "title": "Neues Set…",
-      "subtitle": "Azurblaues Meer",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/product/azurite-sea",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/b74f5ee9461495ba5ca4c72a7108a23904c27a05.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
-    },
-    {
-      "title": "Himmels-Leuchten",
-      "subtitle": "Lies die Geschichten",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/story/shimmering",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/450ddec8dd206c2e2ab1aeeaa90e85e51753b8b7.jpg?checksum=49f1e1216f1368bb0d1b1fdbfd5d3864df5a5897fa6758c4ccd898f6d3acceaf"
-    },
-    {
-      "title": "Ursulas Rückkehr",
-      "subtitle": "Lies die Geschichten",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/story/ursula",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/d02560dd9d7db4467627745bd6701e809ffca6e3.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg"
     },
     {
       "title": "Artist Spotlight",
       "subtitle": "Nicholas Ky",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/news_/artist_spotlight_s5_nicolas-ky",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
-    },
-    {
-      "title": "ERRATA UPDATE",
-      "subtitle": "Set Himmelsleuchten",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/news_/july2024-errata",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab.jpg?checksum=49f1e1216f1368bb0d1b1fdbfd5d3864df5a5897fa6758c4ccd898f6d3acceaf"
-    },
-    {
-      "title": "Neues Set",
-      "subtitle": "Ursulas Rückkehr",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/de-DE/product/ursulas-return",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
-    },
-    {
-      "title": "Neue Karten",
-      "subtitle": "Karten-Vorschau",
-      "target_type": "SearchResults",
-      "target_object": {
-        "expansions": [
-          "Die Tintenlande"
-        ]
-      },
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/6c1e671f9af5b46d9c1a52067bdf0e53685674f7.jpg"
     },
     {
       "title": "VERZAUBERT",
       "subtitle": "Neue Seltenheit",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/news_/enchanted-reveal",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg?checksum=8c62b293a57ac82714328b21be5af6a4b8f627106bdda6ec2d4a57f5b0851faf"
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f.jpg"
     },
     {
       "title": "TEASER",
       "subtitle": "Es beginnt...",
       "target_type": "WebPage",
       "target_object": "https://youtu.be/5TWrdjFVRiQ",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg?checksum=79c978e47e2354c2d055252a14c4b42e1e81cd345c3a6353de3d84529795f40d"
-    },
-    {
-      "title": "MACH MIT!",
-      "subtitle": "Turnier Events",
-      "target_type": "WebPage",
-      "target_object": "https://melee.gg/Lorcana",
-      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/c1dfd96eea8cc2b62785275bca38ac261256e278.jpg?checksum=5331b81a9df3f6046b50b686d7b7aec4f10b514fea1c9bf0d47b555a96eaa8bd"
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b.jpg"
     }
   ],
   "search_filters": {
@@ -210,7 +166,15 @@
         ]
       }
     ],
-    "location_subtypes": [],
+    "location_subtypes": [
+      {
+        "term_in_search_filter": "Hindernis",
+        "terms_on_card": [
+          "Hindernis",
+          "Obstacle"
+        ]
+      }
+    ],
     "character_subtypes": [
       {
         "term_in_search_filter": "Sagengestalt",
@@ -303,6 +267,13 @@
           "Kapitän",
           "Kapitänin",
           "Captain"
+        ]
+      },
+      {
+        "term_in_search_filter": "Koloss",
+        "terms_on_card": [
+          "Koloss",
+          "Colossus"
         ]
       },
       {
@@ -520,8 +491,21 @@
         ]
       }
     ],
-    "location_abilities": []
-  },
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c"
+    "location_abilities": [
+      {
+        "term_in_search_filter": "Behütet",
+        "terms_on_card": [
+          "Behütet",
+          "Ward"
+        ]
+      },
+      {
+        "term_in_search_filter": "Robust",
+        "terms_on_card": [
+          "Robust",
+          "Resist"
+        ]
+      }
+    ]
+  }
 }

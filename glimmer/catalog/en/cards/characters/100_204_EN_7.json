@@ -23,18 +23,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=103a18a8e1499f055f7b6c4f37ffb3e7e2e26399bcf1ae34490eb6de6d406c55"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/100_fbc269f6ed9d92a428e6863cf93a331bf5e84320.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=afb41c818a4e8d2ad75916aa210fee62e01a2473a01ddc894b8a9bf5621d3e64"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/100_7c269da6be075024fad490c92f8b7face541ec67.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/310b86e0b62b828562fc91c7be5380a992b2786a.jpg?checksum=a24db59c41c2c08d1b49cf4b3105783c7d4f7c285b58885dbe596290528a8562",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/100_2c8cee0032bd63472cff5687d48eaf4ce071d0dd.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp"
   ]
 }

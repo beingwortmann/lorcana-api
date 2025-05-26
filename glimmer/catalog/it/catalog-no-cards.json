@@ -1,73 +1,89 @@
 {
   "application_shared_properties": {
-    "current_app_version": "2025.1.1",
-    "minimum_app_version": "2025.1"
+    "current_app_version": "2025.2",
+    "minimum_app_version": "2025.1.1"
   },
   "card_sets": [
     {
       "name": "The First Chapter",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=9ff1a4f5-2825-442a-9fd7-155f830bbc82",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set1/thumbnails/ba3c9a84b0afc41e50e8c08f18a528107ec9b3e8de151a90da7f611611ccc23e.png",
       "id": 1,
       "sort_number": 1,
       "type": "EXPANSION"
     },
     {
       "name": "Rise of the Floodborn",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set2/thumbnails/03e1487ab9f579efda9f7ad20182b448ef9595f8.png?checksum=2d3fe5eb-00fe-4c7a-a5af-9c05be8180a4",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set2/thumbnails/3bb44edb659ab2c045210ce7acbcc949fa4bcd3cd17986f3d519944c144617a7.png",
       "id": 2,
       "sort_number": 2,
       "type": "EXPANSION"
     },
     {
       "name": "Nelle Terre d'Inchiostro",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set3/thumbnails/bfd4019b6ae164f92b385994ccab329f6f875ca2.png?checksum=d238a80f-8dde-4fae-8ba1-565707cf6a01",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set3/thumbnails/f4596a35b1571aaa4ef2dcbe1eb30ba859c06b7d7c093d389494f9819893d17c.png",
       "id": 3,
       "sort_number": 3,
       "type": "EXPANSION"
     },
     {
       "name": "Il Ritorno di Ursula",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set4/thumbnails/b3585aaee3dd09c3dc6ac14f8074f6216e0e7afb.png?checksum=dc78efb1-b896-4104-a1da-e42c9f11ad06",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set4/thumbnails/9a5a183df0ec85869f09bd910489779fc1a783047306051f75ab565c36447a01.png",
       "id": 4,
       "sort_number": 4,
       "type": "EXPANSION"
     },
     {
       "name": "Cieli Scintillanti",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set5/thumbnails/fa50c6f3088aa0d8d98c1198e881a91b5e87fb03.png?checksum=ee14b2f9-9646-4a06-a6b8-00a549ac6015",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set5/thumbnails/3622fa6068d98ec14826a293a029f8421173f24aba61c53c57a9612be0e0ca7e.png",
       "id": 5,
       "sort_number": 6,
       "type": "EXPANSION"
     },
     {
       "name": "Mare Di Azzurrite",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set6/thumbnails/19955c0d26e419cf41b9f09e268108e13554e1db.png?checksum=11c4d435-e8ae-4c38-9e14-b2b72f4d8d47",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set6/thumbnails/a215ad464e466e6284887fc9d41b0bd1e8d58a75aa4961d8e39c24d7795c43cb.png",
       "id": 6,
       "sort_number": 8,
       "type": "EXPANSION"
     },
     {
       "name": "L’isola Di Archazia",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/61e477dc4f59b00c590187ffc60c96b0015108a9.png?checksum=5e824f38-931b-4e49-b1b6-11a28b3d81a8",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set7/thumbnails/bf8bf9b8c871731592eacc630646d71170cbde408845621812b1189048558fcd.png",
       "id": 7,
       "sort_number": 9,
       "type": "EXPANSION"
     },
     {
-      "name": "Avventura degli Illuminatori Problemi negli Abissi",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=84f7526a-440e-432a-8712-93834f055622",
+      "name": "Il Regno di Jafar",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/set8/thumbnails/a13060a156141adca8095b5121fb51a8a577ef5de64198a2c5c28b5b578a5d73.png",
       "id": 8,
+      "sort_number": 10,
+      "type": "EXPANSION"
+    },
+    {
+      "name": "Problemi negli Abissi – Avventura degli Illuminatori",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest1/thumbnails/2858d697d49afad970a68f85a8f66ab6a177c9c916797f475b40f2124897eabf.png",
+      "id": 9,
       "sort_number": 5,
       "type": "QUEST"
     },
     {
+      "name": "Palace Heist – Illumineer’s Quest",
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/quest2/thumbnails/f1b6a5dfb5510f8fa4a89977e46715a2af94bfaeca5abcd4b444eb9804781fc4.png",
+      "id": 10,
+      "sort_number": 11,
+      "type": "QUEST"
+    },
+    {
       "name": "Preludio",
-      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/gateway1/thumbnails/341a279b8997790d2babfa066192f8695ac50714.png?checksum=036bc004-a699-43db-9550-173775dd78e0",
-      "id": 9,
+      "thumbnail_image_url": "https://api.lorcana.ravensburger.com/images/it/gateway1/thumbnails/2b1d2ad26ece465c958c83b9f6476827c8ca895872a2db709d72b4b5a1dd6655.png",
+      "id": 11,
       "sort_number": 7,
       "type": "QUEST"
     }
   ],
+  "hero_graphic_phone_image_url": "",
+  "hero_graphic_tablet_image_url": "",
   "special_rarities": [
     {
       "name": "Promo",
@@ -85,7 +101,7 @@
       "id": 3
     },
     {
-      "name": "Challenge",
+      "name": "Play",
       "type": "CHALLENGE",
       "id": 4
     },
@@ -97,92 +113,53 @@
   ],
   "news": [
     {
-      "title": "Aggiornamento",
-      "subtitle": "SCOPRI DI PIÙ",
+      "title": "Riassunto",
+      "subtitle": "dello sviluppo del gioco",
       "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/02_/2025-2-app-update",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122.jpg?checksum=37a6a1e9c36c285b8c1d532cf7a4268bb37f53fc15ade59e759ff5b223e971ad"
+      "target_object": "https://www.disneylorcana.com/it-IT/news/2025/05/2025-5_game-dev-digest",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/17503a6b2326f09fbc4e3a7c03874c7333002038.jpg"
     },
     {
       "title": "Anna Stosik",
       "subtitle": "Rivelata una nuova Incantata",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/news_/2025_/02_/2025-2-19_card-interview",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg?checksum=86374aee7430313063d056f404bed7cd924a9b5a11f3024a754d72c2d18ab04a"
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/6fb84aed32facd1299ee1e77c8fd2b1a6352669e.jpg"
     },
     {
       "title": "L'Isola di Archazia",
       "subtitle": "SCOPRI DI PIÙ",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=6a0a6946221849385d73091d50de3797078cf37ad010ae714d213d2c53ea85b6"
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg"
     },
     {
       "title": "Nuove storie!",
       "subtitle": "LEGGI LE STORIE",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/story/azurite",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg?checksum=672356cf6f7ffc203ebb93224d7b73c019458de58a0d8c17c1517285d53ca1c8"
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/b37f6ddcefad7e8657837d3177f9ef2462f98acf.jpg"
     },
     {
       "title": "Nuovo Set…",
       "subtitle": "Mare di Azzurrite",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/product/azurite-sea",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=a2094309799d65271144783544e98518606c38f54083b64546c73b27c7826463"
-    },
-    {
-      "title": "Nuovo Storie",
-      "subtitle": "Leggi Ora",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/story/shimmering",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/d321d6f7ccf98b51540ec9d933f20898af3bd71e.jpg?checksum=4ce63a402d22d9b434a1a1cdd7c507b1efd22a8f9a3bbb232b4bf52eecf31ac2"
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg"
     },
     {
       "title": "Nuove storie",
       "subtitle": "Leggi Ora",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/story/ursula",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg?checksum=6a5573c35fab7aebff675a3e37e256bbd169e97e8a073b0f2d2a6f741028c057"
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/35e995c107a71caeb833bb3b79f9f54781b33fa1.jpg"
     },
     {
       "title": "Artist Spotlight",
       "subtitle": "Nicholas Ky",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/it-IT/news_/artist_spotlight_s5_nicolas-ky",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=40c256c11e78006aedb184cedd0882452b3f62bfb43a0c04714e2c81e58c6163"
-    },
-    {
-      "title": "ERRATA CORRIGE",
-      "subtitle": "Cieli Scintillanti",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/news_/july2024-errata",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/667be543b02294b7624119adc3a725473df39885.jpg?checksum=4ce63a402d22d9b434a1a1cdd7c507b1efd22a8f9a3bbb232b4bf52eecf31ac2"
-    },
-    {
-      "title": "Nuovo Set…",
-      "subtitle": "Ritorno di Ursula",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/it-IT/product/ursulas-return",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=b55b4981f15fcd0e6481a7b8de521aa9abbb01062a5ae1d574d13f00327b76f0"
-    },
-    {
-      "title": "Anteprima",
-      "subtitle": "delle carte",
-      "target_type": "SearchResults",
-      "target_object": {
-        "expansions": [
-          "Nelle Terre d'Inchiostro"
-        ]
-      },
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8.jpg?checksum=47145d8f0e251bd4c5dbe2a717fde7685b20d047cbb522077312ee8a1db02acf"
-    },
-    {
-      "title": "Italiano",
-      "subtitle": "Presto in arrivo",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/s3-announcement-1",
-      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59.jpg?checksum=054b6fd0b874cbaf18c805777ac65b777c4a006e4ab34ca89d61e83c80cf00ba"
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/a17554a0d2b15a664c0e73900184544f19e70227.jpg"
     }
   ],
   "search_filters": {
@@ -196,7 +173,11 @@
         ]
       }
     ],
-    "location_subtypes": [],
+    "location_subtypes": [
+      {
+        "term_in_search_filter": "Obstacle"
+      }
+    ],
     "character_subtypes": [
       {
         "term_in_search_filter": "Classico",
@@ -260,6 +241,9 @@
           "Cavaliere",
           "Knight"
         ]
+      },
+      {
+        "term_in_search_filter": "Colossus"
       },
       {
         "term_in_search_filter": "Cucciolo",
@@ -507,8 +491,21 @@
         ]
       }
     ],
-    "location_abilities": []
-  },
-  "hero_graphic_phone_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-phone.jpg?checksum=5b3be7ac7b090f596b4aa4144de78d0ff3154bc03c8cdaa8771629915843d02a",
-  "hero_graphic_tablet_image_url": "https://api.lorcana.ravensburger.com/images/hero-graphic/hero-graphic-tablet.jpg?checksum=6e35d3209c8a4743a626a9d8a1f683fddd8d9967dce783b4202f280bde23f75c"
+    "location_abilities": [
+      {
+        "term_in_search_filter": "Protetto",
+        "terms_on_card": [
+          "Protetto",
+          "Ward"
+        ]
+      },
+      {
+        "term_in_search_filter": "Resistere",
+        "terms_on_card": [
+          "Resistere",
+          "Resist"
+        ]
+      }
+    ]
+  }
 }

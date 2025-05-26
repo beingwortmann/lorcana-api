@@ -23,20 +23,24 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=24054b025ee1c903a9accb0dd4309ff03232be7723f997bc9a22899031cddd96"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/154_5ad9ac0bd42c95889d309c74fbb6e0b4116abfca.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=80415097f8cb5ab6bc9f0032f10dd80057e359b03199760848e266522fbf7569"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/154_82d15b626f30062961d3036b38ec0ab53b00ffba.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=97aba1c365affacaf27e36c54a57a910f1330a69b522859b02be0787a0de765c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/154_f66264a2f12da4ced30dff9229dc0889c6d5fb80.jpg",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=aabc1d00f611a2ff15c6a3e573f6e1fb84247042a0de6b84c5c06486bf9458e0",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/154_67afd33ae00d1fc3402bc507ffc21a805b24c395.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Ducktales",
+    "La Bande à Picsou"
   ]
 }

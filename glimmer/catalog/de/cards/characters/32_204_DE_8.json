@@ -1,0 +1,46 @@
+{
+  "name": "Sergeant Calhoun",
+  "subtitle": "Knallharte Anführerin",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Edu Francisco / Amanda Duarte",
+  "deck_building_id": "33b9c6a65331f2a7dd61ada4198a004de3dca94a",
+  "culture_invariant_id": 1696,
+  "sort_number": 1694,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) BEUTEABWURF Wenn dieser Charakter verbannt wird, sammelst du 1 Legende.",
+  "card_identifier": "32/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/32_7fe83c3ee9ff0c0982b89f754f14c703e9d625c4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/32_7653e83c936ab4259a55d04cb35a73d032b10342.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/32_b534053b30e97638fa86e2a7525b209c3214f9c0.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Ralph reichts",
+    "Wreck It Ralph"
+  ]
+}

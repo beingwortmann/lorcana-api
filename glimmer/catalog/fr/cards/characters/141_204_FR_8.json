@@ -1,0 +1,47 @@
+{
+  "name": "Mulan",
+  "subtitle": "Chargeant droit devant",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 0,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "9c393a7998141f73d43ba96eda262c943deb3402",
+  "culture_invariant_id": 1805,
+  "sort_number": 1803,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Combattant"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Combattant (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.) ACCÉLÉRATION Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier des personnages avec Insaisissable.) LONGUE PORTÉE Ce personnage peut défier les personnages redressés.",
+  "card_identifier": "141/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/141_3609900f7849a3512726469d30fef414f2f7cce8.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/141_40e85cecd4536ff464c8ab13f0932fa4ab7d945c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/141_7579ca84d12dea8138dda64c3501fda7c1457704.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

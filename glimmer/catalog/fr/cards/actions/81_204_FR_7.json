@@ -18,18 +18,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=c38051313618c3d3166581bd7fbfbc2e38dd81300b118cc1c0293ede10e6e4ca"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/81_a1cefb648f33f205382e5de291662559c2a735f7.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=3be4468009383ed1c5a5a3b7e83d1afa3d11512aa551f0fa8f529a33ec6925e6"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/81_8d2f36997c0afdda2e45cd083137ccf1831b9226.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673.jpg?checksum=e98175aab1fdc06d3895db53d2fba55cd04083588e5e406c46ca6fab4d75a0c3",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/81_f804a771d816371fde183d0b9b72febfeacedd4e.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Encanto",
+    "Encanto : La Fantastique Famille Madrigal"
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "name": "Don Karnage",
+  "subtitle": "Air Pirate Leader",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "0dc717cd37ae1be2d1173b144c114628a1e411d5",
+  "culture_invariant_id": 1772,
+  "sort_number": 1771,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Prince",
+    "Pirate"
+  ],
+  "flavor_text": "",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.) SCORNFUL TAUNT Whenever you play an action that isn't a song, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "108/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/108_a38bbd306f5fedea6b7b2a5979a571eca86b25ab.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/108_3985650eea8a96fcd3a39005836d8ed7fbc59d02.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/108_c3a8e36c37d09c5df3fb8a65bffc09d639d61a69.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Talespin"
+  ]
+}

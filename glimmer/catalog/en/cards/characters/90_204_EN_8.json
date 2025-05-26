@@ -1,0 +1,42 @@
+{
+  "name": "Bill the Lizard",
+  "subtitle": "Chimney Sweep",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "69b9facbf15d57278b8ed4a2118c589d75a4b24f",
+  "culture_invariant_id": 1754,
+  "sort_number": 1753,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "We need a lazard with a lizard! —White Rabbit",
+  "rules_text": "NOTHING TO IT While another character in play has damage, this character gains Evasive. (Only characters with Evasive can challenge them.)",
+  "card_identifier": "90/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/90_b0f2931c1aec674bb28cd9ae54471dc4a22cb6c7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/90_08aca0785c6bc8977e4f5c1dd1e785816d615223.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/90_c3a985b5e1454d5376a26dee808198608dbc7e60.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland"
+  ]
+}

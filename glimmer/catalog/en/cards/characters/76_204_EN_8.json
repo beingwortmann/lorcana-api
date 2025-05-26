@@ -1,0 +1,43 @@
+{
+  "name": "Flower",
+  "subtitle": "Shy Skunk",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Sandra Rios",
+  "deck_building_id": "64bcc8dbec56c1a40e869de72bbf82705d067936",
+  "culture_invariant_id": 1740,
+  "sort_number": 1739,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "His sweet nature outmatches all the blooms in the meadow.",
+  "rules_text": "LOOKING FOR FRIENDS Whenever you play another character, look at the top card of your deck. Put it on either the top or the bottom of your deck.",
+  "card_identifier": "76/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/76_7eada0448a07ed0ca02e1d4eb6acc57ae4690807.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/76_2bd696ae58bcb015757ae2b12330ea8268031544.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/76_55326a4797fc2444f1b1aaf964076565a3ee1b25.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

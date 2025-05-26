@@ -1,0 +1,46 @@
+{
+  "name": "Iago",
+  "subtitle": "Out of Reach",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "21b8caf084ceffd01eb6823459d541ea9f8ba4de",
+  "culture_invariant_id": 1895,
+  "sort_number": 1889,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Nice try, chumps! Too bad I’m all the way up here!",
+  "rules_text": "SELF-PRESERVATION While you have another exerted character in play, this character can’t be challenged.",
+  "card_identifier": "8/D23 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/1468x2048/8_4480c6738df12918c25fccbbedad4215fc19cbf2.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/367x512/8_a141c2253ede14c4076591499a1061727e688705.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/masks/1468x2048/8_d12e5328a36ced921c6ca69b6c598f3025896436.jpg",
+  "special_rarity_id": 2,
+  "foil_type": "SeaWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "D23",
+    "Aladdin"
+  ]
+}

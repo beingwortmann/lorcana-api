@@ -26,18 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=b35e79b6523bb3b86de74e986b71ec27a3e5c86ed11393dbbb7fd17ed8a7705c"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/138_241bc3686b1dc85b48c8ebb6be6271c217e3e21c.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=a1c9d910b8ded1fde80482091f489c5a1e493d5ca0e02f44278786b26a849832"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/138_7edb2bcf6fa058ba57ebde96088ded9a84b8db8c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg?checksum=b9a7a5d872a048c01fb38310323699c9408ecd58c8f0f758cc741d911441f50f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/138_815369c0d4651c299dde7890e9bef6b8a2bd2792.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Basil, der große Mäusedetektiv",
+    "Great Mouse Detective"
   ]
 }

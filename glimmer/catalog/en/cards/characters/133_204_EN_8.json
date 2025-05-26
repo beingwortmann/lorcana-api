@@ -1,0 +1,43 @@
+{
+  "name": "Figaro",
+  "subtitle": "Tuxedo Cat",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Saulo Nate",
+  "deck_building_id": "f682275599ccf863e9becb5cac4f455052ec7d83",
+  "culture_invariant_id": 1797,
+  "sort_number": 1796,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Say hello to Figaro. Up to mischief already! —Geppetto",
+  "rules_text": "PLAYFULNESS Opposing items enter play exerted.",
+  "card_identifier": "133/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/133_d753c244d66de6398f42389407627d8041a178f0.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/133_f1eaa8230d715311a400e0a69930e695f70f0e01.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/133_de6536aba6ad096e974723d2b02ea61a13133a72.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

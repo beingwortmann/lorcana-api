@@ -1,0 +1,44 @@
+{
+  "name": "Mushu",
+  "subtitle": "Fast-Talking Dragon",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Kuya Jaypi",
+  "deck_building_id": "9dbaa3dffdbc156936656131874c3454e8bb1e64",
+  "culture_invariant_id": 1794,
+  "sort_number": 1793,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Dragon"
+  ],
+  "flavor_text": "Move, move, move! There’s no time to explain. Well, maybe a little time, so listen up...",
+  "rules_text": "LET'S GET THIS SHOW ON THE ROAD — Chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+  "card_identifier": "130/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/130_d4e328fbdfacdf00aaef0eabdc04704a162960c0.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/130_d9bdd31034561d4c8740be021d1069a8807c060e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/130_73755506fa0d9a069f5d7eccf05faf6eaa3b7243.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

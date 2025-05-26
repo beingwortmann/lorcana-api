@@ -1,0 +1,36 @@
+{
+  "name": "Abaisse le levier !",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Mario Manzanares",
+  "deck_building_id": "443fdfdb48d4bec4a4157b8fa1372ce2ca8187fa",
+  "culture_invariant_id": 1891,
+  "sort_number": 1893,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Choisissez entre : • Piochez 2 cartes. • Chaque adversaire défausse une carte.",
+  "card_identifier": "31/P2 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/31_a772780e4459fcf999189b49116b78c73ae410d3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/31_3fe75b6100fe311e96800d9b990df5aeced129c1.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/promo2/masks/1468x2048/31_7e9d109d4a923f38f556dd9c6c4120315fb076fe.jpg",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

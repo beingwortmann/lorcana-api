@@ -26,18 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=581bbd7bb87b08a1d92a53fb11bd3706aab8173ea4d08c919696120a5127fc22"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/1468x2048/140_20dadd05945529809c58b2592737740f47e1c6df.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=fb15f048e9bd1362eb4f8d08623da63bccfc3141756d99d9bc28e9cc0eb727a6"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set6/cards/367x512/140_8749cd7054813026b0f3fe186a690ac996cfdbae.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/c28aca23f1ef3718a464383d925c66842078edaa.jpg?checksum=46041e1683b794a4471ef95c8a9623e050f28f464ace89d2b4b56f0acb5e5475",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set6/masks/1468x2048/140_6e91c02d7091ed9f280377acecea58090983e8a9.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Rescue Rangers",
+    "Cip & Ciop agenti speciali"
   ]
 }

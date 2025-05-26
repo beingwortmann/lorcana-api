@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=0e8600fcc6ee08d1a27ff1c232f3c58baa3915d5ebf40730bb789df548f46712"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/92_8b9db7020fe72a2a1ab5a76c2106f794202e3268.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=f277c214365be3eacf41eea9f271424d0b33593a0d5970817511d427e6c9fbbb"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/92_90f56d423015b3ab567939f54306fd660ef7d590.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/8ee51caaa2c2f4ee2e5b4b7ef5a89db7df1068d7.jpg?checksum=fc2a3b0b6be4e3d31be06fb6c2538b655c0ed818adbd15afab796083180d4095",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/92_54e1a8735ecfc14a1d80017362d3bc69cee68e71.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Il Libro della Giungla",
+    "Jungle Book"
   ]
 }

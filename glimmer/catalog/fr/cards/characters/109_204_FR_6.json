@@ -26,18 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=2b757329fbc8b421d74be91531fcf521d70f135e99458e38d4dfa213a8720c8d"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/109_05fc50256697aa5eb87248eb52285e56d25f8a94.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=d6debe86314dfc992c0efb59327f2aae5355d2b50d5ea8655b49e560fcbbbf4c"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/109_19681c33ebf7bd4432655889b36072b5b7aadd6d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/a1422e6a168630cdd214ac5e31ca01ae1bee8d92.jpg?checksum=174101bdf48bd904517516c173a00e9081e8b2de39a4a55866b081c6779f0378",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/109_7a2d61db4685f7a9d70012f7fd7591fe0d0c4ccb.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Treasure Planet",
+    "La Planète au Trésor"
   ]
 }

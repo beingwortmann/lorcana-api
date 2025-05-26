@@ -1,0 +1,44 @@
+{
+  "name": "Kaa",
+  "subtitle": "Hypnotizing Python",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Francesco D'ippolito / Malia Ewart",
+  "deck_building_id": "f282a36bea0b86730827e7de3e6e6879a13d9171",
+  "culture_invariant_id": 1685,
+  "sort_number": 1684,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "You have just made a s-serious mis-sstake, my friend.",
+  "rules_text": "LOOK ME IN THE EYE Whenever this character quests, chosen opposing character gets -2 and gains Reckless until the start of your next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "21/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/21_c0d51f05ad2c3b9b3be3c3b1c6027e08e0d5d2cd.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/21_adc971b3024dc3b51e62ab94f7d11291a962e5d0.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/21_91eb6455faf9118a979077ae679912afc09263f0.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Jungle Book"
+  ]
+}

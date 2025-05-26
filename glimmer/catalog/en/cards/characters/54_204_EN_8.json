@@ -1,0 +1,43 @@
+{
+  "name": "Megara",
+  "subtitle": "Part of the Plan",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Samanta Erdini",
+  "deck_building_id": "2eeeaeb7efb064ae1053aabc43dfb7e198c93218",
+  "culture_invariant_id": 1718,
+  "sort_number": 1717,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Ally"
+  ],
+  "flavor_text": "The sooner we get this done, the sooner I'm free . . . of you.",
+  "rules_text": "CONTENTIOUS ALLIANCE While you have a character named Hades in play, this character gains Challenger +2. (They get +2 while challenging.)",
+  "card_identifier": "54/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/54_9e02019d197fc71f58fb9ba0faa8ea8a5df021ab.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/54_a8f23332cf9f2513d3d46e0738155ada2578f9d3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/54_988bde2e6ff47deb1c1c1d05302076ded1a4fe89.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Hercules"
+  ]
+}

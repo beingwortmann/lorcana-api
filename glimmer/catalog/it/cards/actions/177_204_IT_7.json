@@ -16,18 +16,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=51b58a45b9a36b442077a35e63bb81b13dcbc71032cebc22cf8b88f294e7d4f8"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/177_ccd0a5d509f99fb298b61139ea6ff934c2759740.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=47120c643193c46970582ca4e7c5837055096e8d87483dfc988a0cc7da10e0a4"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/177_6cff24574846ac2eb7b24a56a73e9b306d620df5.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=b903d107624f8997696d3545190e854d8197e45a3032679b6f059dfdeacdb57c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/177_161f6f2e85cb8e152f82c01b1e0d28030f8d5418.jpg",
   "card_sets": [
-    7
+    7,
+    10
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen - Il regno di ghiaccio",
+    "Frozen"
   ]
 }

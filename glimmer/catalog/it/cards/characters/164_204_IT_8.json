@@ -1,0 +1,44 @@
+{
+  "name": "Madame Adelaide",
+  "subtitle": "Patrona delle Arti",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "edd4c76d434d9b531b4af9fbea9a4075d5676902",
+  "culture_invariant_id": 1828,
+  "sort_number": 1826,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "La bella musica può nobilitare qualsiasi animo, non importa quanto la situazione sembri disperata.",
+  "rules_text": "",
+  "card_identifier": "164/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/164_ccf4199c40f88f007167cfcb447ef66d5ca5f90a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/164_770eab13be91c70b0bcce855885a3e98ef0a282c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/164_73b65551e38bad165a1fe66534ce623c7f13170f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats",
+    "Gli Aristogatti"
+  ]
+}

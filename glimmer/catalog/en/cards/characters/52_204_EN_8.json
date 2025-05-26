@@ -1,0 +1,42 @@
+{
+  "name": "Royal Guard",
+  "subtitle": "Octopus Soldier",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Rachel Elese",
+  "deck_building_id": "22bcaf985cf7458b8c12396023a332712fd7f998",
+  "culture_invariant_id": 1716,
+  "sort_number": 1715,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "HEAVILY ARMED Whenever you draw a card, this character gains Challenger +1 this turn. (They get +1 while challenging.)",
+  "card_identifier": "52/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/52_46b887641c602e48a5aa4365ea90f24c67e2b131.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/52_f37635aa4b08cc3fc028ff788e51cd139fa438ff.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/52_977330572852a4659d089bdf592514bf38714754.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove"
+  ]
+}

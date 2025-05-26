@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=56155e10ec923a7585b77ac9d5f063973085038cb583168c6a7ef55819a8abc1"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/121_274a5595044a83d5c6947f7e30e7ed70410bf672.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=5245c30fbbc74f045a851feb0ca0be6df65bb51d2120110083723aeaa3188aad"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/121_dc85f9ce589bc6bac73f83d1e1ba9aa6d7ed93f4.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/8bd7954c40c1e59a900f71ea3a266732609915b1.jpg?checksum=4f7919819369e0c1a87ccc92397d6785b06db0f35f8a47af79356666b902ff33",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/121_41078f8bc7cf441b38bba97aefaefdd57885a036.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Rapunzel - L'intreccio della torre"
   ]
 }

@@ -33,18 +33,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=0c07f3e053b74a8223d6180e6467dfc33538f286ef7d6c1d803c8ab8a6338b2b"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/1468x2048/177_db51242a561404662074335c0979baa86a296fd5.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=06531b72c7f7aa749bf01383abe4bcb6a1d6b0aa901005a9f694c81d4476d570"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set2/cards/367x512/177_ffad403717709dabce8f79021ae2e99549e1292a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/26e7458dc56ab2830fadba7bd2c1aa10e981518d.jpg?checksum=997dcc53e273abbc76b41733912d18c2ff4d64eebaa093507cc153350c20ea5f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set2/masks/1468x2048/177_0934e5402a4f3c50f586cd50e7cad9b99d2b3294.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Cinderella"
   ]
 }

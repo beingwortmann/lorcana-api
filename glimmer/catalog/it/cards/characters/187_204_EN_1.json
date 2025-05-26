@@ -26,18 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=0c876dddac01fa3edac836a1dc5e51dbe60bf7eb35b509a2a6652384162f49b3"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/187_3bb6debbfe0309e7a8650bbef05a32c9aad716bf.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=5a4cdcd8da7aa0d78732675d937f8816483d6e88b3834642b6f68ca1575dd2cd"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/187_571220e0a9a569805241abca26aed3252dfc10ef.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/f67462663a512121ffada791890b558ee8b38773.jpg?checksum=dd3c734d72a0f4d60edd1f0e3a195b5f21d124f85fa9bd5f0c7cc61900e90275",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/187_9e97e8d2b3b8102143f33bd8cdf38ba670a37a6c.jpg",
   "card_sets": [
     1
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Little Mermaid",
+    "La Sirenetta"
   ]
 }

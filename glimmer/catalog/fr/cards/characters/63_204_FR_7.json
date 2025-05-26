@@ -25,19 +25,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=1d56f4ea647a7bb3e66f95be22f9973ac1f257cd104bd0340d49d29f8bec4804"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/63_3509c00c6be764d3f977397146b3df8052809907.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=e9ab575be0de994442a0103b6f49c23d88ddc1b51f79dc420ba64edec96f700f"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/63_779bf134f2936d1a87071c61aab755302842157b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/a17554a0d2b15a664c0e73900184544f19e70227.jpg?checksum=354913e574c0f54431fccd54dbe4b0727e33ac17bc63269b484dbce7c980950a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/63_19a3bc3a47a394712b9c8f8d4de8470fb5e91717.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST",
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Kuzco, l'empereur Mégalo"
   ]
 }

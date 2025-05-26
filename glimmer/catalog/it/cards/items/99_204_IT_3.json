@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=2fe1c3ee8a33960602fee60da6ff4e81f95605952f0604f23516d9a3c201f87d"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/99_459ab02da0f888a6513d2e3f4b60dcb1474d75fe.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=9c22766eb17f64ac29804b1d7d962fbe4f4cabec222c26b6f33fdc68829642af"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/99_f6282584f07b277cb04016546148f58748ef8d3e.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/9a79be611e0267e1d943da0737c6c51be67865a0.jpg?checksum=70b7db29390f1ebbe2bd2187d1bcf9020ddf5add3963a2f39700368bbe1501b5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/99_74c820b33a00eb657004a58f63908b8a51c6682c.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lorcana"
   ]
 }

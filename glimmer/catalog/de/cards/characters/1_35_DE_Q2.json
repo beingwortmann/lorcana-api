@@ -1,0 +1,43 @@
+{
+  "name": "Metallskorpion",
+  "subtitle": "Tödliche Statue",
+  "strength": 8,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "08b5374be96d9d26507561a9a0244cf1f1b22a4d",
+  "culture_invariant_id": 1896,
+  "sort_number": 1896,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Koloss"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) SIMULTANER SCHLAG Wenn Dschafar diesen Charakter ausspielt, wählen alle Luminari je einen ihrer Charaktere, einen ihrer Gegenstände und einen ihrer Orte und verbannen diese.",
+  "card_identifier": "1/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/1_aa7e6963f19cbbc4ce782b6e96394774839385b5.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/1_7434b5f1b31f6aa9c09411095e44cc1435221333.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Lorcana"
+  ]
+}

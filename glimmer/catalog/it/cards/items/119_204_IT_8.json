@@ -1,0 +1,36 @@
+{
+  "name": "Borsetta Chimica",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jared Nickerl",
+  "deck_building_id": "b53e4e6943d5cde0bb2744696e3434d34149f381",
+  "culture_invariant_id": 1783,
+  "sort_number": 1781,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Carina, ma anche potenzialmente devastante. Perfetta.%—Honey Lemon",
+  "rules_text": "ORA ARRIVA IL MEGLIO Ogni volta che giochi un personaggio, se hai usato Trasformazione per giocarlo, riceve +4 per questo turno.",
+  "card_identifier": "119/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/119_0435cf34db3e1e5868b3914b551c8c750593d3f4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/119_4729235b82e5bf6bfa40ddf9cab1ba0f17d190ab.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/119_33f11fa19f8d98b0a04408ef5a5d60d57d8f280e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Ink Moat",
+  "subtitle": "First Line of Defense",
+  "willpower": 5,
+  "quest_value": 0,
+  "move_cost": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 0,
+  "author": "Kaluba",
+  "deck_building_id": "4e7b9e12ba9e15dd055872a73babf8f862f1bded",
+  "culture_invariant_id": 1930,
+  "sort_number": 1931,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Obstacle"
+  ],
+  "flavor_text": "Don’t get overconfident. They won’t all be this easy.",
+  "rules_text": "",
+  "card_identifier": "35/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/35_9c54629215788aad166d3d17e256d3b168030b94.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/35_83c4172095f13b3c5d4042b8858d1d001f1f4536.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

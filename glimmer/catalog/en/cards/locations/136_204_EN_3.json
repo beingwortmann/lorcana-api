@@ -20,18 +20,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=f52ebea2de99c6f675026fb16e06db284c74b2bc3312b723f14e29f118291972"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/1468x2048/136_5a03efda7aeb90d60012e3f042998f212cbaeaa1.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=f568d04ec1628f7aab2c778616170402e0b1c17a827335e0bfa4092218a5650c"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set3/cards/367x512/136_6d318b724689e4880c7c9e1c7ccd6f1e854e11da.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg?checksum=7a3320919748138d9d13491db8c9d60fb44f9929b669516bc16b5e055cbd046c",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set3/masks/1468x2048/136_f479a07aa8efc42a8bf87a67fde3c7ae0f2b1448.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Treasure Planet"
   ]
 }

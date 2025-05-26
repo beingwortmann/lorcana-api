@@ -25,18 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=4196e3d56d6500cb371c74f675532c9a8ec5f1cf131d4aca20a3aa7c54e8c612"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/141_b2224773edfbaa4a19e30c641a02cd769ad6a814.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=2cdb04f6f8b12c7fe435b326134142a069d48de519a7728b277c179706fff41f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/141_01ab18d61806577c79d1d1232e6608695c9156af.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/c9ca442765657fc90e9e779c34d0d2259d2c3c5b.jpg?checksum=37c40635ef7a5eef4590ccfaee586850c5f3b916fe29817c70216e6b15a022ec",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/141_144878e2d309d0d771ba19b87f559a33c840a6a6.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Rescue Rangers",
+    "Chip und Chap - Die Ritter des Rechts"
   ]
 }

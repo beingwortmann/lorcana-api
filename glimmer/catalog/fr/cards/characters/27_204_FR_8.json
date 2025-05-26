@@ -1,0 +1,47 @@
+{
+  "name": "Perdita",
+  "subtitle": "Mère déterminée",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Brian Weisz",
+  "deck_building_id": "9849851df328fe0b986033d99e6d4ab4ed054ed8",
+  "culture_invariant_id": 1691,
+  "sort_number": 1689,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Perdita.) VITE, CACHEZ-VOUS TOUS! Lorsque vous jouez ce personnage, vous pouvez placer toutes les cartes Personnage Chiot de votre défausse dans votre réserve d'encre, face cachée et épuisées.",
+  "card_identifier": "27/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/27_7d000954b44dee4279dc53c0f01d42bd47d7fa0b.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/27_62dac633453796ecc4dc3f459c962f2411f29c99.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/27_e5c59ae7ad167ae80aea6d3d6b8781902ad51e26.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "Les 101 Dalmatiens"
+  ]
+}

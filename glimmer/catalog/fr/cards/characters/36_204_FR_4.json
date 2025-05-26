@@ -27,18 +27,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=5d1ed3119e8844f270cd4752de7cb83719cfc6b0dabaf24645ff1f5946989bc7"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/1468x2048/36_7abe304e2618b2fbf1ef3efd6ddfbd80280f93e8.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=b7d70f80f6af2d36f28931386bd6fe225585ad1bc98d5ba61b72e07ec13ab52a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set4/cards/367x512/36_84dde99c899290522bdcb84dcf8b84ef9e60e37c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/fc074d501302eb2b93e2554793fcaf50b3bf7291.jpg?checksum=682386496ddbdccb9b6bc006825546db3a6755d5af2fe544fc67c6e719d0988b",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set4/masks/1468x2048/36_27d23457e05635dd805408f09dd623fe55bc706a.jpg",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "La Belle et la Bête",
+    "Beauty and the Beast"
   ]
 }

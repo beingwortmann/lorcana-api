@@ -18,18 +18,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=0334f2fcd816ce0765cd6ba7351a5388f759bf8bf76a913eb78d507343c6fc9b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/1468x2048/60_54004a0b342dbaab9bf9bccd2572dfa107afeec8.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=3699bd8c2d180c9b69f1706ce4b890811afb27da4bbfc9cdf2dda8028ae4bf4b"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set6/cards/367x512/60_dcbc73f0b55c320c895d34bbd6420f13ba5af59b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/e6c3dd630428fd54834172b8fd2735fed9416da4.jpg?checksum=ac55382624e6d46aa96d6c8c5a446328435ddd9f5219c1246a6e607d5f993baf",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set6/masks/1468x2048/60_1ae4f0ffe1276beea2eec5e2821f5aa3d9c5c88f.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Alice au Pays des Merveilles",
+    "Alice in Wonderland"
   ]
 }

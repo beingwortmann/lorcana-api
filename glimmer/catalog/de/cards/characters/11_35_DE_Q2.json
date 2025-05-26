@@ -1,0 +1,44 @@
+{
+  "name": "Jago",
+  "subtitle": "Kronensucher",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Eva Widermann",
+  "deck_building_id": "5ca4199d5412d6f8f33b07f6b210be95b2f63582",
+  "culture_invariant_id": 1906,
+  "sort_number": 1906,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) HAB DICH! Jedes Mal, wenn dieser Charakter erkundet, stiehlt Dschafar „Die neu geschmiedete Krone“.",
+  "card_identifier": "11/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/11_e4e651c507c2a152a0abba0e6a7a0cfce64dc967.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/11_d262c8cdb9b3e41c94b01978b4a16a29b454cfe8.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

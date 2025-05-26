@@ -1,0 +1,49 @@
+{
+  "name": "Randale Ralph",
+  "subtitle": "Großer Gauner",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Sam Nielson",
+  "deck_building_id": "c3d8abe27b7eb16bd2601664dd5ab481885277c1",
+  "culture_invariant_id": 1870,
+  "sort_number": 1868,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held",
+    "Rennfahrer"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Randale-Ralph-Charaktere auszuspielen.) WIEDER AUF KURS Wenn du diesen Charakter ausspielst, und jedes Mal, wenn er erkundet, darfst du eine Rennfahrer-Charakterkarte, die 6 oder weniger kostet, aus deinem Ablagestapel zurück auf deine Hand nehmen. Wenn du dies tust, sammelst du 1 Legende.",
+  "card_identifier": "206/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/206_a914505f1a7ec2f7d89ebffc99952de595d3c416.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/206_baae77dfcfada3b28139514b0f0bf3fe8db46d88.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/206_f4db33aa7c1dab4dfa2122e28262087bea6d6aab.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Ralph reichts",
+    "Wreck It Ralph"
+  ]
+}

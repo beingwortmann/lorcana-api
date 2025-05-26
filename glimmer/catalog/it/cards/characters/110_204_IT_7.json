@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=7e400dc00021f1fcc0915f163aa5f97a600e01136d7c4b9a286b3a4f50d8b71c"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/110_5165b5bb4f977b3f68139284f24194c746e1c7a6.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=5f0f88053ea62bc2a032848afc3c983e53d6b145d396c6c3a1dda6acc6724a6a"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/110_9541225ab8a71ff1f3b17be24da3819ea45f5b94.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/5e796e48332af4142b10ca0f86e65d9bfdb05884.jpg?checksum=386cbcaf359e61d073dcf863eb621c4f647f2e9cc2aa89c13177c338196a67b8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/110_90cc6e4ae5ae879993b618852c0765db85347085.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lilli e il vagabondo",
+    "Lady and the Tramp"
   ]
 }

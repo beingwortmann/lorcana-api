@@ -16,19 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=3a30d9e9e9bfd7c853ad9aecd682cd652912dd4eca91ec9f583a4ecee4703b5f"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/119_3082550e8820dc53f7efa1af24bcfe2182e35cbb.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=303dd093eddd2294d11e15b8c4cd80a92eeb50faa08881ae138d2d08d0cb93ad"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/119_c09af7f19516ac1f5dc94d355afefb15c0f3ab05.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg?checksum=0fb7a9900efd1d05bb2a26feec56daccf2582a5db50bff9c1ff6397af9a79a28",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/119_8e8c86440baf1314219c6448e138c7a210841b5b.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD",
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lorcana"
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "name": "The Coachman",
+  "subtitle": "Greedy Deceiver",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "fe8f963a16dbcc2a2786f70afc4ac7042a25a0d2",
+  "culture_invariant_id": 1804,
+  "sort_number": 1803,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain"
+  ],
+  "flavor_text": "",
+  "rules_text": "WILD RIDE While 2 or more characters of yours are exerted, this character gets +2 and gains Evasive. (Only characters with Evasive can challenge them.)",
+  "card_identifier": "140/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/140_72471be6dddeeb754476e213c78d82eb7a713652.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/140_e6df990ca56b7ce7ccf43eb4760cf66200151ba8.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/140_cfdf11b110bea4847b28590415ac24fc71081e49.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

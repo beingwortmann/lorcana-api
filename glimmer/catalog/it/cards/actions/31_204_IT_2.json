@@ -18,19 +18,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=25ab0b52d74a89de889a324cd4a1fc44299660a4d288c3670274dd70f6582a39"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/1468x2048/31_5ae857ed4b48bd6763304ab96325ce2ea18d3d11.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/367x512/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=5b8530f5e328adf909509e6e145bc8c20e473b366a5c575b1145b0e321fb23e6"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set2/cards/367x512/31_280a333c589cb6f94755e0b5530dd047efdeed4f.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set2/masks/1468x2048/632667547e7cd3e0466547863e1207a8c0c0c549.jpg?checksum=546e61820daf3e2b2c8be12f72693c545ff9e5ef9601eaf19a9bc9551948cca8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set2/masks/1468x2048/31_03205b32b8ea15aa8ad7d7e7a770d5e268458e5d.jpg",
   "card_sets": [
     2,
-    9
+    11
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Basil, L'Investigatopo",
+    "Great Mouse Detective"
   ]
 }

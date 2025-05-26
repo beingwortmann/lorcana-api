@@ -1,0 +1,48 @@
+{
+  "name": "Capitan Uncino",
+  "subtitle": "Duellante Aggressivo",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Ornella Savarese",
+  "deck_building_id": "296f4ed274c9b83418b64ea35bcc8ffc4a4a5dc3",
+  "culture_invariant_id": 1850,
+  "sort_number": 1848,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfidante"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Pirata",
+    "Capitano"
+  ],
+  "flavor_text": "Come osi? Prendi un'arma, canaglia!",
+  "rules_text": "Sfidante +2 (Mentre sta sfidando, questo personaggio riceve +2.)",
+  "card_identifier": "186/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/186_e6e38a1dfda0c742e111d50d1a28b78924181ac9.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/186_413a7dc4af2097dd8260091b808bd49458e023cf.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/186_841a306dfae1ad5df50e0ad9c9038e81ccd8a5bd.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Peter Pan",
+    "Le avventure di Peter Pan"
+  ]
+}

@@ -23,20 +23,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=d72c4de0c1c49dd87a0486d109a55b35ee2274fbf7c8823267f3b9c62194cae6"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/143_e6908b108f768a2271c98e917d53d7fcc35b763d.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=47c3a034200b8952e1772fed427a33b69d71ba03887708df5e77306a74aeab77"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/143_79aa13fe5565cf600c4e8e69b1436c631d166a91.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=e3ddf067af265b0473c264743c499a82b2abfe224095fe78d8d74a8681f4735e",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/143_7b0507013f7c4d7d5896871547ee68110d29fc4e.jpg",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1.jpg?checksum=b3d2381956d9598119a0d9976f82e7a379b5b0ffb95bad76e336e1b7103e3332",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/gloss/1468x2048/143_896b7f3cbd81ca4867b16d5370c34e3512a37741.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Great Mouse Detective"
   ]
 }

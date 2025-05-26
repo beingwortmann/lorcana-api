@@ -23,18 +23,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=9aed9d076575f2c6247d577d3f8c110c71b8c10864fa427dce80c97fbd661f36"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/158_d59776ce36af5a7ac6471af30f78bae7c62ddae2.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=3291f3745b4c5709b1881fb0e2be680b146450df3b9249847e1a2b77a1d2b1fe"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/158_dbe634b65388a23db7269fe1eba57e0d57120e06.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3.jpg?checksum=7edf296b09f8b1084133acc8cb5aee2a186410bcdc707c9a4cb5834e1cb64dbd",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/158_684a9c5338e4ab9a65db2bbc3a289b0e776246ba.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Atlantis"
   ]
 }

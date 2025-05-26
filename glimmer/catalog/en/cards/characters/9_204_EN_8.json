@@ -1,0 +1,46 @@
+{
+  "name": "Tiana",
+  "subtitle": "Natural Talent",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Milica Celikovic",
+  "deck_building_id": "6b3948392fa9a30d9b83f0ea009651dc50ea2aae",
+  "culture_invariant_id": 1673,
+  "sort_number": 1672,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "Singer 6 (This character counts as cost 6 to sing songs.) CAPTIVATING MELODY Whenever you play a song, each opposing character gets -1 until the start of your next turn.",
+  "card_identifier": "9/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/9_a6ee69067eeb48524ffc9e5fa83e6feeabd756e6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/9_ac9b3ac3da4a000cb7f7fffba68e777ac7e9415a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/9_151c0169057ece3b4d707196a8f48182da2fdc90.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog"
+  ]
+}

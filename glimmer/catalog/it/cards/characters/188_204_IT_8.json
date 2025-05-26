@@ -1,0 +1,46 @@
+{
+  "name": "Monterey Jack",
+  "subtitle": "Protettore Spavaldo",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Ricardo Caria",
+  "deck_building_id": "0669c45afa1ed8a75915fc48406f8c1f601cc2db",
+  "culture_invariant_id": 1852,
+  "sort_number": 1850,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)",
+  "card_identifier": "188/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/188_0801bb7575279ad98e92a63f79a21ac5d8ee4b69.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/188_cd4b7af1490a854f1fbebf21045f8fb31a1be338.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/188_129fa59f0a59be77fc710c68cc8cb56db5861ba9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Rescue Rangers",
+    "Cip & Ciop agenti speciali"
+  ]
+}

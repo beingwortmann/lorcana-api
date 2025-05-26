@@ -1,0 +1,45 @@
+{
+  "name": "Ruzor",
+  "subtitle": "Ranger volant",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "1eb9f5705effae96f1ba3a5ce437b333dcba62bc",
+  "culture_invariant_id": 1856,
+  "sort_number": 1854,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "MEILLEURS COPAINS Jouer ce personnage vous coûte 1 de moins si vous avez un personnage Jack le Costaud en jeu. ACCÉLÉRATION Durant votre tour, ce personnage gagne Insaisissable. (Il peut défier des personnages avec Insaisissable.)",
+  "card_identifier": "192/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/192_63d559653e358f99b27dc22d51dabca19f876ab2.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/192_77494794823cd6930d0f1821068867c3d1885b9b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/192_d1ac40c00ce4307174e6ac005796da2018557d6a.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Tic et Tac, les rangers du risque",
+    "Rescue Rangers"
+  ]
+}

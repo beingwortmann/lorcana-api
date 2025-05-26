@@ -1,0 +1,41 @@
+{
+  "name": "Primus von Quack",
+  "subtitle": "Vielseitiger Experte",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Pietro B. Zemelo",
+  "deck_building_id": "ad987e8ceb30c109d82e7245edd9c0a4d8d95146",
+  "culture_invariant_id": 1671,
+  "sort_number": 1669,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "ÜBERLEGENER VERSTAND Wenn du diesen Charakter ausspielst, zeigt einer der gegnerischen Mitspielenden deiner Wahl alle Handkarten für alle sichtbar vor und wirft eine Karte deiner Wahl, die keine Charakterkarte ist, ab. EWIGES ERBE Wenn dieser Charakter verbannt wird, darfst du diese Karte verdeckt und erschöpft in deinen Tintenvorrat legen.",
+  "card_identifier": "7/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/7_07ae9e660a61c42151c04bc3aee7b43a9a76ed3e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/7_d8a2d8c110e16209c34fcb95462086a64f154a89.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/7_4e793a9d37f62828d6f750c6470271ce6cb62e86.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "SAPPHIRE"
+  ]
+}

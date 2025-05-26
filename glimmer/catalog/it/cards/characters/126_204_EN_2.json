@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=718efcea53e68ce4ba67b5561a9adc910bec69a696a35f5dce6698e5a98bc751"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/126_76e434de81c63aaa0023595feb9118db660557ac.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=68b77cfc596615081ab897b2e261c2cb31713b13410712c717cf93c4e8197d5b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/126_176f585990d6e04b401d890eaf76a7eca5ee3213.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg?checksum=fe48fe01e151cde6d3855df03c6e7eb940a11782c869033042fe4b4b13fbc5b9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/126_72e1923b8ad6a490349b08240e52d24934435fab.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Il Libro della Giungla",
+    "Jungle Book"
   ]
 }

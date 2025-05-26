@@ -18,19 +18,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=f7f090cb8f613456ad250e18dba1fcc9252444a78b57ca0ef14d1853f1b1e870"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/164_2b10a44a96e7d62cf498f286dbeeee33fff7bcbb.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=86b52155ae31fa2114ad5d42ce15100e4a97dcd7e7305646dfc275ef140d638b"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/164_f0c2480dfa4932547d0198207c65ae3f6674648a.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/a929eb33e338738d2a91e955ce7623764480253c.jpg?checksum=b2be77156e4411eb4cc4821603ba0b46ebee0eac4491c225d9e15990fa00e170",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/164_467e286761dd04d6d5026ad4cf74906053abd5d5.jpg",
   "card_sets": [
     4,
-    9
+    11
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Dornröschen",
+    "Sleeping Beauty"
   ]
 }

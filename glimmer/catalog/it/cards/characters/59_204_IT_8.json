@@ -1,0 +1,45 @@
+{
+  "name": "Maga Magò",
+  "subtitle": "Con Cattive Intenzioni",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "48ab1e66dd5e1b7f7458eee04c72e72552cb3222",
+  "culture_invariant_id": 1723,
+  "sort_number": 1721,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Incantatore"
+  ],
+  "flavor_text": "Credono di conoscere i miei trucchetti... Oh, questo qui sarà meravigliosamente maligno!",
+  "rules_text": "",
+  "card_identifier": "59/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/59_1ea32960144888f3cc7caf2b8511bc8f79273932.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/59_1a61fe16add3b77138be1a4c402859f327f75047.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/59_2e45b5b9c30f1fdaf1242eb5aece72079483d325.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "La Spada Nella Roccia"
+  ]
+}

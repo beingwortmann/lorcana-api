@@ -1,0 +1,43 @@
+{
+  "name": "Sorellina",
+  "subtitle": "Coniglietta Responsabile",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Andrea Parisi",
+  "deck_building_id": "3a961bf8eb9371454ce96de5f2d75d4141a71c9f",
+  "culture_invariant_id": 1827,
+  "sort_number": 1825,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Come sorella maggiore di Saetta, aveva molta esperienza nell'aggiustare le cose.",
+  "rules_text": "LASCIA CHE TI AIUTI Quando giochi questo personaggio, puoi rimuovere fino a 1 danno da un personaggio a tua scelta.",
+  "card_identifier": "163/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/163_72ca0ce21a4e8f0e8163a60655aedcc4b123f561.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/163_cc269dc54a30db5814be586a57dd262ee9f2e7a4.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/163_a226db158800d321e95c92dd5e25de2338483618.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
+  ]
+}

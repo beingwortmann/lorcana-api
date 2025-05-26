@@ -16,19 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=bea87f43a927068763a1a2d2e316194c3e38fc4f27153b23fedf6b7cf6e3b271"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/1468x2048/135_7561ed175b6725f24f7d18cb0284f0a6434dcfa1.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=4a8cfb7af3e3a38e861ffd16a1948b13ee0a55f9f4894743300e4054c31119c8"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set1/cards/367x512/135_70b17ecd1733a15361b0ff4245e18ae757a8127d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/40f7c01f4189510031adccd9c604a128adaf9b00.jpg?checksum=f82b9eeca5fa5c82cec0e27e2878c42e02df83a8d622b5c202ad175dbdbc2cc8",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set1/masks/1468x2048/135_75ab8a4fde7821d589b4badee3d0975238860219.jpg",
   "card_sets": [
     1,
-    9
+    11
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Sleeping Beauty"
   ]
 }

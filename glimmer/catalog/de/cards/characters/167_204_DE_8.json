@@ -1,0 +1,48 @@
+{
+  "name": "Rattenzahn",
+  "subtitle": "Gieriges Genie",
+  "strength": 6,
+  "willpower": 7,
+  "quest_value": 4,
+  "rarity": "LEGENDARY",
+  "ink_cost": 8,
+  "author": "Matthew Robert Davies",
+  "deck_building_id": "33748d6ee65b52b4bdc850aff7d2e12b9ce0276c",
+  "culture_invariant_id": 1831,
+  "sort_number": 1829,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Behütet"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "",
+  "rules_text": "Behütet (Gegnerische Mitspielende können diesen Charakter nicht auswählen, außer um ihn herauszufordern.) DIE ZEIT LÄUFT AB Am Ende deines Zuges, falls du in diesem Zug keine Karte in deinen Tintenvorrat gelegt hast, verbanne diesen Charakter.",
+  "card_identifier": "167/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/167_9991a84edd9f4e0bcea51d422a65a2c93ff5f4eb.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/167_549569c40abdfc3bcdeda6fe320539c680abd5ff.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/167_7282e370dd946449547da47dd49e415d801bbf31.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/gloss/1468x2048/167_aa029adbdb143934f45d736d390836dda3e77d24.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Basil, der große Mäusedetektiv",
+    "Great Mouse Detective"
+  ]
+}

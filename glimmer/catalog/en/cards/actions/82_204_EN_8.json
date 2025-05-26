@@ -1,0 +1,36 @@
+{
+  "name": "Everybody's Got a Weakness",
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Linh Dang",
+  "deck_building_id": "04dc42a3175874e14d93a425a5c83f81f4275812",
+  "culture_invariant_id": 1746,
+  "sort_number": 1745,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Move 1 damage counter from each damaged character you have in play to chosen opposing character. Draw a card for each damage counter moved this way.",
+  "card_identifier": "82/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/82_cf2ea1fc54a5bc230366db04a695687eebd4bf58.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/82_a3eabb8e0761d9f79bdf85e7e0dccb48ed0c4833.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/82_fd375cf7b4baac7b9943d32e95f67c48a91ddd47.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Hercules"
+  ]
+}

@@ -25,18 +25,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=b6fae5fa2a72fe66b5c3696f1d3777a61c4f996354bcd2ceec44af21cd874703"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/1468x2048/194_5267fd4ac4ab438a40e4c7e2889b05600efcef87.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=ccd2e526d41f65c8be80f27e132b9bd73d82e797d928314473b18dd4bc515bd5"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set4/cards/367x512/194_f4b7a8e36e5594411a30a58fa7e6d18fe71a1750.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=580cf97a2b08b7af8a4e3588d7d779f11888647fcdcf57c28dc55c3d818916b2",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set4/masks/1468x2048/194_bb6eba099ff8be72603a6373b52046efa37eac13.jpg",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
   ]
 }

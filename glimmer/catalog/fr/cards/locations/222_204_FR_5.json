@@ -20,19 +20,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=701f0ba984d3eb7a9f238087ecb385d95d80d2ee2e363d6f1e7558db072093f8"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/222_e018e14bf2cfb97a0354717d32eab9aba734240d.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=434e916fc623e865e3734db1989bb0f7b3ab68507c5bec834fa75eabaf5b2bd9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/222_bceca4fca814d146e73d682753b3936d5243950c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/1c6637a8f2e1f75e06ff9984894d6bd16a3a36a9.jpg?checksum=743f2a58dff198fb96fc8abf729cea80028462de6aa22178e28c1aec7996b109",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/222_7cc9f5b814b2853d87f4175257b43a158192cb15.jpg",
   "foil_type": "VerticalWave",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Les Mondes de Ralph"
   ]
 }

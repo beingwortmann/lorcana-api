@@ -27,18 +27,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=637406dae6ebac00cf7280cda5b8c117e5c91efb19e14b06952499119f2a4acc"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/1468x2048/9_5327f5cadbf4745b38a46517b4b4dc0419fa80ce.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=3d29c7ab7e814dd4669a04b0764c3c123c02132096e2eb317fe6a2bb84fe3ab2"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set6/cards/367x512/9_73a253a527f9b76eb77cbf412e8cc627b8e493b9.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/0ade7c2cf97f75d009975f4d720d1fa6c19f4897.jpg?checksum=06884a3c1f023a3a60b73147e6e2de5f6907fe4f1df583508c85d60d72fa613d",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set6/masks/1468x2048/9_4b10078aa9d7ec69617194be71e441b181eba732.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog"
   ]
 }

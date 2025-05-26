@@ -1,0 +1,46 @@
+{
+  "name": "Mère Gothel",
+  "subtitle": "Qu’il faut écouter",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Joel DuQue",
+  "deck_building_id": "dec10104b65a50c0342904a30cb954c857f8035e",
+  "culture_invariant_id": 1734,
+  "sort_number": 1732,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "REGARDE CE QUE TU AS FAIT Lorsque vous jouez ce personnage, vous pouvez choisir un autre de vos personnages et lui infliger 2 dommages. Si vous le faites, le personnage choisi gagne Offensif +1 et \"Lorsque ce personnage est banni via un défi, renvoyez-le dans votre main.\" pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +1.)",
+  "card_identifier": "70/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/70_525b4a3c25802ea00c7f1d14a312bba4fcd29004.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/70_80946080713c84d4252b021e17853b85807ee69d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/70_3c9ea2561974a88bff70ff4e418c8809f11b34e3.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Raiponce"
+  ]
+}

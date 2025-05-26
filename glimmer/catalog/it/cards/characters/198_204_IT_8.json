@@ -1,0 +1,47 @@
+{
+  "name": "Namaari",
+  "subtitle": "Rivale Ostinata",
+  "strength": 0,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 5,
+  "author": "Max Ulichney",
+  "deck_building_id": "7a3eeadf1fc2d88dab10fd80b99712cd1e20fd66",
+  "culture_invariant_id": 1862,
+  "sort_number": 1860,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "SUPERIORITÀ STRATEGICA Quando giochi questo personaggio e all'inizio del tuo turno, puoi pescare una carta, poi scegli e scarta una carta. CONCENTRAZIONE ESTREMA Questo personaggio riceve +1 per ogni carta nei tuoi scarti.",
+  "card_identifier": "198/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/198_41f4d8a6c1954ebe4742b401f47e0cb4fb665160.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/198_1b4d839835b9085bdd04a84bfe5ba37218d1b8cc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/198_95b9d35e2a9db9472edfb594ee409d95d3bfd4b4.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/gloss/1468x2048/198_a460975531efa55ebd9c3137a50f57d28b29fe23.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Raya e l'Ultimo Drago",
+    "Raya and the Last Dragon"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Gaston",
+  "subtitle": "Arroganter Angeber",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Samoldstoree",
+  "deck_building_id": "43ad90059e880643ed35509ac9f1453d0931a266",
+  "culture_invariant_id": 1793,
+  "sort_number": 1791,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Nimm diesen magischen Stein. Du wirst ihn brauchen, um mit mir Schritt zu halten!",
+  "rules_text": "AUFBRECHEN Wenn du diesen Charakter ausspielst, darfst du einen deiner Gegenstände verbannen, um einem Charakter deiner Wahl in diesem Zug +2 zu geben.",
+  "card_identifier": "129/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/129_ecab7fc69ba979368f10f348a23df5526e325645.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/129_28c84a0a0e06aee4c2838eb926a35b84cfba663f.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/129_0ab102e7553e54d2c6195902da73c2e53372db4f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Die Schöne und das Biest",
+    "Beauty and the Beast"
+  ]
+}

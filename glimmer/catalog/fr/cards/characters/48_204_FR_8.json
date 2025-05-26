@@ -1,0 +1,46 @@
+{
+  "name": "Hadès",
+  "subtitle": "Tyran impitoyable",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Marcel Berg",
+  "deck_building_id": "498704459556a4ba90662e632e5370a2645ae1b8",
+  "culture_invariant_id": 1712,
+  "sort_number": 1710,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Dieu"
+  ],
+  "flavor_text": "N'oubliez pas que c'est MOI qui ai l'avantage, ici.",
+  "rules_text": "À COURT DE PATIENCE Lorsque vous jouez ce personnage et chaque fois qu'il est envoyé à l'aventure, vous pouvez choisir un autre de vos personnages et lui infliger 2 dommages. Si vous le faites, piochez 2 cartes.",
+  "card_identifier": "48/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/48_dd77a5801479138f27c7043420980415f44ec72f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/48_ece0e0c32ec03109d128578f58ac94c1c1ecdf7b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/48_b3e1e80a4cbcce1f5892fe28c2c802e455008c72.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Hercules",
+    "Hercule"
+  ]
+}

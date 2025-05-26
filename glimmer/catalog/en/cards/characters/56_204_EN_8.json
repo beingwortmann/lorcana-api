@@ -1,0 +1,46 @@
+{
+  "name": "Ryder",
+  "subtitle": "Fleet-Footed Infiltrator",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "92a8bffc338852c3c4d649bd891f34fb5462730e",
+  "culture_invariant_id": 1720,
+  "sort_number": 1719,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Sheesh, what is it with this high sultan guy? Can't he put in stairs like a normal person?",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "56/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/56_0a3edc86209f673d727a8e6d9ab33fc13e5824ac.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/56_4447338f752bfeaeb09028183c68200129b772b3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/56_dfc477e240347f21f65e180d1e6290bbf73e331e.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Frozen"
+  ]
+}

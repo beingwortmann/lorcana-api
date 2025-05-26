@@ -1,0 +1,48 @@
+{
+  "name": "Ralph Spaccatutto",
+  "subtitle": "Omaccione",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 7,
+  "author": "Javi Salas",
+  "deck_building_id": "c3d8abe27b7eb16bd2601664dd5ab481885277c1",
+  "culture_invariant_id": 1688,
+  "sort_number": 1686,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Pilota"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Ralph Spaccatutto.) DI NUOVO IN PISTA Quando giochi questo personaggio e ogni volta che va all'avventura, puoi riprendere in mano una carta personaggio Pilota con costo 6 o inferiore dai tuoi scarti. Se lo fai, ottieni 1 leggenda.",
+  "card_identifier": "24/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/24_5e816644e6217aef68b5db5db4127cb65cbedbed.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/24_78e98550bd9b36b164bd455b95b041e4da417028.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/24_ef9245d17372dcab3b7fd846aceb4dd5e43e851c.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Ralph Spaccatutto"
+  ]
+}

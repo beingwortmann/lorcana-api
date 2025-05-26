@@ -1,0 +1,43 @@
+{
+  "name": "Chaca",
+  "subtitle": "Junior Chipmunk",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Florencia Vazquez",
+  "deck_building_id": "5113f29625a5b98f1bd2d747f5ea18e0086cabe0",
+  "culture_invariant_id": 1752,
+  "sort_number": 1751,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "IN CAHOOTS When you play this character, if you have a character named Tipo in play, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+  "card_identifier": "88/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/88_bc2b7130b04c7200db4790b39889f2e2cd84098e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/88_58d301936976475d78e22c2b6d86aec053d68037.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/88_d828ecacde71c574177e0e7f133f980a6ac1b261.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove"
+  ]
+}

@@ -25,18 +25,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=90b1cbca0f79714079d997ca67405517a830014528518c2d82fc328c9264bbd6"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/4_43a7930e4c300ffeaef0641938589aace47a35ac.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=019d5025fdb5af72970ce3a17da40d0d5edc5f8354a7410c8e5e7dd767a91d6c"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/4_55738fef63151c4588221b418b151c222cf60c24.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/1b6453892473a467d07372d45eb05abc2031647a.jpg?checksum=a281f98f94fcbcbbbd7dd60d5b214ed3032a214ffce7c90269b67483317f3c69",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/4_240eb151693c723258cadc060a7f546d2b2912ca.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Brother Bear",
+    "Frère des Ours"
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "name": "Darling Dear",
+  "subtitle": "Beloved Wife",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 5,
+  "author": "Jake Murphy",
+  "deck_building_id": "c79b2be577f57d10e268462d5266900613098ea1",
+  "culture_invariant_id": 1680,
+  "sort_number": 1679,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "I don't imagine anything could ever take her place in our hearts.",
+  "rules_text": "HOW SWEET When you play this character, chosen character gets +2 this turn.",
+  "card_identifier": "16/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/16_cc7bf63e658769c81e79835f0fa6708f8888f0b4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/16_bd74e855415cdf9c1932d2bcf515f34420dde87a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/16_6a8635ba8d21618c404f7d8ef857e9456d2e26e7.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp"
+  ]
+}

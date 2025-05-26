@@ -1,0 +1,47 @@
+{
+  "name": "Strolch",
+  "subtitle": "Eleganter Rabauke",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Erika Wiseman",
+  "deck_building_id": "f9251288543cab07d29ed94183d3801f55983056",
+  "culture_invariant_id": 1686,
+  "sort_number": 1684,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Strolch-Charaktere auszuspielen.) BLEIB COOL Jedes Mal, wenn einer deiner Charaktere im Zug einer gegnerischen Person verbannt wird, darfst du 1 Karte ziehen.",
+  "card_identifier": "22/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/22_674e620b30f16e9eabc6328336f92f4f74de3559.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/22_c6b50e51fe467dd2c6134d3b6fdc026ac4b7dd0b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/22_444373a1133ab25c19934134dc4ae92cbe4b41e1.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Susi und Strolch",
+    "Lady and the Tramp"
+  ]
+}

@@ -23,20 +23,23 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=0496e54def4188ef0952abca522460c2c27749832d2193dfa06167d614b2bdac"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/154_7abbc7bfae1939b949700fa84166f1ff5b281226.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=61abc8207a7201627080c1a9ead155db04fd79a0abc838cda60378c01124c8ec"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/154_dec30e01bc41e52a45bf6a5cfc775ddcb9419eb0.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=c3d182f0923396129966180bfe1232c7b2482a6af9209485a9f3f79b2859ec92",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/154_e7625d7601b7847a6e0144fc68fce263f4365cb9.jpg",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/06349be70bd2d5dd98d36b9b8dba0a057500fdac.jpg?checksum=aabc1d00f611a2ff15c6a3e573f6e1fb84247042a0de6b84c5c06486bf9458e0",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/gloss/1468x2048/154_67afd33ae00d1fc3402bc507ffc21a805b24c395.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Ducktales"
   ]
 }

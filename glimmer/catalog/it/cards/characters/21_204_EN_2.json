@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=6fd325244e9a9ff3f44e480fd75d2a3fd3f5cf86ae38c8e3a0fbdc036628c482"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/21_fa3773856f8edc5e07083861a985143df282504a.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=74134ccc901987e1f0bbdcb8e8ea48919f575a75563afb2510cea842d934a2d8"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/21_f22bfc69901968fd189c186ebffd6d909a24f717.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/472b07b9fcf2c2451e8781e944bf5f77cd8457c8.jpg?checksum=9ba492f0ed5803ce8fbc2f129855f092eca63be60dc618306461c14bc0483a19",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/21_632602cc02407f12fc4b4a1fd5aed72158b15604.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Snow White",
+    "Biancaneve e i sette nani"
   ]
 }

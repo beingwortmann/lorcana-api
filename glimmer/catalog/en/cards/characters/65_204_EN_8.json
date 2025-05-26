@@ -1,0 +1,44 @@
+{
+  "name": "Nero",
+  "subtitle": "Fearsome Crocodile",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Teresita Q. / SCG",
+  "deck_building_id": "286d7ab0e04b6c6591e24e7e4aefd5e0fd472e86",
+  "culture_invariant_id": 1729,
+  "sort_number": 1728,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "He's identical to Brutus in temperament and toothiness.",
+  "rules_text": "AND MEAN — Move 1 damage counter from this character to chosen opposing character.",
+  "card_identifier": "65/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/65_6aaca27591fbdab8b5ad7911a309a8dc5a7bc748.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/65_3ea4d848fc6f17c2e1626f1b912847914a0914eb.jpg"
+    }
+  ],
+  "foil_detail_url": "https://api.lorcana.ravensburger.com/images/en/set8/foil-detail/1468x2048/65_d82a1d663f6bcb92754c9d77d9dcb6ac65c5d38b.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/65_98b81aecb0dcf0698754884ef61277fa2c76d834.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Rescuers"
+  ]
+}

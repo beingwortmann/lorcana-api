@@ -29,20 +29,24 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=9e66015b41f9612b472335a810884bde722ffc32c731f221d865a4ec70808d38"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/1468x2048/194_e7333a321808e2dec74f55badef63c26180cf0c3.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=8454a61b85617187978cea793c9233a78db03853d3d5268685404c8187656346"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set6/cards/367x512/194_28395c005f574b820cb3260f78a731670a7c174b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=bf2a74c4bafb7234d2deb88b5b134bd66ff220248091c3d7ad08a7bf741313e5",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/masks/1468x2048/194_b57d5cf3a0e40d3697aaade9f71d3ea4b858c8a7.jpg",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/gloss/1468x2048/2a79f14120945873482b7823caabe2fcde848722.jpg?checksum=3cfcfa2658283b2fac0e8c108074109cadab868c58ea2234da605d803e51e20e",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set6/gloss/1468x2048/194_8fc5278f92b6269691e1f3ba9e82c591700d399e.jpg",
   "card_sets": [
     6
   ],
   "magic_ink_colors": [
     "STEEL"
+  ],
+  "searchable_keywords": [
+    "Treasure Planet",
+    "Der Schatzplanet"
   ]
 }

@@ -24,19 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=e61a97ca285a9ed37e61777559850755696efcd3967e99553ee06ba5e1bcdf75"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/209_3569110e3685612c3434d771bcbbac70911e68a8.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=3ac4619e379aa25fe924f2722c77c1d543e4e9fef1ae5f39b98c545b5940bb4c"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/209_6098a095a5bc98b83539ef94337730162f93cb98.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/acfdd18ea7f4a2ba74132ba977dc207204142994.jpg?checksum=87b638e38e9377e3b8e54a902554047eb72b615efde48bf1426ab9f85411bd2a",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/209_e0835998a70f657c97f14bce413e15f256db715e.jpg",
   "foil_type": "Lava",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Fantasia"
   ]
 }

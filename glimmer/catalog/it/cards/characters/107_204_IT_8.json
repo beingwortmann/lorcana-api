@@ -1,0 +1,48 @@
+{
+  "name": "Go Go Tomago",
+  "subtitle": "All'Avanguardia",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Beno Meli",
+  "deck_building_id": "cdc3c66cf9a3541d7db1be9979f16c88c14c6113",
+  "culture_invariant_id": 1771,
+  "sort_number": 1769,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Sfuggente",
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Inventore"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 4 (Puoi pagare 4 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Go Go Tomago.) Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) ZERO RESISTENZA Quando giochi questo personaggio, se hai usato Trasformazione per giocarlo, puoi aggiungere un personaggio a tua scelta al calamaio del suo giocatore, a faccia in giù e impegnato.",
+  "card_identifier": "107/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/107_dbbe67330ca1a38600cf32be1276364dc9706d48.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/107_f0cec31699e14b54bed276cf597c8bacc0bb01a2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/107_72d81b15c01cb70ae12cf2d3a55d194ed6bf4cc8.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

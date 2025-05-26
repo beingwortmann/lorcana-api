@@ -1,0 +1,47 @@
+{
+  "name": "Mushu",
+  "subtitle": "Your Worst Nightmare",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Jared Mathews",
+  "deck_building_id": "02aa1e9aa98646eadca05cdb2ebc4c786a06f1a2",
+  "culture_invariant_id": 1806,
+  "sort_number": 1805,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Ally",
+    "Dragon"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 4 (You may pay 4 to play this on top of one of your characters named Mushu.) ALL FIRED UP Whenever you play another character, they gain Rush, Reckless, and Evasive this turn. (They can challenge the turn they're played. They can't quest and must challenge if able. They can challenge characters with Evasive.)",
+  "card_identifier": "142/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/142_e895ef11204117f8364202a038cfb6e81f8a4f64.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/142_ee8620b68d1bcefb674aeb6820bd5558421468a7.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/142_b5c700837c4e3f5e564ae445e598f04c127fd302.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

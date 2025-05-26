@@ -1,0 +1,43 @@
+{
+  "name": "Khan",
+  "subtitle": "Kriegspferd",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Defne Tözüm",
+  "deck_building_id": "42ebf34b029c295c6dff061f6b3cad7a262e2c32",
+  "culture_invariant_id": 1857,
+  "sort_number": 1855,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Wenn sich die ganze Welt um dich herum verändert, denk daran, dass Khan immer derselbe sein wird – beständig und wahrhaftig. %–Fa Zhou",
+  "rules_text": "",
+  "card_identifier": "193/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/193_0c5ba9d7bd8df975f1c2de3fe9113858f06bfbed.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/193_5074cc8cb1475c0f4c38e6a69862d0552bdb9f8e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/193_e32edcaa187d515b0bcf42c1a79935e51b222b5a.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

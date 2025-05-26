@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=c6ba1df1f9ab3d6e24bfa80bbf8ec5c211f33868a1d3bdc1327e69d8515468c5"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/1468x2048/82_39faedc4a68152329470cf7e8f25702aec5863bb.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=c9cbfa43dade85e76f6cb8d89ccea1dd3091dbcc498cda8bb551918b019faf47"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set7/cards/367x512/82_572cccc978fc8d15e60be6cb4e7bac310fb5c4cd.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/76546f9a641ede2beab506b96df1688d889e629a.jpg?checksum=a0f8bf3a16826c28168a453f541d17a71f69c6661cc9ff68aabd02b24a1df5f9",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set7/masks/1468x2048/82_23038da62b862a6232f8edc8f56c83f7647546cc.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Snow White"
   ]
 }

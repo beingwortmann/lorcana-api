@@ -1,0 +1,43 @@
+{
+  "name": "Adelaide Bonfamille",
+  "subtitle": "Patron of the Arts",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "edd4c76d434d9b531b4af9fbea9a4075d5676902",
+  "culture_invariant_id": 1828,
+  "sort_number": 1827,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Beautiful music can ennoble one’s spirit, no matter how dire things seem.",
+  "rules_text": "",
+  "card_identifier": "164/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/164_4434441b88c2b1217d99ddc69b63e9f9fd7eceda.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/164_a617f8bdd3b22c8e5acc87ab3cba9bfbb5f2f035.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/164_a893bcc463051d5837af18e25bccd9f01406ff50.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats"
+  ]
+}

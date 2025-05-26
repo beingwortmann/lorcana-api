@@ -1,0 +1,44 @@
+{
+  "name": "Le Colonel",
+  "subtitle": "Vieux chien de berger",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 5,
+  "author": "Mariana Moreno",
+  "deck_building_id": "e3655a27dae1da92cf77d60d195ea2b3b71bc4cd",
+  "culture_invariant_id": 1681,
+  "sort_number": 1679,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Son entraînement s'est avéré très utile pour infiltrer le palais.",
+  "rules_text": "ILS SONT LOIN D’AVOIR NOS EFFECTIFS Tant que vous avez 3 personnages Chiot en jeu ou plus, ce personnage-ci gagne +2 et +2.",
+  "card_identifier": "17/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/17_15c697f4cb395e00932211be0d1b36d839312688.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/17_b4469d0b43da48cac7e4dea36752cb4b8af5fe5f.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/17_398d66f6560da7841960a311db8974016640351f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "Les 101 Dalmatiens"
+  ]
+}

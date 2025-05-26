@@ -23,20 +23,24 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=667e12bb496fa77eae6174837422f4eeee4f866747a64e405df1026135d162fe"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/142_2575a02bf9f072e823eb452096a7f288e403f1ad.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=9fa01ba8ec0790319120045978daa08ef79d5b51de9fbebb7f2e8f8317343ce9"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/142_f6524afd36307b9b0df5a85b52e02c4fae590c48.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=58ef75c1adfe55cb223b28f91d65cd4679ba5f4f3d368a6289c031918cb497ff",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/142_d0dcda0ded2193405f3fcb136865b0ec3b36af55.jpg",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/2a2b47bf21a372f267deccbb420567f3d450b3c0.jpg?checksum=5052f50fd19f2a9f9c703e84e0e1fe1e1d51e38f7e108ccec94ac6a630ba62ed",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/gloss/1468x2048/142_316019b2eed3603a73ff9239cf6f8403cb5502ac.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Jungle Book",
+    "Le Livre de la Jungle"
   ]
 }

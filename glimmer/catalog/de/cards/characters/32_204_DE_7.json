@@ -26,19 +26,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=3b9c9b6462fe4d7e98927c6c6902f6ce35eb6f67577d9f149b5252edbe6f9ffb"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/32_e21186cf2ec7864d0553ad6d3e230f545d7e9269.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=b4fd58a8a4ba2af76b093916abdb80e5a36207b69a6d4ea0b97211f967da8fbe"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/32_e5a5791229750fa063fbeca2915383561ae9d09b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/cb4e5208b4cd87268b208e49452ed6e89a68e0b8.jpg?checksum=2bf1b7ebe2fd956124c6ac54238a0c46d0e91bbaa42e518bbf7ebaf283e9d905",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/32_d29fbc6f6de4ea4138b574619dc69f5b218e8c17.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMBER",
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Cinderella"
   ]
 }

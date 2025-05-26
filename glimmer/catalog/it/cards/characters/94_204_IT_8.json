@@ -1,0 +1,44 @@
+{
+  "name": "Ciop",
+  "subtitle": "Pasticcione",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "939b4a9b30b7327b1120ebfd40746a1a5f00ad6a",
+  "culture_invariant_id": 1758,
+  "sort_number": 1756,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Sei il coraggioso copilota che può fare qualsiasi cosa... Ho detto coraggioso? Volevo dire stupido!%—Cip",
+  "rules_text": "",
+  "card_identifier": "94/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/94_469328f0a3deb4444d42cdd84509da5666606f38.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/94_29fe0f1947113adc365c7dee869eaf58dc88af15.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/94_59e1a1735740e0b3cb6ead8b308932f975da8142.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Rescue Rangers",
+    "Cip & Ciop agenti speciali"
+  ]
+}

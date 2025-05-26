@@ -1,0 +1,42 @@
+{
+  "name": "Napoleon",
+  "subtitle": "Clever Bloodhound",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Mariana Moreno",
+  "deck_building_id": "97e349325526ee080e4cd0b8549f1eab65031668",
+  "culture_invariant_id": 1760,
+  "sort_number": 1759,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Everyone knows that without rations, an operation'll be a failure. And this is why I outrank you, Lafayette. 'Cause I see the big picture.",
+  "rules_text": "",
+  "card_identifier": "96/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/96_b6a1340dd22233648675aa542fc61d49b6ae3524.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/96_739fb3dd901b1678acefa4c92fd151cb5f33a207.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/96_7ad5b1a9e966a18678f6167356c56cfbb45336c8.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Aristocats"
+  ]
+}

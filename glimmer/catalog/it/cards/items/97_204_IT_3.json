@@ -16,18 +16,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=9a4d305c477463d6f58dee8704a557b723e6fb808b3ee1b7dea2b4ed8de7ff56"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/1468x2048/97_a4076cf591edcfc83b9d78d045d198f6225288cd.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=9a9dd4f9c1772e778b51368a87ba5e2af036899e9dd588f6a435eff265f6b0c8"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set3/cards/367x512/97_7003bd36b6284cbbec69aa6d73b4b1655141e36f.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/812ed4562d3211363a7b813aa9cd2cf042b63bb2.jpg?checksum=3f98e61542078f3eb00348545701d662ef53d9e0ff1ee4c63b3fb16baaaf2db7",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set3/masks/1468x2048/97_929a73025acefb0e8fc9f0ed75cd773027639b07.jpg",
   "card_sets": [
     3
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Talespin"
   ]
 }

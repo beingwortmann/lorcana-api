@@ -17,18 +17,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=fd52a9e93c6395da4ebe785bdb42619542f861577291e54ea2cb471206281084"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/1468x2048/44_a1a2c6030ff03f04271ee751020eaca2a392a3c5.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=c61075a94e4a73b7857c8dfa5b8748d242dbd02b031d5839d5335edeb37c2afa"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set7/cards/367x512/44_edc45fa4c3f74418959826dd4baa20569a3611dc.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/98fbc42faedc02492397cb5962ea3a3ffc0a9243.jpg?checksum=3f112e094dc335734b60d4514197f6e25729263c334ffaaf3d1bce17170cc694",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set7/masks/1468x2048/44_5cfba6b2903406a20f4bb5bb318b16684dce5925.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Cenerentola",
+    "Cinderella"
   ]
 }

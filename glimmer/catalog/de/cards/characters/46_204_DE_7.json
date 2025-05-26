@@ -23,18 +23,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=cd1fb473013d770e71dbe5193172e932e6cffb92078d097a73dcd33246bffaed"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/1468x2048/46_a73e0d23b8e83977f506e6fd9583df8e788ea6a2.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=7fd2a9df7d6f8aa34a671c9104217960ff7e4ce08bc8f4d56a9a561c101e9112"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set7/cards/367x512/46_204469694b0f896f06a3a00772970fc8a004bc60.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/fe2ef495a1152561572949784c16bf23abb28057.jpg?checksum=1c23fcbea200cfd476da9af24e6159370fe5f6ad2307c0a37844423869169a83",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set7/masks/1468x2048/46_89d2c26c2a71967cce11c32ede1cedf1613311a2.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Brother Bear",
+    "Bärenbrüder"
   ]
 }

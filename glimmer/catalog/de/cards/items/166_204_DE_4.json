@@ -16,18 +16,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=4f773f60d8b9d4365b688f878a015ed41ed82eb22c311c5034618e39dcaa28e6"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/1468x2048/166_af0395e0539056a96a4363c7ed40da09cba65c94.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=8be68c40979007fccf3ab94c720b1f484dadfdb6656aa2280483db30e4e5d10f"
+      "url": "https://api.lorcana.ravensburger.com/images/de/set4/cards/367x512/166_bf147665cf6042afe8112c4a513bdad6f29d908d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f.jpg?checksum=e18eb080243da8b2c9ddfd9a6f2e69d85f518db4c591a4f4a5b59b1017567c22",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set4/masks/1468x2048/166_196db83d811cceccbe3f4d126bc1395f3e1a72a4.jpg",
   "card_sets": [
     4
   ],
   "magic_ink_colors": [
     "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen",
+    "Die Eiskönigin"
   ]
 }

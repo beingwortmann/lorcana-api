@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=102954dec04ff0cad1b165ccdfbfef3546cd7676b4072508232a22c50c42b203"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/118_e376010cdf9de8c679f07b5efd472f5b4d26b8e0.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=55f63ddcd5231c2f08033c91834aa2ee399854d21599b3172142c6a70d659743"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/118_62f30cea5d8dfe59cb91945c7785cf8bdf7b19e0.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/12f0de3dc76e067d21ed85125716e02e9f1e69f0.jpg?checksum=7a6c4eae3380df8321b723381a34dd5f9435d869d5733bd8387bdfd69a97b272",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/118_8035dbd7d724150155438f2e826940d4119ef8c8.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "RUBY"
+  ],
+  "searchable_keywords": [
+    "Raya e l'Ultimo Drago",
+    "Raya and the Last Dragon"
   ]
 }

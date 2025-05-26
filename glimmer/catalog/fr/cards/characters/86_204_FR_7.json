@@ -24,18 +24,22 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=8020c10e3c9262fe42d20f21c1e8533f1dd3e88d8b9c7b8a7acbe70847d8ea83"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/86_b83f8861cb536614f5eece5ec84e196d35cef43d.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=0d9b878049098cbaa17f7e227b8a65e702495e366c50b8885d6868bddb1b8d0e"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/86_5cc88f24e31df96640b5e8660849acbbbc0e945d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/3c26dffc8a2e8804dfe2c8a1195cfaa5ef6d0014.jpg?checksum=b9d9ebd97c8d51e72426836731e7c9c592d87fc09f864e41f6c828e3c981b3ce",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/86_717288736a4c126f44ccad70dae8cca9592f64b4.jpg",
   "card_sets": [
     7
   ],
   "magic_ink_colors": [
     "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Treasure Planet",
+    "La Planète au Trésor"
   ]
 }

@@ -22,18 +22,21 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=bcdda5c44f8358ad0bbbcd78e720e513707345faf50c2be85e6c01d5c7e25325"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/1468x2048/52_d8949c12ae486c9132a079ba77d85a205a61bf8f.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=b7e4d92672b4173efc0ff9cd2838935c8119c6905f12443d3bb6b0e56205513a"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set5/cards/367x512/52_7dfb8da6432d306c46b51c3dde9a54ef9004e808.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/a9334987ece78b6fe8bf130ef00b74847c1d3da6.jpg?checksum=fc53e91e8c5850a503e49c616622434a1884943b213b6bfb382d7ff231ed1255",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set5/masks/1468x2048/52_45dc8881b523c8dec9326b2280ee90aaa07992c6.jpg",
   "card_sets": [
     5
   ],
   "magic_ink_colors": [
     "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
   ]
 }

@@ -19,23 +19,26 @@
     "Seven Dwarfs"
   ],
   "flavor_text": "Life is sweeter with friends.",
-  "rules_text": "Oh, Gosh!\\ This character can't quest unless you have another Seven Dwarfs character in play.",
+  "rules_text": "OH, GOSH! This character can't quest unless you have another Seven Dwarfs character in play.",
   "card_identifier": "1/204 EN 2",
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=a4d878bc69b6dfea38e0a78799ea19339886c30df1a35dc5f2e6424bcca84d5b"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/1468x2048/1_1e38ef5974bbcb4bd38af1df1c050cd8018f5f3e.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=d12187b2980115fb05c341688aed410f48880a9fa2536c95f103a758031d0578"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set2/cards/367x512/1_504c0c5fca740ee661fb406907706644efb439d1.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/356a192b7913b04c54574d18c28d46e6395428ab.jpg?checksum=713d815a69905a0cbdab80b53c56ded254bdb29b61d337bb84098ed0942a651f",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set2/masks/1468x2048/1_174dd26a3912484f884c99ee0dd7b5525e35b92a.jpg",
   "card_sets": [
     2
   ],
   "magic_ink_colors": [
     "AMBER"
+  ],
+  "searchable_keywords": [
+    "Snow White"
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "name": "Collier incrusté",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "a55f40c14f531761828d5025ffb3cade2560095f",
+  "culture_invariant_id": 1784,
+  "sort_number": 1782,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Archazia a créé nombre de choses merveilleuses, mais aucune n'est aussi belle que celui-ci.",
+  "rules_text": "EXTRAVAGANT ET DE BON GOÛT Chaque fois que l'un de vos personnages est défié, vous pouvez placer la carte du dessus de votre pioche dans votre réserve d'encre, face cachée et épuisée.",
+  "card_identifier": "120/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/120_025f1de92542941b83b667e96917a817e8c0512f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/120_212542a6bd6aca7dd24cc0c06f19a7aa465f61b9.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/120_37347499f61e86f6964b57edab80aa507ea0b7ae.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats",
+    "Les Aristochats"
+  ]
+}

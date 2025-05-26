@@ -1,0 +1,43 @@
+{
+  "name": "Jasmin",
+  "subtitle": "Vergängliche Prinzessin",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Ian MacDonald",
+  "deck_building_id": "ab22a83a772ba022834c25c5a2acd0a919c67b19",
+  "culture_invariant_id": 1904,
+  "sort_number": 1904,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Held",
+    "Prinzessin",
+    "Illusion"
+  ],
+  "flavor_text": "Diese Version mag zwar weniger substanzreich sein als die echte Prinzessin, aber sie ist trotzdem recht nützlich.%–Dschafar",
+  "rules_text": "HIER DRÜBEN! Jedes Mal, wenn dieser Charakter erkundet, zieht Dschafar eine Karte.",
+  "card_identifier": "9/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/9_3037a335775ce59d1aba7b204af10abdd9399426.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/9_34dca773deddc4c1db49a7f4f3dad2fdf17ab474.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

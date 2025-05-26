@@ -1,0 +1,45 @@
+{
+  "name": "Féline",
+  "subtitle": "Faonne enjouée",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "8a3ab5a8243de7387068a90640536421e6ba2a47",
+  "culture_invariant_id": 1809,
+  "sort_number": 1807,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) AMIE DE JEUNESSE Tant que vous avez un personnage en jeu avec plus de que n'importe quel autre personnage adverse, ce personnage-ci gagne +2.",
+  "card_identifier": "145/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/145_e2db24eaeb3fbcd4689e8f0b955645007ddc8a56.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/145_49d5857aa0813ba9f5bdeebc5ec752faafbabd77.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/145_6eff6cca10f41cef828ae727894b32fc89f01d40.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}
