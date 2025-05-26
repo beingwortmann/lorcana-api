@@ -1,0 +1,42 @@
+{
+  "name": "Génie",
+  "subtitle": "Apparition imposante",
+  "strength": 3,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Gonzalo Kenny",
+  "deck_building_id": "68f0834657d681662450d1893d0ac1dd1a8a4fb5",
+  "culture_invariant_id": 1902,
+  "sort_number": 1902,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Allié",
+    "Illusion"
+  ],
+  "flavor_text": "Contemplez la puissance de mes sortilèges. Ce génie m'appartient !%—Jafar",
+  "rules_text": "TIMING PARFAIT Lorsque Jafar joue ce personnage, si chaque Illumineur a au moins un personnage épuisé en jeu, Jafar gagne 3 éclats de Lore.",
+  "card_identifier": "7/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/7_ef80cd40082fda46ddeac20b9523697070acc806.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/7_73474192b387a3fc4aff20dbe08cdab0d76720c9.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

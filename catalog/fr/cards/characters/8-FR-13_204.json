@@ -1,0 +1,43 @@
+{
+  "name": "Gene",
+  "subtitle": "Résident de Niceland",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "509735c520ba2565357da084b01feb2f43038387",
+  "culture_invariant_id": 1677,
+  "sort_number": 1675,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Recevoir une médaille, c'est vraiment génial. Voir Gene mal à l'aise, c'est encore mieux.%—Ralph la Casse",
+  "rules_text": "J'IMAGINE QUE TU L'AS MÉRITÉE Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez choisir un personnage et lui retirer jusqu'à 2 dommages.",
+  "card_identifier": "13/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/13_d9cb64479c7df2b24c170c149e18041e472fe3c8.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/13_7c0e3a6dee018157c9eb854cc0685b9d9a47da59.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/13_1250a8478db599637dcadf6fab5f113a3bae7db1.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Les Mondes de Ralph"
+  ]
+}

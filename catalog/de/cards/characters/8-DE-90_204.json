@@ -1,0 +1,43 @@
+{
+  "name": "Bill, die Eidechse",
+  "subtitle": "Schornsteinfeger",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Kendall Hale",
+  "deck_building_id": "69b9facbf15d57278b8ed4a2118c589d75a4b24f",
+  "culture_invariant_id": 1754,
+  "sort_number": 1752,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Eine Eidechse mit einer Leiter ist genau das, was wir suchen!%–Weißes Kaninchen",
+  "rules_text": "DAS SCHAFFST DU DOCH Solange mindestens ein anderer Charakter im Spiel beschädigt ist, erhält dieser Charakter Wendig. (Nur Charaktere mit Wendig können den Charakter herausfordern.)",
+  "card_identifier": "90/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/90_b3e61463cec3933b858fc812f764a2f871122550.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/90_9b43c523c61dd3b91e7ce04927f09680a06a42b8.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/90_7297d562a794a70acb025461453cee83e36c12e4.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland",
+    "Alice im Wunderland"
+  ]
+}

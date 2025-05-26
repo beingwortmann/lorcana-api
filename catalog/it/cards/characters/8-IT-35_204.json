@@ -1,0 +1,48 @@
+{
+  "name": "Clawhauser",
+  "subtitle": "Ufficiale dell'Accettazione",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Denny Minonne",
+  "deck_building_id": "ef6860b6167954d4c4f0197491da61470349cd99",
+  "culture_invariant_id": 1699,
+  "sort_number": 1697,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano",
+    "Melodioso"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Detective"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) Melodioso 4 (Questo personaggio conta come di costo 4 per cantare le canzoni.)",
+  "card_identifier": "35/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/35_6b55cf20ea87bbbeb2309ad3fc67b90151c4f265.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/35_61a43ac83bdcbdefdee2db6c4fbc79c32f318b89.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/35_53a3e047cb63e15504204be30b00a2cc865bd9a9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Zootropolis",
+    "Zootopia"
+  ]
+}

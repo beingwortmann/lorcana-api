@@ -1,0 +1,45 @@
+{
+  "name": "Feline",
+  "subtitle": "Verspieltes Rehkitz",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "8a3ab5a8243de7387068a90640536421e6ba2a47",
+  "culture_invariant_id": 1809,
+  "sort_number": 1807,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Wendig"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Wendig (Nur Charaktere mit Wendig können diesen Charakter herausfordern.) VORWITZIGE FREUNDIN Solange du einen Charakter mit einer höheren als die jedes gegnerischen Charakters im Spiel hast, erhält dieser Charakter +2.",
+  "card_identifier": "145/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/145_078364bfdf692621d7215f2f8423431750dd1c9d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/145_830279a48ce8d949d539058de2e0f6c652af8e29.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/145_74d3b45600c83084c6c4e8ebfecb3a6f40dbffd6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

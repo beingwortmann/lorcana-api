@@ -1,0 +1,45 @@
+{
+  "name": "Atitāya",
+  "subtitle": "Generale di Zanna",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "French Carlomagno",
+  "deck_building_id": "2fbf4e9a81573029b4474c2e4f97101bed05846c",
+  "culture_invariant_id": 1845,
+  "sort_number": 1843,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Lance di Zanna, siate saldi e forti. Siamo l'ultima linea di difesa e non soccomberemo!",
+  "rules_text": "",
+  "card_identifier": "181/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/181_114482e470e4a17a8b58149581cff5f0468a878e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/181_fad6c0dcacf1fcb2f57cfacde1578d214c0b3fe6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/181_05c9674cc825181cf26e2dda28271e134f7ff593.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Raya e l'Ultimo Drago",
+    "Raya and the Last Dragon"
+  ]
+}

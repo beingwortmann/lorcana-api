@@ -1,0 +1,46 @@
+{
+  "name": "Stitch",
+  "subtitle": "Experiment 626",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 3,
+  "author": "Matteo Marzocco",
+  "deck_building_id": "2b044feacd5a7ab8653f088ab25e14b039ea379c",
+  "culture_invariant_id": 1830,
+  "sort_number": 1829,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Alien"
+  ],
+  "flavor_text": "",
+  "rules_text": "SO NAUGHTY When you play this character, each opponent puts the top card of their deck into their inkwell facedown and exerted. STEALTH MODE At the start of your turn, if this card is in your discard, you may choose and discard a card with to play this character for free and he enters play exerted.",
+  "card_identifier": "166/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/166_f74490ff985b8435cfb0332eded60745051af08a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/166_4ec419a31b55af2098ab49179c96d4cc42593518.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/166_e945931bc7adb47ca37495ccc9f1f2d124718a4e.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/gloss/1468x2048/166_35de7c541f867e951a5b1370259c5b488e45800b.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lilo and Stitch"
+  ]
+}

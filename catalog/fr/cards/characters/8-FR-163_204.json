@@ -1,0 +1,44 @@
+{
+  "name": "Soeur de Bobby",
+  "subtitle": "Lapine responsable",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Andrea Parisi",
+  "deck_building_id": "3a961bf8eb9371454ce96de5f2d75d4141a71c9f",
+  "culture_invariant_id": 1827,
+  "sort_number": 1825,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "En tant que grande sœur de Bobby, elle a de l’expérience pour remettre les choses dans l’ordre.",
+  "rules_text": "LAISSEZ-MOI VOUS AIDER Lorsque vous jouez ce personnage, vous pouvez choisir un personnage et lui retirer jusqu'à 1 dommage.",
+  "card_identifier": "163/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/163_606d29f29cf13f1068e4b8134fe87497cf70db3c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/163_36b085aae00b642713cf1c452a81a61446a06624.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/163_8178b144c214ce0c97860fe2d54755e0b84685c7.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Robin des Bois",
+    "Robin Hood"
+  ]
+}

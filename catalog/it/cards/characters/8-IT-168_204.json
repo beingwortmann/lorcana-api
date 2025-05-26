@@ -1,0 +1,45 @@
+{
+  "name": "Artù",
+  "subtitle": "Scudiero Determinato",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Edu Francisco",
+  "deck_building_id": "1159caf1c1cb7fb994736f4906d2d9f1066bd0b5",
+  "culture_invariant_id": 1832,
+  "sort_number": 1830,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Tu vuoi essere tutto muscoli e niente cervello?%—Merlino",
+  "rules_text": "BASTA CON I LIBRI Salta il passaggio di Pesca del tuo turno.",
+  "card_identifier": "168/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/168_3bd8a801f2c18b473aca8a3b0dd37669f4d23d58.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/168_40b54b1303326f426c9b03750d77c79a9189d3dd.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/168_8d7587c0a111fc158c3fc42d911a6572b072a0dc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "La Spada Nella Roccia"
+  ]
+}

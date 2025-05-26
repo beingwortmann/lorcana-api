@@ -1,0 +1,42 @@
+{
+  "name": "March Hare",
+  "subtitle": "Hare-Brained Eccentric",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Dustin Panzino",
+  "deck_building_id": "8a1715bb3a41a990bfa9cca9be698c8944be40d8",
+  "culture_invariant_id": 1755,
+  "sort_number": 1754,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "He really knows how to light up a room.",
+  "rules_text": "LIGHT THE CANDLES When you play this character, you may deal 2 damage to chosen damaged character.",
+  "card_identifier": "91/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/91_2d0992163394b65487a2ef20ec77df014a47a3fa.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/91_3cd00c10e3d38009143369506c72ac3b4fe6ad40.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/91_969a49b568f5369158f00e8a0d89927368898484.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland"
+  ]
+}

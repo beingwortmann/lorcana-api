@@ -1,0 +1,47 @@
+{
+  "name": "Vanellope Von Schweetz",
+  "subtitle": "Spunky Speedster",
+  "strength": 3,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "French Carlomagno",
+  "deck_building_id": "f688dbd85d7d9d0deb20a991bf4299135b286ae0",
+  "culture_invariant_id": 1788,
+  "sort_number": 1787,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Evasive"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess",
+    "Racer"
+  ],
+  "flavor_text": "I can handle anything you throw at me... Wait, are those <laser snakes>? This is the best track ever!",
+  "rules_text": "Evasive (Only characters with Evasive can challenge this character.)",
+  "card_identifier": "124/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/124_3c2d4a95240db03bbeb15b16b3c8758b916ddb89.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/124_22afd2e612b2dbd5de0e3b276b7c6d6624f40cd7.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/124_dc4f627e4191545dc88e639f11989e38ad3a5b1a.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph"
+  ]
+}

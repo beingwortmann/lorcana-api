@@ -1,0 +1,42 @@
+{
+  "name": "Gene",
+  "subtitle": "Niceland Resident",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Rianti Hidayat",
+  "deck_building_id": "509735c520ba2565357da084b01feb2f43038387",
+  "culture_invariant_id": 1677,
+  "sort_number": 1676,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "Getting a medal feels pretty great. Making Gene squirm feels even better. —Wreck-It Ralph",
+  "rules_text": "I GUESS YOU EARNED THIS Whenever this character quests, you may remove up to 2 damage from chosen character.",
+  "card_identifier": "13/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/13_84b5941d1f232c4df9c192e2b3f47d0dda08600a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/13_d80b3141c55cb36db3df94f94ab4bf8d24648843.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/13_ef32fe4097c869e1ad4e9549af90bab26f0624f2.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph"
+  ]
+}

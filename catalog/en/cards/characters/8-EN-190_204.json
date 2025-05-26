@@ -1,0 +1,43 @@
+{
+  "name": "Toby Turtle",
+  "subtitle": "Wary Friend",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Irish Chua",
+  "deck_building_id": "ceee5141d95bd0a4e22bf7d9d0353bf2e3c36418",
+  "culture_invariant_id": 1854,
+  "sort_number": 1853,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "This place is scarier than Prince John.",
+  "rules_text": "HARD SHELL While this character is exerted, he gains Resist +1. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "190/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/190_804560fc1ccb3c880e57f07bed0de7ac0e0eb647.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/190_c165a7742dcdfa84d75877e4eb75c393cda51bff.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/190_cba5c141da67086e2d93d588fa56450b8574ca39.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
+  ]
+}

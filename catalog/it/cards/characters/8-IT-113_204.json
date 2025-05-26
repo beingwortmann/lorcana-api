@@ -1,0 +1,44 @@
+{
+  "name": "Anacleto",
+  "subtitle": "Gufo Pieno di Risorse",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Gwawi",
+  "deck_building_id": "0db41c144267742c585a92951d97cb8fbdfc7a2f",
+  "culture_invariant_id": 1777,
+  "sort_number": 1775,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "QUESTO NON TI SERVE Quando giochi questo personaggio, puoi esiliare un oggetto a tua scelta. ECCO, NON È COSÌ MALE Durante il tuo turno, ogni volta che un oggetto viene esiliato, puoi pescare una carta, poi scegli e scarta una carta.",
+  "card_identifier": "113/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/113_1b94a7a0510c6ef6bc4f1d0d2d7cb48b29f5f666.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/113_326c0b0ff151f128fccffc27f7a93c9645e60270.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/113_5a46bff7e5600322de45b05cefb7c0aa5dc2c47b.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "La Spada Nella Roccia"
+  ]
+}

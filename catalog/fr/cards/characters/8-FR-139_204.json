@@ -1,0 +1,48 @@
+{
+  "name": "Lumière",
+  "subtitle": "Tout feu tout flamme",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 5,
+  "author": "Justin Runfola",
+  "deck_building_id": "cd39c54678ac991587db8497726dcd78b478b748",
+  "culture_invariant_id": 1803,
+  "sort_number": 1801,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter",
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 3 (Vous pouvez payer 3 pour jouer ce personnage sur l'un de vos personnages Lumière.) Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) SACREBLEU! Chaque fois que l'un de vos objets est banni, ce personnage gagne +1 pour le reste de ce tour.",
+  "card_identifier": "139/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/139_21533a33bd7365f6a15e6ee289a0458c9accf69f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/139_2a24f15d57d69c2470cf0e6124783c930743d16a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/139_35a6f7d0824f97362dc8700ca07587efa490e230.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "La Belle et la Bête",
+    "Beauty and the Beast"
+  ]
+}

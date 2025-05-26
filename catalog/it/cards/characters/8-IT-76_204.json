@@ -1,0 +1,43 @@
+{
+  "name": "Fiore",
+  "subtitle": "Puzzola Timida",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Sandra Rios",
+  "deck_building_id": "64bcc8dbec56c1a40e869de72bbf82705d067936",
+  "culture_invariant_id": 1740,
+  "sort_number": 1738,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "La sua natura dolce supera tutti i fiori del prato.",
+  "rules_text": "IN CERCA DI AMICI Ogni volta che giochi un altro personaggio, guarda la prima carta del tuo mazzo. Mettila in cima o in fondo al tuo mazzo.",
+  "card_identifier": "76/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/76_5623fba6f0b5a6158d81fd0250e34734215ca935.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/76_88e418e3e8b429e59386278f288c60407765a176.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/76_ee490df218a6860f7ea36c1c3f5d14613e9191c6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

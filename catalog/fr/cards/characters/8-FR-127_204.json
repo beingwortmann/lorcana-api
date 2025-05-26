@@ -1,0 +1,44 @@
+{
+  "name": "Alice",
+  "subtitle": "Courageuse porteuse de clé",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Filipe Laurentino",
+  "deck_building_id": "162b1048dfcb2afc70a5bd30eee1680b2da51299",
+  "culture_invariant_id": 1791,
+  "sort_number": 1789,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Mince alors, ces scarabées sont affreusement proches! Il faut vite trouver la sortie!",
+  "rules_text": "PAR ICI LA SORTIE Lorsque vous jouez ce personnage, vous pouvez choisir l'un de vos personnages avec un dommage ou plus et le redresser. Ce personnage ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "127/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/127_e0c6da701cec9c260d22ca8219a310326572ab2c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/127_802f1b98a87f361cee0a7221be5fe6dab59734a5.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/127_3afd983baa2973e7c7f1d3be057c907e6e2d21c9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Alice au Pays des Merveilles",
+    "Alice in Wonderland"
+  ]
+}

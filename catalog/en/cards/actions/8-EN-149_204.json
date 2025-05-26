@@ -1,0 +1,37 @@
+{
+  "name": "Light the Fuse",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3614498b58e0cf1cc33837d6960c31671cbd30a9",
+  "culture_invariant_id": 1813,
+  "sort_number": 1812,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "A bold act can change the course of battle.",
+  "rules_text": "Deal 1 damage to chosen character for each exerted character you have in play.",
+  "card_identifier": "149/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/149_3840cd7cebbae4d7a792e9b85207ec95a046fd81.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/149_ef0403f6017a5c40dcafbf14c2272221e70940ca.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/149_a59c824b8a3731aa4fc6e8452db9a1c05761a699.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

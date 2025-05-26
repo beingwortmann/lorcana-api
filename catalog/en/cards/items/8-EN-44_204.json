@@ -1,0 +1,33 @@
+{
+  "name": "The Nephews' Piggy Bank",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "8bb480d66afa05abc46b8e1acccb123b0e1426b2",
+  "culture_invariant_id": 1708,
+  "sort_number": 1707,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "INSIDE JOB If you have a character named Donald Duck in play, you pay 1 less to play this item. PAYOFF — Chosen character gets -1 until the start of your next turn.",
+  "card_identifier": "44/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/44_6f3c2ad1837f2a60a79c4e919fac98342d29d859.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/44_579094db61fd08dfd833fe8c642fc51d109baf4b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/44_7361086094d66fd63f479f6eabf7dbb8c20564de.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Senza Pensieri",
+  "rarity": "ENCHANTED",
+  "ink_cost": 9,
+  "author": "Ian MacDonald",
+  "deck_building_id": "41430a33d61146dd95a179122a74a0b04e5c2502",
+  "culture_invariant_id": 1872,
+  "sort_number": 1870,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 9 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 9 o superiore può per cantare questa canzone gratis.) Riprendi in mano fino a 3 carte personaggio dai tuoi scarti. Paga 2 in meno per giocare il tuo prossimo personaggio per questo turno.",
+  "card_identifier": "208/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/208_fd61ba76cd5f2a20e8c5b327ffe098c53de88058.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/208_b7f5ac2df01f8e0785e11b738d1bcc3497687997.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/208_c77ee0a4647084a3ef72b9071bfa1eda6755c093.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Lion King",
+    "Il re leone"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Destructive Misstep",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Diogo Saito",
+  "deck_building_id": "668838ce2eec5b2cee8e3ed273c21c3a536386e4",
+  "culture_invariant_id": 1914,
+  "sort_number": 1914,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Jafar's locations lose Ward until the start of his next turn. The Illumineers may choose and banish up to one of Jafar's locations.",
+  "card_identifier": "19/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/19_189d33f5317e9e2f833f3edaef5ffdcad195cb32.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/19_9124e77e8a6e21e4d666f31fc0f96c2dc066d7e5.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

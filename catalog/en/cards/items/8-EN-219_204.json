@@ -1,0 +1,37 @@
+{
+  "name": "The Sword of Shan-Yu",
+  "rarity": "ENCHANTED",
+  "ink_cost": 1,
+  "author": "Jonathan Livslyst / Renée Chio",
+  "deck_building_id": "f53cefd9fc2611fc223d96dff8640a4eeaf9068d",
+  "culture_invariant_id": 1883,
+  "sort_number": 1882,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "WORTHY WEAPON , one of your characters — Ready chosen character. They can't quest for the rest of this turn.",
+  "card_identifier": "219/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/219_23e180184377283371f3b2f83cd2649523e3e229.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/219_e6a784419c1a192f8cccf8e00574f2e66562f3ab.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/219_2517f65ac6c3122ec786dbbdbcf486178b4cba57.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

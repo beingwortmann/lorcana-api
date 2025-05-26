@@ -1,0 +1,42 @@
+{
+  "name": "Petto in Fuor",
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Lorenza Pigliamosche / Livio Cacciatore",
+  "deck_building_id": "7742f7b5a856d9e0d4a7cdca15498823c733e9d5",
+  "culture_invariant_id": 1839,
+  "sort_number": 1837,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 6 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 6 o superiore può per cantare questa canzone gratis.) Rimuovi fino a 3 danni da un qualsiasi numero di personaggi a tua scelta. Tutti i personaggi avversari ricevono -3 per questo turno.",
+  "card_identifier": "175/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/175_06d86c2d6db0720cc40a09392603c361a7ac3bf5.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/175_b113775a2a61947f644585859213d7f0043cb031.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/175_690b49dd456d85d596b3536838f5993341351357.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Le avventure di Bianca e Bernie",
+    "Rescuers"
+  ]
+}

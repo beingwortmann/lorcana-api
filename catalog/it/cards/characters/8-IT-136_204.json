@@ -1,0 +1,49 @@
+{
+  "name": "Trilli",
+  "subtitle": "Fata Insistente",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 2,
+  "author": "Amber Kommavongsa",
+  "deck_building_id": "277378a21856338f8273ccfc4abe9e49ad10589d",
+  "culture_invariant_id": 1800,
+  "sort_number": 1798,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sfuggente"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Fata"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sfuggente (Solo altri personaggi con Sfuggente possono sfidare questo personaggio.) DAMMI RETTA Ogni volta che giochi un personaggio con 5 o superiore, puoi impegnarlo per ottenere 2 leggenda.",
+  "card_identifier": "136/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/136_64186add5210d5f18ffa06044d518dfe18e92933.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/136_fffb2449883d4faa68ec75731679a5f5cb8b93f4.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/136_29171a8b1a3f0bf182a8eab7ce64adf50b2896a8.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/gloss/1468x2048/136_e0812ae04b281541eca9142cd247b48dca3e4a42.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Peter Pan",
+    "Le avventure di Peter Pan"
+  ]
+}

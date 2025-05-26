@@ -1,0 +1,47 @@
+{
+  "name": "Mushu",
+  "subtitle": "Ton pire cauchemar",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Jared Mathews",
+  "deck_building_id": "02aa1e9aa98646eadca05cdb2ebc4c786a06f1a2",
+  "culture_invariant_id": 1806,
+  "sort_number": 1804,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Allié",
+    "Dragon"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Mushu.) PÈTE LE FEU Chaque fois que vous jouez un autre personnage, il gagne Charge, Combattant et Insaisissable pour le reste de ce tour. (Ce personnage peut défier le tour où il est joué. Il ne peut pas être envoyé à l'aventure et doit défier s'il le peut. Il peut défier des personnages avec Insaisissable.)",
+  "card_identifier": "142/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/142_6d6c6550f875363f8ba5c452c03034ba578517ff.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/142_336a6ba94fe0c237269cbe7fddb1c41920b44646.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/142_9e4ac683d1d90746bc40d9c8b7bac17588d9fc41.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

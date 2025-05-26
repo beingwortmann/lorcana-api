@@ -1,0 +1,44 @@
+{
+  "name": "Bobby",
+  "subtitle": "Purple Pigeon",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Adam Fenton",
+  "deck_building_id": "5071a3a017156ec252d3ef037f0e3fb1fd212f87",
+  "culture_invariant_id": 1846,
+  "sort_number": 1845,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "You come at me, you get the beak, capisce?",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+  "card_identifier": "182/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/182_57b39ee3ce63e2cecf953daa3d16fc73d625332d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/182_8b1030598944280943a6ce8a5e448fd4ec95ef77.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/182_b554a2d060de359716b96372edf314c8134e4b56.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Bolt"
+  ]
+}

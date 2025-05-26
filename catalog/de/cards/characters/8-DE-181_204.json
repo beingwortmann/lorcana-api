@@ -1,0 +1,45 @@
+{
+  "name": "Atitaya",
+  "subtitle": "Generalin aus Zahn",
+  "strength": 7,
+  "willpower": 7,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "French Carlomagno",
+  "deck_building_id": "2fbf4e9a81573029b4474c2e4f97101bed05846c",
+  "culture_invariant_id": 1845,
+  "sort_number": 1843,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Speere aus Zahn, steht aufrecht und wach. Wir sind die letzte Bastion und wir geben nicht nach!",
+  "rules_text": "",
+  "card_identifier": "181/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/181_c875dc67ef6285b9242f79c6c410552fc5876e4e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/181_f5406713d27c6f76bd16fd0d21351470c3169486.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/181_9770148b73d6d1387ef5152d4af3f01e4f8e553d.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Raya und der letzte Drache",
+    "Raya and the Last Dragon"
+  ]
+}

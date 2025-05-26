@@ -1,0 +1,45 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Entrant par effraction",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "577d26f1ad1c747203aca439a701bc0b4705224c",
+  "culture_invariant_id": 1766,
+  "sort_number": 1764,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Prince"
+  ],
+  "flavor_text": "D'une manière ou d'une autre, j'obtiens ce que je veux.",
+  "rules_text": "AUJOURD'HUI EST UN GRAND JOUR Chaque fois que ce personnage est défié, le joueur qui a lancé le défi peut défausser une carte. S'il ne le fait pas, vous gagnez 2 éclats de Lore.",
+  "card_identifier": "102/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/102_713c494dde1eea4751fb6d511af0302d73630eab.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/102_691a4b17ce75b22df1d158bdb7328507b356656f.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/102_18d16560362cc4b26fe08a3cf2e92e4715adedc2.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Raiponce"
+  ]
+}

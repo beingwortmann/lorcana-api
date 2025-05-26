@@ -1,0 +1,43 @@
+{
+  "name": "Klopfer",
+  "subtitle": "Junges Häschen",
+  "strength": 0,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Oggy Christiansson",
+  "deck_building_id": "18380961ea65710ae50b2e4dec656d96cb63f860",
+  "culture_invariant_id": 1798,
+  "sort_number": 1796,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Komm schon! Zeigen wir dem bösen, alten Sultan, wo der Hase lang läuft.",
+  "rules_text": "DAS SCHAFFST DU DOCH! – Gib einem Charakter deiner Wahl in diesem Zug +3.",
+  "card_identifier": "134/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/134_2318d76918851608104d0eefdbe5b37164aa59f3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/134_e599ab2b718a959c687cb7c19b8511f655149a7d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/134_38fe834ed7b14cc797477dc3c6e4d69d989a18c2.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

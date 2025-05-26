@@ -1,0 +1,47 @@
+{
+  "name": "Abu",
+  "subtitle": "Illusory Pachyderm",
+  "strength": 3,
+  "willpower": 7,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Grace Tran",
+  "deck_building_id": "fc278a703770bc359b9bcfe2f95aeb009697b0a3",
+  "culture_invariant_id": 1714,
+  "sort_number": 1713,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Vanish"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Illusion"
+  ],
+  "flavor_text": "",
+  "rules_text": "Vanish (When an opponent chooses this character for an action, banish them.) GRASPING TRUNK Whenever this character quests, gain lore equal to the of chosen opposing character.",
+  "card_identifier": "50/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/50_10f1b3e9830d286bb1d8bfd37436fa5f5b3a8cc1.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/50_2d2d0456618530873be6706e1ac62aaa207e264d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/50_f1481eedefe05b83bed1f225ca892b482b158286.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

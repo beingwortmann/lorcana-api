@@ -1,0 +1,43 @@
+{
+  "name": "Royal Armory",
+  "subtitle": "Heavily Guarded",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Veronica Di Lorenzo",
+  "deck_building_id": "e4e96ce2469b9e97d0b438d3932369829cbc38a4",
+  "culture_invariant_id": 1925,
+  "sort_number": 1926,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Resist"
+  ],
+  "subtypes": [
+    "Obstacle"
+  ],
+  "flavor_text": "",
+  "rules_text": "Resist +1 (Damage dealt to this location is reduced by 1.)",
+  "card_identifier": "30/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/30_ef08f1c2449180fa6422b880ba91d393e06b040c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/30_9b2c30a0d98bba2d4bfb335e5f1c9ec602009785.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Grand Coquin",
+  "subtitle": "Conspirateur éhonté",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Valentina Graziuso",
+  "deck_building_id": "32fdea47709bd05d16eb1a363123772b5e2496c8",
+  "culture_invariant_id": 1786,
+  "sort_number": 1784,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Dites voir, des joyaux qui traînent un peu partout dans un endroit aussi luxueux ? Ce serait dommage si certains venaient à disparaître...",
+  "rules_text": "",
+  "card_identifier": "122/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/122_d0bc5d97b93b801fb8a02d34b4a5e6b2f35b7731.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/122_d4d30933e4e69dd7064d53e0b88f052e67ed1305.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/122_c5ffc14471d464459222292d711e2e8647bd7b69.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

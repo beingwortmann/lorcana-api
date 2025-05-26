@@ -1,0 +1,45 @@
+{
+  "name": "Yzma",
+  "subtitle": "On Edge",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Julien Vandois",
+  "deck_building_id": "12eeb86e37f64546133910be1f491f5bd01ae282",
+  "culture_invariant_id": 1732,
+  "sort_number": 1731,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "Sorcerer"
+  ],
+  "flavor_text": "",
+  "rules_text": "WHY DO WE EVEN HAVE THAT LEVER? When you play this character, if you have a card named Pull the Lever! in your discard, you may search your deck for a card named Wrong Lever! and reveal that card to all players. Put that card into your hand and shuffle your deck.",
+  "card_identifier": "68/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/68_53c741362dad2c7bca84909b6d174c380484d327.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/68_7ced614103edbdb62f4660abc6ef2513677646e3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/68_fe5f1a2796bd14b6a9ab52f28c7ec28e1e8fd696.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Vinnie",
+  "subtitle": "Green Pigeon",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Cam Kendell",
+  "deck_building_id": "5827dd1bd5d9fc8a64b9e611432fefae1a0c5449",
+  "culture_invariant_id": 1858,
+  "sort_number": 1857,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "That’s quite a predicament you’re in. Glad it ain’t me.",
+  "rules_text": "LEARNING EXPERIENCE During an opponent's turn, whenever one of your other characters is banished, gain 1 lore.",
+  "card_identifier": "194/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/194_18286ffb940afc8c45fd1333d611c1ef01c7490d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/194_f77e79c4be00336b112cf9bb4e5c9586405313a6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/194_b67e3965330347f0af273a63c681f253ef32d71c.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Bolt"
+  ]
+}

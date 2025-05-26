@@ -1,0 +1,38 @@
+{
+  "name": "Dérapage sucré",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "a0153cbf8a3efb1e35d6007278e22a7c7006135b",
+  "culture_invariant_id": 1703,
+  "sort_number": 1701,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Ça va faire fondre ton moteur comme un sac de bonbons à la cannelle, alors t'as intérêt à gagner rapidement!%—Vanellope von Schweetz",
+  "rules_text": "Piochez une carte. Choisissez l'un de vos personnages qui gagne +5 pour le reste de ce tour. Bannissez-le à la fin de ce tour.",
+  "card_identifier": "39/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/39_1c9118b8a2c14466e1c4686d475f8eb2fa6ed948.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/39_34c5b93e86c5b29070318c011448cee960239110.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/39_280188cb854ee062637b127d83226cfa28c39c91.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Les Mondes de Ralph"
+  ]
+}

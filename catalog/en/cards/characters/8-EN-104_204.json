@@ -1,0 +1,46 @@
+{
+  "name": "Alice",
+  "subtitle": "Clumsy as Can Be",
+  "strength": 2,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Arianna Rea",
+  "deck_building_id": "4ebbac71024f902baab0a404f68a139bfc927b05",
+  "culture_invariant_id": 1768,
+  "sort_number": 1767,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Shift"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Hero"
+  ],
+  "flavor_text": "",
+  "rules_text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Alice.) ACCIDENT PRONE Whenever this character quests, put 1 damage counter on each other character.",
+  "card_identifier": "104/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/104_e6732aa858a85d279a36dd2747771f2f4ce76057.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/104_e70119989f8e5d2c1af3eb92f0b2a2ab0efa8054.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/104_9928018d8fc7d6f12ca3238cf71b4b6f39753154.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland"
+  ]
+}

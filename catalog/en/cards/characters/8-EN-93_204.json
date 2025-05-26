@@ -1,0 +1,44 @@
+{
+  "name": "Mad Dog",
+  "subtitle": "Karnage's First Mate",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Luis Huerta",
+  "deck_building_id": "a4b3741414a7ffbb2b4a8666523aba01f6ae53ec",
+  "culture_invariant_id": 1757,
+  "sort_number": 1756,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Pirate"
+  ],
+  "flavor_text": "He certainly isn't the brains of the operation.",
+  "rules_text": "ARE YOU SURE THIS IS SAFE, CAPTAIN? If you have a character named Don Karnage in play, you pay 1 less to play this character.",
+  "card_identifier": "93/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/93_509130ff42ca870b5e2c39febf23d6a3e38d7de7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/93_d35be7bd3f921b6518d8a32b0941ea863fd503ef.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/93_b0329a1778bea3f69ed3032094d5813cc9285bfe.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Talespin"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Madame Adelaide",
+  "subtitle": "Förderin der Kunst",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "edd4c76d434d9b531b4af9fbea9a4075d5676902",
+  "culture_invariant_id": 1828,
+  "sort_number": 1826,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Schöne Musik kann den Geist beflügeln, egal wie schlimm die Dinge zu sein scheinen.",
+  "rules_text": "",
+  "card_identifier": "164/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/164_5d84dc765b1bb9a94bd439af19da07e89fc9d44c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/164_92af9db79721ad6d1460fcf3da35c2cdd6eb9f33.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/164_df3f026a33ed345d79db4ac0266cd260f4f688ba.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats"
+  ]
+}

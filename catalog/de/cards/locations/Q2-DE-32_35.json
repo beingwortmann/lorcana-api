@@ -1,0 +1,41 @@
+{
+  "name": "Tiefbrunnen-Labyrinth",
+  "subtitle": "Geheimnisvolle Hallen",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Giuseppe di Maio",
+  "deck_building_id": "27f192a1917a820c5e07067a94ce2f94e28bdbd5",
+  "culture_invariant_id": 1927,
+  "sort_number": 1927,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Hindernis"
+  ],
+  "flavor_text": "",
+  "rules_text": "DAS LABYRINTH KARTIEREN Jedes Mal, wenn ein Charakter diesen Ort herausfordert, wählen alle Luminari je 1 Karte aus ihrer Hand und werfen sie ab.",
+  "card_identifier": "32/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/32_f59d27bc7b4c68954002206af643d2211992012f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/32_4541a33dc21022d04acee14a3d3efe91c6f3d105.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

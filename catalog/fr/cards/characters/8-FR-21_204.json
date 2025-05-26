@@ -1,0 +1,45 @@
+{
+  "name": "Kaa",
+  "subtitle": "Python hypnotiseur",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Francesco D'ippolito / Malia Ewart",
+  "deck_building_id": "f282a36bea0b86730827e7de3e6e6879a13d9171",
+  "culture_invariant_id": 1685,
+  "sort_number": 1683,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Sache que tu viens de commettre une très, très grosse maladresse, mon ami.",
+  "rules_text": "REGARDE-MOI DANS LES YEUX Chaque fois que ce personnage est envoyé à l'aventure, choisissez un personnage adverse qui subit -2 et qui gagne Combattant jusqu'au début de votre prochain tour. (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "21/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/21_2bfd04bd58797ef8a24a5f1873e3fdbbd58a4830.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/21_7723fb3f191d5b08eb4ebac77adb8c2f75e127c9.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/21_d9534d255cc05687a36507c58ca8a45b51c547b7.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Jungle Book",
+    "Le Livre de la Jungle"
+  ]
+}

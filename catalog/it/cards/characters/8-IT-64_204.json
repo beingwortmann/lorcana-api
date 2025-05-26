@@ -1,0 +1,44 @@
+{
+  "name": "Balena",
+  "subtitle": "Famigerato Cetaceo",
+  "strength": 6,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "1c70c65c4d7b69c92748b9cb0841e95c8fb2f60d",
+  "culture_invariant_id": 1728,
+  "sort_number": 1726,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Lesto"
+  ],
+  "subtypes": [
+    "Classico"
+  ],
+  "flavor_text": "",
+  "rules_text": "Lesto (Questo personaggio può sfidare nel turno in cui è stato giocato.) INCURSIONE Scegli e scarta una carta — Prepara questo personaggio. Non può andare all'avventura per il resto di questo turno.",
+  "card_identifier": "64/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/64_57e3ab2328f230d57ba5f3af502b56e0f4cd6628.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/64_5db449fd9dd28faec0dfa174615e10188835f2ef.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/64_46f1fe4e315f644f18c08b56a1e31c14a024a3ee.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

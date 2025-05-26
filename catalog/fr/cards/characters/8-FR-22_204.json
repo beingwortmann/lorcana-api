@@ -1,0 +1,47 @@
+{
+  "name": "Clochard",
+  "subtitle": "Voyou élégant",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Erika Wiseman",
+  "deck_building_id": "f9251288543cab07d29ed94183d3801f55983056",
+  "culture_invariant_id": 1686,
+  "sort_number": 1684,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Clochard.) GARDER SON SANG-FROID Durant le tour d'un adversaire, chaque fois que l'un de vos personnages est banni, vous pouvez piocher une carte.",
+  "card_identifier": "22/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/22_514dd35910351815b95431774dac6e154698f90a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/22_53d217f1a373c34b29bd5778d1c3e3618345ad9d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/22_5a7215dcce9798da7f8939bdc13a9bc0669a4daf.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Lady and the Tramp",
+    "La Belle et le Clochard"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Monstro",
+  "subtitle": "Berüchtigter Wal",
+  "strength": 6,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "1c70c65c4d7b69c92748b9cb0841e95c8fb2f60d",
+  "culture_invariant_id": 1728,
+  "sort_number": 1726,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rasant"
+  ],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.) VOLLER DURCHBRUCH Wähle eine Karte aus deiner Hand und wirf sie ab – Mache diesen Charakter bereit. Er kann in diesem Zug nicht mehr erkunden.",
+  "card_identifier": "64/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/64_a91a23e9cc8f230d22a7a4ca6eedb9400a963570.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/64_0c0f51e2549a0a6fe064a0babd99d97981e0f591.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/64_b4def9531348348f634dd461b2505603dfc2f34d.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

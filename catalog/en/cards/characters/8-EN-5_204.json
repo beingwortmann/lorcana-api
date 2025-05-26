@@ -1,0 +1,45 @@
+{
+  "name": "Antonio Madrigal",
+  "subtitle": "Friend to All",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 4,
+  "author": "Valerio Buonfantino",
+  "deck_building_id": "032142a4ff0a2d57c066e32be096f9670d1c7182",
+  "culture_invariant_id": 1669,
+  "sort_number": 1668,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Madrigal"
+  ],
+  "flavor_text": "",
+  "rules_text": "OF COURSE THEY CAN COME Once during your turn, whenever one of your characters sings a song, you may search your deck for a character card with cost 3 or less and reveal that card to all players. Put that card into your hand and shuffle your deck.",
+  "card_identifier": "5/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/5_bf271ecbae8a6b98fd824225615c8bbc26aedda6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/5_4272de5f07268455f50785ce91d11edc8d658780.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/5_f8d4c75a72f12084cb3dd40c2c399b78d70ee4e1.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Encanto"
+  ]
+}

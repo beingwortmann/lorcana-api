@@ -1,0 +1,46 @@
+{
+  "name": "King Candy",
+  "subtitle": "Sugar Rush Nightmare",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Joseph Buenning",
+  "deck_building_id": "d2cab8910ba9c6d3110900d1d62e58c1914b862a",
+  "culture_invariant_id": 1687,
+  "sort_number": 1686,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Villain",
+    "King",
+    "Racer"
+  ],
+  "flavor_text": "",
+  "rules_text": "A NEW ROSTER When this character is banished, you may return another Racer character card from your discard to your hand.",
+  "card_identifier": "23/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/23_f506399c694872f96d1b8c3882ba8a9cf41281d4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/23_d7b8738a8c3b96cc44805134c6a0747486af0126.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/23_3d852d6b9e3d20c430127e927754d08aca7314de.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph"
+  ]
+}

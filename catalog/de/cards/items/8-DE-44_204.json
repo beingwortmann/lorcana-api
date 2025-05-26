@@ -1,0 +1,33 @@
+{
+  "name": "Das Sparschwein der Neffen",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Jeremy Adams",
+  "deck_building_id": "8bb480d66afa05abc46b8e1acccb123b0e1426b2",
+  "culture_invariant_id": 1708,
+  "sort_number": 1706,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "INSIDER-JOB Wenn du einen Donald-Duck-Charakter im Spiel hast, zahlst du 1 weniger, um diesen Gegenstand auszuspielen. RÜCKZAHLUNG – Gib einem Charakter deiner Wahl bis zu Beginn deines nächsten Zuges -1.",
+  "card_identifier": "44/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/44_ff3033966e12f1f14372903f87fc01c46fdaee70.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/44_0d99da451baa39c81497b44645e0abeec74a46bd.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/44_e4f88ca3e5998b22c9915d261b8618d2b35c6ff6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

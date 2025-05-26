@@ -1,0 +1,46 @@
+{
+  "name": "Calhoun",
+  "subtitle": "Meneuse intraitable",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 6,
+  "author": "Edu Francisco / Amanda Duarte",
+  "deck_building_id": "33b9c6a65331f2a7dd61ada4198a004de3dca94a",
+  "culture_invariant_id": 1696,
+  "sort_number": 1694,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu'il défie l'un de vos personnages, un personnage adverse doit, s'il le peut, choisir l'un de vos personnages avec Rempart.) APPARITION DE BUTIN Lorsque ce personnage est banni, gagnez 1 éclat de Lore.",
+  "card_identifier": "32/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/32_5b8ec062faf03acc38260fdd3b30db1e70b0e809.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/32_c149a83f231dc919d8f26202ba409ea3128a3f87.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/32_40d99e7682327a085d88cdeb8afdc0386bf13f65.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Wreck It Ralph",
+    "Les Mondes de Ralph"
+  ]
+}

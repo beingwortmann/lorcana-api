@@ -1,0 +1,38 @@
+{
+  "name": "Piano Disperato",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "LadyShalirin",
+  "deck_building_id": "16dd16a0102a332d98ec5d332408410daf87552c",
+  "culture_invariant_id": 1886,
+  "sort_number": 1884,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Se non hai carte in mano, pesca finché non hai 3 carte in mano. Altrimenti, scegli e scarta un qualsiasi numero di carte, poi pesca altrettante carte.",
+  "card_identifier": "222/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/222_9245678dc1d2a85e4ec964847c7f6730dad02068.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/222_a992388a88f6e1efec21b441e2a08dc1d49d4721.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/222_e7069427c2c69af39f8ca4ae109106c631df0c3a.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Raya e l'Ultimo Drago",
+    "Raya and the Last Dragon"
+  ]
+}

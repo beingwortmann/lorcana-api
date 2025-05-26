@@ -1,0 +1,46 @@
+{
+  "name": "Stitch",
+  "subtitle": "Experiment 626",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Natalie Dombois",
+  "deck_building_id": "2b044feacd5a7ab8653f088ab25e14b039ea379c",
+  "culture_invariant_id": 1884,
+  "sort_number": 1882,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Alien"
+  ],
+  "flavor_text": "",
+  "rules_text": "DAS IST JA WIDERLICH Wenn du diesen Charakter ausspielst, legen alle gegnerischen Mitspielenden die oberste Karte ihres Decks verdeckt und erschöpft in ihren Tintenvorrat. TARNKAPPENMODUS Zu Beginn deines Zuges, wenn diese Karte in deinem Ablagestapel ist, darfst du eine Karte mit von deiner Hand abwerfen, um diese Karte kostenlos und erschöpft auszuspielen.",
+  "card_identifier": "220/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/220_ec78788daee2175afed46508a9cd00a089bd5ce3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/220_652f91021ca2774c7f2655e0ff434187dfc5e9a6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/220_228b9b516e1807be4fae458f0819b7b860dc8fd7.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lilo and Stitch",
+    "Lilo und Stitch"
+  ]
+}

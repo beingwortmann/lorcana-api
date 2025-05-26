@@ -1,0 +1,45 @@
+{
+  "name": "Chief Bogo",
+  "subtitle": "Commanding Officer",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Nicola Saviori",
+  "deck_building_id": "9c728cf42b8669fbff70c74afadcb565ef3b0e1a",
+  "culture_invariant_id": 1682,
+  "sort_number": 1681,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "SENDING BACKUP During an opponent's turn, whenever one of your characters with Bodyguard is banished, you may reveal the top card of your deck. If it's a character card with cost 5 or less, you may play that character for free. Otherwise, put it on the top of your deck.",
+  "card_identifier": "18/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/18_6d52cd45d57b94826f8d8a01b7cf5e7b92878cde.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/18_b901c84928e9792e53e0fa0fbc0670a7f8bf1b2f.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/18_b74aa86b5db3520344784f31b182e73f3640249b.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/gloss/1468x2048/18_f7680d591b50855f7c06c0b5ef585f8cfbe30d77.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Zootropolis",
+    "Zootopia"
+  ]
+}

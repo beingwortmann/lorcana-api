@@ -1,0 +1,37 @@
+{
+  "name": "Walk the Plank!",
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Alibeth Zermeno",
+  "deck_building_id": "3d359a0a02dc0bf5f086f4d17147df8470c977e0",
+  "culture_invariant_id": 1782,
+  "sort_number": 1781,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "It was at this point that John decided he'd had quite enough adventure.",
+  "rules_text": "Your Pirate characters gain \" — Banish chosen damaged character\" this turn.",
+  "card_identifier": "118/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/118_3f8f19bd4f7219e9c8b5d0d8b9b6c8ffd509eb2a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/118_bfa97233a6943265a1ee75a9f1e2b9ee13e6cd50.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/118_c607e53ab401c14f7a8d5ef34d731bce2dbbde48.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Peter Pan"
+  ]
+}

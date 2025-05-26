@@ -1,0 +1,47 @@
+{
+  "name": "Raya",
+  "subtitle": "Expertin für Infiltrationen",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Dustin Panzino",
+  "deck_building_id": "838c6c1f78294dbbac1010c0b8d58757bc6192b6",
+  "culture_invariant_id": 1764,
+  "sort_number": 1762,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Prinzessin"
+  ],
+  "flavor_text": "",
+  "rules_text": "UNGEWÖHNLICHE TAKTIKEN Jedes Mal, wenn dieser Charakter erkundet, darfst du 2 bezahlen, um einen anderen Charakter deiner Wahl bereit zu machen.",
+  "card_identifier": "100/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/100_65f2ec239e4df0b1d5515a9a13220263865547b3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/100_b253d2646ae402d160a0fbdcaff92df41a596ac9.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/100_1febcde1b77e737c38d4674aee8101f76121c7bf.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/gloss/1468x2048/100_b436585ea78b6862efd6403e630ca85a8edf5fe9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Raya und der letzte Drache",
+    "Raya and the Last Dragon"
+  ]
+}

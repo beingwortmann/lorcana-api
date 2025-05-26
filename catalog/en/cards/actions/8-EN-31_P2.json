@@ -1,0 +1,36 @@
+{
+  "name": "Pull the Lever!",
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Mario Manzanares",
+  "deck_building_id": "443fdfdb48d4bec4a4157b8fa1372ce2ca8187fa",
+  "culture_invariant_id": 1891,
+  "sort_number": 1894,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Choose one: • Draw 2 cards. • Each opponent chooses and discards a card.",
+  "card_identifier": "31/P2 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/31_493db3c34655332ae534c0ca5c91227126d49746.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/31_3891e5b5050df8ed52132f2c11bb64ee9b9775e7.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/31_ad8bfc9bcb98f5ae730e633baca18988939bb83b.jpg",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ]
+}

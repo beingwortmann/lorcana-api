@@ -1,0 +1,42 @@
+{
+  "name": "Pluto",
+  "subtitle": "Affidabile",
+  "strength": 2,
+  "willpower": 7,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Raquel Villanueva",
+  "deck_building_id": "0c912a19d4e57cccd16d2d25e6d826cbb6f199b2",
+  "culture_invariant_id": 1692,
+  "sort_number": 1690,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "AIUTANTE FELICE Mentre questo personaggio non ha danno, riceve +2 e ottiene Aiutante. (Ogni volta che va all’avventura, puoi aggiungere la sua alla di un altro personaggio a tua scelta per questo turno.)",
+  "card_identifier": "28/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/28_d746bf4874cd8f8e31764031939c9f4201fa0d40.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/28_482c17953bdd5481072a16033fdd4cffcb0ae1ba.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/28_03cabe774543a0c09bc30f7e3dca498502368bbe.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ]
+}

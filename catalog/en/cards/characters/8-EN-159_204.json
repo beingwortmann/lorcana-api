@@ -1,0 +1,44 @@
+{
+  "name": "Go Go Tomago",
+  "subtitle": "Mechanical Engineer",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jennifer Wu",
+  "deck_building_id": "40846eae71b4a2f0477743719c11a08182d09375",
+  "culture_invariant_id": 1823,
+  "sort_number": 1822,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Inventor"
+  ],
+  "flavor_text": "Check it out! This ‘ink’ offers so many possibilities.",
+  "rules_text": "NEED THIS! When you play a Floodborn character on this card, you may put the top card of your deck into your inkwell facedown and exerted.",
+  "card_identifier": "159/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/159_4c5f86758420395230649620bd2b2d7ffd4625ba.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/159_86e0358456d2a20f536cfbab56234be66d52f28d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/159_7f3885b2d6c85cb876aec31a99ddb98958a4bacc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

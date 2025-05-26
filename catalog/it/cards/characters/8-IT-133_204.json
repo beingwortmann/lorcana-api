@@ -1,0 +1,43 @@
+{
+  "name": "Figaro",
+  "subtitle": "Gatto Bicolore",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Saulo Nate",
+  "deck_building_id": "f682275599ccf863e9becb5cac4f455052ec7d83",
+  "culture_invariant_id": 1797,
+  "sort_number": 1795,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Dì buonasera a Figaro. Già fai malanni!%—Geppetto",
+  "rules_text": "GIOCOSO Gli oggetti avversari entrano in gioco impegnati.",
+  "card_identifier": "133/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/133_1164dac1e1d0de8adea96f21cd3065f94fdba0ed.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/133_23693a3ccdef8cf71d7149947775d08f21ede202.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/133_8425f2db421dae92f54258f4d60e3983c26c8c87.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

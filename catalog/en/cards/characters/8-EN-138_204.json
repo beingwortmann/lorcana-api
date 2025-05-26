@@ -1,0 +1,44 @@
+{
+  "name": "LeFou",
+  "subtitle": "Cake Thief",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Simone Buonfantino",
+  "deck_building_id": "8e79bca168af9ababf4c78ca6193a25f88168742",
+  "culture_invariant_id": 1802,
+  "sort_number": 1801,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "LeFou, sometimes you really take the cake. —Gaston",
+  "rules_text": "ALL FOR ME , Banish one of your items — Chosen opponent loses 1 lore and you gain 1 lore.",
+  "card_identifier": "138/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/138_acbebdf65123af9d5a813f1129f69182d63972ef.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/138_59969e5762306c2a6e44a0fdf9e61cee98e800bd.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/138_8441228e717814bb9cfb2c29ef1b45db61f638d3.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Beauty and the Beast"
+  ]
+}

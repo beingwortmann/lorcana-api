@@ -1,0 +1,48 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Stratega Sicura",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "ENCHANTED",
+  "ink_cost": 4,
+  "author": "Viv Tanner",
+  "deck_building_id": "8e61e3ca51b3ebb4328a02e52cc3c45757b3e641",
+  "culture_invariant_id": 1885,
+  "sort_number": 1883,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 2 (Puoi pagare 2 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Jasmine.) SEMPRE A PIANIFICARE Ogni volta che questo personaggio va all'avventura, guarda le prime 3 carte del tuo mazzo. Puoi rivelare una carta personaggio Alleato e aggiungerla alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine.",
+  "card_identifier": "221/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/221_22552bf3866ed3c094ac55272f028ad0e57e6b5e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/221_a531c1d53c8ae60b5b80dceb00577a80feb1bc37.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/221_73a5f55bed6a2ea2e199f124aa438e27c29182dc.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

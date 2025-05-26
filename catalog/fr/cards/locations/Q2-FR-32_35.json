@@ -1,0 +1,41 @@
+{
+  "name": "Labyrinthe des souterrains",
+  "subtitle": "Couloirs mystifiants",
+  "willpower": 6,
+  "quest_value": 1,
+  "move_cost": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Giuseppe di Maio",
+  "deck_building_id": "27f192a1917a820c5e07067a94ce2f94e28bdbd5",
+  "culture_invariant_id": 1927,
+  "sort_number": 1927,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Obstacle"
+  ],
+  "flavor_text": "",
+  "rules_text": "CARTOGRAPHIER LE LABYRINTHE Chaque fois qu'un personnage défie ce lieu, chaque Illumineur défausse une carte.",
+  "card_identifier": "32/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/32_c349e899783f6ca97925426db6117e428577ce38.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/32_559cdb8b1b42948404bb0e875d76f10ecd353fc6.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

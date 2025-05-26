@@ -1,0 +1,45 @@
+{
+  "name": "Gloyd Orangeboar",
+  "subtitle": "Hartnäckiger Konkurrent",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Rudy Hill / Denny Minonne",
+  "deck_building_id": "d23fb62e58a5e37fc9f04d4ead58b2087a98c49d",
+  "culture_invariant_id": 1785,
+  "sort_number": 1783,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Ich habe Saures für meine Gegner <und> Süßes für meine Fans!",
+  "rules_text": "KÜRBISGEWÜRZ Wenn du diesen Charakter ausspielst, verlieren alle gegnerischen Mitspielenden je 1 Legende und du sammelst 1 Legende.",
+  "card_identifier": "121/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/121_781bbd28b4bdc31bb694c00c2ac4c0232f522b26.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/121_a6555b72d0b5b832490e1201953a4726b3159c46.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/121_fc9001fa0f874d9967039691f2e50f51bca3d54b.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Ralph reichts",
+    "Wreck It Ralph"
+  ]
+}

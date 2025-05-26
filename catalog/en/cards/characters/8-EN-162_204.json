@@ -1,0 +1,44 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Resourceful Infiltrator",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Joseph Buenning",
+  "deck_building_id": "d9346b8c7971938f233e5ebd49b2b6c5a02edb3f",
+  "culture_invariant_id": 1826,
+  "sort_number": 1825,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Princess"
+  ],
+  "flavor_text": "",
+  "rules_text": "JUST WHAT YOU NEED When you play this character, you may give another chosen character Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+  "card_identifier": "162/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/162_eeb1a4ef233fc727285d6901965a9eba4571fc27.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/162_bd4f78c377a7c0ce32e82d40bd64c985751c3d98.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/162_26801a1f326a6fd1abdec5320ffc99b4b2120e8f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

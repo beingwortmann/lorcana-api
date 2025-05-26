@@ -1,0 +1,48 @@
+{
+  "name": "Rhino",
+  "subtitle": "Criceto Potenziato",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "3a337ffd94c21fe5bf8f6715b2e18fbd69b158fc",
+  "culture_invariant_id": 1694,
+  "sort_number": 1692,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 2 (Puoi pagare 2 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Rhino.) PALLA EPICA E PAZZESCA Mentre questo personaggio non ha danno, ottiene Resistere +2. (Il danno che gli viene inflitto è ridotto di 2.)",
+  "card_identifier": "30/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/30_1a2214749110b6a360a165b8d20b2d4bf24d0f76.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/30_0b80a368789cca124322221d2cf1bdf5f9c603d2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/30_fed4b36a90393ed66f9ac47a212f33d318641c07.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Bolt - Un eroe a quattro zampe",
+    "Bolt"
+  ]
+}

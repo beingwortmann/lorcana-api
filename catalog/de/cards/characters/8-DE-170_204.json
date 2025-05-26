@@ -1,0 +1,47 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Wachsamer Gardist",
+  "strength": 1,
+  "willpower": 9,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Marcel Berg",
+  "deck_building_id": "37c91d4c1e7468929e01ddc735e84693e87bfe36",
+  "culture_invariant_id": 1834,
+  "sort_number": 1832,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Beschützen"
+  ],
+  "subtypes": [
+    "Traumgestalt",
+    "Held",
+    "Prinz"
+  ],
+  "flavor_text": "",
+  "rules_text": "Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.) SICHERER DURCHGANG Jedes Mal, wenn einer deiner Verbündeten erkundet, darfst du bis zu 2 Schaden von diesem Charakter entfernen.",
+  "card_identifier": "170/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/170_dbba210620cc01da73ea517f5773f8adf1002608.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/170_d052219563272b10181d9eb162a52988675c5b3a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/170_3ceffcc2019dcf9560ad8817bc49e7fe5eb5e364.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Most Everyone's Mad Here",
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "a1d5d89821229e4e2c3b32b95243c59a1f985409",
+  "culture_invariant_id": 1815,
+  "sort_number": 1814,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Well, some go this way, some go that way. But as for me, myself, personally, I prefer the shortcut.",
+  "rules_text": "Gain lore equal to the damage on chosen character, then banish them.",
+  "card_identifier": "151/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/151_bf364e1238cf57c956b0561da39a1e5061fb128c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/151_db402e61c45c6fcd99da8995f1a390ed8fe601c3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/151_0f8432172aa01df22efed8b9fdf9747e316f5e3f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland"
+  ]
+}

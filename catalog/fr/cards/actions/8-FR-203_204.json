@@ -1,0 +1,37 @@
+{
+  "name": "Tir rapide",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Diego Machuca",
+  "deck_building_id": "b7869c5472bc41c5832262ed91df5e977a88dd47",
+  "culture_invariant_id": 1867,
+  "sort_number": 1865,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Choisissez un personnage et infligez-lui 1 dommage. Piochez une carte.",
+  "card_identifier": "203/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/203_10149b07277ec71d10e149e78e5ca255e303dd3f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/203_7f084e7a0aef1c73e5a25d3a8e9394dc291cc503.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/203_8ddacda0ca34085315f8f13cca296da1e2e713d2.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Lilo et Stitch",
+    "Lilo and Stitch"
+  ]
+}

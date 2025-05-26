@@ -1,0 +1,43 @@
+{
+  "name": "Prinz Achmed",
+  "subtitle": "Rivalisierender Verehrer",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jake Murphy",
+  "deck_building_id": "91094608fd69311fa696ac4e5dd0c37e72dd3e24",
+  "culture_invariant_id": 1848,
+  "sort_number": 1846,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Prinz"
+  ],
+  "flavor_text": "Das nenne ich mal eingebildet und aufgeblasen!%–Jasmin",
+  "rules_text": "UNERWÜNSCHTER ANTRAG Wenn du diesen Charakter ausspielst, darfst du eine Prinzessin deiner Wahl erschöpfen.",
+  "card_identifier": "184/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/184_5811c71454ac0fc4835e1a900edf23baa703eb4a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/184_d940b8f7e58062d533a2ce2884b44b378a59391a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/184_a0f65b1b4ba5d6eb599f79285b727df237de97ee.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

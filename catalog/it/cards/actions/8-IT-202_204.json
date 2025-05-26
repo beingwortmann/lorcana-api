@@ -1,0 +1,42 @@
+{
+  "name": "Beyond the Horizon",
+  "rarity": "UNCOMMON",
+  "ink_cost": 7,
+  "author": "Taraneh",
+  "deck_building_id": "ad132a4c53b4856d48b36de8985d765bed38f07f",
+  "culture_invariant_id": 1866,
+  "sort_number": 1864,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 7 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 7 o superiore può per cantare questa canzone gratis.) Scegli un qualsiasi numero di giocatori. Ognuno di loro scarta la propria mano e pesca 3 carte.",
+  "card_identifier": "202/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/202_ee7287990f585df82b64b5ea62961c4cf2fe386c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/202_d0496d9db0e027efdad902f82a0f324c0b624f82.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/202_6bfc4833daa610ae4ca84ace8dd9aaf74796fd19.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Lilo & Stitch",
+    "Lilo and Stitch"
+  ]
+}

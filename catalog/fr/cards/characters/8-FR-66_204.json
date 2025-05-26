@@ -1,0 +1,48 @@
+{
+  "name": "Miss Tick",
+  "subtitle": "Sous forme d’ombre",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 5,
+  "author": "Sandara Tang",
+  "deck_building_id": "67257d2a601938a9c43bb080208e5a3081a49939",
+  "culture_invariant_id": 1730,
+  "sort_number": 1728,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.) DANSE DES TÉNÈBRES Lorsque vous jouez ce personnage, vous pouvez choisir et renvoyer l'un de vos personnages dans votre main pour piocher une carte.",
+  "card_identifier": "66/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/66_43660ee27f6b3f39daeb46d1672b3684a14fc5da.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/66_e00b61ecf11d71a63695422f20945cd97787d6d6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/66_bb29eaf1c1c574b1a7b47a80222aa1f4dbc876a7.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Ducktales",
+    "La Bande à Picsou"
+  ]
+}

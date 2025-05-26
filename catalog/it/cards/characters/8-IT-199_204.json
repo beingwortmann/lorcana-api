@@ -1,0 +1,44 @@
+{
+  "name": "Topolino",
+  "subtitle": "Topo Gigante",
+  "strength": 10,
+  "willpower": 10,
+  "quest_value": 5,
+  "rarity": "LEGENDARY",
+  "ink_cost": 10,
+  "author": "Joy Ang / Giulia Riva",
+  "deck_building_id": "9d90f566a3400873ee6d58692fa1bec880d0b149",
+  "culture_invariant_id": 1863,
+  "sort_number": 1861,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) LA PIÙ GRANDE STAR DI SEMPRE Quando questo personaggio viene esiliato, infliggi 5 danni a ogni personaggio avversario.",
+  "card_identifier": "199/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/199_b51ff0b28313b15d77a642ec659b08f2c1e0ebb7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/199_003430af0ed9655c8fb283353157c8adefcf9f9a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/199_b6333a133fd259ec6b21516c9ac308791dfa70ee.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/gloss/1468x2048/199_1f17a32ac8af184356796e1704ae5abef51643ff.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ]
+}

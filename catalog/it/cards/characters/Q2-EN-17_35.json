@@ -1,0 +1,44 @@
+{
+  "name": "Basil",
+  "subtitle": "Shadow Sleuth",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 1,
+  "author": "Marc Perez",
+  "deck_building_id": "e0f45930b76553e781e2f95fdcb2d1bca762e9c8",
+  "culture_invariant_id": 1912,
+  "sort_number": 1912,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Hero",
+    "Illusion",
+    "Detective"
+  ],
+  "flavor_text": "I'll admit, he has a great mind—for a mouse.%—Jafar",
+  "rules_text": "",
+  "card_identifier": "17/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/17_90fd37a84b2bc5ec4ebc1d14a41dd0098bf70ec7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/17_720424347977fe9ed85155afceb42a3042e8ff47.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Basil, L'Investigatopo",
+    "Great Mouse Detective"
+  ]
+}

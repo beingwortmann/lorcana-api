@@ -1,0 +1,40 @@
+{
+  "name": "Tutto Tornò Tranquillo Come Mai",
+  "rarity": "UNCOMMON",
+  "ink_cost": 8,
+  "author": "Edu Francisco",
+  "deck_building_id": "5c657945db38e14571f723706bbcd7ec55085acb",
+  "culture_invariant_id": 1779,
+  "sort_number": 1777,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Cantare Insieme"
+  ],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "Cantare Insieme 8 (Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo totale 8 o superiore può per cantare questa canzone gratis.) Fai riprendere in mano al suo giocatore fino a 2 personaggi a tua scelta con 3 o inferiore ciascuno.",
+  "card_identifier": "115/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/115_97e21ee4399fe0129779fabfa3fa8510dbbd4564.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/115_dcd6ca95ed3a93eb0b5b44358af28bc81a218be2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/115_212bb628db7878db5255d0b1416647493b0806f8.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Hercules"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Prince Jean",
+  "subtitle": "Poule mouillée",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Denny Minonne",
+  "deck_building_id": "3716bbbbc0261b3fecc0b6ae8298ef4193facf52",
+  "culture_invariant_id": 1810,
+  "sort_number": 1808,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Prince"
+  ],
+  "flavor_text": "Même un lion effrayé a des griffes.",
+  "rules_text": "À MOI! À MOI! Chaque fois que votre adversaire joue un personnage, infligez 1 dommage à ce personnage-ci.",
+  "card_identifier": "146/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/146_454da11dfa9cafa5f031d6192e33fe1962ad3efd.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/146_22354f38824f613ec258e8bda43f577550df07b3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/146_013f9579dcf68fdf510e4155ebe29b1feb83ab49.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Robin des Bois",
+    "Robin Hood"
+  ]
+}

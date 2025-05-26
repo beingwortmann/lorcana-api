@@ -1,0 +1,44 @@
+{
+  "name": "Vincenzo Santorini",
+  "subtitle": "The Explosives Expert",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Ha Jung Song",
+  "deck_building_id": "688ea6eb39dc0fc75464580b5190fb330861b9ae",
+  "culture_invariant_id": 1861,
+  "sort_number": 1860,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Never be afraid to make a big entrance.",
+  "rules_text": "I JUST LIKE TO BLOW THINGS UP When you play this character, you may deal 3 damage to chosen character.",
+  "card_identifier": "197/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/197_fcb3cad56f3eae86090eabe018dfedc531b6cea6.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/197_d1cdbdfcb359d596e9f54f2fe980ce1cd1e76ec4.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/197_86484ac15cca8e1f7192abda15ec0f2a08c88bc0.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Atlantis"
+  ]
+}

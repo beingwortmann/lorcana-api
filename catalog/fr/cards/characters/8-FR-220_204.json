@@ -1,0 +1,46 @@
+{
+  "name": "Stitch",
+  "subtitle": "Expérience 626",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Natalie Dombois",
+  "deck_building_id": "2b044feacd5a7ab8653f088ab25e14b039ea379c",
+  "culture_invariant_id": 1884,
+  "sort_number": 1882,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Alien"
+  ],
+  "flavor_text": "",
+  "rules_text": "SI MÉCHANT Lorsque vous jouez ce personnage, chaque adversaire place la carte du dessus de sa pioche dans sa réserve d'encre, face cachée et épuisé. MODE FURTIF Au début de votre tour, si cette carte est dans votre défausse, vous pouvez défausser une carte pour jouer cette carte-ci gratuitement et épuisée.",
+  "card_identifier": "220/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/220_f8a8cb6a6868a9560c08ec9dc60854cbc0a81f80.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/220_f8bbcb5da1458b35430876856c2ceb181167c7f0.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/220_ee3c36d03f9ec89703a47bd1618c388532072e08.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lilo et Stitch",
+    "Lilo and Stitch"
+  ]
+}

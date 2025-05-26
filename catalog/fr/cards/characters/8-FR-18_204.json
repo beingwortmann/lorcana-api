@@ -1,0 +1,46 @@
+{
+  "name": "Chef Bogo",
+  "subtitle": "Officier au commandement",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "LEGENDARY",
+  "ink_cost": 6,
+  "author": "Nicola Saviori",
+  "deck_building_id": "9c728cf42b8669fbff70c74afadcb565ef3b0e1a",
+  "culture_invariant_id": 1682,
+  "sort_number": 1680,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "ENVOI DE RENFORTS Durant le tour d'un adversaire, chaque fois que l'un de vos personnages avec Rempart est banni, vous pouvez révéler la carte du dessus de votre pioche. S'il s'agit d'une carte Personnage avec un coût de 5 ou moins, vous pouvez la jouer gratuitement. Sinon, replacez-la sur votre pioche.",
+  "card_identifier": "18/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/18_88e71a6c6b40ff9a79b0298dbbed0cae3ef59998.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/18_c350a51b11b5f4b93d8792da0abf132484636819.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/18_a606a69d7d28761ab40aba1c8c9dcac33d859527.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/gloss/1468x2048/18_f7680d591b50855f7c06c0b5ef585f8cfbe30d77.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Zootropolis",
+    "Zootopie",
+    "Zootopia"
+  ]
+}

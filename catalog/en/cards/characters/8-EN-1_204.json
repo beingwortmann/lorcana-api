@@ -1,0 +1,44 @@
+{
+  "name": "Louie",
+  "subtitle": "One Cool Duck",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Federico Maria Cugliari",
+  "deck_building_id": "bfc4c593e544a6b0caf1cd7927b3176a1b84f051",
+  "culture_invariant_id": 1665,
+  "sort_number": 1664,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "The snakes are cool, I guess. Pretty standard trap, though.",
+  "rules_text": "SPRING THE TRAP While this character is being challenged, the challenging character gets -1.",
+  "card_identifier": "1/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/1_cc9920a269e2ac64924de1c0aee9d1a0814969d1.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/1_1d626efc983d7a2b13e71f4731dfef4fd9ae6b79.jpg"
+    }
+  ],
+  "foil_detail_url": "https://api.lorcana.ravensburger.com/images/en/set8/foil-detail/1468x2048/1_7cfa5a75f47aa865e9553aff888ddc654a597d20.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/1_1123f34eb8cd806bdc60ccb5da04bd0e150c7c32.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Ducktales"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Dino",
+  "subtitle": "Energiegeladener Hamster",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Leonardo Giammichele",
+  "deck_building_id": "3a337ffd94c21fe5bf8f6715b2e18fbd69b158fc",
+  "culture_invariant_id": 1694,
+  "sort_number": 1692,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 2 (Du kannst 2 zahlen, um diesen Charakter auf einen deiner Dino-Charaktere auszuspielen.) EPISCHER BALL DER GROSSARTIGKEIT Solange dieser Charakter unbeschädigt ist, erhält er Robust +2. (Reduziere jeglichen Schaden, der diesem Charakter zugefügt wird, um 2.)",
+  "card_identifier": "30/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/30_39cd6aadd2da2475150385eb437c271b05ae0b42.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/30_8b8d6673b547cb8223074835da9a923153c62d2a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/30_f26fdbd226eb0a02f10652208c246aeb00e7bd5f.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Bolt"
+  ]
+}

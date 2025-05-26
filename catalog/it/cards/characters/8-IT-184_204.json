@@ -1,0 +1,43 @@
+{
+  "name": "Principe Achmed",
+  "subtitle": "Pretendente Rivale",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jake Murphy",
+  "deck_building_id": "91094608fd69311fa696ac4e5dd0c37e72dd3e24",
+  "culture_invariant_id": 1848,
+  "sort_number": 1846,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Principe"
+  ],
+  "flavor_text": "Quando si dice damerino sputasentenze!%—Jasmine",
+  "rules_text": "PROPOSTA NON DESIDERATA Quando giochi questo personaggio, puoi impegnare un personaggio Principessa a tua scelta.",
+  "card_identifier": "184/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/184_e7fad6dfb3006c0829108ffd4184b0efe351598d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/184_4d3599359e7900177bce0ac40311e986fdd326dc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/184_400b3ffd865e7d1661f95bccc3cce7e0916d5c74.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

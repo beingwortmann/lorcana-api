@@ -1,0 +1,48 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Lama impétueux",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "ddaa75cc532753bc20bf3bb664f604e1eb978781",
+  "culture_invariant_id": 1874,
+  "sort_number": 1872,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Roi"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 4 (Vous pouvez payer 4 pour jouer ce personnage sur l'un de vos personnages Kuzco.) QU'EST-CE QUE ÇA FAIT ? Lorsque vous jouez ce personnage, chaque adversaire choisit l'un de ses personnages et le place sous sa pioche. Ensuite, chaque adversaire peut piocher une carte.",
+  "card_identifier": "210/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/210_a2f5348e3a6b0c0ffe1ff4ff6fa686765ace352d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/210_d4fbd672b2cf737a1eb91a3478eff76355fcfe7a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/210_d619daff46a03648fc174b31001482151d897dbf.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Kuzco, l'empereur Mégalo"
+  ]
+}

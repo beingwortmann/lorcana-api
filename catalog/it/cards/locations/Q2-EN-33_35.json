@@ -1,0 +1,41 @@
+{
+  "name": "Hall of Illusions",
+  "subtitle": "Mysterious Chamber",
+  "willpower": 8,
+  "quest_value": 2,
+  "move_cost": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Sylvain Sarrailh",
+  "deck_building_id": "c0863e89c1a974cd0dc2f59affc22cb0e0ac2dff",
+  "culture_invariant_id": 1928,
+  "sort_number": 1928,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Obstacle"
+  ],
+  "flavor_text": "I’m sure you’ll figure it out in a thousand years or so.%—Jafar",
+  "rules_text": "WONDERSTRUCK Opposing characters can’t quest.",
+  "card_identifier": "33/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/33_7e506d03127bf5c79fc6ac2694d939b9e673073e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/33_bd9f9b6d32fcc12a693b9d78a5a08a7bc5cdb695.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Lorcana"
+  ]
+}

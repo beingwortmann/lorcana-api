@@ -1,0 +1,39 @@
+{
+  "name": "Eisstacheln",
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Priya Kakati",
+  "deck_building_id": "4848962185abb4d5b4c61baa3a86c31313853f72",
+  "culture_invariant_id": 1748,
+  "sort_number": 1746,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "HALT STILL Wenn du diesen Gegenstand ausspielst, erschöpfe einen gegnerischen Charakter deiner Wahl. ES KLEMMT , 1 – Erschöpfe einen gegnerischen Gegenstand deiner Wahl. Er wird zu Beginn seines nächsten Zuges nicht bereit gemacht.",
+  "card_identifier": "84/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/84_4eb94eb0f9719359e5b0ab95b4bbb15b5559204f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/84_5b0caec0e855237ed18e5985a2a73a362b7b001b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/84_9c82e143a94a0d41dd93796ec8b19f2592a85a72.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen",
+    "Die Eiskönigin"
+  ]
+}

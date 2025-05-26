@@ -1,0 +1,45 @@
+{
+  "name": "Summi",
+  "subtitle": "Fliegender Ritter des Rechts",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Ian MacDonald",
+  "deck_building_id": "1eb9f5705effae96f1ba3a5ce437b333dcba62bc",
+  "culture_invariant_id": 1856,
+  "sort_number": 1854,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "BESTE KUMPEL Wenn du einen Samson-Charakter im Spiel hast, zahlst du 1 weniger, um diesen Charakter auszuspielen. GESCHWINDIGKEITSSCHUB In deinem Zug erhält dieser Charakter Wendig. (Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "192/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/192_b72e369d96fbed7e1f0813f7b03571184f2e2dfa.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/192_589801c780e2e475d0e8c6a16dd6dce997c00b8c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/192_d367dc68b560b62e1c93a2cb435e5903f7b857a1.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Rescue Rangers",
+    "Chip und Chap - Die Ritter des Rechts"
+  ]
+}

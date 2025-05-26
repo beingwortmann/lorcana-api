@@ -1,0 +1,44 @@
+{
+  "name": "Anita Radcliffe",
+  "subtitle": "Amante dei Cani",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Carmine Pucci",
+  "deck_building_id": "4230300eaeb78b87c38720c57b3d4dbe9b489baa",
+  "culture_invariant_id": 1819,
+  "sort_number": 1817,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "MI PRENDERÒ CURA DI TE Quando giochi questo personaggio, puoi dare Resistere +1 a un personaggio Cucciolo a tua scelta fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "155/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/155_e6132d4e39c53970f4573e017ab3738e52f9889d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/155_51abf6186dc866ffb3fd31116c2ac1040b4d68fb.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/155_2a48f00bfc33ef3f820a8aa8e8348538e361213c.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "La carica dei 101"
+  ]
+}

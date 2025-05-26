@@ -1,0 +1,36 @@
+{
+  "name": "The Sword of Shan-Yu",
+  "rarity": "RARE",
+  "ink_cost": 1,
+  "author": "Domenico Russo",
+  "deck_building_id": "f53cefd9fc2611fc223d96dff8640a4eeaf9068d",
+  "culture_invariant_id": 1816,
+  "sort_number": 1815,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "I know what this means to you. —The Emperor",
+  "rules_text": "WORTHY WEAPON , one of your characters — Ready chosen character. They can't quest for the rest of this turn.",
+  "card_identifier": "152/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/152_78f0d8c945a8447bf056ecf8541655485dd48eba.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/152_8361f0c5121346e3abc8af21396cd9c8c6af4862.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/152_e7e9e606f136057664185ae256cead8a41d8099f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

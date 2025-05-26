@@ -1,0 +1,36 @@
+{
+  "name": "Se colui che ruba poi scappa via",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Luis Huerta",
+  "deck_building_id": "3d45421a0885dfede8dd05b57fef4f66b00074e9",
+  "culture_invariant_id": 1778,
+  "sort_number": 1776,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Può continuare a rubare a chicchessia!",
+  "rules_text": "Esilia un oggetto a tua scelta. Pesca una carta.",
+  "card_identifier": "114/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/114_2574e726db578f9515e2bd3569748f7b581f36c7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/114_c8e02a2f7f30bfd5ca0ca558105511406065fd7b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/114_668dd368eaf4f7ac871025a7a36ee3a8836d96b3.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Talespin"
+  ]
+}

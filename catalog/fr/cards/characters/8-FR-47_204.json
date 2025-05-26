@@ -1,0 +1,45 @@
+{
+  "name": "Madame Médusa",
+  "subtitle": "Partenaire perfide",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "320735e6ade9a3fa1537db3f280a6ae5318ee328",
+  "culture_invariant_id": 1711,
+  "sort_number": 1709,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "",
+  "rules_text": "DUPLICITÉ Lorsque vous jouez ce personnage, vous pouvez choisir un autre de vos personnages et lui infliger 2 dommages. Si vous le faites, choisissez un personnage coûtant 2 ou moins et renvoyez-le dans la main de son propriétaire.",
+  "card_identifier": "47/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/47_3dd4e0a673340ae358fad66ac2dfeea7ec061168.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/47_e6137eebe1d6f2c0d11c93ef860cd744989b5d6e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/47_d02505b73d1ae063ca51d277546f0e33c52c99fc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Les Aventures de Bernard et Bianca",
+    "Rescuers"
+  ]
+}

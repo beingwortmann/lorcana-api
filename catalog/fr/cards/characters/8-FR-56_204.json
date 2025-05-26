@@ -1,0 +1,47 @@
+{
+  "name": "Ryder",
+  "subtitle": "Infiltré agile",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Lisanne Koeteeuw",
+  "deck_building_id": "92a8bffc338852c3c4d649bd891f34fb5462730e",
+  "culture_invariant_id": 1720,
+  "sort_number": 1718,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Insaisissable"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Bon sang, c'est quoi son problème à ce grand sultan? Il ne peut pas mettre des escaliers comme tout le monde?",
+  "rules_text": "Insaisissable (Seuls les personnages avec Insaisissable peuvent défier ce personnage.)",
+  "card_identifier": "56/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/56_58cc3d205bead0855d22624471f65cf50b1eff7a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/56_6263544b7720da0c41118f667e7b37365a3ab0ad.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/56_c2539c6d40f0fb0a57c805a9c350bce0803bc1e2.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "La Reine des Neiges",
+    "Frozen"
+  ]
+}

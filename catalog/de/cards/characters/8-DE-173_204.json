@@ -1,0 +1,45 @@
+{
+  "name": "Jamba Jookiba",
+  "subtitle": "Kritischer Wissenschaftler",
+  "strength": 1,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Malia Ewart",
+  "deck_building_id": "aa046bb8f74eef728b325aef9bbcd61e8e6eedc4",
+  "culture_invariant_id": 1837,
+  "sort_number": 1835,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Alien",
+    "Erfinder"
+  ],
+  "flavor_text": "Dieses kleine Ding hat ein viel simpleres Design, als wenn ich es erstellt hätte. Aber wenn du es mit der Entwicklung eilig hattest, dann ergibt das Sinn.",
+  "rules_text": "",
+  "card_identifier": "173/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/173_492f583d627a0db21dba6c3d9e0cf55ab31cd359.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/173_a287269c10cb6f95216bf2bc1367d035be74270a.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/173_7edcf186335c6df65f84b98feee4d3fc015c9f6c.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Lilo and Stitch",
+    "Lilo und Stitch"
+  ]
+}

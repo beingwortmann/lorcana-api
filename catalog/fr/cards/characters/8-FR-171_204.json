@@ -1,0 +1,47 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Stratège fiable",
+  "strength": 2,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Hedvig H-S",
+  "deck_building_id": "8e61e3ca51b3ebb4328a02e52cc3c45757b3e641",
+  "culture_invariant_id": 1835,
+  "sort_number": 1833,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Héros",
+    "Princesse"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 2 (Vous pouvez payer 2 pour jouer ce personnage sur l'un de vos personnages Jasmine.) TOUJOURS À PLANIFIER Chaque fois que ce personnage est envoyé à l'aventure, regardez les 3 cartes du dessus de votre pioche. Vous pouvez révéler une carte Personnage Allié et la placer dans votre main. Placez les autres cartes sous votre pioche, dans l'ordre de votre choix.",
+  "card_identifier": "171/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/171_99c025686f1b1069140ee5e197fadf4ffb97a7b1.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/171_940be5c65b58363d1c3915ba4c9d65c095afc955.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/171_8c2d34703a50c34e8291968037f6377221d939ac.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

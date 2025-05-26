@@ -1,0 +1,38 @@
+{
+  "name": "C’est ta maîtresse",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Samanta Erdini",
+  "deck_building_id": "f7b76b092a681f79d6d10d8950f1d4f9456e82b4",
+  "culture_invariant_id": 1704,
+  "sort_number": 1702,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Choisissez entre : • Choisissez un personnage et retirez-lui jusqu'à 3 dommages. • Retirez jusqu'à 3 dommages de chacun de vos personnages avec Rempart.",
+  "card_identifier": "40/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/40_c8696c27e148bec48d1d943898d1b05eea85c3ef.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/40_630f786d2b0ac385f7ccdede6bd5bdd33025b370.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/40_25fdb35da8ed0fd10d55555ce0df9fa6f41c8075.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Volt, star malgré lui",
+    "Bolt"
+  ]
+}

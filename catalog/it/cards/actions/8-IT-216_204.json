@@ -1,0 +1,38 @@
+{
+  "name": "L'Altra Leva!",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Koni",
+  "deck_building_id": "d2d4cbca62b7aed01a0bd0a6e8aa2f9b358e9304",
+  "culture_invariant_id": 1880,
+  "sort_number": 1878,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "Scegli uno: • Fai riprendere in mano al suo giocatore un personaggio a tua scelta. • Metti una carta chiamata Abbassa la Leva! dai tuoi scarti in fondo al tuo mazzo per mettere un personaggio a tua scelta in fondo al mazzo del suo giocatore.",
+  "card_identifier": "216/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/216_90e51f9e1541590b830e417a9f31777eed24147f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/216_4df9f966ebc67f5278b954fa706c503c1c143096.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/216_850b4160e734720985e561cd0404c52de975da26.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Le follie dell'imperatore"
+  ]
+}

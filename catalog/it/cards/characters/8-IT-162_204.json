@@ -1,0 +1,44 @@
+{
+  "name": "Jasmine",
+  "subtitle": "Spia Piena di Risorse",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Joseph Buenning",
+  "deck_building_id": "d9346b8c7971938f233e5ebd49b2b6c5a02edb3f",
+  "culture_invariant_id": 1826,
+  "sort_number": 1824,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principessa"
+  ],
+  "flavor_text": "",
+  "rules_text": "PROPRIO CIÒ CHE TI SERVE Quando giochi questo personaggio, puoi dare Resistere +1 a un altro personaggio a tua scelta fino all'inizio del tuo prossimo turno. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "162/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/162_a0901b4033ae4667bb0e4f89a232257cc20ae49e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/162_50be9cb5dfe925d2557389a17e9d42b43a93dcfe.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/162_8a1e69bb47e29aa369b3888bc434b4b043008abc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

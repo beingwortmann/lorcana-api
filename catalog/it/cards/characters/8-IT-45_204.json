@@ -1,0 +1,46 @@
+{
+  "name": "Guardia di Palazzo",
+  "subtitle": "Sentinella Spettrale",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "f1807bfd473e7be0f8010219734c4c6a9702ffd5",
+  "culture_invariant_id": 1709,
+  "sort_number": 1707,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Svanire"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Alleato",
+    "Illusione"
+  ],
+  "flavor_text": "Tutto il potere delle normali guardie, ma senza la loro insolenza.%—Jafar",
+  "rules_text": "Svanire (Quando un avversario sceglie questo personaggio per un'azione, esilialo.)",
+  "card_identifier": "45/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/45_2a53979126925dba47dbc69e6540b11f0f46d5b5.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/45_f428a9c9c80509aa8dec3b0edb99efe0a48657de.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/45_ffdca9abaa14d019fba0e32263c4b8d90659808b.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

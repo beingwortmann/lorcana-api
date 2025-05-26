@@ -1,0 +1,45 @@
+{
+  "name": "Vincenzo Santorini",
+  "subtitle": "L'expert en explosifs",
+  "strength": 2,
+  "willpower": 8,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Ha Jung Song",
+  "deck_building_id": "688ea6eb39dc0fc75464580b5190fb330861b9ae",
+  "culture_invariant_id": 1861,
+  "sort_number": 1859,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "N’ayez jamais peur de faire une entrée fracassante.",
+  "rules_text": "MOI CE QUI M’ÉCLATE, C’EST CE QUI FAIT BOUM Lorsque vous jouez ce personnage, vous pouvez choisir un personnage et lui infliger 3 dommages.",
+  "card_identifier": "197/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/197_19db60bfe2f5454927445cf0e1624595dfb59515.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/197_041ad18faa156dc4d145e584d41e1e10f3abc4a7.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/197_fdf17a2db41ba0ef31618de4bef084996a77f1ce.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Atlantide",
+    "Atlantis"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Gaston",
+  "subtitle": "Crâneur arrogant",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Samoldstoree",
+  "deck_building_id": "43ad90059e880643ed35509ac9f1453d0931a266",
+  "culture_invariant_id": 1793,
+  "sort_number": 1791,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant"
+  ],
+  "flavor_text": "Prends cette pierre magique. Tu en auras besoin pour suivre mon rythme!",
+  "rules_text": "BRISER EN DEUX Lorsque vous jouez ce personnage, vous pouvez bannir l'un de vos objets pour choisir un personnage qui gagne +2 pour le reste de ce tour.",
+  "card_identifier": "129/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/129_b02b4cd791cb8be816f333d7609c50e85d58f4a7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/129_cac09a4aca0c30089c69e48c1bd216bd5552124b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/129_9d663a0d7ac80c67318607308fab4139b37a177d.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "La Belle et la Bête",
+    "Beauty and the Beast"
+  ]
+}

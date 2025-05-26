@@ -1,0 +1,45 @@
+{
+  "name": "Kaa",
+  "subtitle": "Pitone Ipnotico",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Francesco D'ippolito / Malia Ewart",
+  "deck_building_id": "f282a36bea0b86730827e7de3e6e6879a13d9171",
+  "culture_invariant_id": 1685,
+  "sort_number": 1683,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Hai commesssso un gravisssssimo sbaglio, amico mio.",
+  "rules_text": "GUARDAMI NEGLI OCCHI Ogni volta che questo personaggio va all'avventura, un personaggio avversario a tua scelta riceve -2 e ottiene Attaccabrighe fino all'inizio del tuo prossimo turno. (Non può andare all’avventura e deve sfidare, se possibile.)",
+  "card_identifier": "21/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/21_ba8d53c076638685ebe36502345d244f792c060e.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/21_aa864f716e6d27925135a20136a8bd0f8afb9456.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/21_b37eb5288b20c326043eba006b14aca48e66273e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Il Libro della Giungla",
+    "Jungle Book"
+  ]
+}

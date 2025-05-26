@@ -1,0 +1,44 @@
+{
+  "name": "Bruno Madrigal",
+  "subtitle": "Determinato",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Natalia Trykowska",
+  "deck_building_id": "a7994847594176243295b27ad0e85c4d38457cfc",
+  "culture_invariant_id": 1715,
+  "sort_number": 1713,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato",
+    "Madrigal"
+  ],
+  "flavor_text": "Non mi occupo di visioni in questo momento. Mi sto occupando di fermarti.",
+  "rules_text": "A TESTA ALTA Quando giochi questo personaggio, un personaggio avversario a tua scelta non si può preparare all'inizio del suo prossimo turno.",
+  "card_identifier": "51/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/51_9ab3304a96c042ab27449de56b48300323e2ecc7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/51_1c6e880eb1e98a45400c7177b78dc57086591339.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/51_a9b610a8b374ef817c5fb9b49525df5d191c469f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Encanto"
+  ]
+}

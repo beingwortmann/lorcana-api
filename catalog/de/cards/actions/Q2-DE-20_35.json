@@ -1,0 +1,35 @@
+{
+  "name": "Verheerender Sandsturm",
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Pietro B. Zemelo / Theonidas",
+  "deck_building_id": "f3a6d5926f5a0a5636c5fcbcb6aa847824246c8a",
+  "culture_invariant_id": 1915,
+  "sort_number": 1915,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Du musst tief graben, um das zurückzubekommen!%–Dschafar",
+  "rules_text": "Alle Luminari wählen je einen ihrer Gegenstände oder Orte und verbannen ihn.",
+  "card_identifier": "20/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/20_5cf7a38ed4735ad6e478d26e8e29c62569fc4c64.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/20_c594e7bece2e6fed6bda6a684e8e657b940eccb7.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

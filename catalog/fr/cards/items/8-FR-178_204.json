@@ -1,0 +1,37 @@
+{
+  "name": "Poste de télévision",
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Mariana Moreno",
+  "deck_building_id": "5b45cb0bebfa4d4f18e8a0e2778ff4f77a31480b",
+  "culture_invariant_id": 1842,
+  "sort_number": 1840,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "La série d’Ouragan est la seule chose sur laquelle tous les chiots se mettent d’accord.",
+  "rules_text": "ÇA A COMMENCÉ? , 1 — Regardez la carte du dessus de votre pioche. S'il s'agit d'une carte Personnage Chiot, vous pouvez la révéler et la prendre en main. Sinon, placez-la sous votre pioche.",
+  "card_identifier": "178/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/178_bba9ff92474e126d8dfb3f32f9dc4fad771423b5.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/178_51ae3497bd5995a4d2138195fddb946c671f6058.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/178_364505628dd28829dff7f6928f0eedaa7df67c67.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "Les 101 Dalmatiens"
+  ]
+}

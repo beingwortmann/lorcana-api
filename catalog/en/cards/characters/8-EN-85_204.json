@@ -1,0 +1,43 @@
+{
+  "name": "Wilhelmina Packard",
+  "subtitle": "The Radio Operator",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Aurélie Lise-Anne",
+  "deck_building_id": "02e54062e81e4cf27933fa36180cdcc8b564cd89",
+  "culture_invariant_id": 1749,
+  "sort_number": 1748,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Helga: Sounds metallic. Could be an echo off one of the rocks. Wilhelmina: Do you want to do my job? Be my guest.",
+  "rules_text": "",
+  "card_identifier": "85/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/85_360ef467c550593ff6f3fec72b7f6585e242905c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/85_db2c9a01ccfd6b235a1d6dab0016f1198130fa37.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/85_feeef211203700ad0b86bd468bac393c6075f1fc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Atlantis"
+  ]
+}

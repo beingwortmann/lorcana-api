@@ -1,0 +1,42 @@
+{
+  "name": "Goofy",
+  "subtitle": "Groundbreaking Chef",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "LEGENDARY",
+  "ink_cost": 4,
+  "author": "Carlos Luzzi",
+  "deck_building_id": "68b90a0038800e642717b1cfd159e7738b522975",
+  "culture_invariant_id": 1668,
+  "sort_number": 1667,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "You're just in time for Surprise à la Goof!",
+  "rules_text": "PLENTY TO GO AROUND At the end of your turn, you may remove up to 1 damage from each of your other characters. Ready each character you removed damage from this way.",
+  "card_identifier": "4/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/4_3a2a40edffea199450bd3c375de67eece9048463.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/4_83641d4240ce53e6231a2eba11a084e20c9199b6.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/4_cdd21f55d65fdd4b35ce3d70fad6cc0c8d80a810.jpg",
+  "varnish_type": "HighGloss",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/gloss/1468x2048/4_b009c6454a9ed2a00bf9a8e9b89292ec79dd48fc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Accendere la Miccia",
+  "rarity": "UNCOMMON",
+  "ink_cost": 1,
+  "author": "Kenneth Anderson",
+  "deck_building_id": "3614498b58e0cf1cc33837d6960c31671cbd30a9",
+  "culture_invariant_id": 1813,
+  "sort_number": 1811,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Un atto coraggioso può cambiare le sorti della battaglia.",
+  "rules_text": "Infliggi 1 danno a un personaggio a tua scelta per ogni personaggio impegnato che hai in gioco.",
+  "card_identifier": "149/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/149_f73fb81ad3e70ace0744e1776a9094f0b73fe68c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/149_340b46d66d61c88c0934d9c144b7353a7228cbcd.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/149_52322cb8b26bdc61c27b8a9f73562cb4df540367.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

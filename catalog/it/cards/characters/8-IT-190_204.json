@@ -1,0 +1,43 @@
+{
+  "name": "Tobia",
+  "subtitle": "Amico Prudente",
+  "strength": 0,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Irish Chua",
+  "deck_building_id": "ceee5141d95bd0a4e22bf7d9d0353bf2e3c36418",
+  "culture_invariant_id": 1854,
+  "sort_number": 1852,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "Questo posto fa più paura del Principe Giovanni.",
+  "rules_text": "GUSCIO DURO Mentre questo personaggio è impegnato, ottiene Resistere +1. (Il danno che gli viene inflitto è ridotto di 1.)",
+  "card_identifier": "190/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/190_c8a70123cf5ed701c9263aedec144b6d280346f9.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/190_8f83ca5aec352951c699f06e67df6de666c26767.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/190_1703b2a56bcd8d79d914bfe0a0358b8b7e0d611d.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Robin Hood"
+  ]
+}

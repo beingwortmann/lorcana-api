@@ -1,0 +1,35 @@
+{
+  "name": "Mechanical Snake",
+  "rarity": "SPECIAL",
+  "ink_cost": 0,
+  "author": "Carlos Ruiz",
+  "deck_building_id": "2c7bbaccc556ea6954094fb64d52385a57df1473",
+  "culture_invariant_id": 1920,
+  "sort_number": 1920,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "",
+  "rules_text": "SEIZE THE CROWN! When Jafar plays this item, he steals The Reforged Crown. DISASSEMBLED SERPENT , Banish this item — Jafar gains 2 lore.",
+  "card_identifier": "25/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/25_479856691c7249baa119eaefb307f8d9d2e14884.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/25_3788e5132cfa4234e84bb488546e7adc1b5f8a80.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

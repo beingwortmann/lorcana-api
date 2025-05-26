@@ -1,0 +1,47 @@
+{
+  "name": "Nathaniel Flint",
+  "subtitle": "Illustre pirate",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 2,
+  "author": "Edu Francisco",
+  "deck_building_id": "eefa3140edf0c08825c839aecce68111a0e5f778",
+  "culture_invariant_id": 1860,
+  "sort_number": 1858,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Alien",
+    "Pirate",
+    "Capitaine"
+  ],
+  "flavor_text": "Personne ne découvrit le secret du trésor de Flint, mais d’après la rumeur, il serait toujours dissimulé quelque part...%—Le Narrateur",
+  "rules_text": "INSTINCT DE PRÉDATEUR Vous ne pouvez pas jouer ce personnage sauf si un personnage adverse a subi un dommage ou plus ce tour-ci.",
+  "card_identifier": "196/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/196_0b42bd842de680f982655d8313140509d7764e46.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/196_d142473af73c1c7bb5b9cc07360752eff45bc631.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/196_ce78b5dc42ad01361940898e55890b581a1a147b.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Treasure Planet",
+    "La Planète au Trésor"
+  ]
+}

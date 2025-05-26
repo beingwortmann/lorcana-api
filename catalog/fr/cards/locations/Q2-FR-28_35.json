@@ -1,0 +1,42 @@
+{
+  "name": "Fosse aux cobras",
+  "subtitle": "Grouillante de serpents",
+  "willpower": 8,
+  "quest_value": 1,
+  "move_cost": 0,
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "French Carlomagno",
+  "deck_building_id": "4bd02bdfa52f9c8f55d733a7fe7a8e93e51ad098",
+  "culture_invariant_id": 1923,
+  "sort_number": 1923,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Obstacle"
+  ],
+  "flavor_text": "",
+  "rules_text": "MORSURE DE SERPENT Lorsque Jafar joue ce lieu, il inflige 1 dommage à chaque personnage adverse.",
+  "card_identifier": "28/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/28_ca5dbe75fe318ea133368881e52857c6a8ae844a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/28_2f1b32fac3d28c418b135241f15530fc5726cc8d.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Ducktales",
+    "La Bande à Picsou"
+  ]
+}

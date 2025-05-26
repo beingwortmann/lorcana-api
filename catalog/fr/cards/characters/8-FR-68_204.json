@@ -1,0 +1,46 @@
+{
+  "name": "Yzma",
+  "subtitle": "Au bord du gouffre",
+  "strength": 3,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Julien Vandois",
+  "deck_building_id": "12eeb86e37f64546133910be1f491f5bd01ae282",
+  "culture_invariant_id": 1732,
+  "sort_number": 1730,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "MAIS POURQUOI EST-CE QU'ON A CRÉÉ CE LEVIER? Lorsque vous jouez ce personnage, si vous avez une carte nommée Abaisse le levier! dans votre défausse, vous pouvez chercher dans votre pioche une carte nommée Pas ce levier-là ! et révéler cette carte à tous les joueurs. Placez la carte révélée dans votre main puis mélangez votre pioche.",
+  "card_identifier": "68/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/68_0fa23334b12c81f23eb70d748f5eec6aff0750f0.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/68_b62aa175e2a075fdf9d6e35680f154757bbe2829.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/68_cbbd75821c936ab80db6e67d8c58da1e841cc0c9.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Kuzco, l'empereur Mégalo"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Abu",
+  "subtitle": "Freches Gespenst",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Shutianyi Li",
+  "deck_building_id": "f21f71375d4ca22962086c28a961e09c1a92a594",
+  "culture_invariant_id": 1910,
+  "sort_number": 1910,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Verbündeter",
+    "Illusion"
+  ],
+  "flavor_text": "Nun ja, er <ist> nervig. Wie schön, dass es dir aufgefallen ist. Ich wollte, dass diese Illusion so korrekt wie möglich ist.%–Dschafar",
+  "rules_text": "",
+  "card_identifier": "15/35 DE Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/1468x2048/15_814b8e125e69da08371fd3a60cda0322de430993.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/quest2/cards/367x512/15_1b91dc14ccdfaa7ed1a9fb7d9854a2d99b9d56dc.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

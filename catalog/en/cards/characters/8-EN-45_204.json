@@ -1,0 +1,46 @@
+{
+  "name": "Palace Guard",
+  "subtitle": "Spectral Sentry",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Eva Widermann",
+  "deck_building_id": "f1807bfd473e7be0f8010219734c4c6a9702ffd5",
+  "culture_invariant_id": 1709,
+  "sort_number": 1708,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Vanish"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Ally",
+    "Illusion"
+  ],
+  "flavor_text": "All of the power of the normal guards, with none of the insolence. —Jafar",
+  "rules_text": "Vanish (When an opponent chooses this character for an action, banish them.)",
+  "card_identifier": "45/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/45_53c6068ec4c0ecfc6f3f9116983a8bf5f9245e53.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/45_6fbdf63aa13f643f85affe09e4dabb1efcfb1bcc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/45_879474c451b02781343b7de9a28f92785d9e21c6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

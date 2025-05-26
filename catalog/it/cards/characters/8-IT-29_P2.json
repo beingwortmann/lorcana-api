@@ -1,0 +1,46 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Guardia Vigile",
+  "strength": 1,
+  "willpower": 9,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 6,
+  "author": "Marcel Berg",
+  "deck_building_id": "37c91d4c1e7468929e01ddc735e84693e87bfe36",
+  "culture_invariant_id": 1889,
+  "sort_number": 1891,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) PASSAGGIO SICURO Ogni volta che uno dei tui personaggi Alleato va all'avventura, puoi rimuovere fino a 2 danni da questo personaggio.",
+  "card_identifier": "29/P2 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/1468x2048/29_d2c78d9d102ecf4382235791d1d92e6704db29bb.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/367x512/29_5022a6453f4eed7de73614a5cd9778ad7051e02e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo2/masks/1468x2048/29_eb5bbc76fa614f5dcbf9aeb1e0157e5adb325cd2.jpg",
+  "special_rarity_id": 4,
+  "foil_type": "Silver",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ]
+}

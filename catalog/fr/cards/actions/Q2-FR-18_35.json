@@ -1,0 +1,35 @@
+{
+  "name": "Ensablement",
+  "rarity": "SPECIAL",
+  "ink_cost": 2,
+  "author": "Jonathan Livslyst",
+  "deck_building_id": "f41306ff4329a95f1187efad09ca25069af2e38e",
+  "culture_invariant_id": 1913,
+  "sort_number": 1913,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Les choses se compliquent quelque peu, non?%—Jafar",
+  "rules_text": "Jafar inflige 1 dommage à chaque personnage adverse. Ensuite, placez cette carte dans la réserve d'encre de Jafar, face cachée.",
+  "card_identifier": "18/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/18_001b42df9d45ccc655ba10482665a05d5818d136.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/18_fa4ec0247bddc33e7a8e9764fe2434b5e1e0deee.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Peter Pan"
+  ]
+}

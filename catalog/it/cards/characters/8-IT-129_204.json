@@ -1,0 +1,44 @@
+{
+  "name": "Gaston",
+  "subtitle": "Arrogante Esibizionista",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Samoldstoree",
+  "deck_building_id": "43ad90059e880643ed35509ac9f1453d0931a266",
+  "culture_invariant_id": 1793,
+  "sort_number": 1791,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Cattivo"
+  ],
+  "flavor_text": "Prendi questa pietra magica. Ti servirà per riuscire a starmi dietro!",
+  "rules_text": "FARE A PEZZI Quando giochi questo personaggio, puoi esiliare uno dei tuoi oggetti per dare a un personaggio a tua scelta +2 per questo turno.",
+  "card_identifier": "129/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/129_65122100ff816045441dac6b200f2fd8b7990599.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/129_991a6e4c8c211cd29359c34e92f82e7eac6ccc47.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/129_a6b1b6d93c76fc301dae01a831fad65aaf637585.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "La bella e la bestia",
+    "Beauty and the Beast"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Quello Che non So",
+  "rarity": "ENCHANTED",
+  "ink_cost": 3,
+  "author": "Yrgane Ramon",
+  "deck_building_id": "b506d722beed28386dc44ada619ef650102342b8",
+  "culture_invariant_id": 1877,
+  "sort_number": 1875,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Canzone"
+  ],
+  "flavor_text": "",
+  "rules_text": "(Un personaggio con costo 3 o superiore può per cantare questa canzone gratis.) Aggiungi un personaggio impegnato a tua scelta al calamaio del suo giocatore, a faccia in giù e impegnato.",
+  "card_identifier": "213/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/213_9deff01083ace9c7a7b8e82fba6e0b291eb8f2be.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/213_2a9e2597dcc2675bebf090cd1469761b0c4bc104.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/213_367ff0b9221a3eb5055eaf2d6dc34f2277ab1b17.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Frozen - Il regno di ghiaccio",
+    "Frozen"
+  ]
+}

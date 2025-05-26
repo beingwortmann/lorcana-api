@@ -1,0 +1,45 @@
+{
+  "name": "Randale Ralph",
+  "subtitle": "Rücksitzfahrer",
+  "strength": 4,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Joseph Buenning",
+  "deck_building_id": "ae782ba1f03c05a7094ed54d408df2ffaf9627ec",
+  "culture_invariant_id": 1799,
+  "sort_number": 1797,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held",
+    "Rennfahrer"
+  ],
+  "flavor_text": "Lass uns Gummi verbrennen, Kleine!%–Randale Ralph",
+  "rules_text": "AUFGELADEN Wenn du diesen Charakter ausspielst, erhält ein Rennfahrer deiner Wahl in diesem Zug +4.",
+  "card_identifier": "135/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/135_ebad8fecb150e9bcdaceac526fbd1ceed4c661e2.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/135_4df777e78a7b594c8a184a730d93fff20c8c60d7.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/135_0807ed70df356c3ebc05dceee71382c7f86a0b6e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Ralph reichts",
+    "Wreck It Ralph"
+  ]
+}

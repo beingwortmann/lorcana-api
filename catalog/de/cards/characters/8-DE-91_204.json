@@ -1,0 +1,43 @@
+{
+  "name": "Der Märzhase",
+  "subtitle": "Exzentriker mit Hasenhirn",
+  "strength": 3,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Dustin Panzino",
+  "deck_building_id": "8a1715bb3a41a990bfa9cca9be698c8944be40d8",
+  "culture_invariant_id": 1755,
+  "sort_number": 1753,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt"
+  ],
+  "flavor_text": "Er weiß wirklich, wie man einen Raum zum Leuchten bringt.",
+  "rules_text": "ENTZÜNDE DIE KERZEN Wenn du diesen Charakter ausspielst, darfst du einem beschädigten Charakter deiner Wahl 2 Schaden zufügen.",
+  "card_identifier": "91/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/91_8886a63708b897186bc410b55c61ac6ed4db08f4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/91_278a4c840635ac4593b685d2396b54f6ecdef2ca.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/91_17567944c95cfbe6678b32de454e9cfa8cec0005.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Alice in Wonderland",
+    "Alice im Wunderland"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Mushu",
+  "subtitle": "Dein schlimmster Albtraum",
+  "strength": 4,
+  "willpower": 6,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Jared Mathews",
+  "deck_building_id": "02aa1e9aa98646eadca05cdb2ebc4c786a06f1a2",
+  "culture_invariant_id": 1806,
+  "sort_number": 1804,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Verbündeter",
+    "Drache"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Mushu-Charaktere auszuspielen.) VOLLER TATENDRANG Jedes Mal, wenn du einen anderen Charakter ausspielst, erhält jener in diesem Zug Rasant, Impulsiv und Wendig. (Er kann im selben Zug herausfordern, in dem er ausgespielt wird. Er kann nicht erkunden und muss herausfordern, wenn möglich. Er kann Charaktere mit Wendig herausfordern.)",
+  "card_identifier": "142/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/142_f2d38d5181a7cabee027e336d0ba694e78da2aec.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/142_f86e275af28332e203f38276c3a1417dc9f815bc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/142_027fbfe73d48655a088e3c7f045dbe71ddc8d2f5.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Mulan"
+  ]
+}

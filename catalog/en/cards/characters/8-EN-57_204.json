@@ -1,0 +1,44 @@
+{
+  "name": "Bambi",
+  "subtitle": "Prince of the Forest",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "b86ae44b8557391bb2fad178a0b3158b2d455c16",
+  "culture_invariant_id": 1721,
+  "sort_number": 1720,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "As he grew older, he began to understand his responsibilities to all the creatures of the woods.",
+  "rules_text": "",
+  "card_identifier": "57/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/57_4bdbf4d15c02b5d2497c50d9b84a0ec6fbf556b4.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/57_23a2430dced2887e495a6832d4f463e152c2db4d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/57_20e8e8024a2149aaccfb8eb218c08541e308edbc.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Bambi"
+  ]
+}

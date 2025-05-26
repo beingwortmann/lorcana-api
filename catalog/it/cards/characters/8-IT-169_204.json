@@ -1,0 +1,45 @@
+{
+  "name": "Bernie",
+  "subtitle": "Fin Troppo Preparato",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "McKay Anderson",
+  "deck_building_id": "75a38e9bf91e99d60dc0c4257bda349a11ad414d",
+  "culture_invariant_id": 1833,
+  "sort_number": 1831,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe"
+  ],
+  "flavor_text": "Miss Bianca, venga qui! Ho trovato qualcosa!",
+  "rules_text": "ANDARE LÌ AD INDAGARE Quando giochi questo personaggio, se hai in gioco un personaggio Alleato, puoi pescare una carta.",
+  "card_identifier": "169/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/169_c23d50c59cea5152d9a8e0588a3b0685657e92c7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/169_a0cbb1ab89e147231b85b51f049cfab27fdbb022.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/169_a9de6ec27e387f198065ffabfb026d6869f68a20.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Le avventure di Bianca e Bernie",
+    "Rescuers"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Nano-sac",
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jared Nickerl",
+  "deck_building_id": "b53e4e6943d5cde0bb2744696e3434d34149f381",
+  "culture_invariant_id": 1783,
+  "sort_number": 1781,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Mignon, mais aussi potentiellement dévastateur. Parfait.%—Honey Lemon",
+  "rules_text": "ET T’AS ENCORE RIEN VU Chaque fois que vous jouez un personnage en utilisant sa capacité Alter, il gagne +4 pour le reste du tour.",
+  "card_identifier": "119/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/119_e295fefa134e7e4c79911c87adc125a06d02f220.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/119_c550b0353431ddafe961f0ae74ea42017c74db94.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/119_7142e831630cac35ba266de68c06bda0f0d17628.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

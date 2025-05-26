@@ -1,0 +1,44 @@
+{
+  "name": "Go Go Tomago",
+  "subtitle": "Ingénieure en mécanique",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Jennifer Wu",
+  "deck_building_id": "40846eae71b4a2f0477743719c11a08182d09375",
+  "culture_invariant_id": 1823,
+  "sort_number": 1821,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros",
+    "Inventeur"
+  ],
+  "flavor_text": "Regardez! Cette ‘encre’ offre tellement de possibilités.",
+  "rules_text": "J’AI BESOIN DE ÇA ! Lorsque vous jouez un personnage Floodborn sur cette carte, vous pouvez placer la première carte de votre pioche dans votre réserve d'encre, face cachée et épuisée.",
+  "card_identifier": "159/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/159_72a10252873bd5e4623ad0e6f76ed79cd524d234.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/159_c7d19c1a4aad917c33ac5a54f8793f024a88c9bb.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/159_4513c2df57afca86ca6e2e219e8233651214ba4c.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

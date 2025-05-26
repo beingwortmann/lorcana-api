@@ -1,0 +1,43 @@
+{
+  "name": "Chip",
+  "subtitle": "Quick Thinker",
+  "strength": 3,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Brian Weisz",
+  "deck_building_id": "a86f28f1777738ea9148dc4fa0844fe6fc65452d",
+  "culture_invariant_id": 1761,
+  "sort_number": 1760,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Don't worry, Dale! I've got you!",
+  "rules_text": "I’LL HANDLE THIS When you play this character, chosen opponent chooses and discards a card.",
+  "card_identifier": "97/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/97_54788faea60e5cab35d2d2240588d4d8c8f94e85.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/97_7868f1bb02a2dc0c7eb02b79663e5821b11425b4.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/97_5bbd0a590cc285c428ad98bb1f2f70b3c38e1eba.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Rescue Rangers"
+  ]
+}

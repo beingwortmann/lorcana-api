@@ -1,0 +1,44 @@
+{
+  "name": "Jafar",
+  "subtitle": "Grand Sultan de Lorcana",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "John Loren / Cristian Romero",
+  "deck_building_id": "50e1c204657b785ab5879cee057fe3009115fd88",
+  "culture_invariant_id": 1892,
+  "sort_number": 1894,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Dreamborn",
+    "Méchant",
+    "Roi",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "POUVOIR DES TÉNÈBRES Chaque fois que ce personnage est envoyé à l'aventure, vous pouvez piocher une carte, puis défausser une carte. Si vous défaussez une carte Personnage Illusion de cette manière, vous pouvez la jouer gratuitement.",
+  "card_identifier": "32/P2 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/1468x2048/32_01fa26ebf39b34d248980a5b9d44f21f8b3d2430.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/promo2/cards/367x512/32_11afa6c6ca87d05ccdf16e8c7f2c3cc5fb59ad6d.jpg"
+    }
+  ],
+  "special_rarity_id": 4,
+  "foil_type": "None",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

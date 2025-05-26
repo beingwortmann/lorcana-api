@@ -1,0 +1,45 @@
+{
+  "name": "Fred",
+  "subtitle": "Gigantesco",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jules Dubost",
+  "deck_building_id": "b251af6ff8f7c4f65248576fe4c9c6d0cb47cdf1",
+  "culture_invariant_id": 1762,
+  "sort_number": 1760,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Trasformazione"
+  ],
+  "subtypes": [
+    "Imbevuto",
+    "Eroe"
+  ],
+  "flavor_text": "",
+  "rules_text": "Trasformazione 5 (Puoi pagare 5 per giocare questa carta sopra a uno dei tuoi personaggi chiamato Fred.) LA COSA SI FA INTERESSANTE Ogni volta che questo personaggio va all'avventura, rivela carte dalla cima del tuo mazzo finché non riveli una carta personaggio Imbevuto. Aggiungi quella carta alla tua mano e rimescola il resto nel tuo mazzo.",
+  "card_identifier": "98/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/98_00ec7be073a520a7f38b63ca5d204205fafbc95c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/98_7f683cb03d869280f9841a9327cad56219d347b5.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/98_39313671a8a4cdba2dc08c0117cce3e127671455.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6"
+  ]
+}

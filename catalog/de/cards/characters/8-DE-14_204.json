@@ -1,0 +1,44 @@
+{
+  "name": "Perdi",
+  "subtitle": "Auf der Lauer",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Carmine Pucci",
+  "deck_building_id": "f122c7757ba00f7654f65a121fe801983148a4ab",
+  "culture_invariant_id": 1678,
+  "sort_number": 1676,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Held"
+  ],
+  "flavor_text": "Wo ist der Wald hin? Bleibt in der Nähe, meine Lieblinge. Irgendetwas ist hier faul.%–Perdi",
+  "rules_text": "HÄLT WACHE Solange du mindestens einen Welpen im Spiel hast, erhält dieser Charakter +1.",
+  "card_identifier": "14/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/14_bd3e4013872760000f217e749ce40a1a85620d4c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/14_2479cd153237f48a767123df35702594de5a4aed.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/14_dd2a41411c0a33d33154beb44c878fe4affbf35b.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "101 Dalmatians",
+    "101 Dalmatiner"
+  ]
+}

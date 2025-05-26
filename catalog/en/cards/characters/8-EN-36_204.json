@@ -1,0 +1,42 @@
+{
+  "name": "Joey",
+  "subtitle": "Blue Pigeon",
+  "strength": 3,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "French Carlomagno",
+  "deck_building_id": "469bd055268daba9556ab80313749cc2a456877f",
+  "culture_invariant_id": 1700,
+  "sort_number": 1699,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "If you need fixin’, ol' Joey’s on the job.",
+  "rules_text": "I'VE GOT JUST THE THING Whenever this character quests, you may remove up to 1 damage from each of your characters with Bodyguard.",
+  "card_identifier": "36/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/36_a9c9153420c4c5efe9a16e15f3d4d6cf8cd14173.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/36_827f38b51ca478ebb84ff9533bf44c47c85f3e40.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/36_abde84302f14fa87f849679a36fa90c4c402a6eb.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Bolt"
+  ]
+}

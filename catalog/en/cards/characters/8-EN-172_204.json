@@ -1,0 +1,43 @@
+{
+  "name": "Roquefort",
+  "subtitle": "Lock Expert",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 2,
+  "author": "Anderson Mahanski",
+  "deck_building_id": "38c386f04ca83b839df9771bde54ab7161d9c001",
+  "culture_invariant_id": 1836,
+  "sort_number": 1835,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "Jafar will never expect us to hide lore from him in his own safe! How exciting!",
+  "rules_text": "SAFEKEEPING Whenever this character quests, you may put chosen item into its player's inkwell facedown and exerted.",
+  "card_identifier": "172/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/172_897318cbd3f79b0ca05b4286ab7cf263589ff0b9.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/172_7260e801ac7310d235684c8d08adb27d20e080ff.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/172_ba5d1a6644f1af1373949934f83a9501ff6d9ffa.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "Aristocats"
+  ]
+}

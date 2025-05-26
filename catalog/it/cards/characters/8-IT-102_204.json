@@ -1,0 +1,45 @@
+{
+  "name": "Flynn Rider",
+  "subtitle": "Entrato di Soppiatto",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 4,
+  "author": "Koni",
+  "deck_building_id": "577d26f1ad1c747203aca439a701bc0b4705224c",
+  "culture_invariant_id": 1766,
+  "sort_number": 1764,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Eroe",
+    "Principe"
+  ],
+  "flavor_text": "In un modo o nell'altro, ottengo sempre quello che voglio.",
+  "rules_text": "QUESTO È DAVVERO UN GRANDE GIORNO Ogni volta che questo personaggio viene sfidato, il giocatore sfidante può scegliere e scartare una carta. Se non lo fa, ottieni 2 leggenda.",
+  "card_identifier": "102/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/102_1e8b9d2e2393c12e4188c6a35e610a9402d13f3a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/102_c2b14997f7ee943ac40555d1819ea3b2ce536904.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/102_6b97a4880d5f2731f0d4b2fb3a70e02fb6b78181.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Tangled",
+    "Rapunzel - L'intreccio della torre"
+  ]
+}

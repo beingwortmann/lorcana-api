@@ -1,0 +1,44 @@
+{
+  "name": "Iago",
+  "subtitle": "Guetteur braillard",
+  "strength": 4,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "Diogo Saito",
+  "deck_building_id": "b081c292d8abac744d8c40e1029f55dd2aad5d61",
+  "culture_invariant_id": 1898,
+  "sort_number": 1898,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Rempart"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "Rempart (Lorsqu’il défi l’un des personnages de Jafar, un personnage doit, s'il le peut, en choisir un avec Rempart.) SENTINELLE DE JAFAR Ce personnage entre en jeu épuisé. SONNEZ L'ALERTE Tant que ce personnage est épuisé, les lieux de Jafar ne peuvent pas être défiés.",
+  "card_identifier": "3/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/3_3132eb532f5c060a84aed33cb88bb3e73e2d67b8.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/3_1fefce802dd8aa072041c55500228e05af3c41c6.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

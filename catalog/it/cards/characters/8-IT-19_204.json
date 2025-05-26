@@ -1,0 +1,48 @@
+{
+  "name": "Pua",
+  "subtitle": "Maiale Protettivo",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "f95af696db6076c101efb039fe76e600c045e3cd",
+  "culture_invariant_id": 1683,
+  "sort_number": 1681,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Guardiano"
+  ],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "",
+  "rules_text": "Guardiano (Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.) FRUTTA GRATIS Quando questo personaggio viene esiliato, puoi pescare una carta.",
+  "card_identifier": "19/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/19_edbd8ae851bb390f6073cbf4e9fd2a002917de79.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/19_d04f99c01289df35faa7bc17d29a8582659f8a71.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/19_d738ea96e3f07e66f6cdb2776fc4949e59561e86.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER",
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Moana",
+    "Vaiana",
+    "Oceania"
+  ]
+}

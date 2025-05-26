@@ -1,0 +1,44 @@
+{
+  "name": "Lumière",
+  "subtitle": "Flinker Kerzenleuchter",
+  "strength": 1,
+  "willpower": 1,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 2,
+  "author": "Heidi Neunhoffer",
+  "deck_building_id": "ca3d3126f63f27a418bd6fd3c21085291bd498d6",
+  "culture_invariant_id": 1792,
+  "sort_number": 1790,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "Sacre bleu! So behandelt man keinen Gast in seinem Palast!",
+  "rules_text": "MIT SCHNELLEN SCHRITTEN Solange du mindestens eine Gegenstandskarte in deinem Ablagestapel hast, erhält dieser Charakter Wendig. (Nur Charaktere mit Wendig können den Charakter herausfordern.)",
+  "card_identifier": "128/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/128_7a4fa6d1687ae5c4cfba72cb89e8ede127e30c4f.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/128_a0100e6f7e317d059570d92902e26df11d7f4e8b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/128_5801d55b7fa84d373141b6ec1fd73c8b21c8879f.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Die Schöne und das Biest",
+    "Beauty and the Beast"
+  ]
+}

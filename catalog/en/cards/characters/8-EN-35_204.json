@@ -1,0 +1,48 @@
+{
+  "name": "Clawhauser",
+  "subtitle": "Front Desk Officer",
+  "strength": 1,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 3,
+  "author": "Denny Minonne",
+  "deck_building_id": "ef6860b6167954d4c4f0197491da61470349cd99",
+  "culture_invariant_id": 1699,
+  "sort_number": 1698,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard",
+    "Singer"
+  ],
+  "subtypes": [
+    "Storyborn",
+    "Ally",
+    "Detective"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) Singer 4 (This character counts as cost 4 to sing songs.)",
+  "card_identifier": "35/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/35_de6ee0e0a6cc943e7eb7c5d386cfbf711e6bf592.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/35_a5db1fb72a77fa4c4fa97822befdcf0b8b48b5c2.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/35_519a6b1937d669a6d7b1f360179c5342efafaa67.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMBER"
+  ],
+  "searchable_keywords": [
+    "Zootropolis",
+    "Zootopia"
+  ]
+}

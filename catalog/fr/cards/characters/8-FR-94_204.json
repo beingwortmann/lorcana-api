@@ -1,0 +1,44 @@
+{
+  "name": "Tac",
+  "subtitle": "Empoté",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Wouter Bruneel",
+  "deck_building_id": "939b4a9b30b7327b1120ebfd40746a1a5f00ad6a",
+  "culture_invariant_id": 1758,
+  "sort_number": 1756,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Héros"
+  ],
+  "flavor_text": "Quand on est un pilote courageux, on doit savoir faire face à n’importe quelle situation… Tu es peut-être courageux mais tu n’as rien dans la tête.%—Tic",
+  "rules_text": "",
+  "card_identifier": "94/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/94_07448072a541c20d5b5a48c90273ed8937aad59a.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/94_12ee962f1b0fd4e280c77df346da97d431448bda.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/94_3b29a9ba6d6ed13c1f83f86c4b274f6cdd64bbfd.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Tic et Tac, les rangers du risque",
+    "Rescue Rangers"
+  ]
+}

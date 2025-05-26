@@ -1,0 +1,44 @@
+{
+  "name": "Arthur",
+  "subtitle": "Determined Squire",
+  "strength": 6,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Edu Francisco",
+  "deck_building_id": "1159caf1c1cb7fb994736f4906d2d9f1066bd0b5",
+  "culture_invariant_id": 1832,
+  "sort_number": 1831,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero"
+  ],
+  "flavor_text": "Do you want to be all muscle and no brain? —Merlin",
+  "rules_text": "NO MORE BOOKS Skip your turn's Draw step.",
+  "card_identifier": "168/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/168_5fdb3e89478347684a933d57d1b6c27a09c9b78d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/168_b26d2998f31a6b815951aa9e103aa08d24673852.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/168_9a707457877dc5bfcd2100620b7afa3588e93a48.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone"
+  ]
+}

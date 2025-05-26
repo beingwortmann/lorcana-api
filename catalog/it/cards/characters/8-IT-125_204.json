@@ -1,0 +1,45 @@
+{
+  "name": "Bruto",
+  "subtitle": "Coccodrillo Spaventoso",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Teresita Q. / SCG",
+  "deck_building_id": "01e730b5e5ab7138fbadd2610b5ad30a92c6e5e5",
+  "culture_invariant_id": 1789,
+  "sort_number": 1787,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Classico",
+    "Alleato"
+  ],
+  "flavor_text": "È identico a Nerone in crudeltà e classe.",
+  "rules_text": "MALEVOLO Durante il tuo turno, quando questo personaggio viene esiliato, se uno dei tuoi personaggi è stato danneggiato in questo turno, ottieni 2 leggenda.",
+  "card_identifier": "125/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/125_a98f57112f7c713847b2da910302f6434abb5b32.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/125_400484925eb2961a2a7b1aa2b2691cfa67591dd7.jpg"
+    }
+  ],
+  "foil_detail_url": "https://api.lorcana.ravensburger.com/images/it/set8/foil-detail/1468x2048/125_74077ef9a013840033c64f9197b879f327e4cb66.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/125_40435eb1f97f88a66cf7668fe3249e162de03c67.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Le avventure di Bianca e Bernie",
+    "Rescuers"
+  ]
+}

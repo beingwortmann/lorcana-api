@@ -1,0 +1,43 @@
+{
+  "name": "Garde royal",
+  "subtitle": "Soldat pieuvre",
+  "strength": 1,
+  "willpower": 2,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 1,
+  "author": "Rachel Elese",
+  "deck_building_id": "22bcaf985cf7458b8c12396023a332712fd7f998",
+  "culture_invariant_id": 1716,
+  "sort_number": 1714,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "LOURDEMENT ARMÉ Chaque fois que vous piochez une carte, ce personnage gagne Offensif +1 pour le reste de ce tour. (Lorsqu'il défie, ce personnage gagne +1.)",
+  "card_identifier": "52/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/52_1b7e3bc13be9d7a61aa436dd1386c37872115b39.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/52_bdb9d6161567458eca23a1f4f3828d9e787af087.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/52_1625df93ccff5942db16156f7519b6571f4498f8.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Kuzco, l'empereur Mégalo"
+  ]
+}

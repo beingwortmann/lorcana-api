@@ -1,0 +1,46 @@
+{
+  "name": "Fred",
+  "subtitle": "Riesengroß",
+  "strength": 5,
+  "willpower": 6,
+  "quest_value": 3,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Jules Dubost",
+  "deck_building_id": "b251af6ff8f7c4f65248576fe4c9c6d0cb47cdf1",
+  "culture_invariant_id": 1762,
+  "sort_number": 1760,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "Held"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 5 (Du kannst 5 zahlen, um diesen Charakter auf einen deiner Fred-Charaktere auszuspielen.) JETZT WIRD'S TOTAL KRASS Jedes Mal, wenn dieser Charakter erkundet, decke so lange die oberste Karte deines Decks auf, bis du eine Flutgestalt-Charakterkarte aufdeckst. Nimm jene auf deine Hand und mische die restlichen aufgedeckten Karten in dein Deck.",
+  "card_identifier": "98/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/98_d9c70f5c9e374c52c63e21dc964985ca9fcb9969.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/98_26ca4ebb2191a61f8fe5dfc73794f11cd77f1366.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/98_0b70dd1287cf8a1975a7077bb30ff6e58f08b321.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Big Hero 6",
+    "Baymax - Riesiges Robowabohu"
+  ]
+}

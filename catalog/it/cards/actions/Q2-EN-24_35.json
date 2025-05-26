@@ -1,0 +1,35 @@
+{
+  "name": "Sand Wave",
+  "rarity": "SPECIAL",
+  "ink_cost": 5,
+  "author": "Simone Tentoni",
+  "deck_building_id": "4006c67fdbf4d280a5126470c14b7472ea2a51fc",
+  "culture_invariant_id": 1919,
+  "sort_number": 1919,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Try not to get swept away!%—Jafar",
+  "rules_text": "Jafar returns all opposing exerted characters to their Ilumineers’ hands.",
+  "card_identifier": "24/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/24_052187695aab3be86eb538b400b84a5f215fd44c.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/24_a2ff6a25459007141eb92778ec2107e111789096.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Lorcana"
+  ]
+}

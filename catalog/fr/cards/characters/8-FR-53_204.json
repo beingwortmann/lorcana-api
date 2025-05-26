@@ -1,0 +1,44 @@
+{
+  "name": "Kuzco",
+  "subtitle": "Ennui royal",
+  "strength": 1,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 4,
+  "author": "Rachel Elese",
+  "deck_building_id": "5b0c28646183ce47d445aeed071dfcb2ce90491c",
+  "culture_invariant_id": 1717,
+  "sort_number": 1715,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Roi"
+  ],
+  "flavor_text": "Attendez que l'odeur leur parvienne…",
+  "rules_text": "HALEINE DE LAMA Lorsque vous jouez ce personnage, vous pouvez choisir un personnage, un objet ou un lieu coûtant 2 ou moins et le renvoyer dans la main de son propriétaire.",
+  "card_identifier": "53/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/53_94628815d0f594bc4cca3d53d381ee4fd160fb5d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/53_575088f7de76cb45842c5f0c94d41e0d43e75ecc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/53_b18dc5dbaad85a39f6e492d30d31dd7bcedc96d4.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Kuzco, l'empereur Mégalo"
+  ]
+}

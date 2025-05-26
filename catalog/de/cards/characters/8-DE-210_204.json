@@ -1,0 +1,48 @@
+{
+  "name": "Kusco",
+  "subtitle": "Impulsives Lama",
+  "strength": 5,
+  "willpower": 5,
+  "quest_value": 2,
+  "rarity": "ENCHANTED",
+  "ink_cost": 7,
+  "author": "Alan Batson",
+  "deck_building_id": "ddaa75cc532753bc20bf3bb664f604e1eb978781",
+  "culture_invariant_id": 1874,
+  "sort_number": 1872,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Gestaltwandel"
+  ],
+  "subtypes": [
+    "Flutgestalt",
+    "König"
+  ],
+  "flavor_text": "",
+  "rules_text": "Gestaltwandel 4 (Du kannst 4 zahlen, um diesen Charakter auf einen deiner Kusco-Charaktere auszuspielen.) WAS MACHT DER HIER? Wenn du diesen Charakter ausspielst, wählen alle gegnerischen Mitspielenden je einen ihrer Charaktere und legen ihn unter ihr Deck. Dann dürfen alle gegnerischen Mitspielenden je 1 Karte ziehen.",
+  "card_identifier": "210/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/210_416d6ffc8779ea813556eb36a9a82cdfbfe8ff99.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/210_c4cbf2b8ef90793986b58e942c854c0f7a873425.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/210_d456863f1e00c097e66bc334effc50c70b3bef89.jpg",
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Emperors New Groove",
+    "Ein Königreich für ein Lama"
+  ]
+}

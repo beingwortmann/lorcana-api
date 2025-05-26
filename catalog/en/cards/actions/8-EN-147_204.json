@@ -1,0 +1,40 @@
+{
+  "name": "Nothing We Won't Do",
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Jeanne Plounevez",
+  "deck_building_id": "cc60de718fd85aa22601a84ebf20bf07de590a8e",
+  "culture_invariant_id": 1811,
+  "sort_number": 1810,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Sing Together"
+  ],
+  "subtypes": [
+    "Song"
+  ],
+  "flavor_text": "",
+  "rules_text": "Sing Together 8 (Any number of your or your teammates’ characters with total cost 8 or more may to sing this song for free.) Ready all your characters. For the rest of this turn, they take no damage from challenges and can't quest.",
+  "card_identifier": "147/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/147_f336c86deceeacbc375228a8719fdceabdce2100.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/147_30a015dbf38cb5d23d6324511a98a1613f8b355b.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/147_50c8332790427888139cdc742ed512bb6c003b74.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Brother Bear"
+  ]
+}

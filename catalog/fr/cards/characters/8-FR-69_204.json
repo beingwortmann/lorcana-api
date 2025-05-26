@@ -1,0 +1,48 @@
+{
+  "name": "Madame Mime",
+  "subtitle": "En rhinocéros",
+  "strength": 6,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 6,
+  "author": "Alibeth Zermeno",
+  "deck_building_id": "c8ed6402654f8ce22d7183f9306ce8d843f760b2",
+  "culture_invariant_id": 1733,
+  "sort_number": 1731,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [
+    "Alter"
+  ],
+  "subtypes": [
+    "Floodborn",
+    "Méchant",
+    "Mage"
+  ],
+  "flavor_text": "",
+  "rules_text": "Alter 2 (Vous pouvez payer 2 pour jouer ce personnage sur l'un de vos personnages Madame Mime.) FAITES PLACE, JE PASSE! Lorsque vous jouez ce personnage, bannissez-le ou renvoyez l'un de vos autres personnages en jeu dans votre main.",
+  "card_identifier": "69/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/69_bf6d3b8cef974548132177b1f2db42a2de4b679b.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/69_6f0554981ff55c44fff243d4b9d12c2e3159808d.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/69_0851e98b8e0fa7a1f3948cc352ef12d1f879c939.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "RUBY"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "Merlin l'Enchanteur"
+  ]
+}

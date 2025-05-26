@@ -1,0 +1,47 @@
+{
+  "name": "Aladdin",
+  "subtitle": "Vigilant Guard",
+  "strength": 1,
+  "willpower": 9,
+  "quest_value": 1,
+  "rarity": "RARE",
+  "ink_cost": 6,
+  "author": "Marcel Berg",
+  "deck_building_id": "37c91d4c1e7468929e01ddc735e84693e87bfe36",
+  "culture_invariant_id": 1834,
+  "sort_number": 1833,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Bodyguard"
+  ],
+  "subtypes": [
+    "Dreamborn",
+    "Hero",
+    "Prince"
+  ],
+  "flavor_text": "",
+  "rules_text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.) SAFE PASSAGE Whenever one of your Ally characters quests, you may remove up to 2 damage from this character.",
+  "card_identifier": "170/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/170_dba86df76650ce61834383c6dc17cd1410020eb7.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/170_ffa868d9ca4d3141adfd746259a600d7390510a3.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/170_618a00075f17c06ae7580aa72a8ae9c6ba0de586.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}

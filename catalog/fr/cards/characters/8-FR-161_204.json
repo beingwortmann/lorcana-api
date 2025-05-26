@@ -1,0 +1,44 @@
+{
+  "name": "Madame Samovar",
+  "subtitle": "Gouvernante en chef",
+  "strength": 2,
+  "willpower": 4,
+  "quest_value": 1,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Julie Vu",
+  "deck_building_id": "2dd0dfa5cece069d35c5263852b8fca5400530e7",
+  "culture_invariant_id": 1825,
+  "sort_number": 1823,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "Ne vous inquiétez pas pour le désordre, ma chère. Nous allons tout remettre en ordre en un rien de temps.",
+  "rules_text": "NETTOYAGE , Bannissez l'un de vos objets — Piochez une carte.",
+  "card_identifier": "161/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/161_5cf4584d801bf744572747bec9fe1585370581df.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/161_5e5d76ec550912c70b94b0111a49a4a796dd4cbc.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/161_e9bd78e1d33b168f69d6c867f6212d5ea1e13ee5.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "SAPPHIRE"
+  ],
+  "searchable_keywords": [
+    "La Belle et la Bête",
+    "Beauty and the Beast"
+  ]
+}

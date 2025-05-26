@@ -1,0 +1,46 @@
+{
+  "name": "Maui",
+  "subtitle": "Stubborn Trickster",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "SUPER",
+  "ink_cost": 6,
+  "author": "Natalie Dombois",
+  "deck_building_id": "d2a45653b90b954304d34f83f5eeafae952d560d",
+  "culture_invariant_id": 1774,
+  "sort_number": 1773,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Hero",
+    "Deity"
+  ],
+  "flavor_text": "",
+  "rules_text": "I'M NOT FINISHED YET When this character is banished, choose one: • Put 2 damage counters on all opposing characters. • Banish all opposing items. • Banish all opposing locations.",
+  "card_identifier": "110/204 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/1468x2048/110_048dd59e0774575666d5c0638d45dc571eadc339.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/set8/cards/367x512/110_0165aefa078bb499a8a88ae55b0a1f6f50abde50.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set8/masks/1468x2048/110_299ab75d8bb245e5098ea773073860a5917ea2eb.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD",
+    "STEEL"
+  ],
+  "searchable_keywords": [
+    "Moana",
+    "Vaiana"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Louis",
+  "subtitle": "Alligator attachant",
+  "strength": 4,
+  "willpower": 3,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 3,
+  "author": "Grace Tran",
+  "deck_building_id": "3deba3fa35df22e54afa3d89cb4eb78070c41c2a",
+  "culture_invariant_id": 1759,
+  "sort_number": 1757,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Allié"
+  ],
+  "flavor_text": "",
+  "rules_text": "ÂME SENSIBLE Ce personnage entre en jeu épuisé. PLUS SYMPA QU'IL N'Y PARAÎT Lorsque vous jouez ce personnage, choisissez un personnage adverse qui gagne Combattant durant son prochain tour. (Ce personnage ne peut pas être envoyé à l'aventure et doit défier à chaque tour s'il le peut.)",
+  "card_identifier": "95/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/95_de88ee96f5fb952f59ed93c8cd48d45feab6f993.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/95_70a26019fc4496ca74191144253f43e9a5c292ad.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/95_0ecf048d50fb0b84a2b77c14d81637ca2cb6342e.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Princess and the Frog",
+    "La Princesse et la Grenouille"
+  ]
+}

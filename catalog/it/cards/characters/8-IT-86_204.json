@@ -1,0 +1,45 @@
+{
+  "name": "Basil",
+  "subtitle": "Detective Sotto Copertura",
+  "strength": 5,
+  "willpower": 4,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 7,
+  "author": "Stefano Spagnuolo",
+  "deck_building_id": "d557e83f557eeed52f4528785eb15321f03c453c",
+  "culture_invariant_id": 1750,
+  "sort_number": 1748,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Eroe",
+    "Detective"
+  ],
+  "flavor_text": "",
+  "rules_text": "NEUTRALIZZARE Quando giochi questo personaggio, puoi far riprendere in mano al suo giocatore un personaggio a tua scelta. INTERFERIRE Ogni volta che questo personaggio va all'avventura, un avversario a tua scelta scarta una carta a caso.",
+  "card_identifier": "86/204 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/86_b5afb62668641343e57d7bbabee650694da63faa.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/86_264536af63bc4730567a8388da1ecb7b29794127.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/86_11dca383cee1ee7722e4ef3967e3ea6c9ddf1691.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Basil, L'Investigatopo",
+    "Great Mouse Detective"
+  ]
+}

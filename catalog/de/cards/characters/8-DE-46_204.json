@@ -1,0 +1,46 @@
+{
+  "name": "Druun",
+  "subtitle": "Gefräßige Plage",
+  "strength": 1,
+  "willpower": 5,
+  "quest_value": 1,
+  "rarity": "UNCOMMON",
+  "ink_cost": 4,
+  "author": "Alex Accorsi",
+  "deck_building_id": "2bb33b315b146bb97dcb0790b7c5819a986519d6",
+  "culture_invariant_id": 1710,
+  "sort_number": 1708,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Herausfordern"
+  ],
+  "subtypes": [
+    "Sagengestalt",
+    "Schurke"
+  ],
+  "flavor_text": "Sie waren schon immer hier und warteten auf einen Moment der Schwäche, um anzugreifen.%–Sisu",
+  "rules_text": "Herausfordern +4 (Während dieser Charakter herausfordert, erhält er +4.)",
+  "card_identifier": "46/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/46_df75f7413e398f986795eda29233eabbad115d6d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/46_846b47937ed1a3790a1da9ff52f3e84b5449c431.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/46_b57dbfec11f7a5f9e8fa67763916b7626487e463.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Raya und der letzte Drache",
+    "Raya and the Last Dragon"
+  ]
+}

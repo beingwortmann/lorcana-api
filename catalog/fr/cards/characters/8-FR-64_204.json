@@ -1,0 +1,44 @@
+{
+  "name": "Monstro",
+  "subtitle": "Baleine tristement célèbre",
+  "strength": 6,
+  "willpower": 8,
+  "quest_value": 2,
+  "rarity": "RARE",
+  "ink_cost": 8,
+  "author": "Alexandria Neonakis",
+  "deck_building_id": "1c70c65c4d7b69c92748b9cb0841e95c8fb2f60d",
+  "culture_invariant_id": 1728,
+  "sort_number": 1726,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [
+    "Charge"
+  ],
+  "subtypes": [
+    "Storyborn"
+  ],
+  "flavor_text": "",
+  "rules_text": "Charge (Ce personnage peut défier le tour où il est joué.) PERCÉE COMPLÈTE Défaussez une carte — Redressez ce personnage. Il ne peut pas être envoyé à l'aventure pour le reste de ce tour.",
+  "card_identifier": "64/204 FR 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/1468x2048/64_588112aeca68d112e58f8864878d933620b25844.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set8/cards/367x512/64_33e5ddfeb34ab90e8d8d6a9d99a406df477ba134.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set8/masks/1468x2048/64_8d627fcc203663b73cffaaf2b7773440831141f6.jpg",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Pinocchio"
+  ]
+}

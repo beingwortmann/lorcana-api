@@ -1,0 +1,45 @@
+{
+  "name": "Yelena",
+  "subtitle": "Anführerin der Northuldra",
+  "strength": 2,
+  "willpower": 3,
+  "quest_value": 2,
+  "rarity": "COMMON",
+  "ink_cost": 3,
+  "author": "Aisha Durmagambetova",
+  "deck_building_id": "9d1ce7675bbc9d3acf0c5fad0896029f068795e6",
+  "culture_invariant_id": 1719,
+  "sort_number": 1717,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "WIR VERTRAUEN NUR AUF DIE NATUR Wenn du diesen Charakter ausspielst, erhält ein Charakter deiner Wahl in diesem Zug Herausfordern +2. (Während der Charakter herausfordert, erhält er +2).",
+  "card_identifier": "55/204 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/1468x2048/55_88decaece2fc3395cbc1032ff7154f05420dc657.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/set8/cards/367x512/55_424e1a38d254754157e90e9501046c631b9bea3e.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/set8/masks/1468x2048/55_0eefe4a28912a0e212755ee245d1c4b3f07dc897.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "AMETHYST"
+  ],
+  "searchable_keywords": [
+    "Frozen",
+    "Die Eiskönigin"
+  ]
+}

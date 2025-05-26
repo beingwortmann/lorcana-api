@@ -1,0 +1,45 @@
+{
+  "name": "Jafar",
+  "subtitle": "Sommo Sultano di Lorcana",
+  "strength": 4,
+  "willpower": 4,
+  "quest_value": 3,
+  "rarity": "ENCHANTED",
+  "ink_cost": 5,
+  "author": "John Loren / Cristian Romero",
+  "deck_building_id": "50e1c204657b785ab5879cee057fe3009115fd88",
+  "culture_invariant_id": 1893,
+  "sort_number": 1895,
+  "additional_info": [],
+  "ink_convertible": false,
+  "abilities": [],
+  "subtypes": [
+    "Immaginato",
+    "Cattivo",
+    "Re",
+    "Incantatore"
+  ],
+  "flavor_text": "",
+  "rules_text": "POTERE OSCURO Ogni volta che questo personaggio va all'avventura, puoi pescare una carta, poi scegli e scarta una carta. Se hai scartato una carta personaggio Illusione in questo modo, puoi giocare quel personaggio gratis.",
+  "card_identifier": "33/P2 IT 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/1468x2048/33_4ba735ff29caa83646bd408abf9d7bb9a6241db3.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/it/promo2/cards/367x512/33_10e43eaa9dff4b71ded446c66e952cc81fd1c7ba.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/promo2/masks/1468x2048/33_0231b822b92381cd224d31ee25f647c2f68a9412.jpg",
+  "special_rarity_id": 4,
+  "foil_type": "VerticalWave",
+  "card_sets": [
+    8
+  ],
+  "magic_ink_colors": [
+    "AMETHYST",
+    "STEEL"
+  ]
+}

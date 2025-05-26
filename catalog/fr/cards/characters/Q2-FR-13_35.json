@@ -1,0 +1,41 @@
+{
+  "name": "Cobra gargantuesque",
+  "subtitle": "Statue rampante",
+  "strength": 7,
+  "willpower": 5,
+  "quest_value": 3,
+  "rarity": "SPECIAL",
+  "ink_cost": 7,
+  "author": "Diego Machuca",
+  "deck_building_id": "513a10ee9fdb722093e88d7b3e36b8478d1bc612",
+  "culture_invariant_id": 1908,
+  "sort_number": 1908,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Colosse"
+  ],
+  "flavor_text": "Contemplez les merveilles du véritable pouvoir! Même la pierre m'obéit!%—Jafar",
+  "rules_text": "L'OMBRE DU SERPENT Lorsque Jafar joue ce personnage, il inflige 3 dommages à chaque personnage adverse épuisé.",
+  "card_identifier": "13/35 FR Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/1468x2048/13_a73607fce6e3b3a4c960fdeef579202f769ab916.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/fr/quest2/cards/367x512/13_debece2aa29121a9b5ef1556999b4ceced11dffb.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Lorcana"
+  ]
+}

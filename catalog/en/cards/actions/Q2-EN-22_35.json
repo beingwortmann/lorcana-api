@@ -1,0 +1,35 @@
+{
+  "name": "Arcane Quake",
+  "rarity": "SPECIAL",
+  "ink_cost": 4,
+  "author": "French Carlomagno",
+  "deck_building_id": "46e5e916f27135819de17ac3aed108aff3b64569",
+  "culture_invariant_id": 1917,
+  "sort_number": 1918,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [],
+  "flavor_text": "Your plan’s beginning to crumble. Try not to lose your grip!%—Jafar",
+  "rules_text": "Jafar exerts all opposing characters. They can’t ready at the start of their next turn.",
+  "card_identifier": "22/35 EN Q2",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/1468x2048/22_b197f2abf1abcd3936986c83d187a46b17efff0d.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/quest2/cards/367x512/22_203ad880b73ac7e3e4228ae9d092af97d3be42ee.jpg"
+    }
+  ],
+  "special_rarity_id": 5,
+  "foil_type": "None",
+  "card_sets": [
+    10
+  ],
+  "magic_ink_colors": [],
+  "searchable_keywords": [
+    "Aladdin"
+  ]
+}
