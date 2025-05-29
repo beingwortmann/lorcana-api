@@ -35,7 +35,8 @@ def convert_database(new_db_path, old_schema_db_path):
         flavorText TEXT,
         fullText TEXT,
         story TEXT,
-        imageUrl TEXT
+        imageUrl TEXT,
+        deck_building_id TEXT
     )
     ''')
     tgt_conn.commit()
@@ -50,11 +51,14 @@ def convert_database(new_db_path, old_schema_db_path):
     INSERT INTO cards (
         color, inkwell, rarity, type, fullIdentifier, setNumber, number,
         artist, baseName, fullName, simpleName, subtitle, cost, lore, strength,
-        willpower, flavorText, fullText, story, imageUrl
-    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+        willpower, flavorText, fullText, story, imageUrl, deck_building_id
+    ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
     '''
     
     count = 0
+    english_cards_data = []
+    other_language_cards_data = []
+
     for row in rows:
         # Mapping der neuen Spalten zu den alten:
         # Neue -> Alte
@@ -112,13 +116,64 @@ def convert_database(new_db_path, old_schema_db_path):
             willpower = 0
         flavorText = row["flavor_text"]
         fullText = row["rules_text"]
-        story = None  # wird nicht übernommen
+        story = None
         imageUrl = row["image_url"]
+        deck_building_id = row["deck_building_id"]
+
+        if deck_building_id and imageUrl:
+            english_image_urls_by_deck_id[deck_building_id] = imageUrl
         
         tgt_cursor.execute(insert_query, (
             color, inkwell, rarity, type_field, fullIdentifier, setNumber, number,
             artist, baseName, fullName, simpleName, subtitle, cost, lore, strength,
-            willpower, flavorText, fullText, story, imageUrl
+            willpower, flavorText, fullText, story, imageUrl, deck_building_id
+        ))
+        count += 1
+
+    # Process other language cards
+    for row in other_language_cards_data:
+        color = row["magic_ink_colors"]
+        inkwell = 1 if row["ink_convertible"] == 1 else 0
+        rarity = row["rarity"]
+        type_field = row["type"]
+        fullIdentifier = row["card_identifier"]
+        try:
+            setNumber = int(row["card_sets"])
+        except Exception:
+            setNumber = 0
+        number = row["number"]
+        artist = row["author"]
+        baseName = row["name"]
+        fullName = row["fullName"]
+        simpleName = row["name"]
+        subtitle = row["subtitle"]
+        try:
+            cost = int(row["ink_cost"])
+        except Exception:
+            cost = 0
+        try:
+            lore = int(row["quest_value"])
+        except Exception:
+            lore = 0
+        try:
+            strength = int(row["strength"])
+        except Exception:
+            strength = 0
+        try:
+            willpower = int(row["willpower"])
+        except Exception:
+            willpower = 0
+        flavorText = row["flavor_text"]
+        fullText = row["rules_text"]
+        story = None
+        
+        deck_building_id = row["deck_building_id"]
+        imageUrl = english_image_urls_by_deck_id.get(deck_building_id, row["image_url"])
+        
+        tgt_cursor.execute(insert_query, (
+            color, inkwell, rarity, type_field, fullIdentifier, setNumber, number,
+            artist, baseName, fullName, simpleName, subtitle, cost, lore, strength,
+            willpower, flavorText, fullText, story, imageUrl, deck_building_id
         ))
         count += 1
 

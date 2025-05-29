@@ -91,7 +91,8 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
         flavor_text TEXT,
         rules_text TEXT,
         image_url TEXT,
-        fullName TEXT
+        fullName TEXT,
+        deck_building_id TEXT
     )
     ''')
     conn.commit()
@@ -172,12 +173,13 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                                     break
                         # Falls subtitle leer ist, lasse den " - " weg.
                         fullName = name_field if not subtitle_field.strip() else f"{name_field} - {subtitle_field}"
+                        deck_building_id = card.get("deck_building_id", "")
                         
                         cursor.execute('''
                         INSERT INTO cards (
-                            magic_ink_colors, ink_convertible, rarity, type, card_identifier, card_sets, number, author, name, subtitle, ink_cost, quest_value, strength, willpower, flavor_text, rules_text, image_url, fullName
-                        ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
-                        ''', (magic_ink_colors, ink_convertible, rarity, typ, card_identifier, card_sets, num, author, name_field, subtitle_field, ink_cost, quest_value, strength, willpower, flavor_text, rules_text, image_url, fullName))
+                            magic_ink_colors, ink_convertible, rarity, type, card_identifier, card_sets, number, author, name, subtitle, ink_cost, quest_value, strength, willpower, flavor_text, rules_text, image_url, fullName, deck_building_id
+                        ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+                        ''', (magic_ink_colors, ink_convertible, rarity, typ, card_identifier, card_sets, num, author, name_field, subtitle_field, ink_cost, quest_value, strength, willpower, flavor_text, rules_text, image_url, fullName, deck_building_id))
                         conn.commit()
                         
                         # Prüfe anhand des card_identifier, ob nach dem Slash ein Buchstabe folgt.
