@@ -129,7 +129,19 @@ def convert_database(new_db_path, old_schema_db_path):
         imageUrl = row["image_url"]
         deck_building_id = row["deck_building_id"]
 
-        if deck_building_id and imageUrl:
+        # Check if the English card is a "normal" version
+        # Normal: "147/204 EN 5" (part after / is numeric)
+        # Special: "1/P2 EN 5" (part after / is not purely numeric)
+        is_normal_version = False
+        if fullIdentifier:
+            parts = fullIdentifier.split('/')
+            if len(parts) > 1:
+                after_slash_part = parts[1] # e.g., "204 EN 5" or "P2 EN 5"
+                potential_set_total_token = after_slash_part.split(' ')[0]
+                if potential_set_total_token.isdigit():
+                    is_normal_version = True
+
+        if is_normal_version and deck_building_id and imageUrl:
             english_image_urls_by_deck_id[deck_building_id] = imageUrl
         
         tgt_cursor.execute(insert_query, (
