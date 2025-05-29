@@ -157,17 +157,17 @@ def process_catalog_and_update_db(catalog_dir, thumbnails_dir, db_path):
                         willpower = card.get("willpower", "")
                         flavor_text = card.get("flavor_text", "")
                         rules_text = card.get("rules_text", "")
-                        # image_url: Wähle den Link aus image_urls mit height == 512
+                        # image_url: Wähle den Link aus image_urls mit height == 2048
                         image_url = ""
                         image_urls = card.get("image_urls", [])
                         if isinstance(image_urls, list):
                             for entry in image_urls:
-                                if isinstance(entry, dict) and entry.get("height") == 512:
+                                if isinstance(entry, dict) and entry.get("height") == 2048:
                                     image_url = entry.get("url", "")
                                     break
                         elif isinstance(image_urls, dict):
                             for key, entry in image_urls.items():
-                                if isinstance(entry, dict) and entry.get("height") == 512:
+                                if isinstance(entry, dict) and entry.get("height") == 2048:
                                     image_url = entry.get("url", "")
                                     break
                         # Falls subtitle leer ist, lasse den " - " weg.
