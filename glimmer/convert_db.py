@@ -60,6 +60,15 @@ def convert_database(new_db_path, old_schema_db_path):
     other_language_cards_data = []
 
     for row in rows:
+        if " EN " in row["card_identifier"]:
+            english_cards_data.append(row)
+        else:
+            other_language_cards_data.append(row)
+
+    english_image_urls_by_deck_id = {}
+
+    # Process English cards first
+    for row in english_cards_data:
         # Mapping der neuen Spalten zu den alten:
         # Neue -> Alte
         # magic_ink_colors      -> color
