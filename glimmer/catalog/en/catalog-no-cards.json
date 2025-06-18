@@ -113,6 +113,13 @@
   ],
   "news": [
     {
+      "title": "World Champs",
+      "subtitle": "Watch June 28-29 on Twitch",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news/2025/06/2025-6-watch-worlds-on-twitch",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2.jpg"
+    },
+    {
       "title": "Play Hub is Live!",
       "subtitle": "Read Article",
       "target_type": "WebPage",
