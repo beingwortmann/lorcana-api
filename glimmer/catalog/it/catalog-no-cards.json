@@ -113,6 +113,13 @@
   ],
   "news": [
     {
+      "title": "Campionato!",
+      "subtitle": "Guarda Ora",
+      "target_type": "WebPage",
+      "target_object": "https://www.twitch.tv/disneylorcana_IT",
+      "image_url": "https://api.lorcana.ravensburger.com/images/it/news/a2e33d344f272e100d4a8efeabc7ae8a60a8ba7a.jpg"
+    },
+    {
       "title": "Riassunto",
       "subtitle": "dello sviluppo del gioco",
       "target_type": "WebPage",
