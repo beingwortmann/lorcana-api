@@ -113,13 +113,6 @@
   ],
   "news": [
     {
-      "title": "Gen Con Panel",
-      "subtitle": "Watch Now",
-      "target_type": "WebPage",
-      "target_object": "https://www.twitch.tv/videos/2527335562",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg"
-    },
-    {
       "title": "Lorcana Updates!",
       "subtitle": "Read Article",
       "target_type": "WebPage",
@@ -127,11 +120,18 @@
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg"
     },
     {
-      "title": "Gen Con Schedule!",
-      "subtitle": "Get it!",
+      "title": "Familiar Faces",
+      "subtitle": "Return in Fabled",
       "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/06_/disney-lorcana-at-gen-con-2025",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/0ca9277f91e40054767f69afeb0426711ca0fddd.jpg"
+      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/08_/2025-8-familiar-faces",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/d30f79cf7fef47bd7a5611719f936539bec0d2e9.jpg"
+    },
+    {
+      "title": "Goofy Movie",
+      "subtitle": "Debuting in Fabled",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/08_/2025-8-superstars-and-pachyderms-enter-play",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/95e815d1541bf6f358cfffbe66ab3af0d0c09d09.jpg"
     },
     {
       "title": "Champion Crowned!",
@@ -139,6 +139,13 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/06_/2025-06-disney-lorcana-world-champion-crowned",
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg"
+    },
+    {
+      "title": "Gen Con Panel",
+      "subtitle": "Watch Now",
+      "target_type": "WebPage",
+      "target_object": "https://www.twitch.tv/videos/2527335562",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg"
     },
     {
       "title": "Play Hub is Live!",
@@ -160,13 +167,6 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/en-US/news/2025/05/2025-5_game-dev-digest",
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg"
-    },
-    {
-      "title": "Artist Spotlight ",
-      "subtitle": "Nicholas Ky",
-      "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/artist_spotlight_s5_nicolas-ky",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/511a418e72591eb7e33f703f04c3fa16df6c90bd.jpg"
     }
   ],
   "search_filters": {
