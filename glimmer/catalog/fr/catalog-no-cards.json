@@ -113,6 +113,20 @@
   ],
   "news": [
     {
+      "title": "RARETÉS",
+      "subtitle": "Lire l'article",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/fr-FR/news_/2025_/08_/2025-8-stunning-new-rarities",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/40f7c01f4189510031adccd9c604a128adaf9b00.jpg"
+    },
+    {
+      "title": "Actualités",
+      "subtitle": "Des visages familiers",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/fr-FR/news_/2025_/08_/2025-8-familiar-faces",
+      "image_url": "https://api.lorcana.ravensburger.com/images/fr/news/9e071a3a594a8964cbefe784f8a6afaa94c0de17.jpg"
+    },
+    {
       "title": "Actualités",
       "subtitle": "Lire l'article",
       "target_type": "WebPage",
