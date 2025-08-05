@@ -113,11 +113,25 @@
   ],
   "news": [
     {
+      "title": "ATEMBERAUBENDE",
+      "subtitle": "NEUE SELTENHEITEN",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/08_/2025-8-stunning-new-rarities",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/e1a864f0b77f6c89794827a9035355dc8d052622.jpg"
+    },
+    {
       "title": "Lorcana News",
       "subtitle": "Lies den Artikel",
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/07_/2025-07-lorcana-celebrates-two-years",
       "image_url": "https://api.lorcana.ravensburger.com/images/de/news/008451a05e1e7aa32c75119df950d405265e0904.jpg"
+    },
+    {
+      "title": "SUPERSTARS",
+      "subtitle": "UND DICKHÄUTER...",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/de-DE/news_/2025_/08_/2025-8-superstars-and-pachyderms-enter-play",
+      "image_url": "https://api.lorcana.ravensburger.com/images/de/news/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9.jpg"
     },
     {
       "title": "Weltmeisterschaft!",
