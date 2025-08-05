@@ -113,11 +113,11 @@
   ],
   "news": [
     {
-      "title": "Lorcana Updates!",
-      "subtitle": "Read Article",
+      "title": "New Rarities!",
+      "subtitle": "Epics & Iconics in Fabled!",
       "target_type": "WebPage",
-      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/07_/2025-07-lorcana-celebrates-two-years",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg"
+      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/08_/2025-8-stunning-new-rarities",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/91dfde1d6e005e422f64a59776234f1f4c80b5e4.jpg"
     },
     {
       "title": "Familiar Faces",
@@ -141,13 +141,6 @@
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/f38cfe2e2facbcc742bad63f91ad55637300cb45.jpg"
     },
     {
-      "title": "Gen Con Panel",
-      "subtitle": "Watch Now",
-      "target_type": "WebPage",
-      "target_object": "https://www.twitch.tv/videos/2527335562",
-      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/2a7541babb57434e5631ffa2b5639e24f8ce84fc.jpg"
-    },
-    {
       "title": "Play Hub is Live!",
       "subtitle": "Read Article",
       "target_type": "WebPage",
@@ -167,6 +160,13 @@
       "target_type": "WebPage",
       "target_object": "https://www.disneylorcana.com/en-US/news/2025/05/2025-5_game-dev-digest",
       "image_url": "https://api.lorcana.ravensburger.com/images/en/news/7224f997fc148baa0b7f81c1eda6fcc3fd003db0.jpg"
+    },
+    {
+      "title": "Lorcana Updates!",
+      "subtitle": "Read Article",
+      "target_type": "WebPage",
+      "target_object": "https://www.disneylorcana.com/en-US/news_/2025_/07_/2025-07-lorcana-celebrates-two-years",
+      "image_url": "https://api.lorcana.ravensburger.com/images/en/news/114d4eefde1dae3983e7a79f04c72feb9a3a7efd.jpg"
     }
   ],
   "search_filters": {
