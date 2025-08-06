@@ -20,14 +20,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/1468x2048/7_3324f1eaf672e4cfd71506a956b5098fea2364e4.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/7_3324f1eaf672e4cfd71506a956b5098fea2364e4.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/cards/367x512/7_211f13ae71c966797d140785b7fe93b9a80a12f4.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/challenge1/7_211f13ae71c966797d140785b7fe93b9a80a12f4.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/masks/1468x2048/7_12346af1f9f2b7bdf94a7898148cb08f80934cda.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/challenge1/7_12346af1f9f2b7bdf94a7898148cb08f80934cda.jpg",
   "special_rarity_id": 4,
   "foil_type": "Tempest",
   "card_sets": [

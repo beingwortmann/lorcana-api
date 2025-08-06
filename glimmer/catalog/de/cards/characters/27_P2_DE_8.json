@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/1468x2048/27_034f24557be936bde568ad361a7a78302e6e35ee.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/27_034f24557be936bde568ad361a7a78302e6e35ee.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/cards/367x512/27_0a7645147eb52abeb729ab4c14c4e2bfab30b8fe.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/27_0a7645147eb52abeb729ab4c14c4e2bfab30b8fe.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promo2/masks/1468x2048/27_9f3cc07a99de928df6c5ed531d19c4183f0dec0f.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promo2/27_9f3cc07a99de928df6c5ed531d19c4183f0dec0f.jpg",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [

@@ -23,18 +23,18 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/34_61799a037409d40d95427cc2ceae042c0db62698.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_61799a037409d40d95427cc2ceae042c0db62698.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/34_04f1f4af02ab44d94fba3ea6c1a01c78c9b0385c.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_04f1f4af02ab44d94fba3ea6c1a01c78c9b0385c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/34_1f5c2542255a529f5e9a10886e32371156c24661.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_1f5c2542255a529f5e9a10886e32371156c24661.jpg",
   "special_rarity_id": 1,
   "foil_type": "SeaWave",
   "varnish_type": "InkColoredHotFoil",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/gloss/1468x2048/34_2b663572f3c01134f57e8125e36ccd48f8f46f1d.jpg",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_86065d2786040d8d5f4ed31b5272373ec1ef350b.jpg",
   "card_sets": [
     8,
     10

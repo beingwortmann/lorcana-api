@@ -22,16 +22,16 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/1468x2048/18_74e444d85f527d58945b530e665ce1ecbf778009.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/18_74e444d85f527d58945b530e665ce1ecbf778009.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/it/set8/cards/367x512/18_61718189a4b594f82e8aae44342802567d71a65d.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/it/set8/18_61718189a4b594f82e8aae44342802567d71a65d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/masks/1468x2048/18_2be6d0a7cd8f37ed5f1b24d4a27e390771a4725b.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/18_2be6d0a7cd8f37ed5f1b24d4a27e390771a4725b.jpg",
   "varnish_type": "HighGloss",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/gloss/1468x2048/18_f7680d591b50855f7c06c0b5ef585f8cfbe30d77.jpg",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/it/set8/18_f7680d591b50855f7c06c0b5ef585f8cfbe30d77.jpg",
   "card_sets": [
     8
   ],
