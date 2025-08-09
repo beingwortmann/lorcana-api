@@ -25,14 +25,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/210_36f362394e4bb8ec2ff72e01fc54b1654a619ed3.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/1468x2048/210_b4aa5dfdb2d2d37bbe6a384d1bab64860ad015ef.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/210_9100feb851a0287fb73a94c82f1c9cbda9d011fd.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set1/cards/367x512/210_96b95c4592714bcab4e6bc10f9afa8ec99275132.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set1/210_06a6f8f4110fe6609c9374788937f50d5b06dd2b.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set1/masks/1468x2048/210_a0f06df5c8b5b53113a3f76a505bded06f908b29.jpg",
   "foil_type": "Lava",
   "card_sets": [
     1
