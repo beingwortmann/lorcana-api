@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/224_de05934611b221254f9eabd39b55a0e279b99c78.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/1468x2048/224_de05934611b221254f9eabd39b55a0e279b99c78.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/224_2897603c7e2dd34802498c6db25a6e1350336f0b.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/fr/set7/cards/367x512/224_2897603c7e2dd34802498c6db25a6e1350336f0b.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/224_7cc12785634eccc93ac7e1bc90f09ab6e733e736.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/fr/set7/masks/1468x2048/224_7cc12785634eccc93ac7e1bc90f09ab6e733e736.jpg",
   "foil_type": "SeaWave",
   "card_sets": [
     7,
