@@ -27,18 +27,18 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/1468x2048/7_d0fae8f0caf6fd33b168a61b95d51e2fb15d584d.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/7_d0fae8f0caf6fd33b168a61b95d51e2fb15d584d.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/d23/cards/367x512/7_b6e27ef7c2bef37aaed1a450374f4fb28828633c.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/d23/7_b6e27ef7c2bef37aaed1a450374f4fb28828633c.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/masks/1468x2048/7_966dc4f344031968d13f523b251be6cff3bb69e0.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/7_966dc4f344031968d13f523b251be6cff3bb69e0.jpg",
   "special_rarity_id": 2,
   "foil_type": "FreeForm",
   "varnish_type": "Gold",
-  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/gloss/1468x2048/7_0b31b634289105bfe78102edb68e0bf0d5e54c53.jpg",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/d23/7_0b31b634289105bfe78102edb68e0bf0d5e54c53.jpg",
   "card_sets": [
     4
   ],
