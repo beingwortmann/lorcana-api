@@ -27,14 +27,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/8_f3d09fb838bdbcda6ff9ae41c79114ac3bed5b99.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/8_f3d09fb838bdbcda6ff9ae41c79114ac3bed5b99.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/8_98d7782fa93ac829337358afb3a0ddd5c40519f0.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/8_98d7782fa93ac829337358afb3a0ddd5c40519f0.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/8_594167625e4055f80ba0bec894e3849ac1999bed.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/8_594167625e4055f80ba0bec894e3849ac1999bed.jpg",
   "special_rarity_id": 1,
   "foil_type": "SeaWave",
   "card_sets": [
