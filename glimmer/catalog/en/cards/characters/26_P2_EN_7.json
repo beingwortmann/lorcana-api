@@ -24,14 +24,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/26vaiana_3986b15cc2a2ce5e29a2fb937acbf3c8db9a0321.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/1468x2048/26vaiana_3986b15cc2a2ce5e29a2fb937acbf3c8db9a0321.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/26vaiana_3b810693bd58b5f343586238d5030921207632c5.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/cards/367x512/26vaiana_3b810693bd58b5f343586238d5030921207632c5.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/26vaiana_79ba88188d1bcb03c0b8fdee16eb78c7ec46167b.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/masks/1468x2048/26vaiana_79ba88188d1bcb03c0b8fdee16eb78c7ec46167b.jpg",
   "special_rarity_id": 1,
   "foil_type": "Silver",
   "card_sets": [

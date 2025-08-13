@@ -23,14 +23,14 @@
   "image_urls": [
     {
       "height": 2048,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set4/10_e0ad94e4947670f581813fa336ddd0eeef2c5e17.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/1468x2048/10_e0ad94e4947670f581813fa336ddd0eeef2c5e17.jpg"
     },
     {
       "height": 512,
-      "url": "https://api.lorcana.ravensburger.com/images/en/set4/10_1fa6b8739e82df87834c5443b93f3dfe31e95e5d.jpg"
+      "url": "https://api.lorcana.ravensburger.com/images/en/set4/cards/367x512/10_1fa6b8739e82df87834c5443b93f3dfe31e95e5d.jpg"
     }
   ],
-  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/10_d61604c21ca77dfdcb1d8a0448dc1f11b36cace5.jpg",
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/set4/masks/1468x2048/10_d61604c21ca77dfdcb1d8a0448dc1f11b36cace5.jpg",
   "card_sets": [
     4
   ],
