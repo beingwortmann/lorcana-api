@@ -1,0 +1,49 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Raffinierte Eule",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Gwawi",
+  "deck_building_id": "0db41c144267742c585a92951d97cb8fbdfc7a2f",
+  "culture_invariant_id": 1935,
+  "sort_number": 1889,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Sagengestalt",
+    "Verbündeter"
+  ],
+  "flavor_text": "",
+  "rules_text": "DAS BRAUCHST DU NICHT Wenn du diesen Charakter ausspielst, darfst du einen Gegenstand deiner Wahl verbannen. NUN, DAS IST NICHT ÜBEL Jedes Mal während deines Zuges, wenn ein Gegenstand verbannt wird, darfst du 1 Karte ziehen. Wähle danach 1 Karte aus deiner Hand und wirf sie ab.",
+  "card_identifier": "34/P2 DE 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/34_df56940794bbfc848fcd255234c9b107f56ae536.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/de/promo2/34_292354971cb2014dbcd9f0e9e4fd38be885b1e72.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/de/promo2/34_0fb86f1ad4233a0583447cfd9544cc642377831f.jpg",
+  "special_rarity_id": 1,
+  "foil_type": "SeaWave",
+  "varnish_type": "InkColoredHotFoil",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/de/promo2/34_86065d2786040d8d5f4ed31b5272373ec1ef350b.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "Die Hexe und der Zauberer"
+  ]
+}

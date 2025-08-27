@@ -1,0 +1,49 @@
+{
+  "name": "Archimedes",
+  "subtitle": "Resourceful Owl",
+  "strength": 2,
+  "willpower": 2,
+  "quest_value": 2,
+  "rarity": "SPECIAL",
+  "ink_cost": 3,
+  "author": "Gwawi",
+  "deck_building_id": "0db41c144267742c585a92951d97cb8fbdfc7a2f",
+  "culture_invariant_id": 1935,
+  "sort_number": 1889,
+  "additional_info": [],
+  "ink_convertible": true,
+  "abilities": [],
+  "subtypes": [
+    "Storyborn",
+    "Ally"
+  ],
+  "flavor_text": "",
+  "rules_text": "YOU DON'T NEED THAT When you play this character, you may banish chosen item. NOW, THAT'S NOT BAD During your turn, whenever an item is banished, you may draw a card, then choose and discard a card.",
+  "card_identifier": "34/P2 EN 8",
+  "image_urls": [
+    {
+      "height": 2048,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_61799a037409d40d95427cc2ceae042c0db62698.jpg"
+    },
+    {
+      "height": 512,
+      "url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_04f1f4af02ab44d94fba3ea6c1a01c78c9b0385c.jpg"
+    }
+  ],
+  "foil_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_1f5c2542255a529f5e9a10886e32371156c24661.jpg",
+  "special_rarity_id": 1,
+  "foil_type": "SeaWave",
+  "varnish_type": "InkColoredHotFoil",
+  "varnish_mask_url": "https://api.lorcana.ravensburger.com/images/en/promo2/34_86065d2786040d8d5f4ed31b5272373ec1ef350b.jpg",
+  "card_sets": [
+    8,
+    10
+  ],
+  "magic_ink_colors": [
+    "EMERALD"
+  ],
+  "searchable_keywords": [
+    "Sword in the Stone",
+    "La Spada Nella Roccia"
+  ]
+}
