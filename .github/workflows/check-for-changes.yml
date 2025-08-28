@@ -1,3 +1,5 @@
+name: Sync & Release
+
 on:
   workflow_dispatch:
   schedule:
@@ -8,9 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GIT_HTTP_TIMEOUT: 600
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # oder 0 für komplette Historie
 
       - name: Remove existing catalog, images and DB (if needed)
         run: |
@@ -50,68 +55,91 @@ jobs:
 
       - name: Check for new card changes
         id: card_changes
+        shell: bash
         run: |
-          # Get list of changed card JSON files from the last commit
-          CHANGED=$(git diff --name-only HEAD~1 HEAD | grep 'catalog/.*/cards/.*\.json' || true)
+          set -euo pipefail
+
+          # Bestimme eine sichere Diff-Range: entweder letzter Commit (HEAD~1..HEAD)
+          # oder bei Erst-Commit ein Diff gegen den leeren Tree.
+          if git rev-parse HEAD~1 >/dev/null 2>&1; then
+            RANGE="HEAD~1..HEAD"
+          else
+            EMPTY_TREE=$(git hash-object -t tree /dev/null)
+            RANGE="$EMPTY_TREE..HEAD"
+          fi
+
+          # Liste geänderte Karten-JSONs auf
+          CHANGED=$(git diff --name-only $RANGE -- 'catalog/**/cards/*.json' || true)
+
           if [ -z "$CHANGED" ]; then
             echo "No new card changes detected."
-            echo "::set-output name=new_cards::No new cards added."
-          else
-            echo "New cards detected:"
-            echo "$CHANGED"
-            # Extract card names using jq from the JSON files
-            NEW_CARDS=""
-            for file in $CHANGED; do
-              # If the file exists and is valid JSON, extract the "name" field
-              if [ -f "$file" ]; then
-                name=$(jq -r '.name' "$file" 2>/dev/null)
-                NEW_CARDS="$NEW_CARDS - $name\n"
-              fi
-            done
-            echo "::set-output name=new_cards::$NEW_CARDS"
+            echo "new_cards=No new cards added." >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+
+          echo "New cards detected:"
+          echo "$CHANGED"
+
+          NEW_CARDS=""
+          for file in $CHANGED; do
+            if [ -f "$file" ]; then
+              # Namen aus JSON ziehen (leer zulassen, falls Feld fehlt)
+              name=$(jq -r '.name // empty' "$file" 2>/dev/null || true)
+              if [ -n "$name" ]; then
+                NEW_CARDS="${NEW_CARDS} - ${name}\n"
+              fi
+            fi
+          done
+
+          # Output für nachfolgende Steps bereitstellen
+          printf "new_cards=%b" "$NEW_CARDS" >> "$GITHUB_OUTPUT"
 
       - name: Create release artifacts
         id: create_artifacts
+        shell: bash
         run: |
+          set -euo pipefail
+
           RELEASE_VERSION=$(date +'%Y%m%d-%H%M%S')
           echo "Release version: $RELEASE_VERSION"
-          echo "::set-output name=version::$RELEASE_VERSION"
-          
+          echo "version=$RELEASE_VERSION" >> "$GITHUB_OUTPUT"
+
           # Removed Complete Bundle due to GitHub's 2GB limit.
-          
+
           # Create zip for each language images
           for lang in de en fr it; do
-            zip -r Images_${lang}_${RELEASE_VERSION}.zip Images/$lang
+            zip -r "Images_${lang}_${RELEASE_VERSION}.zip" "Images/$lang"
           done
-          
+
           # Create zip for each image size across all languages (2048 and 512)
           for res in 2048 512; do
-            mkdir -p tmp_images_${res}
+            mkdir -p "tmp_images_${res}"
             for lang in de en fr it; do
               if [ -d "Images/$lang/$res" ]; then
-                cp -r Images/$lang/$res tmp_images_${res}/$lang
+                mkdir -p "tmp_images_${res}/$lang"
+                cp -r "Images/$lang/$res" "tmp_images_${res}/$lang/"
               fi
             done
-            zip -r Images_all_${res}_${RELEASE_VERSION}.zip tmp_images_${res}
-            rm -rf tmp_images_${res}
+            zip -r "Images_all_${res}_${RELEASE_VERSION}.zip" "tmp_images_${res}"
+            rm -rf "tmp_images_${res}"
           done
 
           # Create zip for all foil_mask images across languages
           mkdir -p tmp_images_foil_mask
           for lang in de en fr it; do
             if [ -d "Images/$lang/foil_mask" ]; then
-              cp -r Images/$lang/foil_mask tmp_images_foil_mask/$lang
+              mkdir -p "tmp_images_foil_mask/$lang"
+              cp -r "Images/$lang/foil_mask" "tmp_images_foil_mask/$lang/"
             fi
           done
-          zip -r Images_all_foil_mask_${RELEASE_VERSION}.zip tmp_images_foil_mask
-          rm -rf tmp_images_foil_mask
+          zip -r "Images_all_foil_mask_${RELEASE_VERSION}.zip" "tmp_images_foil_mask"
+          rm -rf "tmp_images_foil_mask"
 
           # Create zip for English low-res images and the database
-          zip -r EN_LowRes_DB_${RELEASE_VERSION}.zip Images/en/512 cards.db
+          zip -r "EN_LowRes_DB_${RELEASE_VERSION}.zip" Images/en/512 cards.db
 
           # Create zip for just the database
-          zip -r Database_${RELEASE_VERSION}.zip cards.db
+          zip -r "Database_${RELEASE_VERSION}.zip" cards.db
 
       - name: Create GitHub Release
         uses: actions/create-release@v1
@@ -140,45 +168,45 @@ jobs:
           prerelease: false
 
       - name: Upload Release Assets - Per-Language Images
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
           for lang in de en fr it; do
             echo "Uploading Images_${lang}_${RELEASE_VERSION}.zip"
-            gh release upload $RELEASE_VERSION Images_${lang}_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
+            gh release upload "$RELEASE_VERSION" "Images_${lang}_${RELEASE_VERSION}.zip" --repo beingwortmann/lorcana-api
           done
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Release Assets - Per-Size Images (2048 & 512)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
           for res in 2048 512; do
             echo "Uploading Images_all_${res}_${RELEASE_VERSION}.zip"
-            gh release upload $RELEASE_VERSION Images_all_${res}_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
+            gh release upload "$RELEASE_VERSION" "Images_all_${res}_${RELEASE_VERSION}.zip" --repo beingwortmann/lorcana-api
           done
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Release Asset - All Foil Masks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
           echo "Uploading Images_all_foil_mask_${RELEASE_VERSION}.zip"
-          gh release upload $RELEASE_VERSION Images_all_foil_mask_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          gh release upload "$RELEASE_VERSION" "Images_all_foil_mask_${RELEASE_VERSION}.zip" --repo beingwortmann/lorcana-api
 
       - name: Upload Release Asset - EN LowRes + DB
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
           echo "Uploading EN_LowRes_DB_${RELEASE_VERSION}.zip"
-          gh release upload $RELEASE_VERSION EN_LowRes_DB_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          gh release upload "$RELEASE_VERSION" "EN_LowRes_DB_${RELEASE_VERSION}.zip" --repo beingwortmann/lorcana-api
 
       - name: Upload Release Asset - Database Only
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           RELEASE_VERSION=${{ steps.create_artifacts.outputs.version }}
           echo "Uploading Database_${RELEASE_VERSION}.zip"
-          gh release upload $RELEASE_VERSION Database_${RELEASE_VERSION}.zip --repo beingwortmann/lorcana-api
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          gh release upload "$RELEASE_VERSION" "Database_${RELEASE_VERSION}.zip" --repo beingwortmann/lorcana-api
